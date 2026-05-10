@@ -10,11 +10,18 @@
     "transport": "Estadio BBVA is in Guadalupe, about 10 km east of Monterrey's city centre. Metro Line 2 runs to the General Anaya station, from which game-day shuttles connect to the stadium — about 35 min total from the Centro. Uber and DiDi are also reliable and very affordable. Driving is possible but traffic near the stadium on match days is significant."
   },
   "quick_facts": {
-    "matches_hosted": "Multiple matches including group stage and advanced rounds",
+    "matches_hosted": "4 matches — Group stage through Round of 32",
     "stadium": "Estadio BBVA",
-    "airport_codes": ["MTY"],
+    "airport_codes": [
+      "MTY"
+    ],
     "timezone": "Central Time (Mexico)",
-    "best_neighborhoods": ["San Pedro Garza García", "Barrio Antiguo / Centro", "Valle / Contry", "Colonia del Valle"],
+    "best_neighborhoods": [
+      "San Pedro Garza García",
+      "Barrio Antiguo / Centro",
+      "Valle / Contry",
+      "Colonia del Valle"
+    ],
     "fan_hub_status": "Fan activity expected at Macroplaza and Parque Fundidora; confirm local schedules"
   },
   "weather": {
@@ -42,9 +49,31 @@
   ],
   "match_schedule": [
     {
-      "date": "June–July 2026",
-      "round": "Group stage and advanced rounds",
-      "teams_or_placeholder": "Estadio BBVA hosts multiple matches including advanced rounds. Full schedule after group draw.",
+      "date": "June 14",
+      "local_time": "10:00 PM CT",
+      "round": "Group F",
+      "teams_or_placeholder": "Sweden vs Tunisia",
+      "stadium": "Estadio BBVA"
+    },
+    {
+      "date": "June 21",
+      "local_time": "1:00 AM CT",
+      "round": "Group F",
+      "teams_or_placeholder": "Tunisia vs Japan",
+      "stadium": "Estadio BBVA"
+    },
+    {
+      "date": "June 24",
+      "local_time": "9:00 PM CT",
+      "round": "Group A",
+      "teams_or_placeholder": "South Africa vs South Korea",
+      "stadium": "Estadio BBVA"
+    },
+    {
+      "date": "June 29",
+      "local_time": "9:00 PM CT",
+      "round": "Round of 32",
+      "teams_or_placeholder": "TBD (Match 76)",
       "stadium": "Estadio BBVA"
     }
   ],
@@ -243,20 +272,47 @@
   ],
   "soccer_culture": {
     "community_notes": "Monterrey has two fierce Liga MX rivals — Rayados (Club de Fútbol Monterrey) and Tigres UANL — that together dominate Mexican football in the modern era. Both clubs have passionate ultras and a tradition of European-quality stadium atmospheres. Estadio BBVA is regularly cited as one of the most impressive stadium experiences in Latin America. The mountain backdrop makes it genuinely breathtaking.",
-    "local_clubs": ["Club de Fútbol Monterrey / Rayados (Liga MX)", "Tigres UANL (Liga MX)"],
-    "supporter_groups": ["La Adicción (Rayados)", "Libres y Lokos (Tigres)"],
-    "historic_venues": ["Estadio BBVA (current, 2015–)", "Estadio Tecnológico (historic, Tigres home)"]
+    "local_clubs": [
+      "Club de Fútbol Monterrey / Rayados (Liga MX)",
+      "Tigres UANL (Liga MX)"
+    ],
+    "supporter_groups": [
+      "La Adicción (Rayados)",
+      "Libres y Lokos (Tigres)"
+    ],
+    "historic_venues": [
+      "Estadio BBVA (current, 2015–)",
+      "Estadio Tecnológico (historic, Tigres home)"
+    ]
   },
   "things_to_do": {
     "tourist_hits": [
-      { "name": "Cerro de la Silla (Saddle Mountain)", "notes": "Monterrey's iconic double-peaked mountain — visible from almost everywhere in the city. Hiking trails to the summit (moderate difficulty, about 3–4 hours). Extraordinary views of the urban valley below." },
-      { "name": "Parque Fundidora", "notes": "140 hectares of industrial-heritage park built around the ruins of Monterrey's former steel foundry. Multiple museums, bike paths, event spaces, and the MARCO (Museum of Contemporary Art) facility." },
-      { "name": "Grutas de García", "notes": "Impressive cave system 45 km northwest of Monterrey — an aerial cable car descends into the illuminated caverns. One of the best day trips from the city." }
+      {
+        "name": "Cerro de la Silla (Saddle Mountain)",
+        "notes": "Monterrey's iconic double-peaked mountain — visible from almost everywhere in the city. Hiking trails to the summit (moderate difficulty, about 3–4 hours). Extraordinary views of the urban valley below."
+      },
+      {
+        "name": "Parque Fundidora",
+        "notes": "140 hectares of industrial-heritage park built around the ruins of Monterrey's former steel foundry. Multiple museums, bike paths, event spaces, and the MARCO (Museum of Contemporary Art) facility."
+      },
+      {
+        "name": "Grutas de García",
+        "notes": "Impressive cave system 45 km northwest of Monterrey — an aerial cable car descends into the illuminated caverns. One of the best day trips from the city."
+      }
     ],
     "local_favorites": [
-      { "name": "Barrio Antiguo on a Saturday evening", "notes": "Monterrey's historic barrio comes alive on weekends — cantinas, street food, live music, and the best people-watching in the city." },
-      { "name": "Mercado Juárez", "notes": "The city's main traditional market — excellent burritos norteños (Monterrey-style flour tortilla burritos), regional cheeses, and craft goods." },
-      { "name": "Cola de Caballo waterfall", "notes": "60 km south — a spectacular 25-metre waterfall in the mountains. Popular day trip from Monterrey, accessible by car or tour." }
+      {
+        "name": "Barrio Antiguo on a Saturday evening",
+        "notes": "Monterrey's historic barrio comes alive on weekends — cantinas, street food, live music, and the best people-watching in the city."
+      },
+      {
+        "name": "Mercado Juárez",
+        "notes": "The city's main traditional market — excellent burritos norteños (Monterrey-style flour tortilla burritos), regional cheeses, and craft goods."
+      },
+      {
+        "name": "Cola de Caballo waterfall",
+        "notes": "60 km south — a spectacular 25-metre waterfall in the mountains. Popular day trip from Monterrey, accessible by car or tour."
+      }
     ]
   },
   "food_nightlife": {
@@ -267,25 +323,48 @@
       "Parque Fundidora area — growing food and culture scene"
     ],
     "recommendations": [
-      { "name": "Cabrito (roasted young goat)", "notes": "The signature dish of Nuevo León — served whole or in parts at traditional restaurants across the city. El Rey del Cabrito near the Centro is the classic choice." },
-      { "name": "Burritos Norteños", "notes": "Monterrey-style flour tortilla burritos with machacado (dried beef), egg, and salsa. A completely different tradition from Tex-Mex — try them at Mercado Juárez for breakfast." },
-      { "name": "Pangea Restaurant", "notes": "Monterrey's most celebrated fine-dining restaurant — contemporary Mexican cuisine in San Pedro. Book weeks ahead." }
+      {
+        "name": "Cabrito (roasted young goat)",
+        "notes": "The signature dish of Nuevo León — served whole or in parts at traditional restaurants across the city. El Rey del Cabrito near the Centro is the classic choice."
+      },
+      {
+        "name": "Burritos Norteños",
+        "notes": "Monterrey-style flour tortilla burritos with machacado (dried beef), egg, and salsa. A completely different tradition from Tex-Mex — try them at Mercado Juárez for breakfast."
+      },
+      {
+        "name": "Pangea Restaurant",
+        "notes": "Monterrey's most celebrated fine-dining restaurant — contemporary Mexican cuisine in San Pedro. Book weeks ahead."
+      }
     ]
   },
   "local_resources": {
     "tourism_links": [
-      { "name": "Monterrey Tourism", "url": "https://www.nl.gob.mx/turismo" }
+      {
+        "name": "Monterrey Tourism",
+        "url": "https://www.nl.gob.mx/turismo"
+      }
     ],
     "transit_apps": [
-      { "name": "Moovit (Monterrey transit)", "url": "https://moovitapp.com" },
-      { "name": "Uber Mexico", "url": "https://www.uber.com/mx/es/" }
+      {
+        "name": "Moovit (Monterrey transit)",
+        "url": "https://moovitapp.com"
+      },
+      {
+        "name": "Uber Mexico",
+        "url": "https://www.uber.com/mx/es/"
+      }
     ],
     "emergency_info": "Emergency: 911 (standard across Mexico). Tourist assistance: 078. Hospital Regional Universitario: (81) 8333-2323. Currency: Mexican Peso (MXN). USD widely accepted in San Pedro and tourist areas but pesos recommended for markets and cantinas."
   },
   "walk_bike": {
     "walkability_summary": "The Barrio Antiguo and Centro Histórico are walkable within their zones. San Pedro Garza García has walkable commercial strips. Parque Fundidora is excellent on foot. The broader city is very car-oriented.",
     "bikeability_summary": "EcoBici operates a bikeshare system in the Centro and nearby areas. Parque Fundidora has dedicated cycling paths.",
-    "best_walkable_areas": ["Barrio Antiguo", "Macroplaza area", "Parque Fundidora", "San Pedro commercial strips"],
+    "best_walkable_areas": [
+      "Barrio Antiguo",
+      "Macroplaza area",
+      "Parque Fundidora",
+      "San Pedro commercial strips"
+    ],
     "bike_share_notes": "EcoBici stations in the Centro, Barrio Antiguo, and near Parque Fundidora. Day passes available at kiosks."
   },
   "pickup_soccer": [

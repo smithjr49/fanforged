@@ -82,11 +82,21 @@
     }
   ],
   "quick_facts": {
-    "matches_hosted": "8 tournament matches in New Jersey",
+    "matches_hosted": "8 matches — Group stage and the Final (July 19)",
     "stadium": "MetLife Stadium",
-    "airport_codes": ["EWR", "JFK", "LGA"],
+    "airport_codes": [
+      "EWR",
+      "JFK",
+      "LGA"
+    ],
     "timezone": "Eastern Time",
-    "best_neighborhoods": ["Midtown Manhattan", "Chelsea", "Jersey City", "Hoboken", "Meadowlands"],
+    "best_neighborhoods": [
+      "Midtown Manhattan",
+      "Chelsea",
+      "Jersey City",
+      "Hoboken",
+      "Meadowlands"
+    ],
     "fan_hub_status": "Major fan events expected across New York and New Jersey"
   },
   "weather": {
@@ -133,9 +143,59 @@
   ],
   "match_schedule": [
     {
-      "date": "June-July 2026",
-      "round": "Group stage and knockout rounds",
-      "teams_or_placeholder": "New York / New Jersey is scheduled for multiple tournament matches, including the final.",
+      "date": "June 13",
+      "local_time": "6:00 PM ET",
+      "round": "Group C",
+      "teams_or_placeholder": "Brazil vs Morocco",
+      "stadium": "MetLife Stadium"
+    },
+    {
+      "date": "June 16",
+      "local_time": "3:00 PM ET",
+      "round": "Group I",
+      "teams_or_placeholder": "France vs Senegal",
+      "stadium": "MetLife Stadium"
+    },
+    {
+      "date": "June 22",
+      "local_time": "8:00 PM ET",
+      "round": "Group I",
+      "teams_or_placeholder": "Norway vs Senegal",
+      "stadium": "MetLife Stadium"
+    },
+    {
+      "date": "June 25",
+      "local_time": "4:00 PM ET",
+      "round": "Group E",
+      "teams_or_placeholder": "Ecuador vs Germany",
+      "stadium": "MetLife Stadium"
+    },
+    {
+      "date": "June 27",
+      "local_time": "5:00 PM ET",
+      "round": "Group L",
+      "teams_or_placeholder": "Panama vs England",
+      "stadium": "MetLife Stadium"
+    },
+    {
+      "date": "June 30",
+      "local_time": "5:00 PM ET",
+      "round": "Round of 32",
+      "teams_or_placeholder": "TBD (Match 78)",
+      "stadium": "MetLife Stadium"
+    },
+    {
+      "date": "July 5",
+      "local_time": "4:00 PM ET",
+      "round": "Round of 16",
+      "teams_or_placeholder": "TBD (Match 91)",
+      "stadium": "MetLife Stadium"
+    },
+    {
+      "date": "July 19",
+      "local_time": "3:00 PM ET",
+      "round": "FINAL",
+      "teams_or_placeholder": "🏆 World Cup Final",
       "stadium": "MetLife Stadium"
     }
   ],
@@ -232,9 +292,19 @@
     }
   ],
   "soccer_culture": {
-    "local_clubs": ["New York City FC", "New York Red Bulls", "NJ/NY Gotham FC"],
-    "supporter_groups": ["Supporter culture spans both New York City and New Jersey, with strong bar scenes around Manhattan, Brooklyn, Queens, Hoboken, and Jersey City"],
-    "historic_venues": ["Red Bull Arena", "Yankee Stadium soccer setups", "MetLife Stadium"],
+    "local_clubs": [
+      "New York City FC",
+      "New York Red Bulls",
+      "NJ/NY Gotham FC"
+    ],
+    "supporter_groups": [
+      "Supporter culture spans both New York City and New Jersey, with strong bar scenes around Manhattan, Brooklyn, Queens, Hoboken, and Jersey City"
+    ],
+    "historic_venues": [
+      "Red Bull Arena",
+      "Yankee Stadium soccer setups",
+      "MetLife Stadium"
+    ],
     "community_notes": "The market is really New York / New Jersey, not just New York City. International fan communities, club bars, and immigrant neighborhoods make it one of the strongest soccer regions in North America."
   },
   "things_to_do": {
@@ -268,7 +338,15 @@
     ]
   },
   "food_nightlife": {
-    "areas": ["Midtown", "Chelsea", "Lower East Side", "Williamsburg", "Astoria", "Hoboken", "Jersey City"],
+    "areas": [
+      "Midtown",
+      "Chelsea",
+      "Lower East Side",
+      "Williamsburg",
+      "Astoria",
+      "Hoboken",
+      "Jersey City"
+    ],
     "recommendations": [
       {
         "name": "Koreatown and Midtown sports bars",
@@ -320,7 +398,14 @@
   "walk_bike": {
     "walkability_summary": "Manhattan, Hoboken, Jersey City waterfront, Brooklyn, and Queens neighborhoods are highly walkable, but stadium travel still requires rail, bus, or car service.",
     "bikeability_summary": "Citi Bike is useful for short city trips, not for getting to MetLife Stadium.",
-    "best_walkable_areas": ["Midtown", "Chelsea", "West Village", "Williamsburg", "Hoboken", "Jersey City waterfront"],
+    "best_walkable_areas": [
+      "Midtown",
+      "Chelsea",
+      "West Village",
+      "Williamsburg",
+      "Hoboken",
+      "Jersey City waterfront"
+    ],
     "bike_share_notes": "Use Citi Bike for short neighborhood hops and waterfront rides; avoid relying on bikes for match-day stadium logistics."
   },
   "pickup_soccer": [

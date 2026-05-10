@@ -10,11 +10,19 @@
     "transport": "Take Metro Line 2 to Tasqueña station, then Tren Ligero (light rail) Line 1 directly to Estadio Azteca station — about 45 minutes from the city center. Metrobús Line 4 also serves the stadium. Uber and DiDi are practical for mid-distance trips but traffic around the stadium on match day is severe."
   },
   "quick_facts": {
-    "matches_hosted": "Tournament opener and multiple group stage matches",
+    "matches_hosted": "5 matches — Group stage through Round of 16",
     "stadium": "Estadio Azteca",
-    "airport_codes": ["MEX"],
+    "airport_codes": [
+      "MEX"
+    ],
     "timezone": "Central Time",
-    "best_neighborhoods": ["Polanco", "Condesa", "Roma Norte", "Centro Histórico", "Coyoacán"],
+    "best_neighborhoods": [
+      "Polanco",
+      "Condesa",
+      "Roma Norte",
+      "Centro Histórico",
+      "Coyoacán"
+    ],
     "altitude": "2,240 meters (7,349 feet) above sea level — acclimatize before exertion",
     "fan_hub_status": "Major fan hub expected at Zócalo; local watch parties throughout the city"
   },
@@ -54,15 +62,38 @@
   ],
   "match_schedule": [
     {
-      "date": "June 11, 2026",
-      "round": "Tournament Opener",
-      "teams_or_placeholder": "Tournament opening match at Estadio Azteca — the most historic stadium in World Cup history.",
+      "date": "June 11",
+      "local_time": "3:00 PM CT",
+      "round": "Group A",
+      "teams_or_placeholder": "Mexico vs South Africa",
       "stadium": "Estadio Azteca"
     },
     {
-      "date": "June–July 2026",
-      "round": "Group stage",
-      "teams_or_placeholder": "Additional group stage matches at Azteca. Full schedule after group draw.",
+      "date": "June 17",
+      "local_time": "9:00 PM CT",
+      "round": "Group K",
+      "teams_or_placeholder": "Uzbekistan vs Colombia",
+      "stadium": "Estadio Azteca"
+    },
+    {
+      "date": "June 24",
+      "local_time": "9:00 PM CT",
+      "round": "Group A",
+      "teams_or_placeholder": "Czechia vs Mexico",
+      "stadium": "Estadio Azteca"
+    },
+    {
+      "date": "June 30",
+      "local_time": "9:00 PM CT",
+      "round": "Round of 32",
+      "teams_or_placeholder": "TBD (Match 79)",
+      "stadium": "Estadio Azteca"
+    },
+    {
+      "date": "July 5",
+      "local_time": "8:00 PM CT",
+      "round": "Round of 16",
+      "teams_or_placeholder": "TBD (Match 92)",
       "stadium": "Estadio Azteca"
     }
   ],
@@ -286,23 +317,63 @@
   ],
   "soccer_culture": {
     "community_notes": "Mexico City is one of the most football-obsessed cities on Earth. The Azteca holds 87,000 and regularly fills for Liga MX fixtures. Club América and Cruz Azul both call the city home. The passion here on match days needs to be experienced.",
-    "local_clubs": ["Club América (Liga MX)", "Cruz Azul (Liga MX)", "Pumas UNAM (Liga MX)", "Atlas (Liga MX — technically Guadalajara but CDMX fans follow)"],
-    "supporter_groups": ["Monumental (Club América)", "Sangre Azul (Cruz Azul)", "La Rebel (Pumas UNAM)"],
-    "historic_venues": ["Estadio Azteca (1970 and 1986 World Cup Final)", "Estadio Olímpico Universitario (1968 Olympics)", "Estadio Azul (historic Cruz Azul home)"]
+    "local_clubs": [
+      "Club América (Liga MX)",
+      "Cruz Azul (Liga MX)",
+      "Pumas UNAM (Liga MX)",
+      "Atlas (Liga MX — technically Guadalajara but CDMX fans follow)"
+    ],
+    "supporter_groups": [
+      "Monumental (Club América)",
+      "Sangre Azul (Cruz Azul)",
+      "La Rebel (Pumas UNAM)"
+    ],
+    "historic_venues": [
+      "Estadio Azteca (1970 and 1986 World Cup Final)",
+      "Estadio Olímpico Universitario (1968 Olympics)",
+      "Estadio Azul (historic Cruz Azul home)"
+    ]
   },
   "things_to_do": {
     "tourist_hits": [
-      { "name": "Museo Nacional de Antropología", "notes": "World-class museum of Mesoamerican history in Chapultepec Park. Give it half a day minimum." },
-      { "name": "Teotihuacan Pyramids", "notes": "Day trip 50 km from the city. Climb the Pyramid of the Sun for views across the ancient city. Go early." },
-      { "name": "Frida Kahlo Museum (La Casa Azul)", "notes": "In Coyoacán neighbourhood. Book tickets in advance — sells out weeks ahead." },
-      { "name": "Zócalo and Metropolitan Cathedral", "notes": "The heart of the city. The cathedral and Templo Mayor ruins are free to visit." },
-      { "name": "Chapultepec Park", "notes": "Massive urban park with a castle, multiple museums, and the best strolling in the city." }
+      {
+        "name": "Museo Nacional de Antropología",
+        "notes": "World-class museum of Mesoamerican history in Chapultepec Park. Give it half a day minimum."
+      },
+      {
+        "name": "Teotihuacan Pyramids",
+        "notes": "Day trip 50 km from the city. Climb the Pyramid of the Sun for views across the ancient city. Go early."
+      },
+      {
+        "name": "Frida Kahlo Museum (La Casa Azul)",
+        "notes": "In Coyoacán neighbourhood. Book tickets in advance — sells out weeks ahead."
+      },
+      {
+        "name": "Zócalo and Metropolitan Cathedral",
+        "notes": "The heart of the city. The cathedral and Templo Mayor ruins are free to visit."
+      },
+      {
+        "name": "Chapultepec Park",
+        "notes": "Massive urban park with a castle, multiple museums, and the best strolling in the city."
+      }
     ],
     "local_favorites": [
-      { "name": "Mercado de Jamaica (flower market)", "notes": "Early morning flower market — extraordinary visual experience and incredibly cheap." },
-      { "name": "Lucha libre at Arena México", "notes": "Tuesdays and Fridays. Colourful, theatrical, loud, and unforgettable." },
-      { "name": "Tepito flea market", "notes": "The real CDMX — go with a local if possible. Cash only, leave valuables at the hotel." },
-      { "name": "Xochimilco canal boats (trajineras)", "notes": "Float through ancient canals in colourful boats with mariachi and food vendors. Very local." }
+      {
+        "name": "Mercado de Jamaica (flower market)",
+        "notes": "Early morning flower market — extraordinary visual experience and incredibly cheap."
+      },
+      {
+        "name": "Lucha libre at Arena México",
+        "notes": "Tuesdays and Fridays. Colourful, theatrical, loud, and unforgettable."
+      },
+      {
+        "name": "Tepito flea market",
+        "notes": "The real CDMX — go with a local if possible. Cash only, leave valuables at the hotel."
+      },
+      {
+        "name": "Xochimilco canal boats (trajineras)",
+        "notes": "Float through ancient canals in colourful boats with mariachi and food vendors. Very local."
+      }
     ]
   },
   "food_nightlife": {
@@ -313,25 +384,48 @@
       "Centro Histórico — traditional cantinas and market food stalls"
     ],
     "recommendations": [
-      { "name": "El Hidalguense", "notes": "Slow-cooked barbacoa in Roma — widely considered the best taco in the city. Cash only. Saturday and Sunday only." },
-      { "name": "Contramar", "notes": "Legendary seafood restaurant in Roma Norte. Book weeks ahead. The tuna tostadas are world-famous." },
-      { "name": "Quintonil", "notes": "One of the best restaurants in Latin America. Modern Mexican cuisine with an extraordinary tasting menu." }
+      {
+        "name": "El Hidalguense",
+        "notes": "Slow-cooked barbacoa in Roma — widely considered the best taco in the city. Cash only. Saturday and Sunday only."
+      },
+      {
+        "name": "Contramar",
+        "notes": "Legendary seafood restaurant in Roma Norte. Book weeks ahead. The tuna tostadas are world-famous."
+      },
+      {
+        "name": "Quintonil",
+        "notes": "One of the best restaurants in Latin America. Modern Mexican cuisine with an extraordinary tasting menu."
+      }
     ]
   },
   "local_resources": {
     "tourism_links": [
-      { "name": "Visit Mexico City", "url": "https://www.cdmx.gob.mx/vive-cdmx" }
+      {
+        "name": "Visit Mexico City",
+        "url": "https://www.cdmx.gob.mx/vive-cdmx"
+      }
     ],
     "transit_apps": [
-      { "name": "CDMX Metro oficial", "url": "https://metro.cdmx.gob.mx" },
-      { "name": "Moovit", "url": "https://moovitapp.com" }
+      {
+        "name": "CDMX Metro oficial",
+        "url": "https://metro.cdmx.gob.mx"
+      },
+      {
+        "name": "Moovit",
+        "url": "https://moovitapp.com"
+      }
     ],
     "emergency_info": "Emergency: 911. Non-emergency CDMX police: (55) 5208-9898. Hospital: Hospital Ángeles Polanco, (55) 5229-8999."
   },
   "walk_bike": {
     "walkability_summary": "Condesa, Roma Norte, and Polanco are excellent for walking — tree-shaded, flat, and vibrant. Ámsterdam Avenue in Condesa is a pedestrianized oval popular with joggers and cyclists.",
     "bikeability_summary": "ECOBICI bike share covers Condesa, Roma, Polanco, and the Centro with about 7,000 bikes at 480 stations.",
-    "best_walkable_areas": ["Condesa — Ámsterdam ring", "Roma Norte — Álvaro Obregón", "Polanco — Presidente Masaryk", "Coyoacán — around Jardín Centenario"],
+    "best_walkable_areas": [
+      "Condesa — Ámsterdam ring",
+      "Roma Norte — Álvaro Obregón",
+      "Polanco — Presidente Masaryk",
+      "Coyoacán — around Jardín Centenario"
+    ],
     "bike_share_notes": "ECOBICI day passes available in the ECOBICI app. First 45 minutes of each ride is free with a pass."
   },
   "pickup_soccer": [

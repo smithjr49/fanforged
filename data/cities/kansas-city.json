@@ -10,11 +10,18 @@
     "transport": "Arrowhead Stadium is about 13 km southeast of downtown Kansas City in the Truman Sports Complex. No direct public transit — the KC Streetcar does not reach the stadium. Game-day shuttles, rideshare, and driving are the primary options. Allow 30–45 min from Downtown on match days."
   },
   "quick_facts": {
-    "matches_hosted": "Multiple matches including group stage",
+    "matches_hosted": "6 matches — Group stage through Quarter-final",
     "stadium": "Arrowhead Stadium",
-    "airport_codes": ["MCI"],
+    "airport_codes": [
+      "MCI"
+    ],
     "timezone": "Central Time",
-    "best_neighborhoods": ["Downtown / River Market", "Power & Light District", "Crossroads Arts District", "Westport"],
+    "best_neighborhoods": [
+      "Downtown / River Market",
+      "Power & Light District",
+      "Crossroads Arts District",
+      "Westport"
+    ],
     "fan_hub_status": "Fan hub expected at Power & Light District; confirm local schedules"
   },
   "weather": {
@@ -41,9 +48,45 @@
   ],
   "match_schedule": [
     {
-      "date": "June–July 2026",
-      "round": "Group stage",
-      "teams_or_placeholder": "Arrowhead Stadium hosts group stage matches. Full schedule after group draw.",
+      "date": "June 16",
+      "local_time": "8:00 PM CT",
+      "round": "Group J",
+      "teams_or_placeholder": "Argentina vs Algeria",
+      "stadium": "Arrowhead Stadium"
+    },
+    {
+      "date": "June 20",
+      "local_time": "7:00 PM CT",
+      "round": "Group E",
+      "teams_or_placeholder": "Ecuador vs Curaçao",
+      "stadium": "Arrowhead Stadium"
+    },
+    {
+      "date": "June 25",
+      "local_time": "6:00 PM CT",
+      "round": "Group F",
+      "teams_or_placeholder": "Tunisia vs Netherlands",
+      "stadium": "Arrowhead Stadium"
+    },
+    {
+      "date": "June 27",
+      "local_time": "9:00 PM CT",
+      "round": "Group J",
+      "teams_or_placeholder": "Algeria vs Austria",
+      "stadium": "Arrowhead Stadium"
+    },
+    {
+      "date": "July 3",
+      "local_time": "8:30 PM CT",
+      "round": "Round of 32",
+      "teams_or_placeholder": "TBD (Match 88)",
+      "stadium": "Arrowhead Stadium"
+    },
+    {
+      "date": "July 11",
+      "local_time": "8:00 PM CT",
+      "round": "Quarter-final",
+      "teams_or_placeholder": "TBD (Quarter-final 4)",
       "stadium": "Arrowhead Stadium"
     }
   ],
@@ -213,20 +256,48 @@
   ],
   "soccer_culture": {
     "community_notes": "Kansas City punches above its weight in American soccer. Sporting KC has one of the most passionate MLS fanbases in the league, and the region's Mexican and Central American communities bring genuine football culture. The Children's Mercy Park atmosphere is one of the best in MLS.",
-    "local_clubs": ["Sporting Kansas City (MLS)", "KC Current (NWSL)"],
-    "supporter_groups": ["Cauldron (Sporting KC)", "Mass St. Ultras"],
-    "historic_venues": ["Arrowhead Stadium", "Children's Mercy Park (Sporting KC home)", "Memorial Stadium (historic)"]
+    "local_clubs": [
+      "Sporting Kansas City (MLS)",
+      "KC Current (NWSL)"
+    ],
+    "supporter_groups": [
+      "Cauldron (Sporting KC)",
+      "Mass St. Ultras"
+    ],
+    "historic_venues": [
+      "Arrowhead Stadium",
+      "Children's Mercy Park (Sporting KC home)",
+      "Memorial Stadium (historic)"
+    ]
   },
   "things_to_do": {
     "tourist_hits": [
-      { "name": "National WWI Museum and Memorial", "notes": "America's only official World War I museum — exceptional and moving. One of the best museums in the Midwest." },
-      { "name": "Nelson-Atkins Museum of Art", "notes": "World-class free art museum with a remarkable collection. Don't miss the shuttlecock sculptures outside." },
-      { "name": "Country Club Plaza", "notes": "Outdoor shopping and dining district with Spanish architecture. Beautiful in the evening." }
+      {
+        "name": "National WWI Museum and Memorial",
+        "notes": "America's only official World War I museum — exceptional and moving. One of the best museums in the Midwest."
+      },
+      {
+        "name": "Nelson-Atkins Museum of Art",
+        "notes": "World-class free art museum with a remarkable collection. Don't miss the shuttlecock sculptures outside."
+      },
+      {
+        "name": "Country Club Plaza",
+        "notes": "Outdoor shopping and dining district with Spanish architecture. Beautiful in the evening."
+      }
     ],
     "local_favorites": [
-      { "name": "Crossroads First Fridays", "notes": "Monthly arts walk in the Crossroads district — galleries open late, food vendors, and live music. Check if it coincides with your stay." },
-      { "name": "River Market Farmers Market", "notes": "Excellent Saturday market with local produce and the most diverse street food in KC." },
-      { "name": "Swope Park", "notes": "Large urban park with trails, a golf course, and the Kansas City Zoo." }
+      {
+        "name": "Crossroads First Fridays",
+        "notes": "Monthly arts walk in the Crossroads district — galleries open late, food vendors, and live music. Check if it coincides with your stay."
+      },
+      {
+        "name": "River Market Farmers Market",
+        "notes": "Excellent Saturday market with local produce and the most diverse street food in KC."
+      },
+      {
+        "name": "Swope Park",
+        "notes": "Large urban park with trails, a golf course, and the Kansas City Zoo."
+      }
     ]
   },
   "food_nightlife": {
@@ -237,25 +308,48 @@
       "Country Club Plaza — upscale dining and outdoor shopping"
     ],
     "recommendations": [
-      { "name": "Joe's Kansas City Bar-B-Que", "notes": "Widely considered the best BBQ in Kansas City, which makes it among the best in the world. Long lines at lunch — arrive early." },
-      { "name": "Q39", "notes": "Competition-quality BBQ in a restaurant setting. More accessible than Joe's for dinner service." },
-      { "name": "Corvino Supper Club", "notes": "One of KC's best fine-dining experiences in the Crossroads. Book ahead." }
+      {
+        "name": "Joe's Kansas City Bar-B-Que",
+        "notes": "Widely considered the best BBQ in Kansas City, which makes it among the best in the world. Long lines at lunch — arrive early."
+      },
+      {
+        "name": "Q39",
+        "notes": "Competition-quality BBQ in a restaurant setting. More accessible than Joe's for dinner service."
+      },
+      {
+        "name": "Corvino Supper Club",
+        "notes": "One of KC's best fine-dining experiences in the Crossroads. Book ahead."
+      }
     ]
   },
   "local_resources": {
     "tourism_links": [
-      { "name": "Visit KC", "url": "https://www.visitkc.com" }
+      {
+        "name": "Visit KC",
+        "url": "https://www.visitkc.com"
+      }
     ],
     "transit_apps": [
-      { "name": "KC Streetcar app", "url": "https://www.kcstreetcar.org" },
-      { "name": "Transit App", "url": "https://transitapp.com" }
+      {
+        "name": "KC Streetcar app",
+        "url": "https://www.kcstreetcar.org"
+      },
+      {
+        "name": "Transit App",
+        "url": "https://transitapp.com"
+      }
     ],
     "emergency_info": "Emergency: 911. Kansas City Police non-emergency: (816) 234-5111. Hospital: University of Kansas Hospital, (913) 588-5000."
   },
   "walk_bike": {
     "walkability_summary": "Downtown, Crossroads, Power & Light, and Westport are walkable within their zones. The City of Fountains has pleasant streetscapes, and the Streetcar corridor is pedestrian-friendly.",
     "bikeability_summary": "BCycle Kansas City bikeshare operates in Downtown and surrounding neighbourhoods. The Streetcar corridor has bike lanes.",
-    "best_walkable_areas": ["Power & Light District", "Crossroads Arts District", "River Market", "Country Club Plaza"],
+    "best_walkable_areas": [
+      "Power & Light District",
+      "Crossroads Arts District",
+      "River Market",
+      "Country Club Plaza"
+    ],
     "bike_share_notes": "BCycle KC has docks throughout Downtown, Crossroads, and Country Club Plaza. Day passes in the BCycle app."
   },
   "pickup_soccer": [

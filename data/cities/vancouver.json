@@ -10,11 +10,19 @@
     "transport": "BC Place sits in central Downtown Vancouver. The Stadium-Chinatown SkyTrain station (Expo and Millennium Lines) is a 2-minute walk from the main gate. SkyTrain runs extended hours on match nights — the most convenient stadium access in the tournament."
   },
   "quick_facts": {
-    "matches_hosted": "Multiple matches including advanced rounds",
+    "matches_hosted": "7 matches — Group stage through Round of 16",
     "stadium": "BC Place",
-    "airport_codes": ["YVR"],
+    "airport_codes": [
+      "YVR"
+    ],
     "timezone": "Pacific Time",
-    "best_neighborhoods": ["Downtown", "Yaletown", "Gastown", "Kitsilano", "False Creek"],
+    "best_neighborhoods": [
+      "Downtown",
+      "Yaletown",
+      "Gastown",
+      "Kitsilano",
+      "False Creek"
+    ],
     "fan_hub_status": "Major fan hub expected near BC Place and Plaza of Nations; confirm schedules"
   },
   "weather": {
@@ -43,9 +51,52 @@
   ],
   "match_schedule": [
     {
-      "date": "June–July 2026",
-      "round": "Group stage and advanced rounds",
-      "teams_or_placeholder": "BC Place hosts multiple tournament matches. Official schedule released after group draw.",
+      "date": "June 13",
+      "local_time": "9:00 PM PT",
+      "round": "Group D",
+      "teams_or_placeholder": "Australia vs Türkiye",
+      "stadium": "BC Place"
+    },
+    {
+      "date": "June 18",
+      "local_time": "3:00 PM PT",
+      "round": "Group B",
+      "teams_or_placeholder": "Canada vs Qatar",
+      "stadium": "BC Place"
+    },
+    {
+      "date": "June 21",
+      "local_time": "6:00 PM PT",
+      "round": "Group G",
+      "teams_or_placeholder": "New Zealand vs Egypt",
+      "stadium": "BC Place"
+    },
+    {
+      "date": "June 24",
+      "local_time": "12:00 PM PT",
+      "round": "Group B",
+      "teams_or_placeholder": "Switzerland vs Canada",
+      "stadium": "BC Place"
+    },
+    {
+      "date": "June 26",
+      "local_time": "8:00 PM PT",
+      "round": "Group G",
+      "teams_or_placeholder": "New Zealand vs Belgium",
+      "stadium": "BC Place"
+    },
+    {
+      "date": "July 2",
+      "local_time": "8:00 PM PT",
+      "round": "Round of 32",
+      "teams_or_placeholder": "TBD (Match 85)",
+      "stadium": "BC Place"
+    },
+    {
+      "date": "July 7",
+      "local_time": "1:00 PM PT",
+      "round": "Round of 16",
+      "teams_or_placeholder": "TBD (Match 96)",
       "stadium": "BC Place"
     }
   ],
@@ -259,23 +310,61 @@
   ],
   "soccer_culture": {
     "community_notes": "Vancouver has a genuine soccer culture built around the Whitecaps, the Canadian national teams, and a diverse diaspora from football-mad countries. BC Place hosted 1994 World Cup matches and the fanbase here is knowledgeable and passionate.",
-    "local_clubs": ["Vancouver Whitecaps FC (MLS)", "Vancouver Whitecaps FC 2 (MLS Next Pro)"],
-    "supporter_groups": ["Southsiders (Whitecaps)", "Curva Collective", "Rain City Brigade"],
-    "historic_venues": ["BC Place (1994 World Cup, 2010 Winter Olympics)", "Swangard Stadium (Burnaby)", "Thunderbird Stadium (UBC)"]
+    "local_clubs": [
+      "Vancouver Whitecaps FC (MLS)",
+      "Vancouver Whitecaps FC 2 (MLS Next Pro)"
+    ],
+    "supporter_groups": [
+      "Southsiders (Whitecaps)",
+      "Curva Collective",
+      "Rain City Brigade"
+    ],
+    "historic_venues": [
+      "BC Place (1994 World Cup, 2010 Winter Olympics)",
+      "Swangard Stadium (Burnaby)",
+      "Thunderbird Stadium (UBC)"
+    ]
   },
   "things_to_do": {
     "tourist_hits": [
-      { "name": "Stanley Park", "notes": "1,000-acre urban rainforest with the Seawall, beaches, and totem poles. An absolute must." },
-      { "name": "Capilano Suspension Bridge", "notes": "Popular tourist attraction in North Vancouver. Book tickets in advance — busy in summer." },
-      { "name": "Granville Island Public Market", "notes": "Best local food market in the city. Arrive hungry and leave with provisions." },
-      { "name": "Gastown Steam Clock", "notes": "Historic neighbourhood walk. Gastown has excellent bars and independent shops." },
-      { "name": "Grouse Mountain", "notes": "Gondola ride up for panoramic city views. Disc golf, hiking, and bear habitat." }
+      {
+        "name": "Stanley Park",
+        "notes": "1,000-acre urban rainforest with the Seawall, beaches, and totem poles. An absolute must."
+      },
+      {
+        "name": "Capilano Suspension Bridge",
+        "notes": "Popular tourist attraction in North Vancouver. Book tickets in advance — busy in summer."
+      },
+      {
+        "name": "Granville Island Public Market",
+        "notes": "Best local food market in the city. Arrive hungry and leave with provisions."
+      },
+      {
+        "name": "Gastown Steam Clock",
+        "notes": "Historic neighbourhood walk. Gastown has excellent bars and independent shops."
+      },
+      {
+        "name": "Grouse Mountain",
+        "notes": "Gondola ride up for panoramic city views. Disc golf, hiking, and bear habitat."
+      }
     ],
     "local_favorites": [
-      { "name": "Deep Cove Kayak", "notes": "Rent kayaks in this stunning North Vancouver inlet. 45-minute drive but worth every minute." },
-      { "name": "Commercial Drive", "notes": "Multicultural neighbourhood with the best Italian coffee, Ethiopian food, and independent bookshops." },
-      { "name": "Kitsilano Beach", "notes": "Local's beach — outdoor pool, beach volleyball, the Seawall. Pack a picnic." },
-      { "name": "UBC Museum of Anthropology", "notes": "World-class collection of Northwest Coast Indigenous art in a stunning building." }
+      {
+        "name": "Deep Cove Kayak",
+        "notes": "Rent kayaks in this stunning North Vancouver inlet. 45-minute drive but worth every minute."
+      },
+      {
+        "name": "Commercial Drive",
+        "notes": "Multicultural neighbourhood with the best Italian coffee, Ethiopian food, and independent bookshops."
+      },
+      {
+        "name": "Kitsilano Beach",
+        "notes": "Local's beach — outdoor pool, beach volleyball, the Seawall. Pack a picnic."
+      },
+      {
+        "name": "UBC Museum of Anthropology",
+        "notes": "World-class collection of Northwest Coast Indigenous art in a stunning building."
+      }
     ]
   },
   "food_nightlife": {
@@ -287,25 +376,48 @@
       "Chinatown — late-night dim sum and Asian food options"
     ],
     "recommendations": [
-      { "name": "Miku Restaurant", "notes": "Flame-seared aburi sushi in Coal Harbour with harbour views. Book weeks ahead." },
-      { "name": "Vij's Restaurant", "notes": "Legendary Indian cuisine on Cambie St. No reservations — lineup is part of the experience." },
-      { "name": "Hawksworth Restaurant", "notes": "Fine dining at the Rosewood Hotel Georgia. Best for a special match-night dinner." }
+      {
+        "name": "Miku Restaurant",
+        "notes": "Flame-seared aburi sushi in Coal Harbour with harbour views. Book weeks ahead."
+      },
+      {
+        "name": "Vij's Restaurant",
+        "notes": "Legendary Indian cuisine on Cambie St. No reservations — lineup is part of the experience."
+      },
+      {
+        "name": "Hawksworth Restaurant",
+        "notes": "Fine dining at the Rosewood Hotel Georgia. Best for a special match-night dinner."
+      }
     ]
   },
   "local_resources": {
     "tourism_links": [
-      { "name": "Tourism Vancouver", "url": "https://www.tourismvancouver.com" }
+      {
+        "name": "Tourism Vancouver",
+        "url": "https://www.tourismvancouver.com"
+      }
     ],
     "transit_apps": [
-      { "name": "TransLink Trip Planner", "url": "https://www.translink.ca" },
-      { "name": "Transit App", "url": "https://transitapp.com" }
+      {
+        "name": "TransLink Trip Planner",
+        "url": "https://www.translink.ca"
+      },
+      {
+        "name": "Transit App",
+        "url": "https://transitapp.com"
+      }
     ],
     "emergency_info": "Emergency: 911. Non-emergency Vancouver Police: (604) 717-3321. Hospital: Vancouver General, 899 W 12th Ave."
   },
   "walk_bike": {
     "walkability_summary": "Downtown Vancouver, Yaletown, and Gastown are excellent for walking — flat, well-lit, and compact. The Seawall is one of the world's great urban walks.",
     "bikeability_summary": "Vancouver has an excellent network of protected bike lanes. The Seawall is separated from traffic for its entire length.",
-    "best_walkable_areas": ["Downtown Core", "Yaletown to BC Place", "Gastown", "Seawall from Coal Harbour to Granville Island"],
+    "best_walkable_areas": [
+      "Downtown Core",
+      "Yaletown to BC Place",
+      "Gastown",
+      "Seawall from Coal Harbour to Granville Island"
+    ],
     "bike_share_notes": "Mobi Bike Share has docks throughout Downtown, Yaletown, Kitsilano, and the Seawall. Day passes available via the Mobi app or at kiosks."
   },
   "pickup_soccer": [

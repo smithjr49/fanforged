@@ -10,11 +10,18 @@
     "transport": "Gillette Stadium is in Foxborough, about 40 km south of Boston. On match days, MBTA Commuter Rail runs special game-day trains from South Station (about 55 min) — this is far and away the best option. Trains sell out for major events, so book in advance. Rideshare and driving are alternatives but traffic after matches is severe."
   },
   "quick_facts": {
-    "matches_hosted": "Multiple matches including group stage and advanced rounds",
+    "matches_hosted": "7 matches — Group stage through Quarter-final",
     "stadium": "Gillette Stadium (Foxborough, MA)",
-    "airport_codes": ["BOS"],
+    "airport_codes": [
+      "BOS"
+    ],
     "timezone": "Eastern Time",
-    "best_neighborhoods": ["Seaport / Waterfront", "Back Bay", "Fenway", "Downtown Crossing / Financial District"],
+    "best_neighborhoods": [
+      "Seaport / Waterfront",
+      "Back Bay",
+      "Fenway",
+      "Downtown Crossing / Financial District"
+    ],
     "fan_hub_status": "Fan hubs expected at City Hall Plaza and Faneuil Hall; confirm schedules"
   },
   "weather": {
@@ -43,9 +50,52 @@
   ],
   "match_schedule": [
     {
-      "date": "June–July 2026",
-      "round": "Group stage and advanced rounds",
-      "teams_or_placeholder": "Gillette Stadium hosts multiple matches. Full schedule after group draw.",
+      "date": "June 13",
+      "local_time": "6:00 PM ET",
+      "round": "Group C",
+      "teams_or_placeholder": "Haiti vs Scotland",
+      "stadium": "Gillette Stadium"
+    },
+    {
+      "date": "June 16",
+      "local_time": "6:00 PM ET",
+      "round": "Group I",
+      "teams_or_placeholder": "Iraq vs Norway",
+      "stadium": "Gillette Stadium"
+    },
+    {
+      "date": "June 19",
+      "local_time": "6:00 PM ET",
+      "round": "Group C",
+      "teams_or_placeholder": "Scotland vs Morocco",
+      "stadium": "Gillette Stadium"
+    },
+    {
+      "date": "June 23",
+      "local_time": "4:00 PM ET",
+      "round": "Group L",
+      "teams_or_placeholder": "England vs Ghana",
+      "stadium": "Gillette Stadium"
+    },
+    {
+      "date": "June 26",
+      "local_time": "3:00 PM ET",
+      "round": "Group I",
+      "teams_or_placeholder": "Norway vs France",
+      "stadium": "Gillette Stadium"
+    },
+    {
+      "date": "June 29",
+      "local_time": "4:30 PM ET",
+      "round": "Round of 32",
+      "teams_or_placeholder": "TBD (Match 75)",
+      "stadium": "Gillette Stadium"
+    },
+    {
+      "date": "July 9",
+      "local_time": "4:00 PM ET",
+      "round": "Quarter-final",
+      "teams_or_placeholder": "TBD (Quarter-final 1)",
       "stadium": "Gillette Stadium"
     }
   ],
@@ -249,21 +299,52 @@
   ],
   "soccer_culture": {
     "community_notes": "Boston has deep soccer roots through its large Irish, Portuguese, Brazilian, Haitian, and Latin American communities. New England Revolution has passionate supporters, and the region's universities add a young international fan base. This is not a casual soccer city.",
-    "local_clubs": ["New England Revolution (MLS)", "New England Revolution II"],
-    "supporter_groups": ["Midnight Riders (Revolution)", "Fort Revolution"],
-    "historic_venues": ["Gillette Stadium", "Harvard Stadium (historic soccer)", "White Stadium (recently renovated)"]
+    "local_clubs": [
+      "New England Revolution (MLS)",
+      "New England Revolution II"
+    ],
+    "supporter_groups": [
+      "Midnight Riders (Revolution)",
+      "Fort Revolution"
+    ],
+    "historic_venues": [
+      "Gillette Stadium",
+      "Harvard Stadium (historic soccer)",
+      "White Stadium (recently renovated)"
+    ]
   },
   "things_to_do": {
     "tourist_hits": [
-      { "name": "Freedom Trail", "notes": "3-km walk through 16 Revolutionary War sites — from Boston Common to Bunker Hill. Free to walk independently." },
-      { "name": "Fenway Park", "notes": "America's oldest baseball park — tour it even if the Red Sox aren't playing." },
-      { "name": "Harvard University", "notes": "Beautiful historic campus — walk through Harvard Yard and visit the natural history museums." },
-      { "name": "Museum of Fine Arts", "notes": "One of the USA's great art museums. Wednesday evenings are free after 4pm." }
+      {
+        "name": "Freedom Trail",
+        "notes": "3-km walk through 16 Revolutionary War sites — from Boston Common to Bunker Hill. Free to walk independently."
+      },
+      {
+        "name": "Fenway Park",
+        "notes": "America's oldest baseball park — tour it even if the Red Sox aren't playing."
+      },
+      {
+        "name": "Harvard University",
+        "notes": "Beautiful historic campus — walk through Harvard Yard and visit the natural history museums."
+      },
+      {
+        "name": "Museum of Fine Arts",
+        "notes": "One of the USA's great art museums. Wednesday evenings are free after 4pm."
+      }
     ],
     "local_favorites": [
-      { "name": "North End", "notes": "Boston's Italian neighbourhood — the best cannoli in the USA at Mike's Pastry or Modern Pastry. Heated debate. Try both." },
-      { "name": "Institute of Contemporary Art", "notes": "Stunning harbour-facing building with excellent rotating exhibitions." },
-      { "name": "Arnold Arboretum", "notes": "247-acre Harvard-affiliated garden — perfect for a morning run or quiet afternoon between matches." }
+      {
+        "name": "North End",
+        "notes": "Boston's Italian neighbourhood — the best cannoli in the USA at Mike's Pastry or Modern Pastry. Heated debate. Try both."
+      },
+      {
+        "name": "Institute of Contemporary Art",
+        "notes": "Stunning harbour-facing building with excellent rotating exhibitions."
+      },
+      {
+        "name": "Arnold Arboretum",
+        "notes": "247-acre Harvard-affiliated garden — perfect for a morning run or quiet afternoon between matches."
+      }
     ]
   },
   "food_nightlife": {
@@ -274,25 +355,48 @@
       "Cambridge — Harvard Square restaurants and independent bars"
     ],
     "recommendations": [
-      { "name": "Legal Sea Foods", "notes": "The iconic Boston seafood chain — clam chowder is mandatory. Multiple locations." },
-      { "name": "Menton", "notes": "Barbara Lynch's fine dining flagship in Fort Point. Book well ahead." },
-      { "name": "Toro", "notes": "Spanish-inspired tapas in the South End — one of Boston's most celebrated restaurants." }
+      {
+        "name": "Legal Sea Foods",
+        "notes": "The iconic Boston seafood chain — clam chowder is mandatory. Multiple locations."
+      },
+      {
+        "name": "Menton",
+        "notes": "Barbara Lynch's fine dining flagship in Fort Point. Book well ahead."
+      },
+      {
+        "name": "Toro",
+        "notes": "Spanish-inspired tapas in the South End — one of Boston's most celebrated restaurants."
+      }
     ]
   },
   "local_resources": {
     "tourism_links": [
-      { "name": "Boston USA Tourism", "url": "https://www.bostonusa.com" }
+      {
+        "name": "Boston USA Tourism",
+        "url": "https://www.bostonusa.com"
+      }
     ],
     "transit_apps": [
-      { "name": "MBTA app", "url": "https://www.mbta.com" },
-      { "name": "Transit App", "url": "https://transitapp.com" }
+      {
+        "name": "MBTA app",
+        "url": "https://www.mbta.com"
+      },
+      {
+        "name": "Transit App",
+        "url": "https://transitapp.com"
+      }
     ],
     "emergency_info": "Emergency: 911. Non-emergency Boston Police: (617) 343-4633. Hospital: Massachusetts General Hospital, (617) 726-2000."
   },
   "walk_bike": {
     "walkability_summary": "Downtown Boston, Back Bay, the North End, and Beacon Hill are exceptionally walkable — compact and mostly flat. The Harborwalk and Charles River Esplanade are scenic walking routes.",
     "bikeability_summary": "Bluebikes (bikeshare) operates throughout Boston and Cambridge. The Charles River path is ideal for cycling.",
-    "best_walkable_areas": ["Freedom Trail corridor", "Faneuil Hall / Waterfront", "Back Bay / Newbury St", "Seaport District"],
+    "best_walkable_areas": [
+      "Freedom Trail corridor",
+      "Faneuil Hall / Waterfront",
+      "Back Bay / Newbury St",
+      "Seaport District"
+    ],
     "bike_share_notes": "Bluebikes has docks throughout Boston, Cambridge, and Somerville. Day passes available at any dock station or in the Bluebikes app."
   },
   "pickup_soccer": [

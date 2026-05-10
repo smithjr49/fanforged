@@ -10,11 +10,18 @@
     "transport": "Estadio Akron is in Zapopan, about 17 km northwest of Guadalajara's historic centre. The Tren Ligero (light rail) Line 1 runs to Periférico Norte station, where game-day shuttles connect to the stadium — total journey about 40–50 min from the centre. Uber is also practical: 30–40 min from the city centre depending on match-day traffic."
   },
   "quick_facts": {
-    "matches_hosted": "Multiple matches including group stage",
+    "matches_hosted": "4 group stage matches",
     "stadium": "Estadio Akron",
-    "airport_codes": ["GDL"],
+    "airport_codes": [
+      "GDL"
+    ],
     "timezone": "Central Time (Mexico)",
-    "best_neighborhoods": ["Chapultepec / Americana", "Providencia", "Tlaquepaque", "Centro Histórico"],
+    "best_neighborhoods": [
+      "Chapultepec / Americana",
+      "Providencia",
+      "Tlaquepaque",
+      "Centro Histórico"
+    ],
     "fan_hub_status": "Fan activity expected at Plaza de los Mariachis and Glorieta Minerva; confirm local schedules"
   },
   "weather": {
@@ -42,9 +49,31 @@
   ],
   "match_schedule": [
     {
-      "date": "June–July 2026",
-      "round": "Group stage",
-      "teams_or_placeholder": "Estadio Akron hosts group stage matches. Full schedule after group draw.",
+      "date": "June 11",
+      "local_time": "10:00 PM CT",
+      "round": "Group A",
+      "teams_or_placeholder": "South Korea vs Czechia",
+      "stadium": "Estadio Akron"
+    },
+    {
+      "date": "June 18",
+      "local_time": "9:00 PM CT",
+      "round": "Group A",
+      "teams_or_placeholder": "Mexico vs South Korea",
+      "stadium": "Estadio Akron"
+    },
+    {
+      "date": "June 23",
+      "local_time": "10:00 PM CT",
+      "round": "Group K",
+      "teams_or_placeholder": "Colombia vs DR Congo",
+      "stadium": "Estadio Akron"
+    },
+    {
+      "date": "June 26",
+      "local_time": "7:00 PM CT",
+      "round": "Group H",
+      "teams_or_placeholder": "Uruguay vs Spain",
       "stadium": "Estadio Akron"
     }
   ],
@@ -251,20 +280,47 @@
   ],
   "soccer_culture": {
     "community_notes": "Guadalajara is one of the most football-mad cities in Mexico. Club Deportivo Guadalajara — Chivas — is one of the most popular clubs in the entire country, with a devoted fanbase known for its unique Mexican identity (the club only signs Mexican players). Rival club Atlas is equally beloved locally, with a passionate ultras culture. Expect the crowd at Akron to be among the most knowledgeable in the tournament.",
-    "local_clubs": ["Club Deportivo Guadalajara / Chivas (Liga MX)", "Club Atlas (Liga MX)"],
-    "supporter_groups": ["La Irreverente (Chivas)", "Barra 51 (Atlas)"],
-    "historic_venues": ["Estadio Akron (2010–present)", "Estadio Jalisco (historic — still used by Atlas)"]
+    "local_clubs": [
+      "Club Deportivo Guadalajara / Chivas (Liga MX)",
+      "Club Atlas (Liga MX)"
+    ],
+    "supporter_groups": [
+      "La Irreverente (Chivas)",
+      "Barra 51 (Atlas)"
+    ],
+    "historic_venues": [
+      "Estadio Akron (2010–present)",
+      "Estadio Jalisco (historic — still used by Atlas)"
+    ]
   },
   "things_to_do": {
     "tourist_hits": [
-      { "name": "Hospicio Cabañas (Instituto Cultural Cabañas)", "notes": "UNESCO World Heritage Site — a colonial hospital-turned-arts centre with José Clemente Orozco's monumental murals in the main dome. Among the greatest muralist works in existence. Free entry on Tuesdays." },
-      { "name": "Estadio Jalisco", "notes": "The historic home of Chivas and Atlas — hosted 1970 and 1986 World Cup matches. Still in use today, deeply atmospheric as a contrast to Akron's modernity." },
-      { "name": "Tlaquepaque Arts District", "notes": "15 min by Uber — a beautifully preserved colonial artisan town with tequila, mariachi, galleries, and some of the best regional handicrafts in Jalisco." }
+      {
+        "name": "Hospicio Cabañas (Instituto Cultural Cabañas)",
+        "notes": "UNESCO World Heritage Site — a colonial hospital-turned-arts centre with José Clemente Orozco's monumental murals in the main dome. Among the greatest muralist works in existence. Free entry on Tuesdays."
+      },
+      {
+        "name": "Estadio Jalisco",
+        "notes": "The historic home of Chivas and Atlas — hosted 1970 and 1986 World Cup matches. Still in use today, deeply atmospheric as a contrast to Akron's modernity."
+      },
+      {
+        "name": "Tlaquepaque Arts District",
+        "notes": "15 min by Uber — a beautifully preserved colonial artisan town with tequila, mariachi, galleries, and some of the best regional handicrafts in Jalisco."
+      }
     ],
     "local_favorites": [
-      { "name": "Mercado San Juan de Dios", "notes": "The largest covered market in Latin America — four floors of food, leather goods, spices, and one of the best taco and birria breakfast scenes in Guadalajara." },
-      { "name": "Tequila, Jalisco (day trip)", "notes": "The town that gave tequila its name, 60 km northwest of Guadalajara. Tour the agave fields and distilleries — Cuervo, Herradura, and dozens of boutique producers. Essential Jalisco experience." },
-      { "name": "Lake Chapala and Ajijic", "notes": "45 min south by Uber — Mexico's largest lake surrounded by colonial villages. Ajijic has excellent lakeside seafood restaurants and a calm, beautiful pace." }
+      {
+        "name": "Mercado San Juan de Dios",
+        "notes": "The largest covered market in Latin America — four floors of food, leather goods, spices, and one of the best taco and birria breakfast scenes in Guadalajara."
+      },
+      {
+        "name": "Tequila, Jalisco (day trip)",
+        "notes": "The town that gave tequila its name, 60 km northwest of Guadalajara. Tour the agave fields and distilleries — Cuervo, Herradura, and dozens of boutique producers. Essential Jalisco experience."
+      },
+      {
+        "name": "Lake Chapala and Ajijic",
+        "notes": "45 min south by Uber — Mexico's largest lake surrounded by colonial villages. Ajijic has excellent lakeside seafood restaurants and a calm, beautiful pace."
+      }
     ]
   },
   "food_nightlife": {
@@ -275,25 +331,48 @@
       "Providencia — upscale independent restaurants and wine bars"
     ],
     "recommendations": [
-      { "name": "Tortas Ahogadas El Guero", "notes": "The definitive torta ahogada — Jalisco's signature drowned sandwich (pork, birote bread, spicy tomato sauce). Queue at lunch. Worth it." },
-      { "name": "Birrería Las 9 Esquinas", "notes": "Famous for birria (Jalisco's slow-cooked meat stew) in a rustic setting. One of the quintessential Guadalajara culinary experiences." },
-      { "name": "Alcalde Restaurant", "notes": "One of Guadalajara's best contemporary Mexican restaurants. Book well ahead." }
+      {
+        "name": "Tortas Ahogadas El Guero",
+        "notes": "The definitive torta ahogada — Jalisco's signature drowned sandwich (pork, birote bread, spicy tomato sauce). Queue at lunch. Worth it."
+      },
+      {
+        "name": "Birrería Las 9 Esquinas",
+        "notes": "Famous for birria (Jalisco's slow-cooked meat stew) in a rustic setting. One of the quintessential Guadalajara culinary experiences."
+      },
+      {
+        "name": "Alcalde Restaurant",
+        "notes": "One of Guadalajara's best contemporary Mexican restaurants. Book well ahead."
+      }
     ]
   },
   "local_resources": {
     "tourism_links": [
-      { "name": "Guadalajara Tourism", "url": "https://www.guadalajara.gob.mx/turismo" }
+      {
+        "name": "Guadalajara Tourism",
+        "url": "https://www.guadalajara.gob.mx/turismo"
+      }
     ],
     "transit_apps": [
-      { "name": "Moovit (Guadalajara transit)", "url": "https://moovitapp.com" },
-      { "name": "Uber Mexico", "url": "https://www.uber.com/mx/es/" }
+      {
+        "name": "Moovit (Guadalajara transit)",
+        "url": "https://moovitapp.com"
+      },
+      {
+        "name": "Uber Mexico",
+        "url": "https://www.uber.com/mx/es/"
+      }
     ],
     "emergency_info": "Emergency: 911 (standard across Mexico since 2017). Tourist assistance: 078. Hospital Civil de Guadalajara: (33) 3614-7000. Currency: Mexican Peso (MXN). USD accepted at many tourist venues but pesos needed for street food and cantinas."
   },
   "walk_bike": {
     "walkability_summary": "The Centro Histórico and Chapultepec corridor are highly walkable. Tlaquepaque is a walker's town. The city has invested in pedestrian infrastructure in its core neighbourhoods.",
     "bikeability_summary": "MiBici bikeshare operates throughout the centre with hundreds of docking stations. Guadalajara has growing protected bike lanes — particularly on Av. Chapultepec and connecting streets.",
-    "best_walkable_areas": ["Centro Histórico", "Av. Chapultepec", "Tlaquepaque village centre", "Providencia"],
+    "best_walkable_areas": [
+      "Centro Histórico",
+      "Av. Chapultepec",
+      "Tlaquepaque village centre",
+      "Providencia"
+    ],
     "bike_share_notes": "MiBici docks throughout the centre, Americana, and Providencia. Day passes available at kiosks or in the MiBici app. Very affordable."
   },
   "pickup_soccer": [

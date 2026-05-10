@@ -10,11 +10,19 @@
     "transport": "Levi's Stadium is in Santa Clara, south of San Francisco. From SF: take Caltrain from 4th & King Station to Santa Clara, then a short walk or VTA shuttle to the stadium (about 60–70 min total). From San Jose: Caltrain or VTA light rail to Great America station — 10–15 min. BART connects to Caltrain at Millbrae for transfers."
   },
   "quick_facts": {
-    "matches_hosted": "Multiple matches including group stage and advanced rounds",
+    "matches_hosted": "6 matches — Group stage through Round of 32",
     "stadium": "Levi's Stadium (Santa Clara)",
-    "airport_codes": ["SFO", "SJC", "OAK"],
+    "airport_codes": [
+      "SFO",
+      "SJC",
+      "OAK"
+    ],
     "timezone": "Pacific Time",
-    "best_neighborhoods": ["San Francisco (Union Square / SoMa)", "San Jose Downtown", "Santa Clara / Sunnyvale (stadium area)"],
+    "best_neighborhoods": [
+      "San Francisco (Union Square / SoMa)",
+      "San Jose Downtown",
+      "Santa Clara / Sunnyvale (stadium area)"
+    ],
     "fan_hub_status": "Fan hubs expected at SF Embarcadero and San Jose downtown; confirm schedules"
   },
   "weather": {
@@ -62,9 +70,45 @@
   ],
   "match_schedule": [
     {
-      "date": "June–July 2026",
-      "round": "Group stage and advanced rounds",
-      "teams_or_placeholder": "Levi's Stadium hosts multiple matches. Full schedule after group draw.",
+      "date": "June 13",
+      "local_time": "12:00 PM PT",
+      "round": "Group B",
+      "teams_or_placeholder": "Qatar vs Switzerland",
+      "stadium": "Levi's Stadium"
+    },
+    {
+      "date": "June 16",
+      "local_time": "9:00 PM PT",
+      "round": "Group J",
+      "teams_or_placeholder": "Austria vs Jordan",
+      "stadium": "Levi's Stadium"
+    },
+    {
+      "date": "June 19",
+      "local_time": "8:00 PM PT",
+      "round": "Group D",
+      "teams_or_placeholder": "Türkiye vs Paraguay",
+      "stadium": "Levi's Stadium"
+    },
+    {
+      "date": "June 22",
+      "local_time": "8:00 PM PT",
+      "round": "Group J",
+      "teams_or_placeholder": "Jordan vs Algeria",
+      "stadium": "Levi's Stadium"
+    },
+    {
+      "date": "June 25",
+      "local_time": "7:00 PM PT",
+      "round": "Group D",
+      "teams_or_placeholder": "Paraguay vs Australia",
+      "stadium": "Levi's Stadium"
+    },
+    {
+      "date": "July 1",
+      "local_time": "5:00 PM PT",
+      "round": "Round of 32",
+      "teams_or_placeholder": "TBD (Match 82)",
       "stadium": "Levi's Stadium"
     }
   ],
@@ -264,21 +308,52 @@
   ],
   "soccer_culture": {
     "community_notes": "The Bay Area has a diverse and passionate soccer community built from its extraordinary immigrant population. San Jose Earthquakes are one of MLS's founding clubs, and the region's tech industry attracts young international fans from soccer-mad countries around the world.",
-    "local_clubs": ["San Jose Earthquakes (MLS)", "San Jose FC (USL)"],
-    "supporter_groups": ["Ultras San Jose", "Casbah (San Jose Earthquakes)"],
-    "historic_venues": ["Levi's Stadium", "PayPal Park (San Jose Earthquakes home)", "Spartan Stadium (historic)"]
+    "local_clubs": [
+      "San Jose Earthquakes (MLS)",
+      "San Jose FC (USL)"
+    ],
+    "supporter_groups": [
+      "Ultras San Jose",
+      "Casbah (San Jose Earthquakes)"
+    ],
+    "historic_venues": [
+      "Levi's Stadium",
+      "PayPal Park (San Jose Earthquakes home)",
+      "Spartan Stadium (historic)"
+    ]
   },
   "things_to_do": {
     "tourist_hits": [
-      { "name": "Golden Gate Bridge", "notes": "Walk or bike across the bridge — reserve plenty of time and layers. Bus from Downtown SF." },
-      { "name": "Alcatraz Island", "notes": "Book ferry tickets weeks in advance. The audio tour is excellent." },
-      { "name": "Golden Gate Park", "notes": "1,000+ acres with the de Young Museum, Japanese Tea Garden, and cycling paths." },
-      { "name": "Fisherman's Wharf", "notes": "Touristy but fun — clam chowder in a bread bowl, sea lions at Pier 39." }
+      {
+        "name": "Golden Gate Bridge",
+        "notes": "Walk or bike across the bridge — reserve plenty of time and layers. Bus from Downtown SF."
+      },
+      {
+        "name": "Alcatraz Island",
+        "notes": "Book ferry tickets weeks in advance. The audio tour is excellent."
+      },
+      {
+        "name": "Golden Gate Park",
+        "notes": "1,000+ acres with the de Young Museum, Japanese Tea Garden, and cycling paths."
+      },
+      {
+        "name": "Fisherman's Wharf",
+        "notes": "Touristy but fun — clam chowder in a bread bowl, sea lions at Pier 39."
+      }
     ],
     "local_favorites": [
-      { "name": "Mission Dolores Park", "notes": "Best people-watching in SF — weekend afternoons are a scene unto themselves." },
-      { "name": "Ferry Building Marketplace", "notes": "Excellent Saturday farmer's market and permanent artisan food stalls on the Embarcadero." },
-      { "name": "Bernal Heights Park", "notes": "Quiet hilltop with the best panoramic SF views — less crowded than Twin Peaks." }
+      {
+        "name": "Mission Dolores Park",
+        "notes": "Best people-watching in SF — weekend afternoons are a scene unto themselves."
+      },
+      {
+        "name": "Ferry Building Marketplace",
+        "notes": "Excellent Saturday farmer's market and permanent artisan food stalls on the Embarcadero."
+      },
+      {
+        "name": "Bernal Heights Park",
+        "notes": "Quiet hilltop with the best panoramic SF views — less crowded than Twin Peaks."
+      }
     ]
   },
   "food_nightlife": {
@@ -289,26 +364,52 @@
       "Santana Row (San Jose) — upscale outdoor dining and bars"
     ],
     "recommendations": [
-      { "name": "La Taqueria (Mission)", "notes": "Consistently rated best burrito in SF. Cash only, long line, worth every minute." },
-      { "name": "Foreign Cinema", "notes": "Beautiful Mission restaurant with outdoor movies. Book in advance." },
-      { "name": "Bix (San Francisco)", "notes": "Classic supper-club atmosphere in Jackson Square. Excellent for a pre-match evening." }
+      {
+        "name": "La Taqueria (Mission)",
+        "notes": "Consistently rated best burrito in SF. Cash only, long line, worth every minute."
+      },
+      {
+        "name": "Foreign Cinema",
+        "notes": "Beautiful Mission restaurant with outdoor movies. Book in advance."
+      },
+      {
+        "name": "Bix (San Francisco)",
+        "notes": "Classic supper-club atmosphere in Jackson Square. Excellent for a pre-match evening."
+      }
     ]
   },
   "local_resources": {
     "tourism_links": [
-      { "name": "San Francisco Travel", "url": "https://www.sftravel.com" },
-      { "name": "San Jose Tourism", "url": "https://www.sanjose.org" }
+      {
+        "name": "San Francisco Travel",
+        "url": "https://www.sftravel.com"
+      },
+      {
+        "name": "San Jose Tourism",
+        "url": "https://www.sanjose.org"
+      }
     ],
     "transit_apps": [
-      { "name": "Clipper Card", "url": "https://www.clippercard.com" },
-      { "name": "Transit App", "url": "https://transitapp.com" }
+      {
+        "name": "Clipper Card",
+        "url": "https://www.clippercard.com"
+      },
+      {
+        "name": "Transit App",
+        "url": "https://transitapp.com"
+      }
     ],
     "emergency_info": "Emergency: 911. SF Police non-emergency: (415) 553-0123. Hospital: UCSF Medical Center, (415) 476-1000."
   },
   "walk_bike": {
     "walkability_summary": "San Francisco is highly walkable in the Embarcadero, Union Square, and Mission neighbourhoods — with the caveat that the hills are real. Flat routes include the waterfront and Market Street corridor.",
     "bikeability_summary": "Bay Wheels (bikeshare) operates across SF. The Embarcadero and Golden Gate Park paths are excellent. Avoid the steep hills on a standard bike.",
-    "best_walkable_areas": ["Embarcadero / Ferry Building", "Union Square corridor", "Mission / Valencia St", "North Beach / Columbus Ave"],
+    "best_walkable_areas": [
+      "Embarcadero / Ferry Building",
+      "Union Square corridor",
+      "Mission / Valencia St",
+      "North Beach / Columbus Ave"
+    ],
     "bike_share_notes": "Bay Wheels bike share has electric and regular bikes across San Francisco. Electric bikes strongly recommended for the hills. Day passes in the Lyft app."
   },
   "pickup_soccer": [

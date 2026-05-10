@@ -10,11 +10,18 @@
     "transport": "Mercedes-Benz Stadium sits in downtown Atlanta with excellent MARTA access. Take MARTA Red or Gold Line to Five Points, transfer to the Green or Blue Line to Vine City station — a short walk to the stadium. From Hartsfield-Jackson Airport, MARTA Gold Line reaches Downtown in about 20 minutes."
   },
   "quick_facts": {
-    "matches_hosted": "Multiple matches including group stage and advanced rounds",
+    "matches_hosted": "8 matches — Group stage through Semi-final",
     "stadium": "Mercedes-Benz Stadium",
-    "airport_codes": ["ATL"],
+    "airport_codes": [
+      "ATL"
+    ],
     "timezone": "Eastern Time",
-    "best_neighborhoods": ["Downtown", "Midtown", "Buckhead", "Old Fourth Ward / Inman Park"],
+    "best_neighborhoods": [
+      "Downtown",
+      "Midtown",
+      "Buckhead",
+      "Old Fourth Ward / Inman Park"
+    ],
     "fan_hub_status": "Major fan hub expected at Centennial Olympic Park adjacent to the stadium"
   },
   "weather": {
@@ -43,9 +50,59 @@
   ],
   "match_schedule": [
     {
-      "date": "June–July 2026",
-      "round": "Group stage and advanced rounds",
-      "teams_or_placeholder": "Mercedes-Benz Stadium hosts multiple matches. Full schedule after group draw.",
+      "date": "June 15",
+      "local_time": "12:00 PM ET",
+      "round": "Group H",
+      "teams_or_placeholder": "Spain vs Cape Verde",
+      "stadium": "Mercedes-Benz Stadium"
+    },
+    {
+      "date": "June 18",
+      "local_time": "12:00 PM ET",
+      "round": "Group A",
+      "teams_or_placeholder": "Czechia vs South Africa",
+      "stadium": "Mercedes-Benz Stadium"
+    },
+    {
+      "date": "June 21",
+      "local_time": "12:00 PM ET",
+      "round": "Group H",
+      "teams_or_placeholder": "Spain vs Saudi Arabia",
+      "stadium": "Mercedes-Benz Stadium"
+    },
+    {
+      "date": "June 24",
+      "local_time": "6:00 PM ET",
+      "round": "Group C",
+      "teams_or_placeholder": "Morocco vs Haiti",
+      "stadium": "Mercedes-Benz Stadium"
+    },
+    {
+      "date": "June 27",
+      "local_time": "7:30 PM ET",
+      "round": "Group K",
+      "teams_or_placeholder": "DR Congo vs Uzbekistan",
+      "stadium": "Mercedes-Benz Stadium"
+    },
+    {
+      "date": "July 1",
+      "local_time": "12:00 PM ET",
+      "round": "Round of 32",
+      "teams_or_placeholder": "TBD (Match 80)",
+      "stadium": "Mercedes-Benz Stadium"
+    },
+    {
+      "date": "July 7",
+      "local_time": "12:00 PM ET",
+      "round": "Round of 16",
+      "teams_or_placeholder": "TBD (Match 95)",
+      "stadium": "Mercedes-Benz Stadium"
+    },
+    {
+      "date": "July 15",
+      "local_time": "3:00 PM ET",
+      "round": "Semi-final",
+      "teams_or_placeholder": "TBD (Semi-final 2)",
       "stadium": "Mercedes-Benz Stadium"
     }
   ],
@@ -235,21 +292,51 @@
   ],
   "soccer_culture": {
     "community_notes": "Atlanta United FC joined MLS in 2017 and immediately became one of the most successful clubs in league history, setting MLS attendance records and winning the 2018 MLS Cup. The Five Stripes fanbase is passionate, young, and one of the loudest in the league.",
-    "local_clubs": ["Atlanta United FC (MLS)"],
-    "supporter_groups": ["Resurgence (Atlanta United)", "Terminus Legion", "Faction"],
-    "historic_venues": ["Mercedes-Benz Stadium (Atlanta United, Atlanta Falcons)", "Bobby Dodd Stadium (Georgia Tech)"]
+    "local_clubs": [
+      "Atlanta United FC (MLS)"
+    ],
+    "supporter_groups": [
+      "Resurgence (Atlanta United)",
+      "Terminus Legion",
+      "Faction"
+    ],
+    "historic_venues": [
+      "Mercedes-Benz Stadium (Atlanta United, Atlanta Falcons)",
+      "Bobby Dodd Stadium (Georgia Tech)"
+    ]
   },
   "things_to_do": {
     "tourist_hits": [
-      { "name": "Georgia Aquarium", "notes": "World's largest aquarium — right next to Centennial Olympic Park. Book tickets in advance." },
-      { "name": "National Center for Civil and Human Rights", "notes": "Powerful museum on civil rights history — one of the best museums in the South." },
-      { "name": "World of Coca-Cola", "notes": "Unique Atlanta attraction — the history and global reach of the world's most recognized brand." },
-      { "name": "Martin Luther King Jr. Historic Site", "notes": "Birth home and church of MLK Jr. in Sweet Auburn neighbourhood. Free admission." }
+      {
+        "name": "Georgia Aquarium",
+        "notes": "World's largest aquarium — right next to Centennial Olympic Park. Book tickets in advance."
+      },
+      {
+        "name": "National Center for Civil and Human Rights",
+        "notes": "Powerful museum on civil rights history — one of the best museums in the South."
+      },
+      {
+        "name": "World of Coca-Cola",
+        "notes": "Unique Atlanta attraction — the history and global reach of the world's most recognized brand."
+      },
+      {
+        "name": "Martin Luther King Jr. Historic Site",
+        "notes": "Birth home and church of MLK Jr. in Sweet Auburn neighbourhood. Free admission."
+      }
     ],
     "local_favorites": [
-      { "name": "Ponce City Market", "notes": "Converted Sears building in Old Fourth Ward — food hall, shops, and rooftop games." },
-      { "name": "Atlanta BeltLine", "notes": "22-mile trail loop connecting neighborhoods. Rent a bike or e-scooter for a full loop." },
-      { "name": "Sweet Auburn Curb Market", "notes": "Historic indoor market with diverse food vendors — the oldest continuously operating market in the South." }
+      {
+        "name": "Ponce City Market",
+        "notes": "Converted Sears building in Old Fourth Ward — food hall, shops, and rooftop games."
+      },
+      {
+        "name": "Atlanta BeltLine",
+        "notes": "22-mile trail loop connecting neighborhoods. Rent a bike or e-scooter for a full loop."
+      },
+      {
+        "name": "Sweet Auburn Curb Market",
+        "notes": "Historic indoor market with diverse food vendors — the oldest continuously operating market in the South."
+      }
     ]
   },
   "food_nightlife": {
@@ -260,25 +347,48 @@
       "Downtown / Castleberry Hill — pre-match bars near the stadium"
     ],
     "recommendations": [
-      { "name": "Staplehouse", "notes": "One of the best restaurants in the South. Book months in advance." },
-      { "name": "Gunshow", "notes": "Dim sum-style Southern food by Kevin Gillespie. Unique and excellent." },
-      { "name": "Mary Mac's Tea Room", "notes": "Classic Atlanta institution for Southern comfort food since 1945." }
+      {
+        "name": "Staplehouse",
+        "notes": "One of the best restaurants in the South. Book months in advance."
+      },
+      {
+        "name": "Gunshow",
+        "notes": "Dim sum-style Southern food by Kevin Gillespie. Unique and excellent."
+      },
+      {
+        "name": "Mary Mac's Tea Room",
+        "notes": "Classic Atlanta institution for Southern comfort food since 1945."
+      }
     ]
   },
   "local_resources": {
     "tourism_links": [
-      { "name": "Discover Atlanta", "url": "https://www.atlanta.net" }
+      {
+        "name": "Discover Atlanta",
+        "url": "https://www.atlanta.net"
+      }
     ],
     "transit_apps": [
-      { "name": "MARTA on the Go", "url": "https://www.itsmarta.com" },
-      { "name": "Transit App", "url": "https://transitapp.com" }
+      {
+        "name": "MARTA on the Go",
+        "url": "https://www.itsmarta.com"
+      },
+      {
+        "name": "Transit App",
+        "url": "https://transitapp.com"
+      }
     ],
     "emergency_info": "Emergency: 911. Non-emergency Atlanta Police: (404) 614-6544. Hospital: Grady Memorial Hospital, (404) 616-1000."
   },
   "walk_bike": {
     "walkability_summary": "Downtown, Midtown, and Old Fourth Ward are increasingly walkable. The BeltLine trail is transforming connectivity between neighborhoods.",
     "bikeability_summary": "The BeltLine is excellent for cycling. Spin and Lime scooters operate throughout the city.",
-    "best_walkable_areas": ["Downtown near CNN Center", "Midtown / Peachtree St", "Old Fourth Ward / BeltLine", "Inman Park"],
+    "best_walkable_areas": [
+      "Downtown near CNN Center",
+      "Midtown / Peachtree St",
+      "Old Fourth Ward / BeltLine",
+      "Inman Park"
+    ],
     "bike_share_notes": "Relay Bikeshare and e-scooter operators (Lime, Spin) operate in Atlanta. Best used along the BeltLine trail."
   },
   "pickup_soccer": [

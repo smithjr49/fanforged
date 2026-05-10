@@ -12,9 +12,17 @@
   "quick_facts": {
     "matches_hosted": "Fan hub city — no World Cup matches hosted in Montréal",
     "stadium": "Stade Saputo (CF Montréal / fan events only)",
-    "airport_codes": ["YUL"],
+    "airport_codes": [
+      "YUL"
+    ],
     "timezone": "Eastern Time",
-    "best_neighborhoods": ["Downtown / Ville-Marie", "Plateau-Mont-Royal", "Mile End", "Old Montreal / Vieux-Montréal", "Rosemont"],
+    "best_neighborhoods": [
+      "Downtown / Ville-Marie",
+      "Plateau-Mont-Royal",
+      "Mile End",
+      "Old Montreal / Vieux-Montréal",
+      "Rosemont"
+    ],
     "fan_hub_status": "Fan events expected at Place des Festivals and Vieux-Port; confirm local schedules"
   },
   "weather": {
@@ -216,20 +224,46 @@
   ],
   "soccer_culture": {
     "community_notes": "Montréal is one of the best football cities in North America — not for its home club alone, but for the community football culture built by generations of immigrants from Portugal, Italy, Haiti, Algeria, Morocco, and across Latin America. CF Montréal's Saputo Stadium regularly draws passionate crowds. When national teams play, entire neighbourhoods come alive. The Portuguese community on the Plateau and the North African community in Côte-des-Neiges both have a deep football culture.",
-    "local_clubs": ["CF Montréal (MLS)"],
-    "supporter_groups": ["Ultras Montréal", "Méga Force"],
-    "historic_venues": ["Stade Saputo (CF Montréal home)", "Stade Olympique (1976 Olympics, historic)"]
+    "local_clubs": [
+      "CF Montréal (MLS)"
+    ],
+    "supporter_groups": [
+      "Ultras Montréal",
+      "Méga Force"
+    ],
+    "historic_venues": [
+      "Stade Saputo (CF Montréal home)",
+      "Stade Olympique (1976 Olympics, historic)"
+    ]
   },
   "things_to_do": {
     "tourist_hits": [
-      { "name": "Basilique Notre-Dame de Montréal", "notes": "One of the most spectacular church interiors in North America — blue and gold neo-Gothic interior of extraordinary beauty. Book Aura light show tickets in advance." },
-      { "name": "Mount Royal Park (Parc du Mont-Royal)", "notes": "Frederick Law Olmsted's urban mountain park at the heart of the island — hiking trails, lookout platforms with panoramic city views, Beaver Lake. Free." },
-      { "name": "Musée des Beaux-Arts de Montréal (MBAM)", "notes": "One of Canada's great art museums — enormous collection across several connected pavilions. Free permanent collection access." }
+      {
+        "name": "Basilique Notre-Dame de Montréal",
+        "notes": "One of the most spectacular church interiors in North America — blue and gold neo-Gothic interior of extraordinary beauty. Book Aura light show tickets in advance."
+      },
+      {
+        "name": "Mount Royal Park (Parc du Mont-Royal)",
+        "notes": "Frederick Law Olmsted's urban mountain park at the heart of the island — hiking trails, lookout platforms with panoramic city views, Beaver Lake. Free."
+      },
+      {
+        "name": "Musée des Beaux-Arts de Montréal (MBAM)",
+        "notes": "One of Canada's great art museums — enormous collection across several connected pavilions. Free permanent collection access."
+      }
     ],
     "local_favorites": [
-      { "name": "St-Viateur Bagel (Mile End)", "notes": "The definitive Montréal bagel — wood-fired, denser and sweeter than the New York style. A genuine Montréal institution, open 24 hours." },
-      { "name": "Jean-Talon Market", "notes": "The finest outdoor market in Canada — incredible produce, Québec cheeses, prepared foods, and the energy of a genuine neighbourhood institution." },
-      { "name": "Schwartz's Deli", "notes": "The most famous smoked meat sandwich in the world — always a queue, always worth it." }
+      {
+        "name": "St-Viateur Bagel (Mile End)",
+        "notes": "The definitive Montréal bagel — wood-fired, denser and sweeter than the New York style. A genuine Montréal institution, open 24 hours."
+      },
+      {
+        "name": "Jean-Talon Market",
+        "notes": "The finest outdoor market in Canada — incredible produce, Québec cheeses, prepared foods, and the energy of a genuine neighbourhood institution."
+      },
+      {
+        "name": "Schwartz's Deli",
+        "notes": "The most famous smoked meat sandwich in the world — always a queue, always worth it."
+      }
     ]
   },
   "food_nightlife": {
@@ -241,26 +275,53 @@
       "Rue Saint-Laurent (The Main) — diverse restaurants across all price points"
     ],
     "recommendations": [
-      { "name": "Joe Beef (Little Burgundy)", "notes": "One of Canada's most celebrated restaurants — French-influenced Québécois cuisine that has influenced a generation of chefs. Book months ahead." },
-      { "name": "Poutine from La Banquise", "notes": "Montréal poutine is not something to skip — La Banquise on Roy is open 24/7 and serves dozens of variations. A Montréal rite of passage." },
-      { "name": "Dépanneur food and BYOB culture", "notes": "Montréal has a unique BYOB restaurant culture (apportez votre vin) — buy wine at any dépanneur and bring it to hundreds of licensed restaurants for minimal corkage." }
+      {
+        "name": "Joe Beef (Little Burgundy)",
+        "notes": "One of Canada's most celebrated restaurants — French-influenced Québécois cuisine that has influenced a generation of chefs. Book months ahead."
+      },
+      {
+        "name": "Poutine from La Banquise",
+        "notes": "Montréal poutine is not something to skip — La Banquise on Roy is open 24/7 and serves dozens of variations. A Montréal rite of passage."
+      },
+      {
+        "name": "Dépanneur food and BYOB culture",
+        "notes": "Montréal has a unique BYOB restaurant culture (apportez votre vin) — buy wine at any dépanneur and bring it to hundreds of licensed restaurants for minimal corkage."
+      }
     ]
   },
   "local_resources": {
     "tourism_links": [
-      { "name": "Tourisme Montréal", "url": "https://www.mtl.org/en" }
+      {
+        "name": "Tourisme Montréal",
+        "url": "https://www.mtl.org/en"
+      }
     ],
     "transit_apps": [
-      { "name": "STM Transit (Opus Card)", "url": "https://www.stm.info/en" },
-      { "name": "BIXI Bikeshare", "url": "https://www.bixi.com/en" },
-      { "name": "Transit App", "url": "https://transitapp.com" }
+      {
+        "name": "STM Transit (Opus Card)",
+        "url": "https://www.stm.info/en"
+      },
+      {
+        "name": "BIXI Bikeshare",
+        "url": "https://www.bixi.com/en"
+      },
+      {
+        "name": "Transit App",
+        "url": "https://transitapp.com"
+      }
     ],
     "emergency_info": "Emergency: 911. Montréal Police non-emergency: (514) 280-2222. MUHC (Montréal General Hospital): (514) 934-1934. Currency: Canadian Dollar (CAD). Credit cards accepted almost everywhere. Tipping standard is 15–20%."
   },
   "walk_bike": {
     "walkability_summary": "Montréal is one of the most walkable cities in North America — the Plateau, Mile End, Downtown, and Old Montréal are all superb on foot. The June–July climate is perfect for long walks.",
     "bikeability_summary": "BIXI bikeshare is outstanding — 800+ docking stations across the island. The city has an extensive protected cycling network. This is one of the best cycling cities in North America.",
-    "best_walkable_areas": ["Plateau-Mont-Royal", "Mile End", "Old Montréal / Vieux-Montréal", "Downtown Quartier des Spectacles", "Rue Sainte-Catherine shopping corridor"],
+    "best_walkable_areas": [
+      "Plateau-Mont-Royal",
+      "Mile End",
+      "Old Montréal / Vieux-Montréal",
+      "Downtown Quartier des Spectacles",
+      "Rue Sainte-Catherine shopping corridor"
+    ],
     "bike_share_notes": "BIXI has docks throughout Downtown, Plateau, Mile End, and the Old Port. Day and multi-day passes available in the BIXI app or at docking stations."
   },
   "pickup_soccer": [
@@ -312,5 +373,14 @@
       "Direct flights YUL–JFK/EWR — about 1 hour 30 min"
     ],
     "notes": "As a fan hub city, Montréal is an excellent base for fans whose matches are in Toronto. The Via Rail train is comfortable and practical."
-  }
+  },
+  "match_schedule": [
+    {
+      "date": "TBD",
+      "local_time": "TBD",
+      "round": "No matches",
+      "teams_or_placeholder": "Montreal is not a 2026 World Cup host city. The nearest venues are Toronto and Boston.",
+      "stadium": ""
+    }
+  ]
 }

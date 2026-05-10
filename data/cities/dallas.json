@@ -10,11 +10,18 @@
     "transport": "AT&T Stadium is in Arlington, between Dallas and Fort Worth. No rail reaches the stadium — rideshare, shuttles, or driving are required. Game-day shuttles are expected from the Centerpoint shuttle hub. Allow 45–60 minutes from downtown Dallas on match days."
   },
   "quick_facts": {
-    "matches_hosted": "Multiple matches including advanced rounds",
+    "matches_hosted": "9 matches — Group stage through Semi-final",
     "stadium": "AT&T Stadium (Arlington)",
-    "airport_codes": ["DFW", "DAL"],
+    "airport_codes": [
+      "DFW",
+      "DAL"
+    ],
     "timezone": "Central Time",
-    "best_neighborhoods": ["Downtown Dallas", "Uptown Dallas", "Frisco / Arlington (stadium area)"],
+    "best_neighborhoods": [
+      "Downtown Dallas",
+      "Uptown Dallas",
+      "Frisco / Arlington (stadium area)"
+    ],
     "fan_hub_status": "Fan hub expected at Main Street Garden Park in downtown Dallas"
   },
   "weather": {
@@ -52,9 +59,66 @@
   ],
   "match_schedule": [
     {
-      "date": "June–July 2026",
-      "round": "Group stage and advanced rounds",
-      "teams_or_placeholder": "AT&T Stadium hosts multiple matches. Full schedule after group draw.",
+      "date": "June 14",
+      "local_time": "3:00 PM CT",
+      "round": "Group F",
+      "teams_or_placeholder": "Netherlands vs Japan",
+      "stadium": "AT&T Stadium"
+    },
+    {
+      "date": "June 17",
+      "local_time": "3:00 PM CT",
+      "round": "Group L",
+      "teams_or_placeholder": "England vs Croatia",
+      "stadium": "AT&T Stadium"
+    },
+    {
+      "date": "June 22",
+      "local_time": "12:00 PM CT",
+      "round": "Group J",
+      "teams_or_placeholder": "Argentina vs Austria",
+      "stadium": "AT&T Stadium"
+    },
+    {
+      "date": "June 25",
+      "local_time": "6:00 PM CT",
+      "round": "Group F",
+      "teams_or_placeholder": "Japan vs Sweden",
+      "stadium": "AT&T Stadium"
+    },
+    {
+      "date": "June 27",
+      "local_time": "9:00 PM CT",
+      "round": "Group J",
+      "teams_or_placeholder": "Jordan vs Argentina",
+      "stadium": "AT&T Stadium"
+    },
+    {
+      "date": "June 30",
+      "local_time": "12:00 PM CT",
+      "round": "Round of 32",
+      "teams_or_placeholder": "TBD (Match 77)",
+      "stadium": "AT&T Stadium"
+    },
+    {
+      "date": "July 3",
+      "local_time": "1:00 PM CT",
+      "round": "Round of 32",
+      "teams_or_placeholder": "TBD (Match 86)",
+      "stadium": "AT&T Stadium"
+    },
+    {
+      "date": "July 6",
+      "local_time": "2:00 PM CT",
+      "round": "Round of 16",
+      "teams_or_placeholder": "TBD (Match 93)",
+      "stadium": "AT&T Stadium"
+    },
+    {
+      "date": "July 14",
+      "local_time": "2:00 PM CT",
+      "round": "Semi-final",
+      "teams_or_placeholder": "TBD (Semi-final 1)",
       "stadium": "AT&T Stadium"
     }
   ],
@@ -250,21 +314,52 @@
   ],
   "soccer_culture": {
     "community_notes": "Dallas has a passionate soccer community driven by FC Dallas, a deep Hispanic football culture, and strong MLS support. The Cotton Bowl hosted the 1994 World Cup — the region has experience with tournament-scale events.",
-    "local_clubs": ["FC Dallas (MLS)", "FC Dallas II"],
-    "supporter_groups": ["Inferno (FC Dallas)", "El Matador (FC Dallas)"],
-    "historic_venues": ["AT&T Stadium", "Cotton Bowl (1994 World Cup venue)", "Toyota Stadium (FC Dallas home)"]
+    "local_clubs": [
+      "FC Dallas (MLS)",
+      "FC Dallas II"
+    ],
+    "supporter_groups": [
+      "Inferno (FC Dallas)",
+      "El Matador (FC Dallas)"
+    ],
+    "historic_venues": [
+      "AT&T Stadium",
+      "Cotton Bowl (1994 World Cup venue)",
+      "Toyota Stadium (FC Dallas home)"
+    ]
   },
   "things_to_do": {
     "tourist_hits": [
-      { "name": "Sixth Floor Museum at Dealey Plaza", "notes": "JFK assassination site and museum in Downtown Dallas. Moving and historically significant." },
-      { "name": "Klyde Warren Park", "notes": "Urban park deck over the freeway in Downtown. Great food trucks and outdoor space." },
-      { "name": "Deep Ellum", "notes": "Dallas's arts and music district — murals, live music venues, and great bars." },
-      { "name": "AT&T Discovery District", "notes": "Downtown plaza with interactive art installations and screens. Free entry." }
+      {
+        "name": "Sixth Floor Museum at Dealey Plaza",
+        "notes": "JFK assassination site and museum in Downtown Dallas. Moving and historically significant."
+      },
+      {
+        "name": "Klyde Warren Park",
+        "notes": "Urban park deck over the freeway in Downtown. Great food trucks and outdoor space."
+      },
+      {
+        "name": "Deep Ellum",
+        "notes": "Dallas's arts and music district — murals, live music venues, and great bars."
+      },
+      {
+        "name": "AT&T Discovery District",
+        "notes": "Downtown plaza with interactive art installations and screens. Free entry."
+      }
     ],
     "local_favorites": [
-      { "name": "Perot Museum of Nature and Science", "notes": "World-class science museum in Downtown — excellent for families." },
-      { "name": "Bishop Arts District", "notes": "Independent shops, restaurants, and galleries in Oak Cliff. The most creative neighbourhood in Dallas." },
-      { "name": "Dallas Arboretum", "notes": "Stunning lakeside garden — beautiful in early morning before the heat." }
+      {
+        "name": "Perot Museum of Nature and Science",
+        "notes": "World-class science museum in Downtown — excellent for families."
+      },
+      {
+        "name": "Bishop Arts District",
+        "notes": "Independent shops, restaurants, and galleries in Oak Cliff. The most creative neighbourhood in Dallas."
+      },
+      {
+        "name": "Dallas Arboretum",
+        "notes": "Stunning lakeside garden — beautiful in early morning before the heat."
+      }
     ]
   },
   "food_nightlife": {
@@ -275,25 +370,48 @@
       "Sundance Square (Fort Worth) — entertainment plaza with restaurants and outdoor spaces"
     ],
     "recommendations": [
-      { "name": "Pecan Lodge", "notes": "Legendary Dallas BBQ in Deep Ellum. Long lines but worth every minute." },
-      { "name": "Uchi Dallas", "notes": "World-class Japanese cuisine on Cedar Springs. Book well ahead." },
-      { "name": "Monarch", "notes": "Rooftop restaurant at the Thompson Hotel with panoramic city views." }
+      {
+        "name": "Pecan Lodge",
+        "notes": "Legendary Dallas BBQ in Deep Ellum. Long lines but worth every minute."
+      },
+      {
+        "name": "Uchi Dallas",
+        "notes": "World-class Japanese cuisine on Cedar Springs. Book well ahead."
+      },
+      {
+        "name": "Monarch",
+        "notes": "Rooftop restaurant at the Thompson Hotel with panoramic city views."
+      }
     ]
   },
   "local_resources": {
     "tourism_links": [
-      { "name": "Visit Dallas", "url": "https://www.visitdallas.com" }
+      {
+        "name": "Visit Dallas",
+        "url": "https://www.visitdallas.com"
+      }
     ],
     "transit_apps": [
-      { "name": "DART GoPass", "url": "https://www.dart.org/guide/gopass" },
-      { "name": "Transit App", "url": "https://transitapp.com" }
+      {
+        "name": "DART GoPass",
+        "url": "https://www.dart.org/guide/gopass"
+      },
+      {
+        "name": "Transit App",
+        "url": "https://transitapp.com"
+      }
     ],
     "emergency_info": "Emergency: 911. Non-emergency Dallas Police: (214) 744-4444. Hospital: UT Southwestern Medical Center, (214) 633-5200."
   },
   "walk_bike": {
     "walkability_summary": "Dallas is car-centric but Downtown, Uptown, and Deep Ellum are walkable within their zones. Klyde Warren Park and McKinney Ave are pleasant pedestrian corridors.",
     "bikeability_summary": "The Katy Trail is a popular paved trail through the heart of Dallas. Bikeshare exists in limited areas.",
-    "best_walkable_areas": ["Uptown / McKinney Ave", "Deep Ellum", "Klyde Warren Park area", "Bishop Arts District"],
+    "best_walkable_areas": [
+      "Uptown / McKinney Ave",
+      "Deep Ellum",
+      "Klyde Warren Park area",
+      "Bishop Arts District"
+    ],
     "bike_share_notes": "LimeBike and BCycle have limited presence in Dallas. Best used for short hops in Uptown or along the Katy Trail."
   },
   "pickup_soccer": [

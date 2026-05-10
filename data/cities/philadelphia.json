@@ -10,11 +10,19 @@
     "transport": "Lincoln Financial Field is in South Philadelphia's sports complex with excellent SEPTA Broad Street Line access. Take the orange subway to AT&T Station (now NRG Station) — a 5-minute walk to the stadium. From Center City, it's about 15 minutes. Regional Rail also connects via nearby stations."
   },
   "quick_facts": {
-    "matches_hosted": "Multiple matches including group stage and advanced rounds",
+    "matches_hosted": "6 matches — Group stage through Round of 16",
     "stadium": "Lincoln Financial Field",
-    "airport_codes": ["PHL"],
+    "airport_codes": [
+      "PHL"
+    ],
     "timezone": "Eastern Time",
-    "best_neighborhoods": ["Center City", "Old City", "South Philly", "Rittenhouse Square", "Northern Liberties"],
+    "best_neighborhoods": [
+      "Center City",
+      "Old City",
+      "South Philly",
+      "Rittenhouse Square",
+      "Northern Liberties"
+    ],
     "fan_hub_status": "Fan hub expected on Benjamin Franklin Parkway; confirm local schedules"
   },
   "weather": {
@@ -43,9 +51,45 @@
   ],
   "match_schedule": [
     {
-      "date": "June–July 2026",
-      "round": "Group stage and advanced rounds",
-      "teams_or_placeholder": "Lincoln Financial Field hosts multiple matches. Full schedule after group draw.",
+      "date": "June 14",
+      "local_time": "7:00 PM ET",
+      "round": "Group E",
+      "teams_or_placeholder": "Ivory Coast vs Ecuador",
+      "stadium": "Lincoln Financial Field"
+    },
+    {
+      "date": "June 19",
+      "local_time": "8:30 PM ET",
+      "round": "Group C",
+      "teams_or_placeholder": "Brazil vs Haiti",
+      "stadium": "Lincoln Financial Field"
+    },
+    {
+      "date": "June 22",
+      "local_time": "5:00 PM ET",
+      "round": "Group I",
+      "teams_or_placeholder": "France vs Iraq",
+      "stadium": "Lincoln Financial Field"
+    },
+    {
+      "date": "June 25",
+      "local_time": "4:00 PM ET",
+      "round": "Group E",
+      "teams_or_placeholder": "Curaçao vs Ivory Coast",
+      "stadium": "Lincoln Financial Field"
+    },
+    {
+      "date": "June 27",
+      "local_time": "5:00 PM ET",
+      "round": "Group L",
+      "teams_or_placeholder": "Croatia vs Ghana",
+      "stadium": "Lincoln Financial Field"
+    },
+    {
+      "date": "July 4",
+      "local_time": "5:00 PM ET",
+      "round": "Round of 16",
+      "teams_or_placeholder": "TBD (Match 90)",
       "stadium": "Lincoln Financial Field"
     }
   ],
@@ -243,21 +287,52 @@
   ],
   "soccer_culture": {
     "community_notes": "Philadelphia has a deep soccer culture rooted in its large Eastern European, Italian, and Latin communities. The Philadelphia Union has built a real supporter culture at Subaru Park, and the city's sport-obsessed identity translates directly into passionate match-day energy.",
-    "local_clubs": ["Philadelphia Union (MLS)", "Philadelphia Union II (MLS Next Pro)"],
-    "supporter_groups": ["Sons of Ben (Philadelphia Union)", "River End Rowdies"],
-    "historic_venues": ["Lincoln Financial Field", "Subaru Park (Chester, PA — Philadelphia Union home)", "Veterans Stadium (demolished — 1994 World Cup venue)"]
+    "local_clubs": [
+      "Philadelphia Union (MLS)",
+      "Philadelphia Union II (MLS Next Pro)"
+    ],
+    "supporter_groups": [
+      "Sons of Ben (Philadelphia Union)",
+      "River End Rowdies"
+    ],
+    "historic_venues": [
+      "Lincoln Financial Field",
+      "Subaru Park (Chester, PA — Philadelphia Union home)",
+      "Veterans Stadium (demolished — 1994 World Cup venue)"
+    ]
   },
   "things_to_do": {
     "tourist_hits": [
-      { "name": "Independence Hall & Liberty Bell", "notes": "Core of American history — the Declaration of Independence was signed here. Free entry to the Bell, timed entry to the Hall." },
-      { "name": "Philadelphia Museum of Art", "notes": "World-class collection AND the Rocky steps. Run them. Everyone runs them." },
-      { "name": "Eastern State Penitentiary", "notes": "Haunting historic prison tour — one of the most unique tourist experiences in the USA." },
-      { "name": "Barnes Foundation", "notes": "Exceptional collection of Impressionist and Post-Impressionist art on the Parkway." }
+      {
+        "name": "Independence Hall & Liberty Bell",
+        "notes": "Core of American history — the Declaration of Independence was signed here. Free entry to the Bell, timed entry to the Hall."
+      },
+      {
+        "name": "Philadelphia Museum of Art",
+        "notes": "World-class collection AND the Rocky steps. Run them. Everyone runs them."
+      },
+      {
+        "name": "Eastern State Penitentiary",
+        "notes": "Haunting historic prison tour — one of the most unique tourist experiences in the USA."
+      },
+      {
+        "name": "Barnes Foundation",
+        "notes": "Exceptional collection of Impressionist and Post-Impressionist art on the Parkway."
+      }
     ],
     "local_favorites": [
-      { "name": "Italian Market (9th St)", "notes": "America's oldest outdoor market — go for cheese, fresh pasta, and the authentic South Philly experience." },
-      { "name": "Reading Terminal Market", "notes": "Legendary indoor food market in Center City — Amish vendors, DiNic's roast pork, Bassett's ice cream." },
-      { "name": "Mural Arts Program walk", "notes": "Philadelphia has over 4,000 murals — pick up a walking map or book a guided tour." }
+      {
+        "name": "Italian Market (9th St)",
+        "notes": "America's oldest outdoor market — go for cheese, fresh pasta, and the authentic South Philly experience."
+      },
+      {
+        "name": "Reading Terminal Market",
+        "notes": "Legendary indoor food market in Center City — Amish vendors, DiNic's roast pork, Bassett's ice cream."
+      },
+      {
+        "name": "Mural Arts Program walk",
+        "notes": "Philadelphia has over 4,000 murals — pick up a walking map or book a guided tour."
+      }
     ]
   },
   "food_nightlife": {
@@ -268,25 +343,48 @@
       "South Street — bars and late-night spots between South Philly and Society Hill"
     ],
     "recommendations": [
-      { "name": "Zahav", "notes": "James Beard Award-winning Israeli restaurant. Book months in advance." },
-      { "name": "John's Roast Pork", "notes": "The definitive South Philly sandwich institution. Cash only, lunch only." },
-      { "name": "Vernick Food & Drink", "notes": "One of Philadelphia's best modern American restaurants." }
+      {
+        "name": "Zahav",
+        "notes": "James Beard Award-winning Israeli restaurant. Book months in advance."
+      },
+      {
+        "name": "John's Roast Pork",
+        "notes": "The definitive South Philly sandwich institution. Cash only, lunch only."
+      },
+      {
+        "name": "Vernick Food & Drink",
+        "notes": "One of Philadelphia's best modern American restaurants."
+      }
     ]
   },
   "local_resources": {
     "tourism_links": [
-      { "name": "Visit Philadelphia", "url": "https://www.visitphilly.com" }
+      {
+        "name": "Visit Philadelphia",
+        "url": "https://www.visitphilly.com"
+      }
     ],
     "transit_apps": [
-      { "name": "SEPTA app", "url": "https://www.septa.org" },
-      { "name": "Transit App", "url": "https://transitapp.com" }
+      {
+        "name": "SEPTA app",
+        "url": "https://www.septa.org"
+      },
+      {
+        "name": "Transit App",
+        "url": "https://transitapp.com"
+      }
     ],
     "emergency_info": "Emergency: 911. Non-emergency Philadelphia Police: (215) 686-8477. Hospital: Penn Medicine / HUP, (215) 662-4000."
   },
   "walk_bike": {
     "walkability_summary": "Center City is one of the most walkable downtowns in the USA. The William Penn Plan keeps it compact and flat. Rittenhouse Square, Old City, and the Parkway are all excellent walking areas.",
     "bikeability_summary": "Indego bikeshare operates throughout Center City and surrounding neighbourhoods. The Schuylkill River Trail is excellent for longer rides.",
-    "best_walkable_areas": ["Center City / Rittenhouse Square", "Old City / Society Hill", "Benjamin Franklin Parkway", "South Street corridor"],
+    "best_walkable_areas": [
+      "Center City / Rittenhouse Square",
+      "Old City / Society Hill",
+      "Benjamin Franklin Parkway",
+      "South Street corridor"
+    ],
     "bike_share_notes": "Indego Bikeshare has docks throughout Center City, Fishtown, and South Philly. Day passes available in the Indego app."
   },
   "pickup_soccer": [

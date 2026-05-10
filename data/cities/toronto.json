@@ -10,11 +10,20 @@
     "transport": "Take the 509 or 511 streetcar from Union Station directly to Exhibition Place — about 15 minutes. GO Transit runs game-day service from the 905 suburbs. The stadium is a 10-minute walk from the Exhibition Place streetcar loop."
   },
   "quick_facts": {
-    "matches_hosted": "Multiple matches including group stage",
+    "matches_hosted": "6 matches — Group stage through Round of 32",
     "stadium": "BMO Field",
-    "airport_codes": ["YYZ", "YTZ"],
+    "airport_codes": [
+      "YYZ",
+      "YTZ"
+    ],
     "timezone": "Eastern Time",
-    "best_neighborhoods": ["Downtown Core", "King West", "Distillery District", "Harbourfront", "Kensington Market"],
+    "best_neighborhoods": [
+      "Downtown Core",
+      "King West",
+      "Distillery District",
+      "Harbourfront",
+      "Kensington Market"
+    ],
     "fan_hub_status": "Major fan hub expected at Nathan Phillips Square; confirm local schedules"
   },
   "weather": {
@@ -53,9 +62,45 @@
   ],
   "match_schedule": [
     {
-      "date": "June–July 2026",
-      "round": "Group stage and possible advanced rounds",
-      "teams_or_placeholder": "BMO Field hosts multiple matches. Official schedule released after group draw.",
+      "date": "June 12",
+      "local_time": "3:00 PM ET",
+      "round": "Group B",
+      "teams_or_placeholder": "Canada vs Bosnia and Herzegovina",
+      "stadium": "BMO Field"
+    },
+    {
+      "date": "June 17",
+      "local_time": "7:00 PM ET",
+      "round": "Group L",
+      "teams_or_placeholder": "Ghana vs Panama",
+      "stadium": "BMO Field"
+    },
+    {
+      "date": "June 20",
+      "local_time": "4:00 PM ET",
+      "round": "Group E",
+      "teams_or_placeholder": "Germany vs Ivory Coast",
+      "stadium": "BMO Field"
+    },
+    {
+      "date": "June 23",
+      "local_time": "7:00 PM ET",
+      "round": "Group L",
+      "teams_or_placeholder": "Panama vs Croatia",
+      "stadium": "BMO Field"
+    },
+    {
+      "date": "June 26",
+      "local_time": "3:00 PM ET",
+      "round": "Group I",
+      "teams_or_placeholder": "Senegal vs Iraq",
+      "stadium": "BMO Field"
+    },
+    {
+      "date": "July 2",
+      "local_time": "7:00 PM ET",
+      "round": "Round of 32",
+      "teams_or_placeholder": "TBD (Match 84)",
       "stadium": "BMO Field"
     }
   ],
@@ -267,23 +312,62 @@
   ],
   "soccer_culture": {
     "community_notes": "Toronto has arguably the deepest soccer culture in Canada. Toronto FC fills BMO Field, the city has massive supporter groups, and the Italian, Portuguese, Caribbean, and Latin American communities all bring deep football passion to the streets during the World Cup.",
-    "local_clubs": ["Toronto FC (MLS)", "Toronto FC II", "North Toronto Soccer Club"],
-    "supporter_groups": ["Red Patch Boys (Toronto FC)", "U-Sector (Toronto FC)", "Inebriati (Toronto FC)"],
-    "historic_venues": ["BMO Field", "Varsity Stadium (historic)", "Lamport Stadium"]
+    "local_clubs": [
+      "Toronto FC (MLS)",
+      "Toronto FC II",
+      "North Toronto Soccer Club"
+    ],
+    "supporter_groups": [
+      "Red Patch Boys (Toronto FC)",
+      "U-Sector (Toronto FC)",
+      "Inebriati (Toronto FC)"
+    ],
+    "historic_venues": [
+      "BMO Field",
+      "Varsity Stadium (historic)",
+      "Lamport Stadium"
+    ]
   },
   "things_to_do": {
     "tourist_hits": [
-      { "name": "CN Tower", "notes": "Iconic observation deck with glass floor and EdgeWalk. Book tickets in advance." },
-      { "name": "Royal Ontario Museum", "notes": "World-class natural history and culture collection. Great for a non-match day." },
-      { "name": "Kensington Market", "notes": "Toronto's most eclectic neighbourhood — global street food, vintage shops, open-air market." },
-      { "name": "Distillery Historic District", "notes": "Victorian industrial architecture turned gallery and restaurant district. Beautiful at night." },
-      { "name": "St. Lawrence Market", "notes": "Legendary food market open Tuesday–Sunday. The peameal bacon sandwich is mandatory." }
+      {
+        "name": "CN Tower",
+        "notes": "Iconic observation deck with glass floor and EdgeWalk. Book tickets in advance."
+      },
+      {
+        "name": "Royal Ontario Museum",
+        "notes": "World-class natural history and culture collection. Great for a non-match day."
+      },
+      {
+        "name": "Kensington Market",
+        "notes": "Toronto's most eclectic neighbourhood — global street food, vintage shops, open-air market."
+      },
+      {
+        "name": "Distillery Historic District",
+        "notes": "Victorian industrial architecture turned gallery and restaurant district. Beautiful at night."
+      },
+      {
+        "name": "St. Lawrence Market",
+        "notes": "Legendary food market open Tuesday–Sunday. The peameal bacon sandwich is mandatory."
+      }
     ],
     "local_favorites": [
-      { "name": "Chinatown / Spadina Ave", "notes": "Authentic Chinese, Vietnamese, and Korean food on one of the most affordable restaurant strips in the city." },
-      { "name": "Little Italy on College St", "notes": "Great outdoor patios and soccer bar culture. College St fills up on match nights." },
-      { "name": "Toronto Islands", "notes": "Take the ferry for a 20-minute escape. Beaches, bike paths, and a quiet contrast to the city." },
-      { "name": "Evergreen Brick Works", "notes": "Former brick factory turned farmers' market and community space. Saturday market is excellent." }
+      {
+        "name": "Chinatown / Spadina Ave",
+        "notes": "Authentic Chinese, Vietnamese, and Korean food on one of the most affordable restaurant strips in the city."
+      },
+      {
+        "name": "Little Italy on College St",
+        "notes": "Great outdoor patios and soccer bar culture. College St fills up on match nights."
+      },
+      {
+        "name": "Toronto Islands",
+        "notes": "Take the ferry for a 20-minute escape. Beaches, bike paths, and a quiet contrast to the city."
+      },
+      {
+        "name": "Evergreen Brick Works",
+        "notes": "Former brick factory turned farmers' market and community space. Saturday market is excellent."
+      }
     ]
   },
   "food_nightlife": {
@@ -295,25 +379,48 @@
       "Little Italy on College — great patios, soccer culture"
     ],
     "recommendations": [
-      { "name": "Pai Northern Thai Kitchen", "notes": "One of Toronto's most beloved restaurants. Book ahead." },
-      { "name": "Bar Isabel", "notes": "Spanish tapas and cocktails on Dundas West. Excellent for groups." },
-      { "name": "The Black Hoof", "notes": "Charcuterie and cocktails on Dundas West — a local institution." }
+      {
+        "name": "Pai Northern Thai Kitchen",
+        "notes": "One of Toronto's most beloved restaurants. Book ahead."
+      },
+      {
+        "name": "Bar Isabel",
+        "notes": "Spanish tapas and cocktails on Dundas West. Excellent for groups."
+      },
+      {
+        "name": "The Black Hoof",
+        "notes": "Charcuterie and cocktails on Dundas West — a local institution."
+      }
     ]
   },
   "local_resources": {
     "tourism_links": [
-      { "name": "Tourism Toronto", "url": "https://www.seetorontonow.com" }
+      {
+        "name": "Tourism Toronto",
+        "url": "https://www.seetorontonow.com"
+      }
     ],
     "transit_apps": [
-      { "name": "TTC official app", "url": "https://www.ttc.ca" },
-      { "name": "Transit App", "url": "https://transitapp.com" }
+      {
+        "name": "TTC official app",
+        "url": "https://www.ttc.ca"
+      },
+      {
+        "name": "Transit App",
+        "url": "https://transitapp.com"
+      }
     ],
     "emergency_info": "Emergency: 911. Non-emergency Toronto Police: (416) 808-2222. Hospital: Toronto General, 200 Elizabeth St."
   },
   "walk_bike": {
     "walkability_summary": "Toronto's Downtown Core, King West, and the waterfront are highly walkable. The stretch from Union Station to BMO Field along the waterfront is a pleasant 25-minute walk.",
     "bikeability_summary": "The Martin Goodman Trail along the waterfront is excellent. Bike Share Toronto has docks throughout the city.",
-    "best_walkable_areas": ["Downtown Core / Financial District", "King West Entertainment District", "Distillery District", "Waterfront / Harbourfront"],
+    "best_walkable_areas": [
+      "Downtown Core / Financial District",
+      "King West Entertainment District",
+      "Distillery District",
+      "Waterfront / Harbourfront"
+    ],
     "bike_share_notes": "Bike Share Toronto docks are near Union Station, Exhibition Place, and throughout Downtown. Single rides or day passes available via the Bike Share Toronto app."
   },
   "pickup_soccer": [

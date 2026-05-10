@@ -10,11 +10,22 @@
     "transport": "Take the Metro K Line directly to the SoFi Stadium/Hollywood Park stop. The C Line (Green) to Hawthorne/Lennox also connects. Rideshare zones are on Prairie Ave — expect 20–40 min surge after matches."
   },
   "quick_facts": {
-    "matches_hosted": "Multiple matches including group stage and advanced rounds",
+    "matches_hosted": "8 matches — Group stage through Quarter-final",
     "stadium": "SoFi Stadium",
-    "airport_codes": ["LAX", "BUR", "LGB", "ONT"],
+    "airport_codes": [
+      "LAX",
+      "BUR",
+      "LGB",
+      "ONT"
+    ],
     "timezone": "Pacific Time",
-    "best_neighborhoods": ["Downtown LA", "Hollywood", "Inglewood", "Culver City", "Santa Monica"],
+    "best_neighborhoods": [
+      "Downtown LA",
+      "Hollywood",
+      "Inglewood",
+      "Culver City",
+      "Santa Monica"
+    ],
     "fan_hub_status": "Public viewing areas expected at LA Live and Venice Beach; confirm local schedules"
   },
   "weather": {
@@ -62,9 +73,59 @@
   ],
   "match_schedule": [
     {
-      "date": "June–July 2026",
-      "round": "Group stage and advanced rounds",
-      "teams_or_placeholder": "SoFi Stadium hosts multiple tournament matches. Official schedule announced after group draw.",
+      "date": "June 12",
+      "local_time": "6:00 PM PT",
+      "round": "Group D",
+      "teams_or_placeholder": "USA vs Paraguay",
+      "stadium": "SoFi Stadium"
+    },
+    {
+      "date": "June 15",
+      "local_time": "6:00 PM PT",
+      "round": "Group G",
+      "teams_or_placeholder": "Iran vs New Zealand",
+      "stadium": "SoFi Stadium"
+    },
+    {
+      "date": "June 18",
+      "local_time": "12:00 PM PT",
+      "round": "Group B",
+      "teams_or_placeholder": "Switzerland vs Bosnia and Herzegovina",
+      "stadium": "SoFi Stadium"
+    },
+    {
+      "date": "June 21",
+      "local_time": "12:00 PM PT",
+      "round": "Group G",
+      "teams_or_placeholder": "Belgium vs Iran",
+      "stadium": "SoFi Stadium"
+    },
+    {
+      "date": "June 25",
+      "local_time": "7:00 PM PT",
+      "round": "Group D",
+      "teams_or_placeholder": "Türkiye vs USA",
+      "stadium": "SoFi Stadium"
+    },
+    {
+      "date": "June 28",
+      "local_time": "12:00 PM PT",
+      "round": "Round of 32",
+      "teams_or_placeholder": "TBD (Match 73)",
+      "stadium": "SoFi Stadium"
+    },
+    {
+      "date": "July 2",
+      "local_time": "12:00 PM PT",
+      "round": "Round of 32",
+      "teams_or_placeholder": "TBD (Match 83)",
+      "stadium": "SoFi Stadium"
+    },
+    {
+      "date": "July 10",
+      "local_time": "12:00 PM PT",
+      "round": "Quarter-final",
+      "teams_or_placeholder": "TBD (Quarter-final 2)",
       "stadium": "SoFi Stadium"
     }
   ],
@@ -284,24 +345,66 @@
   ],
   "soccer_culture": {
     "community_notes": "Los Angeles has one of the deepest soccer cultures in the USA, with passionate Latino fandoms, two MLS clubs, and NWSL's Angel City FC. LAFC games at Banc of California Stadium are among the most electric atmospheres in American soccer.",
-    "local_clubs": ["LAFC (MLS)", "LA Galaxy (MLS)", "Angel City FC (NWSL)"],
-    "supporter_groups": ["3252 (LAFC ultras)", "Angel City Brigade", "La Galaxia (Galaxy supporters)"],
-    "historic_venues": ["Banc of California Stadium (LAFC)", "Dignity Health Sports Park (Galaxy)", "Rose Bowl (1994 World Cup Final venue)"]
+    "local_clubs": [
+      "LAFC (MLS)",
+      "LA Galaxy (MLS)",
+      "Angel City FC (NWSL)"
+    ],
+    "supporter_groups": [
+      "3252 (LAFC ultras)",
+      "Angel City Brigade",
+      "La Galaxia (Galaxy supporters)"
+    ],
+    "historic_venues": [
+      "Banc of California Stadium (LAFC)",
+      "Dignity Health Sports Park (Galaxy)",
+      "Rose Bowl (1994 World Cup Final venue)"
+    ]
   },
   "things_to_do": {
     "tourist_hits": [
-      { "name": "Griffith Observatory", "notes": "Hike up for panoramic city views — free admission to grounds." },
-      { "name": "The Getty Center", "notes": "World-class art museum with city views. Free admission, pay for parking." },
-      { "name": "Hollywood Walk of Fame", "notes": "Classic tourist strip — good for an hour, don't let it swallow a full day." },
-      { "name": "Santa Monica Pier", "notes": "Quintessential LA beach experience with rides, food, and Pacific views." },
-      { "name": "Venice Beach Boardwalk", "notes": "LA's most chaotic and wonderful outdoor scene. Morning skate park session is a must-see." }
+      {
+        "name": "Griffith Observatory",
+        "notes": "Hike up for panoramic city views — free admission to grounds."
+      },
+      {
+        "name": "The Getty Center",
+        "notes": "World-class art museum with city views. Free admission, pay for parking."
+      },
+      {
+        "name": "Hollywood Walk of Fame",
+        "notes": "Classic tourist strip — good for an hour, don't let it swallow a full day."
+      },
+      {
+        "name": "Santa Monica Pier",
+        "notes": "Quintessential LA beach experience with rides, food, and Pacific views."
+      },
+      {
+        "name": "Venice Beach Boardwalk",
+        "notes": "LA's most chaotic and wonderful outdoor scene. Morning skate park session is a must-see."
+      }
     ],
     "local_favorites": [
-      { "name": "Grand Central Market", "notes": "Downtown food hall with the best breakfast burritos and the freshest crowd mix in LA." },
-      { "name": "Erewhon", "notes": "Pilgrimage-worthy grocery store for the health-conscious traveler. Smoothies are genuinely excellent." },
-      { "name": "Runyon Canyon", "notes": "Easy hike above Hollywood with 360° views. Bring water and go before 9am in July." },
-      { "name": "Smorgasburg LA", "notes": "Sunday outdoor food market at Row DTLA — LA's best street food and a great pre-match ritual." },
-      { "name": "Echo Park Lake", "notes": "Low-key neighborhood vibe, paddle boats, and local coffee shops." }
+      {
+        "name": "Grand Central Market",
+        "notes": "Downtown food hall with the best breakfast burritos and the freshest crowd mix in LA."
+      },
+      {
+        "name": "Erewhon",
+        "notes": "Pilgrimage-worthy grocery store for the health-conscious traveler. Smoothies are genuinely excellent."
+      },
+      {
+        "name": "Runyon Canyon",
+        "notes": "Easy hike above Hollywood with 360° views. Bring water and go before 9am in July."
+      },
+      {
+        "name": "Smorgasburg LA",
+        "notes": "Sunday outdoor food market at Row DTLA — LA's best street food and a great pre-match ritual."
+      },
+      {
+        "name": "Echo Park Lake",
+        "notes": "Low-key neighborhood vibe, paddle boats, and local coffee shops."
+      }
     ]
   },
   "food_nightlife": {
@@ -313,25 +416,48 @@
       "Sunset Strip (West Hollywood) — upscale clubs and cocktail lounges"
     ],
     "recommendations": [
-      { "name": "Langer's Deli", "notes": "Iconic downtown Jewish deli — the pastrami sandwich is legendary." },
-      { "name": "Republique", "notes": "One of LA's best modern French restaurants. Book in advance." },
-      { "name": "Bestia", "notes": "Arts District Italian — one of the most popular restaurants in the city. Book weeks ahead." }
+      {
+        "name": "Langer's Deli",
+        "notes": "Iconic downtown Jewish deli — the pastrami sandwich is legendary."
+      },
+      {
+        "name": "Republique",
+        "notes": "One of LA's best modern French restaurants. Book in advance."
+      },
+      {
+        "name": "Bestia",
+        "notes": "Arts District Italian — one of the most popular restaurants in the city. Book weeks ahead."
+      }
     ]
   },
   "local_resources": {
     "tourism_links": [
-      { "name": "Discover Los Angeles", "url": "https://www.discoverlosangeles.com" }
+      {
+        "name": "Discover Los Angeles",
+        "url": "https://www.discoverlosangeles.com"
+      }
     ],
     "transit_apps": [
-      { "name": "Transit App", "url": "https://transitapp.com" },
-      { "name": "LA Metro TAP", "url": "https://www.taptogo.net" }
+      {
+        "name": "Transit App",
+        "url": "https://transitapp.com"
+      },
+      {
+        "name": "LA Metro TAP",
+        "url": "https://www.taptogo.net"
+      }
     ],
     "emergency_info": "Emergency: 911. Non-emergency LAPD: (877) 275-5273. Hospital: Cedars-Sinai Medical Center, 8700 Beverly Blvd."
   },
   "walk_bike": {
     "walkability_summary": "LA is famously car-dependent, but Hollywood, Downtown LA, Santa Monica, and the Hollywood Park area around SoFi are all reasonably walkable within their zones.",
     "bikeability_summary": "Santa Monica and Venice have excellent protected bike lanes. Culver City and DTLA are improving. Avoid biking on major arterials.",
-    "best_walkable_areas": ["Downtown LA near LA Live", "Hollywood/Vine area", "Santa Monica 3rd Street Promenade", "Hollywood Park/Inglewood near SoFi"],
+    "best_walkable_areas": [
+      "Downtown LA near LA Live",
+      "Hollywood/Vine area",
+      "Santa Monica 3rd Street Promenade",
+      "Hollywood Park/Inglewood near SoFi"
+    ],
     "bike_share_notes": "Metro Bike Share operates in Downtown and surrounding areas. Venice and Santa Monica have Lime and Bird scooters. Check the transit app for real-time availability."
   },
   "pickup_soccer": [

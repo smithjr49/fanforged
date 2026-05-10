@@ -10,11 +10,19 @@
     "transport": "Lumen Field is in downtown Seattle with excellent LINK light rail access. Take the 1 Line from anywhere in the city or directly from Sea-Tac Airport (40-minute ride) to International District/Chinatown Station — a 5-minute walk to the stadium. Also walkable from Pioneer Square and the waterfront."
   },
   "quick_facts": {
-    "matches_hosted": "Multiple matches including group stage and advanced rounds",
+    "matches_hosted": "6 matches — Group stage through Round of 16",
     "stadium": "Lumen Field",
-    "airport_codes": ["SEA"],
+    "airport_codes": [
+      "SEA"
+    ],
     "timezone": "Pacific Time",
-    "best_neighborhoods": ["Downtown", "Pioneer Square", "Capitol Hill", "South Lake Union", "Belltown"],
+    "best_neighborhoods": [
+      "Downtown",
+      "Pioneer Square",
+      "Capitol Hill",
+      "South Lake Union",
+      "Belltown"
+    ],
     "fan_hub_status": "Fan hub expected at Seattle Center under the Space Needle; confirm schedules"
   },
   "weather": {
@@ -43,9 +51,45 @@
   ],
   "match_schedule": [
     {
-      "date": "June–July 2026",
-      "round": "Group stage and advanced rounds",
-      "teams_or_placeholder": "Lumen Field hosts multiple matches. Full schedule after group draw.",
+      "date": "June 15",
+      "local_time": "12:00 PM PT",
+      "round": "Group G",
+      "teams_or_placeholder": "Belgium vs Egypt",
+      "stadium": "Lumen Field"
+    },
+    {
+      "date": "June 19",
+      "local_time": "12:00 PM PT",
+      "round": "Group D",
+      "teams_or_placeholder": "USA vs Australia",
+      "stadium": "Lumen Field"
+    },
+    {
+      "date": "June 24",
+      "local_time": "12:00 PM PT",
+      "round": "Group B",
+      "teams_or_placeholder": "Bosnia and Herzegovina vs Qatar",
+      "stadium": "Lumen Field"
+    },
+    {
+      "date": "June 26",
+      "local_time": "8:00 PM PT",
+      "round": "Group G",
+      "teams_or_placeholder": "Egypt vs Iran",
+      "stadium": "Lumen Field"
+    },
+    {
+      "date": "July 1",
+      "local_time": "1:00 PM PT",
+      "round": "Round of 32",
+      "teams_or_placeholder": "TBD (Match 81)",
+      "stadium": "Lumen Field"
+    },
+    {
+      "date": "July 6",
+      "local_time": "5:00 PM PT",
+      "round": "Round of 16",
+      "teams_or_placeholder": "TBD (Match 94)",
       "stadium": "Lumen Field"
     }
   ],
@@ -250,22 +294,56 @@
   ],
   "soccer_culture": {
     "community_notes": "Seattle Sounders FC has set the standard for supporter culture in MLS since 2009. The ECS (Emerald City Supporters) and Gorilla FC are some of the most organised and passionate groups in American soccer. This stadium gets loud.",
-    "local_clubs": ["Seattle Sounders FC (MLS)", "OL Reign (NWSL)"],
-    "supporter_groups": ["Emerald City Supporters (ECS)", "Gorilla FC", "Alliance of New Ultras (ANU)"],
-    "historic_venues": ["Lumen Field", "Memorial Stadium (LINK light rail expansion site)"]
+    "local_clubs": [
+      "Seattle Sounders FC (MLS)",
+      "OL Reign (NWSL)"
+    ],
+    "supporter_groups": [
+      "Emerald City Supporters (ECS)",
+      "Gorilla FC",
+      "Alliance of New Ultras (ANU)"
+    ],
+    "historic_venues": [
+      "Lumen Field",
+      "Memorial Stadium (LINK light rail expansion site)"
+    ]
   },
   "things_to_do": {
     "tourist_hits": [
-      { "name": "Pike Place Market", "notes": "The classic Seattle experience — fish throwing, flower vendors, the original Starbucks. Go early morning." },
-      { "name": "Space Needle", "notes": "Iconic observation tower at Seattle Center. Book tickets in advance for the best views." },
-      { "name": "Chihuly Garden and Glass", "notes": "Extraordinary glass art museum at Seattle Center — one of the best art experiences in the Pacific Northwest." },
-      { "name": "MoPOP Museum", "notes": "Museum of Pop Culture — Jimi Hendrix, Nirvana, Star Wars, and Pacific Northwest music history." }
+      {
+        "name": "Pike Place Market",
+        "notes": "The classic Seattle experience — fish throwing, flower vendors, the original Starbucks. Go early morning."
+      },
+      {
+        "name": "Space Needle",
+        "notes": "Iconic observation tower at Seattle Center. Book tickets in advance for the best views."
+      },
+      {
+        "name": "Chihuly Garden and Glass",
+        "notes": "Extraordinary glass art museum at Seattle Center — one of the best art experiences in the Pacific Northwest."
+      },
+      {
+        "name": "MoPOP Museum",
+        "notes": "Museum of Pop Culture — Jimi Hendrix, Nirvana, Star Wars, and Pacific Northwest music history."
+      }
     ],
     "local_favorites": [
-      { "name": "Gas Works Park", "notes": "Former industrial gasification plant turned park on Lake Union — great city views and local crowd." },
-      { "name": "Fremont Sunday Market", "notes": "Arts, food, and vintage goods at Seattle's most eclectic neighbourhood market." },
-      { "name": "Kerry Park", "notes": "The definitive Seattle skyline viewpoint — best at sunset or on clear days." },
-      { "name": "Columbia City Farmers Market", "notes": "Genuine neighbourhood market in South Seattle — excellent Southeast Asian food stalls." }
+      {
+        "name": "Gas Works Park",
+        "notes": "Former industrial gasification plant turned park on Lake Union — great city views and local crowd."
+      },
+      {
+        "name": "Fremont Sunday Market",
+        "notes": "Arts, food, and vintage goods at Seattle's most eclectic neighbourhood market."
+      },
+      {
+        "name": "Kerry Park",
+        "notes": "The definitive Seattle skyline viewpoint — best at sunset or on clear days."
+      },
+      {
+        "name": "Columbia City Farmers Market",
+        "notes": "Genuine neighbourhood market in South Seattle — excellent Southeast Asian food stalls."
+      }
     ]
   },
   "food_nightlife": {
@@ -276,25 +354,48 @@
       "Pike Place / Belltown — tourist-friendly with genuinely good food"
     ],
     "recommendations": [
-      { "name": "Canlis", "notes": "Seattle's most celebrated fine-dining restaurant with stunning views. Book months ahead." },
-      { "name": "Nue", "notes": "Global street food done beautifully in Capitol Hill. Perfect for a pre-match dinner." },
-      { "name": "Serious Biscuit", "notes": "Tom Douglas's legendary breakfast spot — go for the biscuit sandwiches." }
+      {
+        "name": "Canlis",
+        "notes": "Seattle's most celebrated fine-dining restaurant with stunning views. Book months ahead."
+      },
+      {
+        "name": "Nue",
+        "notes": "Global street food done beautifully in Capitol Hill. Perfect for a pre-match dinner."
+      },
+      {
+        "name": "Serious Biscuit",
+        "notes": "Tom Douglas's legendary breakfast spot — go for the biscuit sandwiches."
+      }
     ]
   },
   "local_resources": {
     "tourism_links": [
-      { "name": "Visit Seattle", "url": "https://www.visitseattle.org" }
+      {
+        "name": "Visit Seattle",
+        "url": "https://www.visitseattle.org"
+      }
     ],
     "transit_apps": [
-      { "name": "One Bus Away", "url": "https://www.onebusaway.org" },
-      { "name": "ORCA Card", "url": "https://www.orcacard.com" }
+      {
+        "name": "One Bus Away",
+        "url": "https://www.onebusaway.org"
+      },
+      {
+        "name": "ORCA Card",
+        "url": "https://www.orcacard.com"
+      }
     ],
     "emergency_info": "Emergency: 911. Non-emergency Seattle Police: (206) 625-5011. Hospital: Harborview Medical Center, (206) 744-3000."
   },
   "walk_bike": {
     "walkability_summary": "Downtown Seattle, Pioneer Square, Capitol Hill, and Queen Anne are excellent for walking. The waterfront path and BellConnect trail are improving North-South walkability.",
     "bikeability_summary": "Lime and JUMP e-bikes operate throughout. The Burke-Gilman Trail is a classic cycling route.",
-    "best_walkable_areas": ["Pioneer Square to stadium", "Pike Place Market to Downtown", "Capitol Hill / Broadway", "Waterfront Promenade"],
+    "best_walkable_areas": [
+      "Pioneer Square to stadium",
+      "Pike Place Market to Downtown",
+      "Capitol Hill / Broadway",
+      "Waterfront Promenade"
+    ],
     "bike_share_notes": "Lime bikeshare and e-scooters operate throughout Seattle. Burke-Gilman Trail connects Fremont, U-District, and the waterfront."
   },
   "pickup_soccer": [

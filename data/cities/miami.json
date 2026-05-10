@@ -82,11 +82,19 @@
     }
   ],
   "quick_facts": {
-    "matches_hosted": "7 tournament matches",
+    "matches_hosted": "7 matches — Group stage through 3rd Place match",
     "stadium": "Hard Rock Stadium",
-    "airport_codes": ["MIA", "FLL"],
+    "airport_codes": [
+      "MIA",
+      "FLL"
+    ],
     "timezone": "Eastern Time",
-    "best_neighborhoods": ["Brickell", "Downtown", "Miami Beach", "Wynwood"],
+    "best_neighborhoods": [
+      "Brickell",
+      "Downtown",
+      "Miami Beach",
+      "Wynwood"
+    ],
     "fan_hub_status": "Major public viewing areas expected; confirm local schedules before match day"
   },
   "weather": {
@@ -124,9 +132,52 @@
   ],
   "match_schedule": [
     {
-      "date": "June-July 2026",
-      "round": "Group stage and knockout rounds",
-      "teams_or_placeholder": "Miami is scheduled for multiple tournament matches, including a late-stage placement match.",
+      "date": "June 15",
+      "local_time": "6:00 PM ET",
+      "round": "Group H",
+      "teams_or_placeholder": "Saudi Arabia vs Uruguay",
+      "stadium": "Hard Rock Stadium"
+    },
+    {
+      "date": "June 21",
+      "local_time": "6:00 PM ET",
+      "round": "Group H",
+      "teams_or_placeholder": "Uruguay vs Cape Verde",
+      "stadium": "Hard Rock Stadium"
+    },
+    {
+      "date": "June 24",
+      "local_time": "6:00 PM ET",
+      "round": "Group C",
+      "teams_or_placeholder": "Scotland vs Brazil",
+      "stadium": "Hard Rock Stadium"
+    },
+    {
+      "date": "June 27",
+      "local_time": "7:30 PM ET",
+      "round": "Group K",
+      "teams_or_placeholder": "Colombia vs Portugal",
+      "stadium": "Hard Rock Stadium"
+    },
+    {
+      "date": "July 3",
+      "local_time": "6:00 PM ET",
+      "round": "Round of 32",
+      "teams_or_placeholder": "TBD (Match 87)",
+      "stadium": "Hard Rock Stadium"
+    },
+    {
+      "date": "July 11",
+      "local_time": "5:00 PM ET",
+      "round": "Quarter-final",
+      "teams_or_placeholder": "TBD (Quarter-final 3)",
+      "stadium": "Hard Rock Stadium"
+    },
+    {
+      "date": "July 18",
+      "local_time": "5:00 PM ET",
+      "round": "3rd Place",
+      "teams_or_placeholder": "TBD — 3rd Place Match",
       "stadium": "Hard Rock Stadium"
     }
   ],
@@ -216,9 +267,17 @@
     }
   ],
   "soccer_culture": {
-    "local_clubs": ["Inter Miami CF", "Miami FC"],
-    "supporter_groups": ["Inter Miami supporter groups create strong match-day energy across South Florida"],
-    "historic_venues": ["DRV PNK Stadium / Chase Stadium area", "Orange Bowl legacy sites"],
+    "local_clubs": [
+      "Inter Miami CF",
+      "Miami FC"
+    ],
+    "supporter_groups": [
+      "Inter Miami supporter groups create strong match-day energy across South Florida"
+    ],
+    "historic_venues": [
+      "DRV PNK Stadium / Chase Stadium area",
+      "Orange Bowl legacy sites"
+    ],
     "community_notes": "Miami is one of North America's strongest international soccer markets, with deep Latin American, Caribbean, and European fan communities."
   },
   "things_to_do": {
@@ -252,7 +311,13 @@
     ]
   },
   "food_nightlife": {
-    "areas": ["Brickell", "Wynwood", "Little Havana", "South Beach", "Coconut Grove"],
+    "areas": [
+      "Brickell",
+      "Wynwood",
+      "Little Havana",
+      "South Beach",
+      "Coconut Grove"
+    ],
     "recommendations": [
       {
         "name": "Cuban food in Little Havana",
@@ -292,7 +357,13 @@
   "walk_bike": {
     "walkability_summary": "Miami is neighborhood-walkable rather than citywide-walkable. Brickell, Downtown, South Beach, Coconut Grove, and Wynwood are best without a car.",
     "bikeability_summary": "Biking is useful in beach and park areas, but heat, storms, and traffic make it less reliable for stadium travel.",
-    "best_walkable_areas": ["Brickell", "Downtown waterfront", "South Beach", "Wynwood", "Coconut Grove"],
+    "best_walkable_areas": [
+      "Brickell",
+      "Downtown waterfront",
+      "South Beach",
+      "Wynwood",
+      "Coconut Grove"
+    ],
     "bike_share_notes": "Use bike/scooter options for short neighborhood trips, not long stadium transfers."
   },
   "pickup_soccer": [

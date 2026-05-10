@@ -10,11 +10,20 @@
     "transport": "NRG Stadium is in the NRG Park complex, about 8 km south of downtown. The METRORail Red Line has an NRG Park stop — about 15 minutes from downtown Main St stops. Rideshare and game-day shuttles are also used. The Red Line is strongly preferred on match days."
   },
   "quick_facts": {
-    "matches_hosted": "Multiple matches including group stage and advanced rounds",
+    "matches_hosted": "7 matches — Group stage through Round of 16",
     "stadium": "NRG Stadium",
-    "airport_codes": ["IAH", "HOU"],
+    "airport_codes": [
+      "IAH",
+      "HOU"
+    ],
     "timezone": "Central Time",
-    "best_neighborhoods": ["Downtown", "Midtown", "Montrose", "Museum District", "EaDo"],
+    "best_neighborhoods": [
+      "Downtown",
+      "Midtown",
+      "Montrose",
+      "Museum District",
+      "EaDo"
+    ],
     "fan_hub_status": "Fan hub expected at Discovery Green; confirm local schedules"
   },
   "weather": {
@@ -52,9 +61,52 @@
   ],
   "match_schedule": [
     {
-      "date": "June–July 2026",
-      "round": "Group stage and advanced rounds",
-      "teams_or_placeholder": "NRG Stadium hosts multiple matches. Full schedule after group draw.",
+      "date": "June 14",
+      "local_time": "12:00 PM CT",
+      "round": "Group E",
+      "teams_or_placeholder": "Germany vs Curaçao",
+      "stadium": "NRG Stadium"
+    },
+    {
+      "date": "June 17",
+      "local_time": "12:00 PM CT",
+      "round": "Group K",
+      "teams_or_placeholder": "Portugal vs DR Congo",
+      "stadium": "NRG Stadium"
+    },
+    {
+      "date": "June 20",
+      "local_time": "12:00 PM CT",
+      "round": "Group F",
+      "teams_or_placeholder": "Netherlands vs Sweden",
+      "stadium": "NRG Stadium"
+    },
+    {
+      "date": "June 23",
+      "local_time": "12:00 PM CT",
+      "round": "Group K",
+      "teams_or_placeholder": "Portugal vs Uzbekistan",
+      "stadium": "NRG Stadium"
+    },
+    {
+      "date": "June 26",
+      "local_time": "7:00 PM CT",
+      "round": "Group H",
+      "teams_or_placeholder": "Cape Verde vs Saudi Arabia",
+      "stadium": "NRG Stadium"
+    },
+    {
+      "date": "June 29",
+      "local_time": "12:00 PM CT",
+      "round": "Round of 32",
+      "teams_or_placeholder": "TBD (Match 74)",
+      "stadium": "NRG Stadium"
+    },
+    {
+      "date": "July 4",
+      "local_time": "12:00 PM CT",
+      "round": "Round of 16",
+      "teams_or_placeholder": "TBD (Match 89)",
       "stadium": "NRG Stadium"
     }
   ],
@@ -234,21 +286,51 @@
   ],
   "soccer_culture": {
     "community_notes": "Houston has one of the most passionate soccer communities in the USA. The city's enormous Mexican, Central American, Colombian, Nigerian, Vietnamese, and other immigrant communities all bring deep football cultures. Houston Dynamo's PNC Stadium hosts some of the loudest crowds in MLS. This is the real deal.",
-    "local_clubs": ["Houston Dynamo FC (MLS)", "Houston Dash (NWSL)"],
-    "supporter_groups": ["El Capitan (Houston Dynamo)", "La Bateria"],
-    "historic_venues": ["NRG Stadium", "PNC Stadium (Houston Dynamo home, formerly BBVA Stadium)"]
+    "local_clubs": [
+      "Houston Dynamo FC (MLS)",
+      "Houston Dash (NWSL)"
+    ],
+    "supporter_groups": [
+      "El Capitan (Houston Dynamo)",
+      "La Bateria"
+    ],
+    "historic_venues": [
+      "NRG Stadium",
+      "PNC Stadium (Houston Dynamo home, formerly BBVA Stadium)"
+    ]
   },
   "things_to_do": {
     "tourist_hits": [
-      { "name": "Space Center Houston", "notes": "NASA's visitor complex — interactive exhibits, mission control tours, and real spacecraft. Book in advance." },
-      { "name": "Houston Museum of Natural Science", "notes": "Gem and mineral collection, dinosaur halls, and excellent rotating exhibitions." },
-      { "name": "Museum of Fine Arts Houston", "notes": "One of the largest art museums in the USA — free on Thursdays." },
-      { "name": "Houston Zoo", "notes": "Large, well-maintained zoo in Hermann Park adjacent to the Museum District." }
+      {
+        "name": "Space Center Houston",
+        "notes": "NASA's visitor complex — interactive exhibits, mission control tours, and real spacecraft. Book in advance."
+      },
+      {
+        "name": "Houston Museum of Natural Science",
+        "notes": "Gem and mineral collection, dinosaur halls, and excellent rotating exhibitions."
+      },
+      {
+        "name": "Museum of Fine Arts Houston",
+        "notes": "One of the largest art museums in the USA — free on Thursdays."
+      },
+      {
+        "name": "Houston Zoo",
+        "notes": "Large, well-maintained zoo in Hermann Park adjacent to the Museum District."
+      }
     ],
     "local_favorites": [
-      { "name": "Buffalo Bayou Park", "notes": "5 km riverside park with cycling, kayaking, and outdoor art. Beautiful in the cooler morning hours." },
-      { "name": "Kemah Boardwalk", "notes": "Waterfront entertainment district 45 min from Downtown — rides, seafood restaurants, and bay views." },
-      { "name": "Chinatown / Bellaire Blvd", "notes": "One of the best Chinese, Vietnamese, and pan-Asian restaurant areas in the USA." }
+      {
+        "name": "Buffalo Bayou Park",
+        "notes": "5 km riverside park with cycling, kayaking, and outdoor art. Beautiful in the cooler morning hours."
+      },
+      {
+        "name": "Kemah Boardwalk",
+        "notes": "Waterfront entertainment district 45 min from Downtown — rides, seafood restaurants, and bay views."
+      },
+      {
+        "name": "Chinatown / Bellaire Blvd",
+        "notes": "One of the best Chinese, Vietnamese, and pan-Asian restaurant areas in the USA."
+      }
     ]
   },
   "food_nightlife": {
@@ -259,25 +341,48 @@
       "Chinatown / Bellaire Blvd — authentic pan-Asian food"
     ],
     "recommendations": [
-      { "name": "Uchi Houston", "notes": "James Beard-winning Japanese restaurant from Tyson Cole. Book well ahead." },
-      { "name": "Underbelly Hospitality", "notes": "Chris Shepherd's Houston-centric restaurant group — excellent for the city's food story." },
-      { "name": "Teotihuacan Mexican Cafe", "notes": "The best authentic Mexican food in Houston — multiple locations, cash-friendly." }
+      {
+        "name": "Uchi Houston",
+        "notes": "James Beard-winning Japanese restaurant from Tyson Cole. Book well ahead."
+      },
+      {
+        "name": "Underbelly Hospitality",
+        "notes": "Chris Shepherd's Houston-centric restaurant group — excellent for the city's food story."
+      },
+      {
+        "name": "Teotihuacan Mexican Cafe",
+        "notes": "The best authentic Mexican food in Houston — multiple locations, cash-friendly."
+      }
     ]
   },
   "local_resources": {
     "tourism_links": [
-      { "name": "Visit Houston", "url": "https://www.visithoustontexas.com" }
+      {
+        "name": "Visit Houston",
+        "url": "https://www.visithoustontexas.com"
+      }
     ],
     "transit_apps": [
-      { "name": "METRO TRIP", "url": "https://www.ridemetro.org" },
-      { "name": "Transit App", "url": "https://transitapp.com" }
+      {
+        "name": "METRO TRIP",
+        "url": "https://www.ridemetro.org"
+      },
+      {
+        "name": "Transit App",
+        "url": "https://transitapp.com"
+      }
     ],
     "emergency_info": "Emergency: 911. Houston Police non-emergency: (713) 884-3131. Hospital: Houston Methodist Hospital, (713) 790-3311."
   },
   "walk_bike": {
     "walkability_summary": "Houston is not a pedestrian city overall, but Downtown, Midtown along Main St, and Montrose have walkable corridors. Bayou Greenway trails offer excellent cycling routes.",
     "bikeability_summary": "BCycle Houston operates bikeshare in Downtown, Midtown, and Montrose. Bayou Greenway provides car-free cycling routes.",
-    "best_walkable_areas": ["Downtown near Discovery Green", "Midtown on Main St", "Montrose corridor", "Museum District"],
+    "best_walkable_areas": [
+      "Downtown near Discovery Green",
+      "Midtown on Main St",
+      "Montrose corridor",
+      "Museum District"
+    ],
     "bike_share_notes": "BCycle Houston docks in Downtown, Midtown, and EaDo. Day passes in the BCycle app. Buffalo Bayou and Bayou Greenway are the best cycling routes."
   },
   "pickup_soccer": [
