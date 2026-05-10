@@ -1,0 +1,329 @@
+{
+  "hero": {
+    "tagline": "Mexico's Industrial Capital, Football's Mountain Stage",
+    "description": "Monterrey sits in a dramatic mountain valley flanked by the Sierra Madre Oriental — one of the most visually stunning urban settings in Mexico. Estadio BBVA is home to Club Rayados, one of Liga MX's biggest clubs, and stands directly against the mountain backdrop. The city is Mexico's most prosperous, with a cosmopolitan food scene, serious beer culture, and a deeply passionate football following. This is not just another Mexican city — it's a place that does everything with intensity."
+  },
+  "stadium": {
+    "name": "Estadio BBVA",
+    "capacity": 51350,
+    "address": "Av. Pablo Livas 2011, Guadalupe, N.L. 67190",
+    "transport": "Estadio BBVA is in Guadalupe, about 10 km east of Monterrey's city centre. Metro Line 2 runs to the General Anaya station, from which game-day shuttles connect to the stadium — about 35 min total from the Centro. Uber and DiDi are also reliable and very affordable. Driving is possible but traffic near the stadium on match days is significant."
+  },
+  "quick_facts": {
+    "matches_hosted": "Multiple matches including group stage and advanced rounds",
+    "stadium": "Estadio BBVA",
+    "airport_codes": ["MTY"],
+    "timezone": "Central Time (Mexico)",
+    "best_neighborhoods": ["San Pedro Garza García", "Barrio Antiguo / Centro", "Valle / Contry", "Colonia del Valle"],
+    "fan_hub_status": "Fan activity expected at Macroplaza and Parque Fundidora; confirm local schedules"
+  },
+  "weather": {
+    "june": "Hot, dry, and intense. Highs 34–38°C (93–100°F). Monterrey is known for some of the hottest summers in Mexico — the mountains trap heat in the valley.",
+    "july": "Still very hot — highs 33–37°C (91–99°F). Some afternoon thunderstorms provide brief relief. Humidity lower than coastal Mexico but the heat is real.",
+    "packing_tips": [
+      "Lightweight, breathable clothing is essential — Monterrey heat is not to be underestimated",
+      "Sunscreen and a hat for outdoor fan zones and daytime sightseeing",
+      "Carry a large water bottle — dehydration is a genuine concern",
+      "A light layer for indoor air conditioning — Monterrey's restaurants and venues keep AC very cold"
+    ]
+  },
+  "airports": [
+    {
+      "name": "Monterrey International Airport (General Mariano Escobedo)",
+      "code": "MTY",
+      "distance_to_stadium": "About 20 km northwest of the city centre; about 30 km from Estadio BBVA",
+      "transfer_options": [
+        "No direct rail from the airport — Uber or DiDi is the practical option (25–35 min to city centre hotels)",
+        "Official airport taxis available at fixed-rate stands in arrivals — rates are posted and fair",
+        "Rental car useful if exploring the surrounding mountains or making day trips"
+      ],
+      "notes": "MTY is a modern international airport with good connections from the USA and across Mexico. Uber and DiDi both operate from the airport. Allow extra travel time on match days — traffic on the ring roads can be heavy."
+    }
+  ],
+  "match_schedule": [
+    {
+      "date": "June–July 2026",
+      "round": "Group stage and advanced rounds",
+      "teams_or_placeholder": "Estadio BBVA hosts multiple matches including advanced rounds. Full schedule after group draw.",
+      "stadium": "Estadio BBVA"
+    }
+  ],
+  "stadium_transport": {
+    "public_transit": [
+      "Metro Line 2 to General Anaya station — game-day shuttles connect to Estadio BBVA from there",
+      "Metro tickets are inexpensive — stored-value cards available at any metro station",
+      "Total journey from Centro via Metro + shuttle: about 35–45 min"
+    ],
+    "rideshare": [
+      "Uber and DiDi are both widely used in Monterrey and extremely affordable",
+      "Pre-match ride from the Centro or San Pedro takes 20–30 min",
+      "Post-match surge pricing is significant — walk 10–15 min from the stadium before requesting a pickup",
+      "Pre-booking a scheduled Uber or DiDi before kickoff locks in better pricing"
+    ],
+    "driving_parking": [
+      "Parking is available at Estadio BBVA but fills very early on match days",
+      "Av. Pablo Livas and access roads back up severely for 60–90 min post-match",
+      "Park-and-ride with the Metro from further west is a practical alternative"
+    ],
+    "walking_biking": [
+      "Not walkable from the city centre",
+      "EcoBici bikeshare operates in central Monterrey but does not extend to the stadium"
+    ],
+    "match_day_tips": [
+      "Estadio BBVA is one of the most visually dramatic stadiums in the world — the Cerro de la Silla mountain rises directly behind the south stand",
+      "Rayados fans are extraordinarily passionate — expect the full Monterrey football culture on display",
+      "Arrive at least 90 min early — the stadium draws huge crowds and the security queues can be long",
+      "Bring water for the outdoor queue — Monterrey heat in June is serious"
+    ]
+  },
+  "fan_hubs": [
+    {
+      "name": "Macroplaza Fan Area",
+      "location": "Gran Plaza, Av. Constitución, Centro, Monterrey",
+      "status": "expected",
+      "description": "One of the largest urban plazas in Latin America — the massive Macroplaza at the heart of Monterrey's historic centre, flanked by colonial and modern government buildings and the iconic Faro del Comercio tower. Expected to host large-scale screens and community fan events throughout the tournament.",
+      "transport_tips": [
+        "Metro Line 2 to Cuauhtémoc station — short walk to the Macroplaza",
+        "Walking distance from most Centro Histórico hotels",
+        "Uber from San Pedro Garza García takes about 15 min"
+      ]
+    },
+    {
+      "name": "Parque Fundidora Fan Hub",
+      "location": "Av. Fundidora 501, Obrera, Monterrey",
+      "status": "expected",
+      "description": "A former industrial steelworks transformed into one of the best urban parks in Mexico — 140 hectares of outdoor space, interactive museums, and event venues. The natural setting for large World Cup fan events in Monterrey, with extensive capacity and excellent transport links.",
+      "transport_tips": [
+        "Metro Line 2 to Parque Fundidora station — direct access",
+        "10 min by Uber from the Centro or Barrio Antiguo",
+        "Walking distance from some Barrio Antiguo hotels"
+      ]
+    }
+  ],
+  "neighborhoods": [
+    {
+      "name": "San Pedro Garza García",
+      "best_for": "Upscale dining, safe base, international atmosphere",
+      "safety_transit_notes": "The safest and most international neighbourhood in Monterrey. Well-lit, well-patrolled.",
+      "stadium_access": "Uber to BBVA — 20–25 min",
+      "hotel_price_level": "$$$",
+      "description": "Monterrey's upscale suburb — a separate municipality that feels like Mexico's version of Polanco. Excellent international restaurants, luxury hotels, and the city's best cocktail bars. Slightly removed from the football atmosphere but the safest and most comfortable option."
+    },
+    {
+      "name": "Barrio Antiguo / Centro Histórico",
+      "best_for": "Nightlife, culture, cantinas, football bars",
+      "safety_transit_notes": "Safe on the main Barrio Antiguo streets — busier and well-lit at night. Stay on main streets.",
+      "stadium_access": "Metro + shuttle to BBVA — 35–40 min; Uber — 25 min",
+      "hotel_price_level": "$$",
+      "description": "Monterrey's historic barrio — the city's most atmospheric neighbourhood with colonial architecture, cantinas, live music, and the best football bar scene in the city. The Barrio is the place to watch matches you don't have tickets for."
+    },
+    {
+      "name": "Valle / Contry",
+      "best_for": "Modern amenities, restaurants, safe residential base",
+      "safety_transit_notes": "Safe, quiet residential area with good restaurants.",
+      "stadium_access": "Uber to BBVA — 20–25 min",
+      "hotel_price_level": "$$–$$$",
+      "description": "Modern upper-middle-class neighbourhood west of the Centro with excellent restaurants, shopping malls, and a relaxed pace. Good practical base for visitors who want comfort without San Pedro's price point."
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Safi Royal Luxury Valle",
+      "stars": 5,
+      "distance": "20 min to stadium via Uber",
+      "neighborhood": "Valle",
+      "best_for": "Luxury, rooftop pool, mountain views",
+      "affiliate_url": "https://www.booking.com/hotel/mx/safi-royal-luxury-valle-monterrey.html?aid=YOUR_AID",
+      "affiliate_label": "Check availability",
+      "affiliate_provider": "Booking.com"
+    },
+    {
+      "name": "Fiesta Americana Monterrey Valle",
+      "stars": 4,
+      "distance": "20 min to stadium",
+      "neighborhood": "Valle",
+      "best_for": "Reliable international chain, good facilities",
+      "affiliate_url": "https://www.booking.com/hotel/mx/fiesta-americana-monterrey-valle.html?aid=YOUR_AID",
+      "affiliate_label": "Check availability",
+      "affiliate_provider": "Booking.com"
+    },
+    {
+      "name": "Krystal Grand Monterrey",
+      "stars": 4,
+      "distance": "25 min to stadium",
+      "neighborhood": "Centro",
+      "best_for": "Business facilities, Macroplaza proximity, mid-price",
+      "affiliate_url": "https://www.booking.com/hotel/mx/krystal-monterrey.html?aid=YOUR_AID",
+      "affiliate_label": "Check availability",
+      "affiliate_provider": "Booking.com"
+    },
+    {
+      "name": "NH Monterrey Centro",
+      "stars": 3,
+      "distance": "30 min to stadium",
+      "neighborhood": "Centro",
+      "best_for": "Budget-smart, Centro location, Barrio Antiguo access",
+      "affiliate_url": "https://www.booking.com/hotel/mx/nh-monterrey.html?aid=YOUR_AID",
+      "affiliate_label": "Check availability",
+      "affiliate_provider": "Booking.com"
+    }
+  ],
+  "booking_links": [
+    {
+      "provider": "Booking.com",
+      "label": "Browse all Monterrey hotels on Booking.com →",
+      "affiliate_url": "https://www.booking.com/city/mx/monterrey.html?aid=YOUR_AID"
+    }
+  ],
+  "bars": [
+    {
+      "name": "La Constancia",
+      "neighborhood": "Barrio Antiguo",
+      "vibe": "pub",
+      "address": "Av. Morelos 802, Barrio Antiguo, Monterrey",
+      "notes": "One of Monterrey's most celebrated cantinas — dark wood, old photographs, outstanding local beer, and a crowd that shows up for every match. The heartbeat of Barrio Antiguo nightlife.",
+      "transit": "Walking distance within Barrio Antiguo"
+    },
+    {
+      "name": "Almacén 42",
+      "neighborhood": "Centro",
+      "vibe": "pub",
+      "address": "Padre Mier 642, Centro, Monterrey",
+      "notes": "Popular bar in a converted warehouse near the Centro. Multiple screens, craft beer, and a young local crowd. Good match-day atmosphere.",
+      "transit": "Short walk from Metro Cuauhtémoc or Zaragoza stations"
+    },
+    {
+      "name": "Tierra de Fuego",
+      "neighborhood": "San Pedro Garza García",
+      "vibe": "rowdy",
+      "address": "Av. Vasconcelos 311, San Pedro Garza García",
+      "notes": "San Pedro's most active sports bar — multiple screens, outdoor terrace, and a passionate crowd for Liga MX and international matches.",
+      "transit": "Uber from Centro (15 min)"
+    },
+    {
+      "name": "Casa de Mader",
+      "neighborhood": "Barrio Antiguo",
+      "vibe": "outdoor",
+      "address": "Av. Padre Mier 920, Barrio Antiguo, Monterrey",
+      "notes": "Courtyard bar in a colonial building — beautiful outdoor setting, craft beers, and a lively atmosphere that extends well into the night.",
+      "transit": "Walking distance in the Barrio Antiguo"
+    },
+    {
+      "name": "The Beer Box",
+      "neighborhood": "Valle",
+      "vibe": "pub",
+      "address": "Vasconcelos 217, Valle, Monterrey",
+      "notes": "Craft beer specialist with an excellent Monterrey brewing selection and reliable football screenings for European and international matches.",
+      "transit": "Uber from Centro (10 min)"
+    }
+  ],
+  "transport": {
+    "summary": "Monterrey's two-line metro covers key corridors and connects to Estadio BBVA via the General Anaya station. Uber and DiDi are extremely affordable and practical throughout the city. The city is car-oriented but rideshare makes it manageable for visitors.",
+    "tips": [
+      "Metro to General Anaya + stadium shuttle is the most reliable match-day option",
+      "Uber and DiDi are both available — average ride from Centro to stadium is about $4–6 USD",
+      "MTY airport has no rail connection — rideshare from the airport to the centre is 25–35 min",
+      "San Pedro Garza García hotels are close to good restaurants but 15–20 min from the Centro by Uber",
+      "Metro stored-value cards available at all stations — tickets are around 4.50 MXN"
+    ]
+  },
+  "fan_zones": [
+    {
+      "name": "Macroplaza Fan Area",
+      "location": "Gran Plaza, Centro, Monterrey",
+      "capacity": 40000,
+      "description": "Latin America's second-largest urban plaza — a massive open space at the heart of Monterrey's historic centre. Expected to host large screens and community fan gatherings throughout the tournament."
+    },
+    {
+      "name": "Parque Fundidora Fan Hub",
+      "location": "Av. Fundidora 501, Obrera, Monterrey",
+      "capacity": 25000,
+      "description": "A converted industrial park with excellent outdoor space — one of the best urban parks in Mexico and the natural home of large-scale fan events in Monterrey."
+    }
+  ],
+  "soccer_culture": {
+    "community_notes": "Monterrey has two fierce Liga MX rivals — Rayados (Club de Fútbol Monterrey) and Tigres UANL — that together dominate Mexican football in the modern era. Both clubs have passionate ultras and a tradition of European-quality stadium atmospheres. Estadio BBVA is regularly cited as one of the most impressive stadium experiences in Latin America. The mountain backdrop makes it genuinely breathtaking.",
+    "local_clubs": ["Club de Fútbol Monterrey / Rayados (Liga MX)", "Tigres UANL (Liga MX)"],
+    "supporter_groups": ["La Adicción (Rayados)", "Libres y Lokos (Tigres)"],
+    "historic_venues": ["Estadio BBVA (current, 2015–)", "Estadio Tecnológico (historic, Tigres home)"]
+  },
+  "things_to_do": {
+    "tourist_hits": [
+      { "name": "Cerro de la Silla (Saddle Mountain)", "notes": "Monterrey's iconic double-peaked mountain — visible from almost everywhere in the city. Hiking trails to the summit (moderate difficulty, about 3–4 hours). Extraordinary views of the urban valley below." },
+      { "name": "Parque Fundidora", "notes": "140 hectares of industrial-heritage park built around the ruins of Monterrey's former steel foundry. Multiple museums, bike paths, event spaces, and the MARCO (Museum of Contemporary Art) facility." },
+      { "name": "Grutas de García", "notes": "Impressive cave system 45 km northwest of Monterrey — an aerial cable car descends into the illuminated caverns. One of the best day trips from the city." }
+    ],
+    "local_favorites": [
+      { "name": "Barrio Antiguo on a Saturday evening", "notes": "Monterrey's historic barrio comes alive on weekends — cantinas, street food, live music, and the best people-watching in the city." },
+      { "name": "Mercado Juárez", "notes": "The city's main traditional market — excellent burritos norteños (Monterrey-style flour tortilla burritos), regional cheeses, and craft goods." },
+      { "name": "Cola de Caballo waterfall", "notes": "60 km south — a spectacular 25-metre waterfall in the mountains. Popular day trip from Monterrey, accessible by car or tour." }
+    ]
+  },
+  "food_nightlife": {
+    "areas": [
+      "Barrio Antiguo — cantinas, restaurants, and the best football bar scene",
+      "San Pedro Garza García — upscale international dining and cocktail bars",
+      "Valle — modern restaurants and craft beer venues",
+      "Parque Fundidora area — growing food and culture scene"
+    ],
+    "recommendations": [
+      { "name": "Cabrito (roasted young goat)", "notes": "The signature dish of Nuevo León — served whole or in parts at traditional restaurants across the city. El Rey del Cabrito near the Centro is the classic choice." },
+      { "name": "Burritos Norteños", "notes": "Monterrey-style flour tortilla burritos with machacado (dried beef), egg, and salsa. A completely different tradition from Tex-Mex — try them at Mercado Juárez for breakfast." },
+      { "name": "Pangea Restaurant", "notes": "Monterrey's most celebrated fine-dining restaurant — contemporary Mexican cuisine in San Pedro. Book weeks ahead." }
+    ]
+  },
+  "local_resources": {
+    "tourism_links": [
+      { "name": "Monterrey Tourism", "url": "https://www.nl.gob.mx/turismo" }
+    ],
+    "transit_apps": [
+      { "name": "Moovit (Monterrey transit)", "url": "https://moovitapp.com" },
+      { "name": "Uber Mexico", "url": "https://www.uber.com/mx/es/" }
+    ],
+    "emergency_info": "Emergency: 911 (standard across Mexico). Tourist assistance: 078. Hospital Regional Universitario: (81) 8333-2323. Currency: Mexican Peso (MXN). USD widely accepted in San Pedro and tourist areas but pesos recommended for markets and cantinas."
+  },
+  "walk_bike": {
+    "walkability_summary": "The Barrio Antiguo and Centro Histórico are walkable within their zones. San Pedro Garza García has walkable commercial strips. Parque Fundidora is excellent on foot. The broader city is very car-oriented.",
+    "bikeability_summary": "EcoBici operates a bikeshare system in the Centro and nearby areas. Parque Fundidora has dedicated cycling paths.",
+    "best_walkable_areas": ["Barrio Antiguo", "Macroplaza area", "Parque Fundidora", "San Pedro commercial strips"],
+    "bike_share_notes": "EcoBici stations in the Centro, Barrio Antiguo, and near Parque Fundidora. Day passes available at kiosks."
+  },
+  "pickup_soccer": [
+    {
+      "name": "Parque Fundidora Football Fields",
+      "location": "Av. Fundidora, Obrera, Monterrey",
+      "access_notes": "Municipal fields within the park complex — active pickup culture, particularly on weekend mornings.",
+      "schedule_notes": "Weekends from 7am."
+    },
+    {
+      "name": "Unidad Deportiva Cuauhtémoc",
+      "location": "Centro, Monterrey",
+      "access_notes": "City sports facility near the Metro with public football pitches.",
+      "schedule_notes": "Evenings and weekend mornings."
+    }
+  ],
+  "outdoors_day_trips": [
+    {
+      "name": "Cañón de la Huasteca",
+      "type": "Canyon / hiking",
+      "distance": "About 30 km southwest of Monterrey",
+      "difficulty": "Moderate",
+      "notes": "Dramatic limestone canyon walls rising 300 metres on each side of a narrow river valley. Hiking, rock climbing, and swimming. One of the most accessible dramatic landscapes near any major Mexican city."
+    },
+    {
+      "name": "Grutas de García",
+      "type": "Caves / cable car",
+      "distance": "About 45 km northwest of Monterrey",
+      "difficulty": "Easy",
+      "notes": "Cave system accessible by cable car into the mountain. Illuminated caverns with impressive stalactite formations. A popular and memorable half-day trip."
+    }
+  ],
+  "safety_tips": [
+    "Monterrey is safe in the main tourist areas — Barrio Antiguo, San Pedro Garza García, Valle, and Parque Fundidora",
+    "Use Uber or DiDi rather than unmarked street taxis for all journeys",
+    "Monterrey heat in June is severe — hydrate constantly and take indoor breaks during peak afternoon hours",
+    "Stay on the main streets in the Barrio Antiguo after midnight",
+    "San Pedro Garza García is consistently the safest base for international visitors",
+    "Carry pesos for markets and cantinas — cash is expected at many traditional venues"
+  ]
+}

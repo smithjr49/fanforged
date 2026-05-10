@@ -1,0 +1,329 @@
+{
+  "hero": {
+    "tagline": "The City of Brotherly Love Runs on Passion",
+    "description": "Philadelphia brings the 2026 tournament to Lincoln Financial Field, home of the Eagles and one of the most famously passionate fan bases in North American sports. Philly's working-class soccer culture, deep Eastern European and Latin communities, and iconic American history make this one of the most electrifying host cities in the draw."
+  },
+  "stadium": {
+    "name": "Lincoln Financial Field",
+    "capacity": 69328,
+    "address": "1 Lincoln Financial Field Way, Philadelphia, PA 19148",
+    "transport": "Lincoln Financial Field is in South Philadelphia's sports complex with excellent SEPTA Broad Street Line access. Take the orange subway to AT&T Station (now NRG Station) — a 5-minute walk to the stadium. From Center City, it's about 15 minutes. Regional Rail also connects via nearby stations."
+  },
+  "quick_facts": {
+    "matches_hosted": "Multiple matches including group stage and advanced rounds",
+    "stadium": "Lincoln Financial Field",
+    "airport_codes": ["PHL"],
+    "timezone": "Eastern Time",
+    "best_neighborhoods": ["Center City", "Old City", "South Philly", "Rittenhouse Square", "Northern Liberties"],
+    "fan_hub_status": "Fan hub expected on Benjamin Franklin Parkway; confirm local schedules"
+  },
+  "weather": {
+    "june": "Warm and humid, highs 26–30°C (79–86°F). Occasional afternoon thunderstorms.",
+    "july": "Hot and humid, highs 28–32°C (82–90°F). Heavy heat and humidity — plan indoor breaks.",
+    "packing_tips": [
+      "Lightweight, moisture-wicking clothing — Philly summer humidity is real",
+      "A light rain layer for afternoon storms",
+      "Sunscreen for outdoor events on the Parkway and South Street",
+      "Comfortable walking shoes — Center City is very walkable on flat ground"
+    ]
+  },
+  "airports": [
+    {
+      "name": "Philadelphia International Airport",
+      "code": "PHL",
+      "distance_to_stadium": "About 10 km from Lincoln Financial Field, 15 km from Center City",
+      "transfer_options": [
+        "SEPTA Regional Rail Airport Line: PHL to Center City (30th St, Jefferson, or Market East) in 25 minutes",
+        "From Market East, transfer to Broad Street Line south to the stadium area",
+        "Rideshare from PHL to Center City hotels takes 15–30 minutes depending on traffic",
+        "Rideshare from PHL directly to the stadium is convenient on match days"
+      ],
+      "notes": "One of the closer airports to a World Cup stadium. SEPTA Regional Rail is efficient and cheap — buy a SEPTA Key card at the airport."
+    }
+  ],
+  "match_schedule": [
+    {
+      "date": "June–July 2026",
+      "round": "Group stage and advanced rounds",
+      "teams_or_placeholder": "Lincoln Financial Field hosts multiple matches. Full schedule after group draw.",
+      "stadium": "Lincoln Financial Field"
+    }
+  ],
+  "stadium_transport": {
+    "public_transit": [
+      "SEPTA Broad Street Line: NRG/AT&T Station — 5-minute walk to Lincoln Financial Field",
+      "Regional Rail from Airport to Center City, then Broad Street Line south",
+      "SEPTA runs extended service on major event nights"
+    ],
+    "rideshare": [
+      "Rideshare is practical from Center City to the stadium — about 15–20 min",
+      "Post-match surge is significant — walk a few blocks north of the complex for faster pickup",
+      "Pre-book Uber/Lyft before the match for better pricing"
+    ],
+    "driving_parking": [
+      "The South Philly Sports Complex has substantial parking — pre-book lots online",
+      "Pattison Ave and Broad St back up significantly after sold-out events",
+      "Parking in surrounding South Philly streets can save money but requires a longer walk"
+    ],
+    "walking_biking": [
+      "Not walkable from Center City hotels — 3+ miles to the complex",
+      "Bike lanes on Broad St extend close to the sports complex from Center City"
+    ],
+    "match_day_tips": [
+      "Broad Street Line is the fastest and cheapest option — do not drive if avoidable",
+      "The sports complex has four major venues — expect large crowds on match days",
+      "Check Eagles schedule — no NFL conflicts during the tournament",
+      "South Philly has excellent pre-match restaurants nearby on Passyunk Ave"
+    ]
+  },
+  "fan_hubs": [
+    {
+      "name": "Benjamin Franklin Parkway Fan Hub",
+      "location": "Benjamin Franklin Pkwy at Eakins Oval, Philadelphia",
+      "status": "expected",
+      "description": "Philadelphia's grand boulevard, designed to resemble the Champs-Élysées, connects City Hall to the Philadelphia Museum of Art. The Eakins Oval area is expected to be the primary fan hub — giant screens, food, and entertainment with the Art Museum steps (Rocky's steps) as a backdrop.",
+      "transport_tips": [
+        "SEPTA to City Hall, then short walk to the Parkway",
+        "Walking distance from Rittenhouse Square and Logan Square hotels",
+        "Multiple bus routes serve Benjamin Franklin Pkwy"
+      ]
+    },
+    {
+      "name": "South Philly Sports Complex Area",
+      "location": "Pattison Ave area, South Philadelphia",
+      "status": "local_watch_area",
+      "description": "The pre-match energy around Lincoln Financial Field, Citizens Bank Park, and Wells Fargo Center is an event in itself. Multiple bars and outdoor spaces in the complex area fill with fans hours before kickoff.",
+      "transport_tips": [
+        "Broad Street Line to Pattison Ave station",
+        "Walk from the SEPTA stop to any of the surrounding sports bars"
+      ]
+    }
+  ],
+  "neighborhoods": [
+    {
+      "name": "Center City / Rittenhouse Square",
+      "best_for": "Best hotels, walkability, restaurants",
+      "safety_transit_notes": "Very safe and active. The most walkable area in Philly.",
+      "stadium_access": "SEPTA Broad Street Line south to stadium — 20 min",
+      "hotel_price_level": "$$–$$$",
+      "description": "The heart of Philadelphia with the highest concentration of hotels, restaurants, and bars. Rittenhouse Square is a walkable outdoor plaza surrounded by great dining options. Best base for most World Cup visitors."
+    },
+    {
+      "name": "Old City / Society Hill",
+      "best_for": "History, boutique hotels, culture",
+      "safety_transit_notes": "Safe and historic — some of the oldest streets in America.",
+      "stadium_access": "SEPTA Market-Frankford Line to Broad St, then south — about 25–30 min",
+      "hotel_price_level": "$$–$$$",
+      "description": "Philadelphia's historic heart with Independence Hall, the Liberty Bell, and colonial architecture. Great boutique hotel options and excellent restaurants on 2nd St."
+    },
+    {
+      "name": "South Philly",
+      "best_for": "Stadium proximity, Italian market, local culture",
+      "safety_transit_notes": "Generally safe in the East Passyunk corridor. Working-class neighbourhood feel.",
+      "stadium_access": "5–10 min on Broad Street Line",
+      "hotel_price_level": "$–$$",
+      "description": "The neighbourhood adjacent to the sports complex. The Italian Market, East Passyunk Ave restaurant corridor, and a deeply local Philly culture. Strong soccer bar scene around game day."
+    },
+    {
+      "name": "Northern Liberties / Fishtown",
+      "best_for": "Nightlife, craft beer, independent restaurants",
+      "safety_transit_notes": "Safe gentrifying area — busy and active on weekends.",
+      "stadium_access": "Broad Street Line from Spring Garden — about 25–30 min",
+      "hotel_price_level": "$$",
+      "description": "Philly's most hip neighbourhood with the best craft beer bars, independent restaurants, and a young local crowd. Great for fans who want the authentic Philadelphia bar scene."
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Loews Philadelphia Hotel",
+      "stars": 4,
+      "distance": "20 min to stadium via Broad Street Line",
+      "neighborhood": "Center City",
+      "best_for": "Classic luxury, Center City location, business travel",
+      "affiliate_url": "https://www.booking.com/hotel/us/loews-philadelphia.html?aid=YOUR_AID",
+      "affiliate_label": "Check availability",
+      "affiliate_provider": "Booking.com"
+    },
+    {
+      "name": "The Logan Philadelphia",
+      "stars": 4,
+      "distance": "20 min to stadium",
+      "neighborhood": "Logan Square",
+      "best_for": "Parkway access, rooftop bar, Penn Museum proximity",
+      "affiliate_url": "https://www.booking.com/hotel/us/the-logan-hotel.html?aid=YOUR_AID",
+      "affiliate_label": "Check availability",
+      "affiliate_provider": "Booking.com"
+    },
+    {
+      "name": "Kimpton Hotel Monaco Philadelphia",
+      "stars": 4,
+      "distance": "25 min to stadium",
+      "neighborhood": "Old City",
+      "best_for": "Boutique luxury, Old City history, independence landmarks",
+      "affiliate_url": "https://www.booking.com/hotel/us/hotel-monaco-philadelphia.html?aid=YOUR_AID",
+      "affiliate_label": "Check availability",
+      "affiliate_provider": "Booking.com"
+    },
+    {
+      "name": "Motto by Hilton Philadelphia Rittenhouse Square",
+      "stars": 3,
+      "distance": "20 min to stadium",
+      "neighborhood": "Rittenhouse Square",
+      "best_for": "Budget-smart, Rittenhouse location, walkable dining",
+      "affiliate_url": "https://www.booking.com/hotel/us/motto-philadelphia-rittenhouse.html?aid=YOUR_AID",
+      "affiliate_label": "Check availability",
+      "affiliate_provider": "Booking.com"
+    }
+  ],
+  "booking_links": [
+    {
+      "provider": "Booking.com",
+      "label": "Browse all Philadelphia hotels on Booking.com →",
+      "affiliate_url": "https://www.booking.com/city/us/philadelphia.html?aid=YOUR_AID"
+    }
+  ],
+  "bars": [
+    {
+      "name": "Fado Irish Pub Philadelphia",
+      "neighborhood": "Center City",
+      "vibe": "rowdy",
+      "address": "1500 Locust St, Philadelphia, PA",
+      "notes": "Philadelphia's premier soccer bar. Packed and loud for every major match. Get there early for big games.",
+      "transit": "SEPTA Broad Street Line to Walnut-Locust"
+    },
+    {
+      "name": "The Pub on Passyunk East (POPE)",
+      "neighborhood": "South Philly",
+      "vibe": "pub",
+      "address": "1501 E Passyunk Ave, Philadelphia, PA",
+      "notes": "South Philly neighbourhood bar with a genuine local soccer crowd. Excellent for meeting Philly fans.",
+      "transit": "SEPTA Broad Street Line south, short walk east"
+    },
+    {
+      "name": "Brauhaus Schmitz",
+      "neighborhood": "South Street",
+      "vibe": "rowdy",
+      "address": "718 South St, Philadelphia, PA",
+      "notes": "German beer hall with a massive indoor space and screens throughout. Great for large groups.",
+      "transit": "Bus from Center City to South St"
+    },
+    {
+      "name": "McGillin's Olde Ale House",
+      "neighborhood": "Center City",
+      "vibe": "pub",
+      "address": "1310 Drury St, Philadelphia, PA",
+      "notes": "Philadelphia's oldest bar (since 1860). A historic alley pub that screens soccer and draws a lively crowd.",
+      "transit": "Walking distance from most Center City hotels"
+    },
+    {
+      "name": "The Post",
+      "neighborhood": "Fishtown",
+      "vibe": "pub",
+      "address": "1222 Frankford Ave, Philadelphia, PA",
+      "notes": "Fishtown neighbourhood bar with multiple screens and a craft beer-focused crowd.",
+      "transit": "SEPTA Market-Frankford Line to Girard"
+    }
+  ],
+  "transport": {
+    "summary": "Philadelphia has excellent transit with SEPTA's Broad Street Line providing direct access to Lincoln Financial Field. The Regional Rail from PHL Airport connects visitors quickly to the city. SEPTA Key card handles everything.",
+    "tips": [
+      "Buy a SEPTA Key card at the airport or any station — works on all SEPTA modes",
+      "Broad Street Line to NRG/AT&T Station is the fastest way to Lincoln Financial Field",
+      "Airport to Center City via Regional Rail is 25 minutes — one of the best airport transit options in the USA",
+      "Amtrak 30th Street Station connects to NYC (1.5 hrs) and Washington DC (1.25 hrs) — easy multi-city trip"
+    ]
+  },
+  "fan_zones": [
+    {
+      "name": "Philly Fan Hub — Benjamin Franklin Parkway",
+      "location": "Benjamin Franklin Pkwy at Eakins Oval, Philadelphia",
+      "capacity": 35000,
+      "description": "Philadelphia's grand Champs-Élysées-style boulevard between City Hall and the Art Museum. Giant screens and fan activities with the famous Rocky steps as backdrop."
+    }
+  ],
+  "soccer_culture": {
+    "community_notes": "Philadelphia has a deep soccer culture rooted in its large Eastern European, Italian, and Latin communities. The Philadelphia Union has built a real supporter culture at Subaru Park, and the city's sport-obsessed identity translates directly into passionate match-day energy.",
+    "local_clubs": ["Philadelphia Union (MLS)", "Philadelphia Union II (MLS Next Pro)"],
+    "supporter_groups": ["Sons of Ben (Philadelphia Union)", "River End Rowdies"],
+    "historic_venues": ["Lincoln Financial Field", "Subaru Park (Chester, PA — Philadelphia Union home)", "Veterans Stadium (demolished — 1994 World Cup venue)"]
+  },
+  "things_to_do": {
+    "tourist_hits": [
+      { "name": "Independence Hall & Liberty Bell", "notes": "Core of American history — the Declaration of Independence was signed here. Free entry to the Bell, timed entry to the Hall." },
+      { "name": "Philadelphia Museum of Art", "notes": "World-class collection AND the Rocky steps. Run them. Everyone runs them." },
+      { "name": "Eastern State Penitentiary", "notes": "Haunting historic prison tour — one of the most unique tourist experiences in the USA." },
+      { "name": "Barnes Foundation", "notes": "Exceptional collection of Impressionist and Post-Impressionist art on the Parkway." }
+    ],
+    "local_favorites": [
+      { "name": "Italian Market (9th St)", "notes": "America's oldest outdoor market — go for cheese, fresh pasta, and the authentic South Philly experience." },
+      { "name": "Reading Terminal Market", "notes": "Legendary indoor food market in Center City — Amish vendors, DiNic's roast pork, Bassett's ice cream." },
+      { "name": "Mural Arts Program walk", "notes": "Philadelphia has over 4,000 murals — pick up a walking map or book a guided tour." }
+    ]
+  },
+  "food_nightlife": {
+    "areas": [
+      "East Passyunk Ave (South Philly) — the best restaurant strip in the city",
+      "Rittenhouse Square — upscale dining and cocktail bars",
+      "Fishtown / Northern Liberties — craft beer and independent restaurants",
+      "South Street — bars and late-night spots between South Philly and Society Hill"
+    ],
+    "recommendations": [
+      { "name": "Zahav", "notes": "James Beard Award-winning Israeli restaurant. Book months in advance." },
+      { "name": "John's Roast Pork", "notes": "The definitive South Philly sandwich institution. Cash only, lunch only." },
+      { "name": "Vernick Food & Drink", "notes": "One of Philadelphia's best modern American restaurants." }
+    ]
+  },
+  "local_resources": {
+    "tourism_links": [
+      { "name": "Visit Philadelphia", "url": "https://www.visitphilly.com" }
+    ],
+    "transit_apps": [
+      { "name": "SEPTA app", "url": "https://www.septa.org" },
+      { "name": "Transit App", "url": "https://transitapp.com" }
+    ],
+    "emergency_info": "Emergency: 911. Non-emergency Philadelphia Police: (215) 686-8477. Hospital: Penn Medicine / HUP, (215) 662-4000."
+  },
+  "walk_bike": {
+    "walkability_summary": "Center City is one of the most walkable downtowns in the USA. The William Penn Plan keeps it compact and flat. Rittenhouse Square, Old City, and the Parkway are all excellent walking areas.",
+    "bikeability_summary": "Indego bikeshare operates throughout Center City and surrounding neighbourhoods. The Schuylkill River Trail is excellent for longer rides.",
+    "best_walkable_areas": ["Center City / Rittenhouse Square", "Old City / Society Hill", "Benjamin Franklin Parkway", "South Street corridor"],
+    "bike_share_notes": "Indego Bikeshare has docks throughout Center City, Fishtown, and South Philly. Day passes available in the Indego app."
+  },
+  "pickup_soccer": [
+    {
+      "name": "Capitolo Playground",
+      "location": "E Passyunk Ave & Tasker St, South Philadelphia",
+      "access_notes": "South Philly pickup scene with local Italian and Latino community teams on weekends.",
+      "schedule_notes": "Weekend mornings, 8am–noon."
+    },
+    {
+      "name": "Fairmount Park — Smith Memorial",
+      "location": "Fairmount Park, Philadelphia",
+      "access_notes": "Large urban park with multiple fields and informal pickup activity.",
+      "schedule_notes": "Weekend afternoons year-round."
+    }
+  ],
+  "outdoors_day_trips": [
+    {
+      "name": "Valley Forge National Historical Park",
+      "type": "History / hiking",
+      "distance": "About 40 km west of Philadelphia",
+      "difficulty": "Easy",
+      "notes": "Significant Revolutionary War site with beautiful trails through the historic encampment grounds."
+    },
+    {
+      "name": "New Hope, PA",
+      "type": "Small town / Delaware Canal",
+      "distance": "About 65 km north of Philadelphia",
+      "difficulty": "Easy",
+      "notes": "Charming Delaware River town with galleries, restaurants, and canal towpath cycling."
+    }
+  ],
+  "safety_tips": [
+    "Philadelphia is safe in the main tourist areas — Center City, Old City, South Philly, Rittenhouse Square",
+    "Use SEPTA or rideshare for late-night travel — avoid walking in unfamiliar areas after midnight",
+    "The sports complex area in South Philly is heavily managed on match days",
+    "Philly summer heat and humidity can be intense — hydrate consistently at outdoor events",
+    "Lock valuables in your hotel safe and be aware in crowded spots like Reading Terminal Market"
+  ]
+}

@@ -1,0 +1,321 @@
+{
+  "hero": {
+    "tagline": "The A-Town Welcome Is Like No Other",
+    "description": "Atlanta brings the 2026 tournament to Mercedes-Benz Stadium, one of the most architecturally striking venues in North American sports. ATL's world-class dining scene, legendary music culture, and legendary Southern hospitality make it one of the most exciting host cities in the draw. Expect full-throated crowds and unforgettable nights."
+  },
+  "stadium": {
+    "name": "Mercedes-Benz Stadium",
+    "capacity": 75000,
+    "address": "1 AMB Dr NW, Atlanta, GA 30313",
+    "transport": "Mercedes-Benz Stadium sits in downtown Atlanta with excellent MARTA access. Take MARTA Red or Gold Line to Five Points, transfer to the Green or Blue Line to Vine City station — a short walk to the stadium. From Hartsfield-Jackson Airport, MARTA Gold Line reaches Downtown in about 20 minutes."
+  },
+  "quick_facts": {
+    "matches_hosted": "Multiple matches including group stage and advanced rounds",
+    "stadium": "Mercedes-Benz Stadium",
+    "airport_codes": ["ATL"],
+    "timezone": "Eastern Time",
+    "best_neighborhoods": ["Downtown", "Midtown", "Buckhead", "Old Fourth Ward / Inman Park"],
+    "fan_hub_status": "Major fan hub expected at Centennial Olympic Park adjacent to the stadium"
+  },
+  "weather": {
+    "june": "Hot and humid, highs around 29–32°C (84–90°F). Afternoon thunderstorms are common.",
+    "july": "Very hot and humid, highs 31–34°C (88–93°F). The stadium's retractable roof controls match-day weather.",
+    "packing_tips": [
+      "Light, breathable fabrics — humidity in Atlanta in summer is real",
+      "A light rain jacket for afternoon storms",
+      "Sunscreen and a hat for outdoor fan zones",
+      "The stadium interior is heavily air-conditioned — bring a layer if you run cold"
+    ]
+  },
+  "airports": [
+    {
+      "name": "Hartsfield-Jackson Atlanta International Airport",
+      "code": "ATL",
+      "distance_to_stadium": "About 16 km to Mercedes-Benz Stadium",
+      "transfer_options": [
+        "MARTA Gold Line: Airport to Five Points station in about 20 minutes — best option",
+        "Transfer at Five Points to Green/Blue Line for Vine City (stadium) station",
+        "Rideshare from ATL to Downtown or Midtown takes 20–35 minutes depending on traffic",
+        "Taxis available at ground transportation level"
+      ],
+      "notes": "One of the world's busiest airports with outstanding MARTA rail connections to Downtown. The MARTA ride is the fastest and most affordable way into the city — much better than fighting traffic."
+    }
+  ],
+  "match_schedule": [
+    {
+      "date": "June–July 2026",
+      "round": "Group stage and advanced rounds",
+      "teams_or_placeholder": "Mercedes-Benz Stadium hosts multiple matches. Full schedule after group draw.",
+      "stadium": "Mercedes-Benz Stadium"
+    }
+  ],
+  "stadium_transport": {
+    "public_transit": [
+      "MARTA Green/Blue Line: Vine City station — 5-minute walk to Mercedes-Benz Stadium main gate",
+      "MARTA Red/Gold Line from Airport to Five Points, transfer to Green/Blue Line",
+      "Georgia State station also walkable for some entrances"
+    ],
+    "rideshare": [
+      "Rideshare to the stadium is practical but post-match surge is severe",
+      "Walk 3–4 blocks south on Northside Drive for a faster rideshare pickup",
+      "Pre-book scheduled rides before the match for better pricing"
+    ],
+    "driving_parking": [
+      "State Farm Arena and downtown lots are pre-bookable — do so well in advance",
+      "I-285 and I-75/85 connector can grid-lock for hours after big matches",
+      "Parking in Vine City or English Avenue neighbourhoods costs less but requires a longer walk"
+    ],
+    "walking_biking": [
+      "Centennial Olympic Park and Pemberton Place are walkable from Midtown hotels",
+      "BeltLine connects Midtown, Inman Park, and other neighbourhoods — not a direct route to the stadium but useful for non-match days",
+      "Limited secure bike parking near the stadium"
+    ],
+    "match_day_tips": [
+      "MARTA is the best choice — parking is brutal after sold-out matches",
+      "The stadium retractable roof will likely be closed in Atlanta July heat",
+      "Centennial Olympic Park fan area opens hours before kickoff — a great warm-up spot",
+      "Traffic on the Downtown Connector (I-75/85) is chaotic during and after games"
+    ]
+  },
+  "fan_hubs": [
+    {
+      "name": "Centennial Olympic Park Fan Hub",
+      "location": "Centennial Olympic Park, 265 Park Ave W NW, Atlanta",
+      "status": "expected",
+      "description": "Atlanta's landmark Olympic park is adjacent to Mercedes-Benz Stadium and is expected to be the primary fan gathering area — giant screens, live entertainment, Atlanta's legendary food scene on display, and the symbolic backdrop of the 1996 Games.",
+      "transport_tips": [
+        "MARTA Green/Blue Line to Vine City or Georgia State, then walk through the park",
+        "Walking distance from Downtown and CNN Center hotels",
+        "Arrive 2+ hours early for the best viewing spots on big match days"
+      ]
+    }
+  ],
+  "neighborhoods": [
+    {
+      "name": "Downtown",
+      "best_for": "Stadium proximity, fan hub access, business hotels",
+      "safety_transit_notes": "Downtown core near CNN Center and Centennial Olympic Park is safe and well-patrolled. Avoid isolated side streets late at night.",
+      "stadium_access": "5-minute walk or one MARTA stop to Mercedes-Benz Stadium",
+      "hotel_price_level": "$$–$$$",
+      "description": "Most convenient neighbourhood for both the stadium and the expected Centennial Olympic Park fan hub. Omni and Glenn hotels are a short walk from the gates. Great for fans who want to maximise match-day logistics."
+    },
+    {
+      "name": "Midtown",
+      "best_for": "Arts, restaurants, walkable hotel district",
+      "safety_transit_notes": "Safe, active pedestrian area around Peachtree and 10th St.",
+      "stadium_access": "MARTA Red/Gold Line from Midtown station to Five Points, then Green/Blue — about 20 min",
+      "hotel_price_level": "$$–$$$",
+      "description": "A more vibrant alternative to Downtown. High Museum, Piedmont Park, and excellent restaurant options on Peachtree St. Good MARTA connections to the stadium."
+    },
+    {
+      "name": "Buckhead",
+      "best_for": "Luxury stays, upscale nightlife, shopping",
+      "safety_transit_notes": "Safe and upscale in the Buckhead Village area. Active late-night strip.",
+      "stadium_access": "MARTA Gold Line from Buckhead station to Five Points, transfer to Green/Blue — about 30 min",
+      "hotel_price_level": "$$$–$$$$",
+      "description": "Atlanta's luxury neighbourhood. The Ritz-Carlton, St. Regis, and other flagship hotels. Excellent cocktail bars and upscale dining. Fado Irish Pub here is a top soccer destination."
+    },
+    {
+      "name": "Old Fourth Ward / Inman Park",
+      "best_for": "Hip restaurants, BeltLine access, local culture",
+      "safety_transit_notes": "Gentrifying area — generally safe on main corridors, aware at night in transitional blocks.",
+      "stadium_access": "Rideshare to Downtown — about 15 min",
+      "hotel_price_level": "$$",
+      "description": "Atlanta's most interesting neighbourhood for food and nightlife. The BeltLine trail, Ponce City Market, and some of the best restaurants in the city. Great for fans who want the local Atlanta experience."
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Omni Atlanta Hotel at CNN Center",
+      "stars": 4,
+      "distance": "5 min walk to Mercedes-Benz Stadium",
+      "neighborhood": "Downtown",
+      "best_for": "Stadium proximity, CNN Center access, large groups",
+      "affiliate_url": "https://www.booking.com/hotel/us/omni-hotel-at-cnn-center.html?aid=YOUR_AID",
+      "affiliate_label": "Check availability",
+      "affiliate_provider": "Booking.com"
+    },
+    {
+      "name": "The Glenn Hotel, Autograph Collection",
+      "stars": 4,
+      "distance": "10 min walk to stadium",
+      "neighborhood": "Downtown",
+      "best_for": "Boutique luxury, rooftop bar, Downtown location",
+      "affiliate_url": "https://www.booking.com/hotel/us/the-glenn.html?aid=YOUR_AID",
+      "affiliate_label": "Check availability",
+      "affiliate_provider": "Booking.com"
+    },
+    {
+      "name": "citizenM Atlanta Downtown",
+      "stars": 3,
+      "distance": "10 min walk to stadium",
+      "neighborhood": "Downtown",
+      "best_for": "Budget-smart, modern design, good value",
+      "affiliate_url": "https://www.booking.com/hotel/us/citizenm-atlanta-downtown.html?aid=YOUR_AID",
+      "affiliate_label": "Check availability",
+      "affiliate_provider": "Booking.com"
+    },
+    {
+      "name": "Four Seasons Atlanta",
+      "stars": 5,
+      "distance": "20 min to stadium via MARTA",
+      "neighborhood": "Midtown",
+      "best_for": "Luxury, spa, Midtown arts and dining access",
+      "affiliate_url": "https://www.booking.com/hotel/us/four-seasons-hotel-atlanta.html?aid=YOUR_AID",
+      "affiliate_label": "Check availability",
+      "affiliate_provider": "Booking.com"
+    }
+  ],
+  "booking_links": [
+    {
+      "provider": "Booking.com",
+      "label": "Browse all Atlanta hotels on Booking.com →",
+      "affiliate_url": "https://www.booking.com/city/us/atlanta.html?aid=YOUR_AID"
+    }
+  ],
+  "bars": [
+    {
+      "name": "Stats Brewpub",
+      "neighborhood": "Downtown / Castleberry Hill",
+      "vibe": "rowdy",
+      "address": "300 Marietta St NW, Atlanta, GA",
+      "notes": "Atlanta's premier soccer bar — multiple large screens, dedicated soccer programming, and a serious football crowd.",
+      "transit": "MARTA Green/Blue Line to Vine City or CNN Center"
+    },
+    {
+      "name": "Fado Irish Pub Atlanta",
+      "neighborhood": "Buckhead",
+      "vibe": "rowdy",
+      "address": "273 Buckhead Ave NE, Atlanta, GA",
+      "notes": "Authentic Irish pub in Buckhead with packed crowds for every major match. Arrive early.",
+      "transit": "MARTA Gold Line to Buckhead"
+    },
+    {
+      "name": "Park Bar Atlanta",
+      "neighborhood": "Old Fourth Ward",
+      "vibe": "outdoor",
+      "address": "510 Park Dr NE, Atlanta, GA",
+      "notes": "Outdoor bar adjacent to Freedom Park near the BeltLine. Relaxed crowd, great for afternoon matches.",
+      "transit": "BeltLine access from Inman Park"
+    },
+    {
+      "name": "Ladybird Grove & Mess Hall",
+      "neighborhood": "Old Fourth Ward",
+      "vibe": "outdoor",
+      "address": "684 John Wesley Dobbs Ave NE, Atlanta, GA",
+      "notes": "Outdoor patio bar on the BeltLine with food trucks and a festive atmosphere on big match days.",
+      "transit": "BeltLine or rideshare from Downtown"
+    },
+    {
+      "name": "SweetWater Brewing Company",
+      "neighborhood": "Midtown",
+      "vibe": "outdoor",
+      "address": "1800 NE Expressway Access Rd, Atlanta, GA",
+      "notes": "Atlanta's most famous craft brewery with outdoor spaces and match screenings. Very local crowd.",
+      "transit": "Rideshare from Midtown"
+    }
+  ],
+  "transport": {
+    "summary": "Atlanta has MARTA rail and bus service connecting Hartsfield-Jackson Airport, Downtown, Midtown, and Buckhead. The stadium is a short walk from Vine City station. MARTA is the smart choice for match days.",
+    "tips": [
+      "Get a MARTA Breeze card at the airport — reloadable and accepted on all rail and bus",
+      "Vine City station (Green/Blue Line) is the closest stop to Mercedes-Benz Stadium",
+      "Airport to Five Points is 20 minutes on MARTA Gold Line — do not take a cab for this trip",
+      "Rideshare surge after matches is extreme — use MARTA home or wait 30+ minutes before requesting",
+      "The BeltLine trail connects Old Fourth Ward, Midtown, and other neighbourhoods for daytime exploration"
+    ]
+  },
+  "fan_zones": [
+    {
+      "name": "Centennial Olympic Park Fan Hub",
+      "location": "Centennial Olympic Park, 265 Park Ave W NW",
+      "capacity": 40000,
+      "description": "Adjacent to Mercedes-Benz Stadium — the primary fan hub area with giant screens, live music, and Atlanta's famous food scene. Site of the 1996 Olympics."
+    }
+  ],
+  "soccer_culture": {
+    "community_notes": "Atlanta United FC joined MLS in 2017 and immediately became one of the most successful clubs in league history, setting MLS attendance records and winning the 2018 MLS Cup. The Five Stripes fanbase is passionate, young, and one of the loudest in the league.",
+    "local_clubs": ["Atlanta United FC (MLS)"],
+    "supporter_groups": ["Resurgence (Atlanta United)", "Terminus Legion", "Faction"],
+    "historic_venues": ["Mercedes-Benz Stadium (Atlanta United, Atlanta Falcons)", "Bobby Dodd Stadium (Georgia Tech)"]
+  },
+  "things_to_do": {
+    "tourist_hits": [
+      { "name": "Georgia Aquarium", "notes": "World's largest aquarium — right next to Centennial Olympic Park. Book tickets in advance." },
+      { "name": "National Center for Civil and Human Rights", "notes": "Powerful museum on civil rights history — one of the best museums in the South." },
+      { "name": "World of Coca-Cola", "notes": "Unique Atlanta attraction — the history and global reach of the world's most recognized brand." },
+      { "name": "Martin Luther King Jr. Historic Site", "notes": "Birth home and church of MLK Jr. in Sweet Auburn neighbourhood. Free admission." }
+    ],
+    "local_favorites": [
+      { "name": "Ponce City Market", "notes": "Converted Sears building in Old Fourth Ward — food hall, shops, and rooftop games." },
+      { "name": "Atlanta BeltLine", "notes": "22-mile trail loop connecting neighborhoods. Rent a bike or e-scooter for a full loop." },
+      { "name": "Sweet Auburn Curb Market", "notes": "Historic indoor market with diverse food vendors — the oldest continuously operating market in the South." }
+    ]
+  },
+  "food_nightlife": {
+    "areas": [
+      "Old Fourth Ward / Inman Park — Ponce City Market, best restaurants, BeltLine access",
+      "Midtown — Peachtree St restaurants, cocktail bars",
+      "Buckhead — upscale dining and late-night bars",
+      "Downtown / Castleberry Hill — pre-match bars near the stadium"
+    ],
+    "recommendations": [
+      { "name": "Staplehouse", "notes": "One of the best restaurants in the South. Book months in advance." },
+      { "name": "Gunshow", "notes": "Dim sum-style Southern food by Kevin Gillespie. Unique and excellent." },
+      { "name": "Mary Mac's Tea Room", "notes": "Classic Atlanta institution for Southern comfort food since 1945." }
+    ]
+  },
+  "local_resources": {
+    "tourism_links": [
+      { "name": "Discover Atlanta", "url": "https://www.atlanta.net" }
+    ],
+    "transit_apps": [
+      { "name": "MARTA on the Go", "url": "https://www.itsmarta.com" },
+      { "name": "Transit App", "url": "https://transitapp.com" }
+    ],
+    "emergency_info": "Emergency: 911. Non-emergency Atlanta Police: (404) 614-6544. Hospital: Grady Memorial Hospital, (404) 616-1000."
+  },
+  "walk_bike": {
+    "walkability_summary": "Downtown, Midtown, and Old Fourth Ward are increasingly walkable. The BeltLine trail is transforming connectivity between neighborhoods.",
+    "bikeability_summary": "The BeltLine is excellent for cycling. Spin and Lime scooters operate throughout the city.",
+    "best_walkable_areas": ["Downtown near CNN Center", "Midtown / Peachtree St", "Old Fourth Ward / BeltLine", "Inman Park"],
+    "bike_share_notes": "Relay Bikeshare and e-scooter operators (Lime, Spin) operate in Atlanta. Best used along the BeltLine trail."
+  },
+  "pickup_soccer": [
+    {
+      "name": "Piedmont Park",
+      "location": "Piedmont Ave NE, Atlanta",
+      "access_notes": "Informal pickup on the large grass areas, especially on weekends. Mixed skill, diverse crowd.",
+      "schedule_notes": "Weekend mornings and early afternoons."
+    },
+    {
+      "name": "Grant Park",
+      "location": "Cherokee Ave SE, Atlanta",
+      "access_notes": "Southeast Atlanta park with open fields and informal soccer, particularly among Latino community groups.",
+      "schedule_notes": "Sunday mornings most active."
+    }
+  ],
+  "outdoors_day_trips": [
+    {
+      "name": "Stone Mountain Park",
+      "type": "State park / hiking",
+      "distance": "About 25 km east of Atlanta",
+      "difficulty": "Easy to moderate",
+      "notes": "Large state park with a walk-up trail to the massive granite outcrop. Laser light shows at night in summer."
+    },
+    {
+      "name": "Chattahoochee River Tubing",
+      "type": "River recreation",
+      "distance": "About 30 km north of Atlanta",
+      "difficulty": "Easy",
+      "notes": "Float the Chattahoochee in a tube — the classic Atlanta summer activity. Equipment rentals available at the put-in points."
+    }
+  ],
+  "safety_tips": [
+    "Atlanta is a large city — tourist areas (Downtown near CNN/stadium, Midtown, Buckhead) are safe and well-patrolled",
+    "Use MARTA or rideshare for late-night travel — avoid walking in unfamiliar areas after midnight",
+    "The stadium area around Centennial Olympic Park is heavily managed on match days",
+    "Atlanta summer heat is serious — stay hydrated and take indoor breaks during peak afternoon heat",
+    "Lock any valuables in your hotel safe and avoid displaying expensive items in crowded fan zones"
+  ]
+}

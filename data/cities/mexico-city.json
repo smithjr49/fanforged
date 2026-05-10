@@ -1,0 +1,382 @@
+{
+  "hero": {
+    "tagline": "The Azteca Roars Again",
+    "description": "Estadio Azteca is the only stadium to have hosted two World Cup Finals (1970 and 1986). In 2026, it opens the entire tournament — making Mexico City the epicenter of the world's biggest sporting event for the third time. There's nowhere on Earth with deeper football history."
+  },
+  "stadium": {
+    "name": "Estadio Azteca",
+    "capacity": 87523,
+    "address": "Calz. de Tlalpan 3465, Santa Úrsula Coapa, Coyoacán, 04650 CDMX, México",
+    "transport": "Take Metro Line 2 to Tasqueña station, then Tren Ligero (light rail) Line 1 directly to Estadio Azteca station — about 45 minutes from the city center. Metrobús Line 4 also serves the stadium. Uber and DiDi are practical for mid-distance trips but traffic around the stadium on match day is severe."
+  },
+  "quick_facts": {
+    "matches_hosted": "Tournament opener and multiple group stage matches",
+    "stadium": "Estadio Azteca",
+    "airport_codes": ["MEX"],
+    "timezone": "Central Time",
+    "best_neighborhoods": ["Polanco", "Condesa", "Roma Norte", "Centro Histórico", "Coyoacán"],
+    "altitude": "2,240 meters (7,349 feet) above sea level — acclimatize before exertion",
+    "fan_hub_status": "Major fan hub expected at Zócalo; local watch parties throughout the city"
+  },
+  "weather": {
+    "june": "Warm and partly cloudy, highs around 22–24°C (72–75°F). The rainy season begins — afternoon thunderstorms are common.",
+    "july": "Similar to June. Afternoon storms, mild temperatures, very green city. Evenings are cool.",
+    "packing_tips": [
+      "Bring a compact rain jacket or poncho — afternoon storms come fast and heavy",
+      "The city sits at 2,240m — altitude affects many visitors. Avoid alcohol until acclimatized",
+      "Light layers for the day; a warm layer for evening at altitude",
+      "Comfortable walking shoes with grip — streets can be slick after rain"
+    ]
+  },
+  "airports": [
+    {
+      "name": "Aeropuerto Internacional Benito Juárez",
+      "code": "MEX",
+      "distance_to_stadium": "About 20 km from Azteca, 15 km from Polanco",
+      "transfer_options": [
+        "Metro Line 5 from Terminal 1 Airport to Pantitlán, transfer to Line 1 or 3 toward center — cheap but crowded with luggage",
+        "Authorized airport taxis (pay at the booth before exit) — roughly $15–20 USD to Polanco or Condesa",
+        "Uber is available from Terminal 2 (official pickup zone). Terminal 1 Uber pickup is slightly complicated — follow airport signs",
+        "The Mexibús bus rapid transit also connects Terminal 2 to Indios Verdes"
+      ],
+      "notes": "Use authorized airport taxis (pay at the counter inside the terminal) or Uber — avoid unofficial taxi touts. Terminal 1 (domestic) and Terminal 2 (international) are connected by a free shuttle."
+    },
+    {
+      "name": "Aeropuerto Internacional Felipe Ángeles",
+      "code": "NLU",
+      "distance_to_stadium": "About 55 km from Downtown Mexico City",
+      "transfer_options": [
+        "Suburban train (Tren Suburbano) to Buenavista station in Downtown CDMX — about 45 minutes",
+        "Bus connections to the metro system available at Buenavista"
+      ],
+      "notes": "New airport north of the city. Less crowded than MEX. If flying low-cost carriers, confirm which airport and factor in the longer transit time."
+    }
+  ],
+  "match_schedule": [
+    {
+      "date": "June 11, 2026",
+      "round": "Tournament Opener",
+      "teams_or_placeholder": "Tournament opening match at Estadio Azteca — the most historic stadium in World Cup history.",
+      "stadium": "Estadio Azteca"
+    },
+    {
+      "date": "June–July 2026",
+      "round": "Group stage",
+      "teams_or_placeholder": "Additional group stage matches at Azteca. Full schedule after group draw.",
+      "stadium": "Estadio Azteca"
+    }
+  ],
+  "stadium_transport": {
+    "public_transit": [
+      "Metro Line 2 to Tasqueña, then Tren Ligero Line 1 directly to Estadio Azteca — the classic route",
+      "Metrobús Line 4 serves Calzada de Tlalpan corridor",
+      "Expect extreme crowding on match days — allow 90 minutes for stadium transit"
+    ],
+    "rideshare": [
+      "Uber and DiDi are widely available and safe throughout CDMX",
+      "Traffic around the stadium hours before kickoff is severe — rideshare adds 30–60 min to estimated time",
+      "Post-match, walk several blocks away from the stadium before requesting a rideshare pickup"
+    ],
+    "driving_parking": [
+      "Parking around Azteca is available but the access roads are chaotic on match days",
+      "Driving is not recommended unless staying in Coyoacán or very close to the stadium",
+      "Hoy No Circula restrictions may apply to your rental depending on the last digit of the license plate — check before driving"
+    ],
+    "walking_biking": [
+      "The stadium area south of the city is not walkable from most tourist hotels",
+      "ECOBICI bike share does not extend to the stadium zone"
+    ],
+    "match_day_tips": [
+      "Arrive at least 2 hours early — Azteca holds 87,000+ and queues are long",
+      "Carry cash for food vendors and metro fares — cards not always accepted at smaller vendors",
+      "Stay hydrated — altitude makes exertion harder even in mild weather",
+      "Keep your phone charged and have your e-ticket downloaded offline before you leave the hotel"
+    ]
+  },
+  "fan_hubs": [
+    {
+      "name": "Zócalo Fan Hub",
+      "location": "Plaza de la Constitución, Centro Histórico, CDMX",
+      "status": "expected",
+      "description": "One of the largest public plazas in the world, the Zócalo is expected to be the main fan hub for the 2026 tournament — giant screens, live music, street food from every region of Mexico, and tens of thousands of fans. The scale and energy here will be unlike any other host city.",
+      "transport_tips": [
+        "Metro Line 2 to Zócalo/Tenochtitlan station — right at the plaza",
+        "Multiple bus and Metrobús routes serve the Centro Histórico",
+        "Walking distance from Centro hotels"
+      ]
+    },
+    {
+      "name": "Parque Lincoln Fan Hub",
+      "location": "Parque Lincoln, Polanco, CDMX",
+      "status": "local_watch_area",
+      "description": "Polanco's upscale neighbourhood park becomes a high-end fan zone area with rooftop bars overlooking the screens, restaurants from acclaimed chefs, and a more international crowd. An excellent option for fans staying in Polanco.",
+      "transport_tips": [
+        "Metro Line 7 to Polanco station",
+        "Short walk from major Polanco hotels"
+      ]
+    },
+    {
+      "name": "Condesa / Roma Fan Streets",
+      "location": "Álvaro Obregón and Ámsterdam Ave, Condesa–Roma Norte",
+      "status": "local_watch_area",
+      "description": "The Condesa and Roma Norte neighbourhoods come alive on match days. Bars and restaurants spill onto tree-lined streets, speakers play cumbias and match commentary, and the vibe is unmistakably CDMX. This is where the local young crowd watches.",
+      "transport_tips": [
+        "Metro Line 1 to Insurgentes or Sonora",
+        "Walkable between Roma Norte and Condesa"
+      ]
+    }
+  ],
+  "neighborhoods": [
+    {
+      "name": "Polanco",
+      "best_for": "Luxury hotels, fine dining, safety, international crowd",
+      "safety_transit_notes": "Safest area in CDMX for tourists. Well-patrolled, walkable, and with major hotel brands.",
+      "stadium_access": "Metro Line 7 to Barranca del Muerto, transfer to Tren Ligero — about 60 min to Azteca",
+      "hotel_price_level": "$$$–$$$$",
+      "description": "The most upscale tourist neighbourhood. Luxury hotel brands, Michelin-class restaurants, and tree-lined boulevards. Excellent safety record and comfortable tourist infrastructure."
+    },
+    {
+      "name": "Condesa",
+      "best_for": "Boutique hotels, café culture, soccer bars",
+      "safety_transit_notes": "Very safe for tourists. Low-key residential feel with active street life.",
+      "stadium_access": "Metro Line 1 to Insurgentes, then Line 2 to Tasqueña, then Tren Ligero — about 60–70 min",
+      "hotel_price_level": "$$–$$$",
+      "description": "Art deco architecture, tree-lined streets, and the best café and restaurant scene in CDMX. A huge favourite for international travellers. Watch party energy here is incredible."
+    },
+    {
+      "name": "Roma Norte",
+      "best_for": "Nightlife, international restaurants, budget boutique",
+      "safety_transit_notes": "Generally safe for tourists, especially on main corridors. Use street sense at night.",
+      "stadium_access": "Metro Line 1 to Sonora, then transfer to Line 2 to Tasqueña, then Tren Ligero — about 60 min",
+      "hotel_price_level": "$$",
+      "description": "Mexico City's hippest neighbourhood. Independent restaurants, mezcal bars, street art, and the most creative food scene in the city. Budget-friendly and walkable to Condesa."
+    },
+    {
+      "name": "Centro Histórico",
+      "best_for": "History, budget options, proximity to Zócalo fan hub",
+      "safety_transit_notes": "Busy during the day, use extra caution at night especially away from the main tourist corridor.",
+      "stadium_access": "Metro Line 2 to Tasqueña, then Tren Ligero — about 50 min",
+      "hotel_price_level": "$–$$",
+      "description": "The ancient heart of the city with Aztec ruins, the Metropolitan Cathedral, and the iconic Zócalo. Walk distance to the expected main fan hub. Historic and atmospheric."
+    },
+    {
+      "name": "Coyoacán",
+      "best_for": "Culture, bohemian atmosphere, proximity to stadium",
+      "safety_transit_notes": "Safe and pleasant neighbourhood feel.",
+      "stadium_access": "About 15–20 min to Azteca by rideshare or Tren Ligero",
+      "hotel_price_level": "$$",
+      "description": "A quiet, tree-shaded neighbourhood with a colonial central plaza, Frida Kahlo Museum, and Leon Trotsky Museum. Closest neighbourhood to Estadio Azteca for fans wanting easy match-day access."
+    }
+  ],
+  "hotels": [
+    {
+      "name": "W Mexico City",
+      "stars": 5,
+      "distance": "30 min to Azteca by rideshare",
+      "neighborhood": "Polanco",
+      "best_for": "Luxury, international crowd, nightlife",
+      "affiliate_url": "https://www.booking.com/hotel/mx/w-mexico-city.html?aid=YOUR_AID",
+      "affiliate_label": "Check availability",
+      "affiliate_provider": "Booking.com"
+    },
+    {
+      "name": "Camino Real Polanco",
+      "stars": 5,
+      "distance": "30 min to Azteca",
+      "neighborhood": "Polanco",
+      "best_for": "Classic luxury, business amenities, large rooms",
+      "affiliate_url": "https://www.booking.com/hotel/mx/camino-real-mexico.html?aid=YOUR_AID",
+      "affiliate_label": "Check availability",
+      "affiliate_provider": "Booking.com"
+    },
+    {
+      "name": "NH Collection Mexico City Centro Histórico",
+      "stars": 4,
+      "distance": "45 min to Azteca",
+      "neighborhood": "Centro Histórico",
+      "best_for": "History, Zócalo proximity, budget-conscious luxury",
+      "affiliate_url": "https://www.booking.com/hotel/mx/nh-mexico-centro-historico.html?aid=YOUR_AID",
+      "affiliate_label": "Check availability",
+      "affiliate_provider": "Booking.com"
+    },
+    {
+      "name": "Condesa DF",
+      "stars": 4,
+      "distance": "50 min to Azteca",
+      "neighborhood": "Condesa",
+      "best_for": "Boutique, rooftop bar, neighborhood atmosphere",
+      "affiliate_url": "https://www.booking.com/hotel/mx/condesa-df.html?aid=YOUR_AID",
+      "affiliate_label": "Check availability",
+      "affiliate_provider": "Booking.com"
+    }
+  ],
+  "booking_links": [
+    {
+      "provider": "Booking.com",
+      "label": "Browse all Mexico City hotels on Booking.com →",
+      "affiliate_url": "https://www.booking.com/city/mx/mexico-city.html?aid=YOUR_AID"
+    }
+  ],
+  "bars": [
+    {
+      "name": "Cantina La No. 20",
+      "neighborhood": "Roma Norte",
+      "vibe": "family",
+      "address": "Tonalá 23, Roma Norte, CDMX",
+      "notes": "Beloved traditional cantina. Classic CDMX atmosphere — botanas (free snacks) with every drink order.",
+      "transit": "Metro Line 1 to Sonora"
+    },
+    {
+      "name": "Jules Basement",
+      "neighborhood": "Polanco",
+      "vibe": "pub",
+      "address": "Alejandro Dumas 135, Polanco, CDMX",
+      "notes": "American-style sports bar in Polanco. Reliable screens and a mixed local/expat crowd.",
+      "transit": "Metro Line 7 to Polanco"
+    },
+    {
+      "name": "Salón Ríos",
+      "neighborhood": "Centro",
+      "vibe": "rowdy",
+      "address": "Moctezuma 26, Centro, CDMX",
+      "notes": "A classic CDMX canteen with match energy and cheap beers. Authentic experience.",
+      "transit": "Metro Line 2 to Zócalo"
+    },
+    {
+      "name": "La Glorieta",
+      "neighborhood": "Condesa",
+      "vibe": "outdoor",
+      "address": "Ámsterdam 78, Condesa, CDMX",
+      "notes": "Outdoor terrace on Ámsterdam's traffic-free ring. Beautiful for afternoon matches.",
+      "transit": "Metro Line 1 to Insurgentes"
+    },
+    {
+      "name": "Biergarten Condesa",
+      "neighborhood": "Condesa",
+      "vibe": "outdoor",
+      "address": "Av. Veracruz 20, Condesa, CDMX",
+      "notes": "Beer garden popular with Mexico national team supporters. Big screens on major match days.",
+      "transit": "Metro Line 1 to Insurgentes"
+    }
+  ],
+  "transport": {
+    "summary": "Mexico City has one of the world's largest metro systems — 195 stations, 5 MXN per ride, and good coverage. For the tournament, combine Metro with Tren Ligero for Azteca, and use Uber/DiDi for everything else.",
+    "tips": [
+      "Metro fare is 5 MXN per ride — get a rechargeable card at any station kiosk",
+      "Line 2 + Tren Ligero is the classic Azteca route from downtown — allow 60–90 min on match days",
+      "Avoid metro during weekday rush hours (7–9am, 6–8pm) — it's extremely crowded",
+      "Uber and DiDi are safe, reliable, and very affordable — preferred for evening travel",
+      "Metrobús (BRT) is faster than regular buses on major avenues like Insurgentes",
+      "ECOBICI bike share works well in Condesa, Roma Norte, and Polanco"
+    ]
+  },
+  "fan_zones": [
+    {
+      "name": "Zócalo Fan Hub",
+      "location": "Plaza de la Constitución, Centro Histórico",
+      "capacity": 80000,
+      "description": "One of the world's largest public plazas, expected to host a massive fan hub with giant screens, live music, and street food throughout the tournament."
+    },
+    {
+      "name": "Parque Lincoln Fan Hub",
+      "location": "Parque Lincoln, Polanco",
+      "capacity": 15000,
+      "description": "Polanco's upscale park fan zone with nearby rooftop bars and high-end food options."
+    }
+  ],
+  "soccer_culture": {
+    "community_notes": "Mexico City is one of the most football-obsessed cities on Earth. The Azteca holds 87,000 and regularly fills for Liga MX fixtures. Club América and Cruz Azul both call the city home. The passion here on match days needs to be experienced.",
+    "local_clubs": ["Club América (Liga MX)", "Cruz Azul (Liga MX)", "Pumas UNAM (Liga MX)", "Atlas (Liga MX — technically Guadalajara but CDMX fans follow)"],
+    "supporter_groups": ["Monumental (Club América)", "Sangre Azul (Cruz Azul)", "La Rebel (Pumas UNAM)"],
+    "historic_venues": ["Estadio Azteca (1970 and 1986 World Cup Final)", "Estadio Olímpico Universitario (1968 Olympics)", "Estadio Azul (historic Cruz Azul home)"]
+  },
+  "things_to_do": {
+    "tourist_hits": [
+      { "name": "Museo Nacional de Antropología", "notes": "World-class museum of Mesoamerican history in Chapultepec Park. Give it half a day minimum." },
+      { "name": "Teotihuacan Pyramids", "notes": "Day trip 50 km from the city. Climb the Pyramid of the Sun for views across the ancient city. Go early." },
+      { "name": "Frida Kahlo Museum (La Casa Azul)", "notes": "In Coyoacán neighbourhood. Book tickets in advance — sells out weeks ahead." },
+      { "name": "Zócalo and Metropolitan Cathedral", "notes": "The heart of the city. The cathedral and Templo Mayor ruins are free to visit." },
+      { "name": "Chapultepec Park", "notes": "Massive urban park with a castle, multiple museums, and the best strolling in the city." }
+    ],
+    "local_favorites": [
+      { "name": "Mercado de Jamaica (flower market)", "notes": "Early morning flower market — extraordinary visual experience and incredibly cheap." },
+      { "name": "Lucha libre at Arena México", "notes": "Tuesdays and Fridays. Colourful, theatrical, loud, and unforgettable." },
+      { "name": "Tepito flea market", "notes": "The real CDMX — go with a local if possible. Cash only, leave valuables at the hotel." },
+      { "name": "Xochimilco canal boats (trajineras)", "notes": "Float through ancient canals in colourful boats with mariachi and food vendors. Very local." }
+    ]
+  },
+  "food_nightlife": {
+    "areas": [
+      "Roma Norte / Condesa — best concentration of international and elevated Mexican restaurants",
+      "Polanco — fine dining and cocktail bars, including multiple top-50 world restaurants",
+      "Coyoacán — traditional taquerias and mezcal bars around the main square",
+      "Centro Histórico — traditional cantinas and market food stalls"
+    ],
+    "recommendations": [
+      { "name": "El Hidalguense", "notes": "Slow-cooked barbacoa in Roma — widely considered the best taco in the city. Cash only. Saturday and Sunday only." },
+      { "name": "Contramar", "notes": "Legendary seafood restaurant in Roma Norte. Book weeks ahead. The tuna tostadas are world-famous." },
+      { "name": "Quintonil", "notes": "One of the best restaurants in Latin America. Modern Mexican cuisine with an extraordinary tasting menu." }
+    ]
+  },
+  "local_resources": {
+    "tourism_links": [
+      { "name": "Visit Mexico City", "url": "https://www.cdmx.gob.mx/vive-cdmx" }
+    ],
+    "transit_apps": [
+      { "name": "CDMX Metro oficial", "url": "https://metro.cdmx.gob.mx" },
+      { "name": "Moovit", "url": "https://moovitapp.com" }
+    ],
+    "emergency_info": "Emergency: 911. Non-emergency CDMX police: (55) 5208-9898. Hospital: Hospital Ángeles Polanco, (55) 5229-8999."
+  },
+  "walk_bike": {
+    "walkability_summary": "Condesa, Roma Norte, and Polanco are excellent for walking — tree-shaded, flat, and vibrant. Ámsterdam Avenue in Condesa is a pedestrianized oval popular with joggers and cyclists.",
+    "bikeability_summary": "ECOBICI bike share covers Condesa, Roma, Polanco, and the Centro with about 7,000 bikes at 480 stations.",
+    "best_walkable_areas": ["Condesa — Ámsterdam ring", "Roma Norte — Álvaro Obregón", "Polanco — Presidente Masaryk", "Coyoacán — around Jardín Centenario"],
+    "bike_share_notes": "ECOBICI day passes available in the ECOBICI app. First 45 minutes of each ride is free with a pass."
+  },
+  "pickup_soccer": [
+    {
+      "name": "Parque España",
+      "location": "Parque España, Condesa",
+      "access_notes": "Small futsal courts with informal games throughout the day. Local neighbourhood regulars, very welcoming.",
+      "schedule_notes": "Active most evenings and weekend mornings."
+    },
+    {
+      "name": "CU (Ciudad Universitaria) Fields",
+      "location": "UNAM campus, southern CDMX",
+      "access_notes": "Multiple grass fields around the UNAM campus. Some organized pickup and open access fields.",
+      "schedule_notes": "Weekday evenings and weekend mornings."
+    }
+  ],
+  "outdoors_day_trips": [
+    {
+      "name": "Teotihuacan Pyramids",
+      "type": "Archaeology / hiking",
+      "distance": "50 km northeast of CDMX",
+      "difficulty": "Moderate (climbing pyramids at altitude)",
+      "notes": "Must-do day trip. Take an early bus from Autobuses del Norte terminal or book a guided tour. Bring water, hat, and sunscreen. Go before 10am."
+    },
+    {
+      "name": "Desierto de los Leones",
+      "type": "Forest hiking",
+      "distance": "About 20 km southwest of the city center",
+      "difficulty": "Easy to moderate",
+      "notes": "Quiet pine forest with hiking trails and a historic Carmelite convent. A remarkable escape from the city noise."
+    },
+    {
+      "name": "Taxco (Silver City)",
+      "type": "Colonial town",
+      "distance": "About 170 km from CDMX",
+      "difficulty": "Easy",
+      "notes": "Hillside colonial silver-mining town with cobblestone streets and a dramatic baroque cathedral. About 3 hours by bus from the city."
+    }
+  ],
+  "safety_tips": [
+    "Mexico City is much safer than its historical reputation. Tourist areas (Polanco, Condesa, Roma, Coyoacán, Centro) are low-risk during the day",
+    "Use Uber or DiDi instead of hailing street taxis — registered apps are safer",
+    "Keep valuables in your hotel safe and carry a small amount of cash for street food and metro",
+    "Altitude (2,240m) affects many visitors — stay hydrated, avoid alcohol the first day, and rest if you feel dizzy",
+    "Learn a few words of Spanish — locals appreciate the effort enormously",
+    "Be careful with tap water — drink bottled or filtered water throughout your stay"
+  ]
+}

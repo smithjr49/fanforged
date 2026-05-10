@@ -1,0 +1,358 @@
+{
+  "hero": {
+    "tagline": "Golden Gate to the Beautiful Game",
+    "description": "The San Francisco Bay Area brings the 2026 tournament to Levi's Stadium in Santa Clara — one of the most tech-forward stadiums in North America. From fog-kissed San Francisco to sunny San Jose, this region covers two distinct city experiences with world-class food, natural beauty, and a deep soccer community built from the Bay Area's extraordinary diversity."
+  },
+  "stadium": {
+    "name": "Levi's Stadium",
+    "capacity": 71000,
+    "address": "4900 Marie P DeBartolo Way, Santa Clara, CA 95054",
+    "transport": "Levi's Stadium is in Santa Clara, south of San Francisco. From SF: take Caltrain from 4th & King Station to Santa Clara, then a short walk or VTA shuttle to the stadium (about 60–70 min total). From San Jose: Caltrain or VTA light rail to Great America station — 10–15 min. BART connects to Caltrain at Millbrae for transfers."
+  },
+  "quick_facts": {
+    "matches_hosted": "Multiple matches including group stage and advanced rounds",
+    "stadium": "Levi's Stadium (Santa Clara)",
+    "airport_codes": ["SFO", "SJC", "OAK"],
+    "timezone": "Pacific Time",
+    "best_neighborhoods": ["San Francisco (Union Square / SoMa)", "San Jose Downtown", "Santa Clara / Sunnyvale (stadium area)"],
+    "fan_hub_status": "Fan hubs expected at SF Embarcadero and San Jose downtown; confirm schedules"
+  },
+  "weather": {
+    "june": "Mild in San Jose and Santa Clara (highs 25–28°C / 77–82°F), but San Francisco is famously foggy and cool (highs 16–18°C / 61–64°F). The Bay Area is two climates.",
+    "july": "Warm in the South Bay (27–30°C / 81–86°F). SF continues its fog season — pack layers regardless.",
+    "packing_tips": [
+      "San Francisco fog is real — always bring a jacket even in July",
+      "Santa Clara and San Jose are warm and sunny — lighter clothes for stadium days",
+      "Layer for the ferry and waterfront areas around the Embarcadero",
+      "Sunscreen for outdoor events in the South Bay"
+    ]
+  },
+  "airports": [
+    {
+      "name": "San Francisco International Airport",
+      "code": "SFO",
+      "distance_to_stadium": "About 40 km from Levi's Stadium; 20 km from Downtown SF",
+      "transfer_options": [
+        "BART from SFO Airport station to Downtown SF in about 30 minutes",
+        "Caltrain: BART to Millbrae, transfer to Caltrain south to Santa Clara for the stadium",
+        "Rideshare from SFO to Downtown SF takes 25–40 min depending on traffic"
+      ],
+      "notes": "Main Bay Area international hub. BART connection is the most efficient way into San Francisco. For stadium access, BART + Caltrain transfer at Millbrae is the transit option."
+    },
+    {
+      "name": "San Jose Mineta International Airport",
+      "code": "SJC",
+      "distance_to_stadium": "About 10 km from Levi's Stadium",
+      "transfer_options": [
+        "VTA light rail from the Airport to Great America station (adjacent to Levi's Stadium) — about 25 min",
+        "Rideshare from SJC to Santa Clara or San Jose hotels — 15–20 min"
+      ],
+      "notes": "Best airport if you want easy stadium access or if staying in San Jose/South Bay. VTA light rail goes directly to the stadium area."
+    },
+    {
+      "name": "Oakland International Airport",
+      "code": "OAK",
+      "distance_to_stadium": "About 55 km from Levi's Stadium",
+      "transfer_options": [
+        "BART from Oakland Airport to Bay Area stations — about 25 min to Downtown Oakland, 40 min to SF",
+        "Rideshare from OAK to San Francisco or Oakland hotels takes 25–40 min"
+      ],
+      "notes": "Often cheaper than SFO. Good option for fans staying in Oakland, Berkeley, or East Bay. Transfers to Caltrain for the stadium require a BART + Caltrain connection."
+    }
+  ],
+  "match_schedule": [
+    {
+      "date": "June–July 2026",
+      "round": "Group stage and advanced rounds",
+      "teams_or_placeholder": "Levi's Stadium hosts multiple matches. Full schedule after group draw.",
+      "stadium": "Levi's Stadium"
+    }
+  ],
+  "stadium_transport": {
+    "public_transit": [
+      "Caltrain: 4th & King Station (SF) to Santa Clara station, then walk or VTA shuttle to stadium — about 60–70 min",
+      "VTA Light Rail: Great America station is adjacent to the stadium — connects from downtown San Jose and Caltrain",
+      "BART to Millbrae, transfer to Caltrain southbound — the BART–Caltrain connection for SF-based fans"
+    ],
+    "rideshare": [
+      "Rideshare is practical from San Jose hotels — about 15–20 min pre-match",
+      "From San Francisco, rideshare takes 45–60 min and is expensive — Caltrain is better",
+      "Post-match rideshare from Levi's surges heavily — pre-book or wait 30+ minutes"
+    ],
+    "driving_parking": [
+      "Levi's Stadium has large lots — pre-book preferred lots online",
+      "US-101 and Great America Pkwy back up significantly after sold-out events",
+      "Light rail / Caltrain is much faster than driving on match days"
+    ],
+    "walking_biking": [
+      "The stadium area in Santa Clara is walkable to nearby hotels, restaurants, and the Great America theme park",
+      "Not accessible by walking from SF or San Jose city centers"
+    ],
+    "match_day_tips": [
+      "Caltrain or VTA are strongly preferred over driving — pre-buy your Clipper Card at any station",
+      "Game-day Caltrain service adds capacity — check schedules closer to match dates",
+      "The area around Levi's Stadium has good pre-match options at the adjacent Levi's Stadium zone"
+    ]
+  },
+  "fan_hubs": [
+    {
+      "name": "SF Fan Hub — Embarcadero / Justin Herman Plaza",
+      "location": "Justin Herman Plaza, 1 Market St, San Francisco",
+      "status": "expected",
+      "description": "San Francisco's waterfront plaza at the foot of Market Street is expected to be the primary fan hub — giant screens with Bay Bridge views, diverse food vendors, and the city's electric atmosphere.",
+      "transport_tips": [
+        "BART to Embarcadero station — right at the plaza",
+        "F-Market streetcar from Union Square to Ferry Building area",
+        "Walking distance from Financial District hotels"
+      ]
+    },
+    {
+      "name": "San Jose Fan Block",
+      "location": "Downtown San Jose, around SAP Center",
+      "status": "local_watch_area",
+      "description": "San Jose's downtown entertainment district is the natural watch-party zone for fans based in the South Bay. Multiple sports bars and restaurants, and Caltrain access direct to Levi's Stadium.",
+      "transport_tips": [
+        "VTA light rail serves downtown San Jose",
+        "Walking distance to Caltrain San Jose Diridon station for stadium access"
+      ]
+    }
+  ],
+  "neighborhoods": [
+    {
+      "name": "San Francisco — Union Square / SoMa",
+      "best_for": "Classic SF experience, major hotel brands, BART access",
+      "safety_transit_notes": "Safe in the Union Square and Embarcadero corridors. SoMa/Tenderloin area requires awareness at night.",
+      "stadium_access": "Caltrain from 4th & King to Santa Clara — about 65 min with transfer",
+      "hotel_price_level": "$$$–$$$$",
+      "description": "The tourist heart of San Francisco. Excellent transit (BART, Muni, Caltrain) and some of the best restaurants in the world within walking distance. A premium choice for the full San Francisco experience — just budget extra transit time to Levi's."
+    },
+    {
+      "name": "Santa Clara / Levi's Stadium Area",
+      "best_for": "Stadium proximity, corporate hotels",
+      "safety_transit_notes": "Very safe, suburban Silicon Valley.",
+      "stadium_access": "Walking distance to Levi's Stadium",
+      "hotel_price_level": "$$–$$$",
+      "description": "Best base for match-day logistics. Santa Clara and Sunnyvale have solid hotel options and are walking distance to the stadium. Less culture than San Francisco but unmatched convenience."
+    },
+    {
+      "name": "San Jose Downtown",
+      "best_for": "Caltrain hub, nightlife, restaurants",
+      "safety_transit_notes": "Safe in the downtown core around 1st St and Santana Row.",
+      "stadium_access": "Caltrain or VTA from San Jose Diridon — about 15 min",
+      "hotel_price_level": "$$",
+      "description": "An underrated stay option. Good restaurants, VTA and Caltrain access to the stadium, and more affordable than San Francisco. Tech-industry city with a genuine cultural scene in the downtown and Santana Row areas."
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Hotel Nia, Autograph Collection",
+      "stars": 4,
+      "distance": "5 min to Levi's Stadium",
+      "neighborhood": "Menlo Park (near stadium)",
+      "best_for": "Stadium proximity, tech-forward amenities, business travel",
+      "affiliate_url": "https://www.booking.com/hotel/us/hotel-nia-autograph-collection.html?aid=YOUR_AID",
+      "affiliate_label": "Check availability",
+      "affiliate_provider": "Booking.com"
+    },
+    {
+      "name": "Marriott San Jose",
+      "stars": 4,
+      "distance": "15 min to Levi's Stadium via Caltrain/VTA",
+      "neighborhood": "Downtown San Jose",
+      "best_for": "Caltrain hub, downtown dining, South Bay base",
+      "affiliate_url": "https://www.booking.com/hotel/us/san-jose-marriott.html?aid=YOUR_AID",
+      "affiliate_label": "Check availability",
+      "affiliate_provider": "Booking.com"
+    },
+    {
+      "name": "Hotel Zoe Fisherman's Wharf",
+      "stars": 4,
+      "distance": "60+ min to Levi's Stadium",
+      "neighborhood": "San Francisco — Fisherman's Wharf",
+      "best_for": "Full San Francisco experience, waterfront, tourist access",
+      "affiliate_url": "https://www.booking.com/hotel/us/hotel-zoe-fishermans-wharf.html?aid=YOUR_AID",
+      "affiliate_label": "Check availability",
+      "affiliate_provider": "Booking.com"
+    },
+    {
+      "name": "Hotel Vitale San Francisco",
+      "stars": 4,
+      "distance": "60+ min to stadium, but Embarcadero fan hub is steps away",
+      "neighborhood": "San Francisco — Embarcadero",
+      "best_for": "Fan hub access, waterfront, BART connection",
+      "affiliate_url": "https://www.booking.com/hotel/us/hotel-vitale.html?aid=YOUR_AID",
+      "affiliate_label": "Check availability",
+      "affiliate_provider": "Booking.com"
+    }
+  ],
+  "booking_links": [
+    {
+      "provider": "Booking.com",
+      "label": "Browse San Francisco hotels on Booking.com →",
+      "affiliate_url": "https://www.booking.com/city/us/san-francisco.html?aid=YOUR_AID"
+    },
+    {
+      "provider": "Booking.com",
+      "label": "Browse San Jose hotels on Booking.com →",
+      "affiliate_url": "https://www.booking.com/city/us/san-jose.html?aid=YOUR_AID"
+    }
+  ],
+  "bars": [
+    {
+      "name": "The Chieftain Irish Pub",
+      "neighborhood": "SoMa, San Francisco",
+      "vibe": "pub",
+      "address": "198 5th St, San Francisco, CA",
+      "notes": "SF's most dedicated soccer bar. Packed for every significant international match. Arrive early for the big games.",
+      "transit": "BART to Powell or bus on 5th St"
+    },
+    {
+      "name": "Final Score Sports Bar",
+      "neighborhood": "Financial District, San Francisco",
+      "vibe": "rowdy",
+      "address": "188 Embarcadero, San Francisco, CA",
+      "notes": "Well-located sports bar near the Embarcadero fan hub area. Multiple screens, strong atmosphere.",
+      "transit": "BART to Embarcadero"
+    },
+    {
+      "name": "Fado Irish Pub San Jose",
+      "neighborhood": "Downtown San Jose",
+      "vibe": "rowdy",
+      "address": "100 W San Fernando St, San Jose, CA",
+      "notes": "San Jose's top soccer bar. Walking distance from Caltrain and VTA for pre/post-stadium visits.",
+      "transit": "VTA light rail or Caltrain to San Jose Diridon"
+    },
+    {
+      "name": "The View Lounge",
+      "neighborhood": "Union Square, San Francisco",
+      "vibe": "rooftop",
+      "address": "55 4th St, San Francisco, CA",
+      "notes": "39th-floor rooftop bar with panoramic SF views. Perfect for an evening match-day experience.",
+      "transit": "BART to Powell"
+    },
+    {
+      "name": "Horsefeather",
+      "neighborhood": "Lower Haight, San Francisco",
+      "vibe": "pub",
+      "address": "528 Divisadero St, San Francisco, CA",
+      "notes": "Neighbourhood bar with a serious soccer showing culture and a dedicated local crowd.",
+      "transit": "Muni on Divisadero"
+    }
+  ],
+  "transport": {
+    "summary": "The Bay Area has BART, Caltrain, VTA, and ferry connections. For Levi's Stadium, Caltrain + VTA is the essential combination. Buy a Clipper Card that works across all Bay Area transit.",
+    "tips": [
+      "Clipper Card: tap-to-pay on BART, Caltrain, VTA, Muni, and Bay Area ferries — buy at any BART or Caltrain station",
+      "From SF to stadium: Caltrain from 4th & King to Santa Clara, then walk/VTA shuttle (~65 min)",
+      "BART connects SFO and OAK airports to the Bay Area — convenient for initial arrival",
+      "Ferries connect SF Ferry Building to Oakland and other East Bay points — excellent non-match day travel"
+    ]
+  },
+  "fan_zones": [
+    {
+      "name": "SF Fan Hub — Justin Herman Plaza / Embarcadero",
+      "location": "Justin Herman Plaza, 1 Market St, San Francisco",
+      "capacity": 20000,
+      "description": "Waterfront plaza at the foot of Market Street — expected fan hub with Bay Bridge views and city energy."
+    },
+    {
+      "name": "San Jose Fan Block",
+      "location": "Downtown San Jose, around SAP Center",
+      "capacity": 15000,
+      "description": "Downtown San Jose's entertainment zone — watch parties and pre/post-match gathering for South Bay fans."
+    }
+  ],
+  "soccer_culture": {
+    "community_notes": "The Bay Area has a diverse and passionate soccer community built from its extraordinary immigrant population. San Jose Earthquakes are one of MLS's founding clubs, and the region's tech industry attracts young international fans from soccer-mad countries around the world.",
+    "local_clubs": ["San Jose Earthquakes (MLS)", "San Jose FC (USL)"],
+    "supporter_groups": ["Ultras San Jose", "Casbah (San Jose Earthquakes)"],
+    "historic_venues": ["Levi's Stadium", "PayPal Park (San Jose Earthquakes home)", "Spartan Stadium (historic)"]
+  },
+  "things_to_do": {
+    "tourist_hits": [
+      { "name": "Golden Gate Bridge", "notes": "Walk or bike across the bridge — reserve plenty of time and layers. Bus from Downtown SF." },
+      { "name": "Alcatraz Island", "notes": "Book ferry tickets weeks in advance. The audio tour is excellent." },
+      { "name": "Golden Gate Park", "notes": "1,000+ acres with the de Young Museum, Japanese Tea Garden, and cycling paths." },
+      { "name": "Fisherman's Wharf", "notes": "Touristy but fun — clam chowder in a bread bowl, sea lions at Pier 39." }
+    ],
+    "local_favorites": [
+      { "name": "Mission Dolores Park", "notes": "Best people-watching in SF — weekend afternoons are a scene unto themselves." },
+      { "name": "Ferry Building Marketplace", "notes": "Excellent Saturday farmer's market and permanent artisan food stalls on the Embarcadero." },
+      { "name": "Bernal Heights Park", "notes": "Quiet hilltop with the best panoramic SF views — less crowded than Twin Peaks." }
+    ]
+  },
+  "food_nightlife": {
+    "areas": [
+      "Mission District — best taquerias and diverse food, vibrant nightlife",
+      "Hayes Valley — cocktail bars and independent restaurants",
+      "North Beach — Italian restaurants and café culture",
+      "Santana Row (San Jose) — upscale outdoor dining and bars"
+    ],
+    "recommendations": [
+      { "name": "La Taqueria (Mission)", "notes": "Consistently rated best burrito in SF. Cash only, long line, worth every minute." },
+      { "name": "Foreign Cinema", "notes": "Beautiful Mission restaurant with outdoor movies. Book in advance." },
+      { "name": "Bix (San Francisco)", "notes": "Classic supper-club atmosphere in Jackson Square. Excellent for a pre-match evening." }
+    ]
+  },
+  "local_resources": {
+    "tourism_links": [
+      { "name": "San Francisco Travel", "url": "https://www.sftravel.com" },
+      { "name": "San Jose Tourism", "url": "https://www.sanjose.org" }
+    ],
+    "transit_apps": [
+      { "name": "Clipper Card", "url": "https://www.clippercard.com" },
+      { "name": "Transit App", "url": "https://transitapp.com" }
+    ],
+    "emergency_info": "Emergency: 911. SF Police non-emergency: (415) 553-0123. Hospital: UCSF Medical Center, (415) 476-1000."
+  },
+  "walk_bike": {
+    "walkability_summary": "San Francisco is highly walkable in the Embarcadero, Union Square, and Mission neighbourhoods — with the caveat that the hills are real. Flat routes include the waterfront and Market Street corridor.",
+    "bikeability_summary": "Bay Wheels (bikeshare) operates across SF. The Embarcadero and Golden Gate Park paths are excellent. Avoid the steep hills on a standard bike.",
+    "best_walkable_areas": ["Embarcadero / Ferry Building", "Union Square corridor", "Mission / Valencia St", "North Beach / Columbus Ave"],
+    "bike_share_notes": "Bay Wheels bike share has electric and regular bikes across San Francisco. Electric bikes strongly recommended for the hills. Day passes in the Lyft app."
+  },
+  "pickup_soccer": [
+    {
+      "name": "Dolores Park (lower fields)",
+      "location": "Mission Dolores Park, Mission District, SF",
+      "access_notes": "Informal pickup, particularly from the Latino community. Open public space.",
+      "schedule_notes": "Weekend afternoons and Sunday mornings."
+    },
+    {
+      "name": "Riker Park, San Jose",
+      "location": "Riker Park, Milpitas, near San Jose",
+      "access_notes": "South Bay pickup culture with Vietnamese and Hispanic community players.",
+      "schedule_notes": "Weekend mornings, 8am–noon."
+    }
+  ],
+  "outdoors_day_trips": [
+    {
+      "name": "Muir Woods and Mount Tamalpais",
+      "type": "Forest / hiking",
+      "distance": "About 20 km north of SF via Golden Gate Bridge",
+      "difficulty": "Easy to moderate",
+      "notes": "Ancient coastal redwood forest and Mt. Tam ridge hikes with dramatic ocean views. Reserve parking or shuttle in advance."
+    },
+    {
+      "name": "Napa Valley",
+      "type": "Wine country",
+      "distance": "About 80 km north of SF",
+      "difficulty": "Easy",
+      "notes": "World-famous wine region. Rent a car or take a guided tour. Excellent between matches for fans who want a contrast to stadium energy."
+    },
+    {
+      "name": "Point Reyes National Seashore",
+      "type": "Coastal / wildlife",
+      "distance": "About 60 km north of SF",
+      "difficulty": "Easy to moderate",
+      "notes": "Wild and dramatic Pacific coastline with elk herds, dramatic cliffs, and a lighthouse. Rental car required."
+    }
+  ],
+  "safety_tips": [
+    "San Francisco's tourist areas (Embarcadero, Union Square, Fisherman's Wharf) are safe during the day",
+    "The Tenderloin neighbourhood has visible drug activity — avoid walking through at night",
+    "Keep valuables in your hotel safe and never leave anything visible in a parked car (auto break-ins are common)",
+    "SF fog means cool temperatures even in July — carry a layer at all times",
+    "Santa Clara and San Jose are suburban and safe throughout"
+  ]
+}

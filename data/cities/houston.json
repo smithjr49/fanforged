@@ -1,0 +1,320 @@
+{
+  "hero": {
+    "tagline": "Space City, World Stage",
+    "description": "Houston is the most ethnically diverse large city in the USA, and its soccer culture runs as deep as any in North America. NRG Stadium hosts the World Cup in a city where Latin American, African, Asian, and Caribbean communities have built one of the most authentic football fan cultures on the continent. Expect the most passionate crowd of any tournament venue."
+  },
+  "stadium": {
+    "name": "NRG Stadium",
+    "capacity": 72220,
+    "address": "1 NRG Pkwy, Houston, TX 77054",
+    "transport": "NRG Stadium is in the NRG Park complex, about 8 km south of downtown. The METRORail Red Line has an NRG Park stop — about 15 minutes from downtown Main St stops. Rideshare and game-day shuttles are also used. The Red Line is strongly preferred on match days."
+  },
+  "quick_facts": {
+    "matches_hosted": "Multiple matches including group stage and advanced rounds",
+    "stadium": "NRG Stadium",
+    "airport_codes": ["IAH", "HOU"],
+    "timezone": "Central Time",
+    "best_neighborhoods": ["Downtown", "Midtown", "Montrose", "Museum District", "EaDo"],
+    "fan_hub_status": "Fan hub expected at Discovery Green; confirm local schedules"
+  },
+  "weather": {
+    "june": "Very hot and humid, highs 32–35°C (90–95°F). Afternoon thunderstorms are common. This is peak Houston summer.",
+    "july": "Hottest and most humid month. Highs 33–37°C (91–99°F). NRG Stadium's retractable roof means match conditions are controlled.",
+    "packing_tips": [
+      "Lightweight, moisture-wicking clothing is essential — Houston humidity is intense",
+      "A compact umbrella or rain layer for afternoon storms",
+      "Sunscreen and a hat for outdoor fan zones — the sun is aggressive even with cloud cover",
+      "Carry a large water bottle — dehydration in Houston summer heat happens fast"
+    ]
+  },
+  "airports": [
+    {
+      "name": "George Bush Intercontinental Airport",
+      "code": "IAH",
+      "distance_to_stadium": "About 40 km north of NRG Stadium",
+      "transfer_options": [
+        "IAH to Downtown Houston via METRORail Red Line extension — about 50 min (check schedule for airport service)",
+        "Rideshare from IAH to Downtown hotels takes 35–50 minutes depending on traffic",
+        "Taxi stand available at the ground transportation level"
+      ],
+      "notes": "Main international hub. Rideshare or taxi is the most practical option for arriving international visitors. Bush Intercontinental is the best airport for direct international flights."
+    },
+    {
+      "name": "William P. Hobby Airport",
+      "code": "HOU",
+      "distance_to_stadium": "About 15 km from NRG Stadium",
+      "transfer_options": [
+        "METRORail Red Line: Hobby Airport connection — about 20 min to NRG Park",
+        "Rideshare from Hobby to Downtown or NRG Stadium — 20–30 min"
+      ],
+      "notes": "Closer to the stadium than Bush Intercontinental. Good for Southwest Airlines passengers and fans staying near the stadium or Museum District."
+    }
+  ],
+  "match_schedule": [
+    {
+      "date": "June–July 2026",
+      "round": "Group stage and advanced rounds",
+      "teams_or_placeholder": "NRG Stadium hosts multiple matches. Full schedule after group draw.",
+      "stadium": "NRG Stadium"
+    }
+  ],
+  "stadium_transport": {
+    "public_transit": [
+      "METRORail Red Line: NRG Park station — direct service from Downtown and Midtown",
+      "Red Line connects to Hobby Airport (HOU) as well as Downtown Main St corridor",
+      "Extra rail service on match days — confirm schedule on the METRO website"
+    ],
+    "rideshare": [
+      "Rideshare is practical pre-match but post-match surge from NRG is severe",
+      "Walk along Kirby Dr away from the stadium for a faster post-match pickup",
+      "Pre-book a scheduled Uber or Lyft before kickoff to lock pricing"
+    ],
+    "driving_parking": [
+      "NRG Park has extensive parking — NRG lots are closest to the stadium gate",
+      "Main St and Loop 610 back up severely after full-capacity events",
+      "Park-and-ride with the METRO Red Line from further north is a practical alternative"
+    ],
+    "walking_biking": [
+      "Museum District and Medical Center neighbourhoods are walking distance from NRG Park",
+      "Not walkable from Downtown — 6+ km in dangerous summer heat",
+      "B-Cycle bikeshare exists in limited areas of Houston"
+    ],
+    "match_day_tips": [
+      "NRG Stadium has a retractable roof — match conditions are controlled regardless of the extreme weather outside",
+      "Hydrate before entering the stadium — Houston heat drains you fast in the outdoor queues",
+      "Museum District restaurants and bars are within walking distance for pre-match",
+      "Arrive at least 90 minutes early — NRG Park draws huge crowds and queues are long"
+    ]
+  },
+  "fan_hubs": [
+    {
+      "name": "Houston Fan Hub — Discovery Green",
+      "location": "Discovery Green, 1500 McKinney St, Houston",
+      "status": "expected",
+      "description": "A major fan hub expected at Discovery Green — Houston's downtown park designed for large outdoor events. Giant screens, food trucks from Houston's world-class restaurant scene, live entertainment, and the proximity of the George R. Brown Convention Center make this a natural epicentre.",
+      "transport_tips": [
+        "METRORail Red Line to Main St/Discovery Green area",
+        "Walking distance from many Downtown hotels",
+        "Multiple bus routes serve the Discovery Green area"
+      ]
+    }
+  ],
+  "neighborhoods": [
+    {
+      "name": "Downtown",
+      "best_for": "Hotels, fan hub access, Metro connections",
+      "safety_transit_notes": "Safe in the main business and hotel corridors. Discovery Green area is busy and well-patrolled.",
+      "stadium_access": "METRORail Red Line south to NRG Park — 15 min",
+      "hotel_price_level": "$$–$$$",
+      "description": "Largest concentration of business hotels and the expected Discovery Green fan hub. Easy Metro access to NRG Stadium. Downtown Houston has improved significantly and is quite walkable within the core."
+    },
+    {
+      "name": "Midtown",
+      "best_for": "Nightlife, restaurants, Red Line access",
+      "safety_transit_notes": "Active and safe along Main St and Midtown corridors.",
+      "stadium_access": "METRORail Red Line from Midtown stops — about 10 min to NRG",
+      "hotel_price_level": "$$",
+      "description": "Young, lively neighbourhood on the Red Line corridor. Excellent bar and restaurant scene, walkable stretches, and an active local soccer bar culture."
+    },
+    {
+      "name": "Montrose",
+      "best_for": "Arts, independent restaurants, diverse community",
+      "safety_transit_notes": "Safe, eclectic neighbourhood with active street life.",
+      "stadium_access": "Bus or rideshare to NRG — about 20 min",
+      "hotel_price_level": "$$",
+      "description": "Houston's most culturally diverse neighbourhood. The best independent restaurants, bars, and galleries in the city. Slightly removed from the Metro but full of character."
+    },
+    {
+      "name": "EaDo (East Downtown)",
+      "best_for": "Soccer culture, nightlife, PNC Stadium proximity",
+      "safety_transit_notes": "Gentrifying area — active in the bar/restaurant zone, quieter away from it.",
+      "stadium_access": "METRORail to NRG — about 20 min",
+      "hotel_price_level": "$–$$",
+      "description": "Houston's emerging arts and nightlife district adjacent to Downtown. Home to PNC Stadium (Houston Dynamo) and some of the best soccer bars in the city."
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Marriott Marquis Houston",
+      "stars": 5,
+      "distance": "15 min to NRG Stadium via Red Line",
+      "neighborhood": "Downtown",
+      "best_for": "Luxury, rooftop pool, Discovery Green proximity",
+      "affiliate_url": "https://www.booking.com/hotel/us/marriott-marquis-houston.html?aid=YOUR_AID",
+      "affiliate_label": "Check availability",
+      "affiliate_provider": "Booking.com"
+    },
+    {
+      "name": "Hotel Alessandra",
+      "stars": 4,
+      "distance": "15 min to stadium via Red Line",
+      "neighborhood": "Downtown",
+      "best_for": "Boutique luxury, Downtown location",
+      "affiliate_url": "https://www.booking.com/hotel/us/hotel-alessandra-houston.html?aid=YOUR_AID",
+      "affiliate_label": "Check availability",
+      "affiliate_provider": "Booking.com"
+    },
+    {
+      "name": "Hyatt Regency Houston",
+      "stars": 4,
+      "distance": "15 min to NRG Stadium",
+      "neighborhood": "Downtown",
+      "best_for": "Large groups, central Downtown, convention access",
+      "affiliate_url": "https://www.booking.com/hotel/us/hyatt-regency-houston.html?aid=YOUR_AID",
+      "affiliate_label": "Check availability",
+      "affiliate_provider": "Booking.com"
+    }
+  ],
+  "booking_links": [
+    {
+      "provider": "Booking.com",
+      "label": "Browse all Houston hotels on Booking.com →",
+      "affiliate_url": "https://www.booking.com/city/us/houston.html?aid=YOUR_AID"
+    }
+  ],
+  "bars": [
+    {
+      "name": "Pitch 25",
+      "neighborhood": "EaDo",
+      "vibe": "rowdy",
+      "address": "2120 Walker St, Houston, TX",
+      "notes": "Houston's best dedicated soccer bar adjacent to PNC Stadium. Watch parties here are absolutely electric.",
+      "transit": "METRORail or rideshare to EaDo"
+    },
+    {
+      "name": "Black Labrador Pub",
+      "neighborhood": "Montrose",
+      "vibe": "pub",
+      "address": "4100 Montrose Blvd, Houston, TX",
+      "notes": "British-style pub in Montrose with strong soccer culture and reliable match showings.",
+      "transit": "Bus on Montrose Blvd"
+    },
+    {
+      "name": "Axelrad Beer Garden",
+      "neighborhood": "Midtown",
+      "vibe": "outdoor",
+      "address": "1517 Alabama St, Houston, TX",
+      "notes": "Tropical outdoor beer garden in Midtown — great afternoon match vibe with hammocks and food trucks.",
+      "transit": "METRORail Red Line to Midtown"
+    },
+    {
+      "name": "The Rustic Houston",
+      "neighborhood": "Upper Kirby",
+      "vibe": "outdoor",
+      "address": "1836 Westheimer Rd, Houston, TX",
+      "notes": "Large outdoor venue with live music and screens. Good for post-match gatherings.",
+      "transit": "Rideshare from Downtown"
+    },
+    {
+      "name": "Houston Social",
+      "neighborhood": "Montrose / West University",
+      "vibe": "pub",
+      "address": "2424 Dunstan Rd, Houston, TX",
+      "notes": "Neighbourhood sports bar with a loyal soccer-watching crowd. Shows early morning European matches.",
+      "transit": "Rideshare from Downtown"
+    }
+  ],
+  "transport": {
+    "summary": "Houston is spread out and car-dependent, but the METRORail Red Line provides reliable access from Downtown and Midtown directly to NRG Stadium. It's the clear best option on match days.",
+    "tips": [
+      "METRO Q Card: tap-to-pay on METRORail — load at any station kiosk",
+      "Red Line from Main Street Square to NRG Park station — 15 minutes, much better than driving",
+      "Hobby Airport (HOU) has Red Line connections — very convenient compared to IAH",
+      "Houston heat is dangerous in outdoor queues — the stadium roof controls conditions inside",
+      "Rideshare is essential for non-Rail areas like Montrose, EaDo, and Museum District"
+    ]
+  },
+  "fan_zones": [
+    {
+      "name": "Houston Fan Hub — Discovery Green",
+      "location": "Discovery Green, 1500 McKinney St, Houston",
+      "capacity": 30000,
+      "description": "Downtown Houston's premier outdoor event space — expected fan hub with giant screens, food trucks, and live entertainment throughout the tournament."
+    }
+  ],
+  "soccer_culture": {
+    "community_notes": "Houston has one of the most passionate soccer communities in the USA. The city's enormous Mexican, Central American, Colombian, Nigerian, Vietnamese, and other immigrant communities all bring deep football cultures. Houston Dynamo's PNC Stadium hosts some of the loudest crowds in MLS. This is the real deal.",
+    "local_clubs": ["Houston Dynamo FC (MLS)", "Houston Dash (NWSL)"],
+    "supporter_groups": ["El Capitan (Houston Dynamo)", "La Bateria"],
+    "historic_venues": ["NRG Stadium", "PNC Stadium (Houston Dynamo home, formerly BBVA Stadium)"]
+  },
+  "things_to_do": {
+    "tourist_hits": [
+      { "name": "Space Center Houston", "notes": "NASA's visitor complex — interactive exhibits, mission control tours, and real spacecraft. Book in advance." },
+      { "name": "Houston Museum of Natural Science", "notes": "Gem and mineral collection, dinosaur halls, and excellent rotating exhibitions." },
+      { "name": "Museum of Fine Arts Houston", "notes": "One of the largest art museums in the USA — free on Thursdays." },
+      { "name": "Houston Zoo", "notes": "Large, well-maintained zoo in Hermann Park adjacent to the Museum District." }
+    ],
+    "local_favorites": [
+      { "name": "Buffalo Bayou Park", "notes": "5 km riverside park with cycling, kayaking, and outdoor art. Beautiful in the cooler morning hours." },
+      { "name": "Kemah Boardwalk", "notes": "Waterfront entertainment district 45 min from Downtown — rides, seafood restaurants, and bay views." },
+      { "name": "Chinatown / Bellaire Blvd", "notes": "One of the best Chinese, Vietnamese, and pan-Asian restaurant areas in the USA." }
+    ]
+  },
+  "food_nightlife": {
+    "areas": [
+      "Montrose — independent restaurants and bars, the most eclectic neighbourhood",
+      "Midtown — active bar strip along Main St and Milam",
+      "EaDo — soccer bar culture and emerging restaurant scene",
+      "Chinatown / Bellaire Blvd — authentic pan-Asian food"
+    ],
+    "recommendations": [
+      { "name": "Uchi Houston", "notes": "James Beard-winning Japanese restaurant from Tyson Cole. Book well ahead." },
+      { "name": "Underbelly Hospitality", "notes": "Chris Shepherd's Houston-centric restaurant group — excellent for the city's food story." },
+      { "name": "Teotihuacan Mexican Cafe", "notes": "The best authentic Mexican food in Houston — multiple locations, cash-friendly." }
+    ]
+  },
+  "local_resources": {
+    "tourism_links": [
+      { "name": "Visit Houston", "url": "https://www.visithoustontexas.com" }
+    ],
+    "transit_apps": [
+      { "name": "METRO TRIP", "url": "https://www.ridemetro.org" },
+      { "name": "Transit App", "url": "https://transitapp.com" }
+    ],
+    "emergency_info": "Emergency: 911. Houston Police non-emergency: (713) 884-3131. Hospital: Houston Methodist Hospital, (713) 790-3311."
+  },
+  "walk_bike": {
+    "walkability_summary": "Houston is not a pedestrian city overall, but Downtown, Midtown along Main St, and Montrose have walkable corridors. Bayou Greenway trails offer excellent cycling routes.",
+    "bikeability_summary": "BCycle Houston operates bikeshare in Downtown, Midtown, and Montrose. Bayou Greenway provides car-free cycling routes.",
+    "best_walkable_areas": ["Downtown near Discovery Green", "Midtown on Main St", "Montrose corridor", "Museum District"],
+    "bike_share_notes": "BCycle Houston docks in Downtown, Midtown, and EaDo. Day passes in the BCycle app. Buffalo Bayou and Bayou Greenway are the best cycling routes."
+  },
+  "pickup_soccer": [
+    {
+      "name": "Burnett Bayland Park",
+      "location": "6000 Chimney Rock Rd, Houston",
+      "access_notes": "One of Houston's most active informal soccer parks with Hispanic community pickup culture.",
+      "schedule_notes": "Saturday and Sunday, 7am–noon and 4–7pm."
+    },
+    {
+      "name": "MacGregor Park",
+      "location": "5225 Calhoun Rd, Houston",
+      "access_notes": "South Houston park with strong Latino soccer culture and multiple fields.",
+      "schedule_notes": "Weekends all day."
+    }
+  ],
+  "outdoors_day_trips": [
+    {
+      "name": "Galveston Island",
+      "type": "Beach / historic",
+      "distance": "About 75 km south of Houston",
+      "difficulty": "Easy",
+      "notes": "Gulf of Mexico beach island with a historic Strand District. Good for a full day between matches."
+    },
+    {
+      "name": "Big Thicket National Preserve",
+      "type": "Forest / nature",
+      "distance": "About 150 km northeast of Houston",
+      "difficulty": "Easy to moderate",
+      "notes": "A biological crossroads of North America — hiking trails through remarkable forest diversity."
+    }
+  ],
+  "safety_tips": [
+    "Houston is safe in tourist areas — Downtown, Midtown, Montrose, Museum District",
+    "Use rideshare or the Metro for late-night travel — avoid walking in unfamiliar areas",
+    "Houston heat in June–July can be dangerous — hydrate constantly and take indoor breaks during peak afternoon heat",
+    "The NRG Stadium retractable roof controls match conditions — pack a layer for air-conditioned interiors",
+    "Lock valuables in your hotel safe — car break-ins do occur in parking areas"
+  ]
+}

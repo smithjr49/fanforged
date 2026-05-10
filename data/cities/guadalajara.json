@@ -1,0 +1,337 @@
+{
+  "hero": {
+    "tagline": "The Soul of Mexican Football",
+    "description": "Guadalajara is Mexico's second city — the birthplace of tequila, mariachi, and some of the country's most intense football rivalries. Estadio Akron is one of the most modern stadiums in Latin America, set in the hills northwest of the city. Two legendary clubs, Chivas and Atlas, call this city home. The culture here is fiercely proud, warmly welcoming, and unlike anywhere else in Mexico."
+  },
+  "stadium": {
+    "name": "Estadio Akron",
+    "capacity": 49850,
+    "address": "Av. de Las Rosas 3476, Pinar de la Venta, Zapopan, Jalisco 45138",
+    "transport": "Estadio Akron is in Zapopan, about 17 km northwest of Guadalajara's historic centre. The Tren Ligero (light rail) Line 1 runs to Periférico Norte station, where game-day shuttles connect to the stadium — total journey about 40–50 min from the centre. Uber is also practical: 30–40 min from the city centre depending on match-day traffic."
+  },
+  "quick_facts": {
+    "matches_hosted": "Multiple matches including group stage",
+    "stadium": "Estadio Akron",
+    "airport_codes": ["GDL"],
+    "timezone": "Central Time (Mexico)",
+    "best_neighborhoods": ["Chapultepec / Americana", "Providencia", "Tlaquepaque", "Centro Histórico"],
+    "fan_hub_status": "Fan activity expected at Plaza de los Mariachis and Glorieta Minerva; confirm local schedules"
+  },
+  "weather": {
+    "june": "Warm to hot with a refreshing dry season transitioning to rainy season. Highs 27–31°C (81–88°F). Evenings can be cool and pleasant.",
+    "july": "Rainy season arrives — afternoon downpours are common but typically brief. Highs 24–28°C (75–82°F). Green, lush, and slightly cooler.",
+    "packing_tips": [
+      "A light rain jacket for afternoon showers in July",
+      "Layers for cooler evenings — Guadalajara at 1,566m altitude can get cool after sunset",
+      "Comfortable walking shoes — the Centro Histórico and Chapultepec are best explored on foot",
+      "Sunscreen for outdoor fan zones and afternoon heat"
+    ]
+  },
+  "airports": [
+    {
+      "name": "Guadalajara International Airport (Don Miguel Hidalgo y Costilla)",
+      "code": "GDL",
+      "distance_to_stadium": "About 25 km south of Estadio Akron; about 18 km southeast of the city centre",
+      "transfer_options": [
+        "No direct rail from the airport — Uber is the practical option to the city centre (25–35 min, around $8–12 USD)",
+        "Official airport taxis available at fixed-rate booths in the arrivals hall — rates posted clearly",
+        "Rental car practical if you plan to explore Jalisco's tequila region or Lake Chapala"
+      ],
+      "notes": "GDL is a modern, well-organised airport with several international connections. Uber is recommended for reliability and pricing — the official airport taxi rates are fair but Uber is usually slightly cheaper. Allow extra time on match days when traffic backs up on the main ring roads."
+    }
+  ],
+  "match_schedule": [
+    {
+      "date": "June–July 2026",
+      "round": "Group stage",
+      "teams_or_placeholder": "Estadio Akron hosts group stage matches. Full schedule after group draw.",
+      "stadium": "Estadio Akron"
+    }
+  ],
+  "stadium_transport": {
+    "public_transit": [
+      "Tren Ligero Line 1 to Periférico Norte station — game-day shuttles connect to Estadio Akron from there",
+      "Total journey from the Centro Histórico via Tren Ligero + shuttle: about 45–55 min",
+      "Line 1 runs frequently and cheaply — grab a multi-trip card at any Tren Ligero station"
+    ],
+    "rideshare": [
+      "Uber is widely available in Guadalajara and very affordable by international standards",
+      "Pre-match Uber from Chapultepec or Providencia takes 25–35 min",
+      "Post-match surges are significant — walk at least 10 min from the stadium before requesting a pickup",
+      "InDrive is also active locally and sometimes undercuts Uber on pricing"
+    ],
+    "driving_parking": [
+      "Parking is available at Estadio Akron but fills quickly on match days",
+      "Periférico Norte and the main access road to Zapopan back up severely post-match",
+      "Allow 90 min after the final whistle before departing if driving"
+    ],
+    "walking_biking": [
+      "Not walkable from the city centre — 17 km across a large urban area",
+      "MiBici bikeshare operates in central Guadalajara but does not reach the stadium"
+    ],
+    "match_day_tips": [
+      "Estadio Akron is architecturally spectacular — one of the most impressive stadium designs in North America",
+      "Arrive 90 min early — the shuttle approach from Periférico Norte can be slow",
+      "The stadium is surrounded by open land — very limited restaurants nearby, so eat in the city before coming",
+      "Security screening at Mexican World Cup venues is thorough — clear bags save significant time at the gates"
+    ]
+  },
+  "fan_hubs": [
+    {
+      "name": "Plaza de los Mariachis Fan Area",
+      "location": "Plaza de los Mariachis, Av. Javier Mina, Centro Histórico, Guadalajara",
+      "status": "expected",
+      "description": "The spiritual home of mariachi music — the world-famous plaza where musicians have gathered for over a century. During the tournament, expect big screens, traditional food, and performances throughout the day. One of the most authentically Mexican fan experiences anywhere in the competition.",
+      "transport_tips": [
+        "Walking distance from Centro Histórico hotels",
+        "Tren Ligero Line 1 to Periférico Norte or San Juan de Dios stations",
+        "Uber easily available throughout the Centro"
+      ]
+    },
+    {
+      "name": "Glorieta Minerva Fan Hub",
+      "location": "Glorieta Minerva, Av. Vallarta and Av. López Mateos, Zapopan",
+      "status": "expected",
+      "description": "Guadalajara's most iconic roundabout and meeting point — the great stone lion monument at Glorieta Minerva is where the city celebrates everything. Expected to be a major fan congregation point with outdoor screens and bar spillover from the Chapultepec corridor.",
+      "transport_tips": [
+        "Walking distance from Chapultepec and Americana hotels",
+        "Tren Ligero Mexicaltzingo station a short walk away",
+        "Uber available throughout the Providencia and Americana area"
+      ]
+    }
+  ],
+  "neighborhoods": [
+    {
+      "name": "Chapultepec / Americana",
+      "best_for": "Bar scene, restaurants, fan atmosphere",
+      "safety_transit_notes": "Safe, active neighbourhood. Av. Chapultepec is busy and well-lit at night.",
+      "stadium_access": "Uber to Akron — 25–35 min",
+      "hotel_price_level": "$$",
+      "description": "Guadalajara's most vibrant neighbourhood — the long commercial strip of Av. Chapultepec is lined with bars, coffee shops, taquerías, and restaurants. This is where Tapatíos (Guadalajara locals) go out. Best base for nightlife and fan atmosphere, walking distance to Glorieta Minerva."
+    },
+    {
+      "name": "Providencia",
+      "best_for": "Safe, upmarket base with excellent restaurants",
+      "safety_transit_notes": "Upscale residential neighbourhood — consistently one of the safest areas for visitors.",
+      "stadium_access": "Uber to Akron — 30 min",
+      "hotel_price_level": "$$–$$$",
+      "description": "Upmarket neighbourhood north of Chapultepec with boutique hotels, international restaurants, and a quieter atmosphere. Good family-friendly option within easy Uber distance of the fan hub areas."
+    },
+    {
+      "name": "Tlaquepaque",
+      "best_for": "Colonial architecture, arts, tequila bars, day-trip feel",
+      "safety_transit_notes": "Safe, tourist-friendly colonial town very busy during the day.",
+      "stadium_access": "Uber to Akron — 35–45 min",
+      "hotel_price_level": "$$",
+      "description": "15 min south of Guadalajara by Uber — San Pedro Tlaquepaque is a beautifully preserved colonial arts and crafts town with tequila bars, live mariachi, artisan markets, and excellent regional restaurants. A highlight of any GDL visit."
+    },
+    {
+      "name": "Centro Histórico",
+      "best_for": "History, plazas, cantinas, budget accommodation",
+      "safety_transit_notes": "Generally safe in the main squares — avoid quiet side streets late at night.",
+      "stadium_access": "Tren Ligero + shuttle to Akron — about 50 min; Uber — about 35 min",
+      "hotel_price_level": "$–$$",
+      "description": "The colonial heart of Guadalajara — the Cathedral, Hospicio Cabañas, Plaza de los Mariachis, and hundreds of cantinas and taquerías. Budget hotels here are well-placed for the Tren Ligero connection to the stadium."
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Hilton Guadalajara Midtown",
+      "stars": 4,
+      "distance": "30 min to Akron via Uber",
+      "neighborhood": "Midtown / Americana",
+      "best_for": "Luxury, business facilities, central Chapultepec location",
+      "affiliate_url": "https://www.booking.com/hotel/mx/hilton-guadalajara-midtown.html?aid=YOUR_AID",
+      "affiliate_label": "Check availability",
+      "affiliate_provider": "Booking.com"
+    },
+    {
+      "name": "Hotel Demetria",
+      "stars": 4,
+      "distance": "30 min to Akron",
+      "neighborhood": "Providencia",
+      "best_for": "Boutique design hotel, upmarket neighbourhood",
+      "affiliate_url": "https://www.booking.com/hotel/mx/demetria.html?aid=YOUR_AID",
+      "affiliate_label": "Check availability",
+      "affiliate_provider": "Booking.com"
+    },
+    {
+      "name": "NH Collection Guadalajara Providencia",
+      "stars": 4,
+      "distance": "30 min to stadium",
+      "neighborhood": "Providencia",
+      "best_for": "Modern, reliable, safe location",
+      "affiliate_url": "https://www.booking.com/hotel/mx/nh-guadalajara-providencia.html?aid=YOUR_AID",
+      "affiliate_label": "Check availability",
+      "affiliate_provider": "Booking.com"
+    },
+    {
+      "name": "Hampton Inn Guadalajara Centro Historico",
+      "stars": 3,
+      "distance": "35–40 min to Akron",
+      "neighborhood": "Centro Histórico",
+      "best_for": "Budget-smart, historic centre location, Tren Ligero access",
+      "affiliate_url": "https://www.booking.com/hotel/mx/hampton-inn-guadalajara-centro-historico.html?aid=YOUR_AID",
+      "affiliate_label": "Check availability",
+      "affiliate_provider": "Booking.com"
+    }
+  ],
+  "booking_links": [
+    {
+      "provider": "Booking.com",
+      "label": "Browse all Guadalajara hotels on Booking.com →",
+      "affiliate_url": "https://www.booking.com/city/mx/guadalajara.html?aid=YOUR_AID"
+    }
+  ],
+  "bars": [
+    {
+      "name": "La Fuente",
+      "neighborhood": "Centro Histórico",
+      "vibe": "pub",
+      "address": "Pino Suárez 78, Centro, Guadalajara",
+      "notes": "Legendary cantina in the Centro Histórico — one of the oldest in Guadalajara. Packed for football matches with ice-cold beer and an authentically local crowd.",
+      "transit": "Walking distance in the Centro Histórico"
+    },
+    {
+      "name": "Bar América",
+      "neighborhood": "Centro Histórico",
+      "vibe": "pub",
+      "address": "Av. Hidalgo 72, Centro, Guadalajara",
+      "notes": "Classic Guadalajara cantina with a long football-watching tradition. Stained glass, dark wood, and a crowd that knows the game.",
+      "transit": "Walking distance in the Centro"
+    },
+    {
+      "name": "Cantina La Tequila",
+      "neighborhood": "Chapalita",
+      "vibe": "rowdy",
+      "address": "Av. México 2830, Guadalajara",
+      "notes": "One of the most popular football cantinas in the city — multiple screens, house-infused tequilas, and a crowd that gets genuinely loud.",
+      "transit": "Uber from central Guadalajara (~10 min)"
+    },
+    {
+      "name": "Tailor Bar",
+      "neighborhood": "Chapultepec",
+      "vibe": "rooftop",
+      "address": "Av. Chapultepec Sur 228, Guadalajara",
+      "notes": "Rooftop bar on the Chapultepec strip with city views and a sophisticated crowd. Better for evening post-match drinks than live match screenings.",
+      "transit": "Av. Chapultepec corridor — walkable from Americana hotels"
+    },
+    {
+      "name": "El Parián de Tlaquepaque",
+      "neighborhood": "Tlaquepaque",
+      "vibe": "outdoor",
+      "address": "Plaza Central, San Pedro Tlaquepaque",
+      "notes": "Open-air cantina complex in Tlaquepaque's main square — mariachi performances, communal tequila tasting, and a beautiful colonial backdrop. Perfect for afternoon matches.",
+      "transit": "Uber from Guadalajara centre (15 min)"
+    }
+  ],
+  "transport": {
+    "summary": "Guadalajara has a Tren Ligero (light rail) and Macrobús BRT network covering the city centre. The key challenge is the stadium's location in Zapopan — Tren Ligero + shuttle is the best public option. Uber is extremely practical, very affordable, and runs throughout the city.",
+    "tips": [
+      "Tren Ligero Line 1 from Centro to Periférico Norte, then stadium shuttle — cheapest option to Akron",
+      "Uber is widely available and very affordable by international standards — average stadium trip under $6 USD",
+      "GDL airport has no rail connection — Uber from the airport to the city is 25–35 min",
+      "MiBici bikeshare operates in the Chapultepec, Providencia, and Centro area — great for moving between neighbourhoods",
+      "For Tequila Valley day trips, Uber to the town of Tequila takes about 60–70 min and is straightforward"
+    ]
+  },
+  "fan_zones": [
+    {
+      "name": "Plaza de los Mariachis Fan Area",
+      "location": "Av. Javier Mina, Centro Histórico, Guadalajara",
+      "capacity": 20000,
+      "description": "The birthplace of mariachi music transformed into a World Cup fan zone — live music, tequila, giant screens, and traditional Jalisco food. One of the most authentically Mexican World Cup experiences."
+    },
+    {
+      "name": "Glorieta Minerva Fan Hub",
+      "location": "Glorieta Minerva, Av. Vallarta, Guadalajara",
+      "capacity": 12000,
+      "description": "Guadalajara's most iconic meeting point — the great stone lion monument where Tapatíos gather to celebrate. Expected outdoor screens and bar overflow from the Chapultepec corridor."
+    }
+  ],
+  "soccer_culture": {
+    "community_notes": "Guadalajara is one of the most football-mad cities in Mexico. Club Deportivo Guadalajara — Chivas — is one of the most popular clubs in the entire country, with a devoted fanbase known for its unique Mexican identity (the club only signs Mexican players). Rival club Atlas is equally beloved locally, with a passionate ultras culture. Expect the crowd at Akron to be among the most knowledgeable in the tournament.",
+    "local_clubs": ["Club Deportivo Guadalajara / Chivas (Liga MX)", "Club Atlas (Liga MX)"],
+    "supporter_groups": ["La Irreverente (Chivas)", "Barra 51 (Atlas)"],
+    "historic_venues": ["Estadio Akron (2010–present)", "Estadio Jalisco (historic — still used by Atlas)"]
+  },
+  "things_to_do": {
+    "tourist_hits": [
+      { "name": "Hospicio Cabañas (Instituto Cultural Cabañas)", "notes": "UNESCO World Heritage Site — a colonial hospital-turned-arts centre with José Clemente Orozco's monumental murals in the main dome. Among the greatest muralist works in existence. Free entry on Tuesdays." },
+      { "name": "Estadio Jalisco", "notes": "The historic home of Chivas and Atlas — hosted 1970 and 1986 World Cup matches. Still in use today, deeply atmospheric as a contrast to Akron's modernity." },
+      { "name": "Tlaquepaque Arts District", "notes": "15 min by Uber — a beautifully preserved colonial artisan town with tequila, mariachi, galleries, and some of the best regional handicrafts in Jalisco." }
+    ],
+    "local_favorites": [
+      { "name": "Mercado San Juan de Dios", "notes": "The largest covered market in Latin America — four floors of food, leather goods, spices, and one of the best taco and birria breakfast scenes in Guadalajara." },
+      { "name": "Tequila, Jalisco (day trip)", "notes": "The town that gave tequila its name, 60 km northwest of Guadalajara. Tour the agave fields and distilleries — Cuervo, Herradura, and dozens of boutique producers. Essential Jalisco experience." },
+      { "name": "Lake Chapala and Ajijic", "notes": "45 min south by Uber — Mexico's largest lake surrounded by colonial villages. Ajijic has excellent lakeside seafood restaurants and a calm, beautiful pace." }
+    ]
+  },
+  "food_nightlife": {
+    "areas": [
+      "Av. Chapultepec — Guadalajara's main bar and restaurant strip, extends for 2+ km",
+      "Tlaquepaque — artisan restaurants, tequila bars, and cantinas in a colonial setting",
+      "Centro Histórico — cantinas, birria joints, and street tacos",
+      "Providencia — upscale independent restaurants and wine bars"
+    ],
+    "recommendations": [
+      { "name": "Tortas Ahogadas El Guero", "notes": "The definitive torta ahogada — Jalisco's signature drowned sandwich (pork, birote bread, spicy tomato sauce). Queue at lunch. Worth it." },
+      { "name": "Birrería Las 9 Esquinas", "notes": "Famous for birria (Jalisco's slow-cooked meat stew) in a rustic setting. One of the quintessential Guadalajara culinary experiences." },
+      { "name": "Alcalde Restaurant", "notes": "One of Guadalajara's best contemporary Mexican restaurants. Book well ahead." }
+    ]
+  },
+  "local_resources": {
+    "tourism_links": [
+      { "name": "Guadalajara Tourism", "url": "https://www.guadalajara.gob.mx/turismo" }
+    ],
+    "transit_apps": [
+      { "name": "Moovit (Guadalajara transit)", "url": "https://moovitapp.com" },
+      { "name": "Uber Mexico", "url": "https://www.uber.com/mx/es/" }
+    ],
+    "emergency_info": "Emergency: 911 (standard across Mexico since 2017). Tourist assistance: 078. Hospital Civil de Guadalajara: (33) 3614-7000. Currency: Mexican Peso (MXN). USD accepted at many tourist venues but pesos needed for street food and cantinas."
+  },
+  "walk_bike": {
+    "walkability_summary": "The Centro Histórico and Chapultepec corridor are highly walkable. Tlaquepaque is a walker's town. The city has invested in pedestrian infrastructure in its core neighbourhoods.",
+    "bikeability_summary": "MiBici bikeshare operates throughout the centre with hundreds of docking stations. Guadalajara has growing protected bike lanes — particularly on Av. Chapultepec and connecting streets.",
+    "best_walkable_areas": ["Centro Histórico", "Av. Chapultepec", "Tlaquepaque village centre", "Providencia"],
+    "bike_share_notes": "MiBici docks throughout the centre, Americana, and Providencia. Day passes available at kiosks or in the MiBici app. Very affordable."
+  },
+  "pickup_soccer": [
+    {
+      "name": "Parque Revolución",
+      "location": "Av. Vallarta at Av. Revolución, Guadalajara",
+      "access_notes": "Central park with informal football pitches and a long tradition of neighbourhood pickup games.",
+      "schedule_notes": "Evenings and weekend mornings."
+    },
+    {
+      "name": "Unidad Deportiva Revolución",
+      "location": "Calzada Independencia Norte, Guadalajara",
+      "access_notes": "Municipal sports complex with public football pitches.",
+      "schedule_notes": "Weekday evenings and weekends."
+    }
+  ],
+  "outdoors_day_trips": [
+    {
+      "name": "Tequila, Jalisco",
+      "type": "Cultural / distillery",
+      "distance": "About 60 km west of Guadalajara",
+      "difficulty": "Easy",
+      "notes": "The birthplace of tequila in the UNESCO-listed agave landscape. Take the Jose Cuervo Express train for a full-day experience, or Uber directly. Multiple distilleries offer tours."
+    },
+    {
+      "name": "Lake Chapala and Ajijic",
+      "type": "Lake / village",
+      "distance": "About 45 km south of Guadalajara",
+      "difficulty": "Easy",
+      "notes": "Mexico's largest lake surrounded by colonial villages. Ajijic is a beautiful lakeside town with excellent seafood restaurants — a perfect day between matches."
+    }
+  ],
+  "safety_tips": [
+    "Guadalajara is safe in the main tourist areas — Chapultepec, Providencia, Tlaquepaque, and the Centro Histórico tourist zone",
+    "Use Uber rather than unmarked street taxis — safer and more reliable for international visitors",
+    "Avoid displaying expensive equipment visibly in markets — pickpocketing occurs in Mercado San Juan de Dios",
+    "Stay on main streets after midnight in the Centro Histórico",
+    "Carry pesos for street food and cantinas — many smaller establishments are cash-only",
+    "Altitude is 1,566m — factor this in for alcohol consumption and physical activity in the heat"
+  ]
+}

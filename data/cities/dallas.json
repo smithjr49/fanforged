@@ -1,0 +1,336 @@
+{
+  "hero": {
+    "tagline": "Big Venue, Big Game, Big Texas Energy",
+    "description": "Dallas hosts matches at AT&T Stadium in Arlington — the largest indoor stadium in the world, with a retractable roof and a screen that defines excess in the best possible way. Texas football culture and global football collide at the grandest scale imaginable."
+  },
+  "stadium": {
+    "name": "AT&T Stadium",
+    "capacity": 94000,
+    "address": "1 AT&T Way, Arlington, TX 76011",
+    "transport": "AT&T Stadium is in Arlington, between Dallas and Fort Worth. No rail reaches the stadium — rideshare, shuttles, or driving are required. Game-day shuttles are expected from the Centerpoint shuttle hub. Allow 45–60 minutes from downtown Dallas on match days."
+  },
+  "quick_facts": {
+    "matches_hosted": "Multiple matches including advanced rounds",
+    "stadium": "AT&T Stadium (Arlington)",
+    "airport_codes": ["DFW", "DAL"],
+    "timezone": "Central Time",
+    "best_neighborhoods": ["Downtown Dallas", "Uptown Dallas", "Frisco / Arlington (stadium area)"],
+    "fan_hub_status": "Fan hub expected at Main Street Garden Park in downtown Dallas"
+  },
+  "weather": {
+    "june": "Hot with highs around 33–36°C (91–97°F). Low humidity by Texas standards but still very warm. Thunderstorms possible.",
+    "july": "Very hot, highs 35–38°C (95–100°F). The stadium's retractable roof means match weather is controlled regardless.",
+    "packing_tips": [
+      "Pack light, breathable fabrics — linen and moisture-wicking are essential",
+      "Sunscreen and a hat for outdoor fan events",
+      "A light layer for the stadium itself — the air conditioning inside AT&T is aggressive",
+      "Carry a water bottle — dehydration risk is real at outdoor events in Texas summer"
+    ]
+  },
+  "airports": [
+    {
+      "name": "Dallas/Fort Worth International Airport",
+      "code": "DFW",
+      "distance_to_stadium": "About 17 km to AT&T Stadium in Arlington",
+      "transfer_options": [
+        "DART Orange Line connects Terminal A to downtown Dallas (Irving/Las Colinas area) — no direct train to Arlington",
+        "Rideshare from DFW to AT&T Stadium takes 20–30 minutes outside match-day traffic",
+        "Rental car is practical for DFW if you plan to explore the wider metro"
+      ],
+      "notes": "Major international hub — likely port of entry for most international visitors. Closest major airport to AT&T Stadium. Rideshare to the stadium is practical from DFW."
+    },
+    {
+      "name": "Dallas Love Field",
+      "code": "DAL",
+      "distance_to_stadium": "About 35 km from AT&T Stadium",
+      "transfer_options": [
+        "DART Orange Line from nearby area connects to Downtown Dallas",
+        "Rideshare from Love Field to Dallas hotels is efficient — 15–20 min to downtown"
+      ],
+      "notes": "Domestic airport close to Downtown Dallas. Southwest Airlines hub. Good option if staying downtown rather than near the stadium."
+    }
+  ],
+  "match_schedule": [
+    {
+      "date": "June–July 2026",
+      "round": "Group stage and advanced rounds",
+      "teams_or_placeholder": "AT&T Stadium hosts multiple matches. Full schedule after group draw.",
+      "stadium": "AT&T Stadium"
+    }
+  ],
+  "stadium_transport": {
+    "public_transit": [
+      "No direct rail service to AT&T Stadium — it's in Arlington, outside the DART system",
+      "Game-day shuttles expected from designated collection points — confirm details closer to match day",
+      "DART Trinity Railway Express (TRE) runs between downtown Dallas and Fort Worth, with stops near Arlington — last-mile connection required"
+    ],
+    "rideshare": [
+      "Rideshare is the most practical option to AT&T Stadium from Dallas or Fort Worth hotels",
+      "Book a scheduled Uber or Lyft before the match to secure pricing",
+      "Post-match surge from AT&T Stadium is severe — walk to a side street or wait 30 minutes"
+    ],
+    "driving_parking": [
+      "AT&T Stadium has extensive parking — pre-book preferred lots online",
+      "Premium lots on Collins St are closest to the gates",
+      "Texas weather can include sudden storms — plan for wet lot walking"
+    ],
+    "walking_biking": [
+      "Not walkable from Dallas or Fort Worth hotels — the stadium sits alone in Arlington",
+      "Cycling from Arlington hotels or entertainment area is possible on quiet roads"
+    ],
+    "match_day_tips": [
+      "The stadium roof controls weather — look up whether it's open or closed before deciding what to wear",
+      "AT&T Stadium has one of the biggest videoboards in the world — the pre-match show is worth arriving early for",
+      "Parking lots near the stadium fill fast — arrive 2 hours before kickoff if driving",
+      "Arlington's entertainment district (AT&T Stadium area) has restaurants and bars for pre-match"
+    ]
+  },
+  "fan_hubs": [
+    {
+      "name": "Dallas Fan Hub — Main Street Garden",
+      "location": "Main Street Garden Park, 1902 Main St, Dallas, TX",
+      "status": "expected",
+      "description": "A major fan hub expected in the heart of downtown Dallas, with giant screens, food vendors, live entertainment, and easy access from Downtown Dallas hotels and the DART rail system.",
+      "transport_tips": [
+        "DART Green/Orange Lines to Akard or St. Paul station — walking distance to the park",
+        "Walking distance from many Downtown Dallas hotels"
+      ]
+    },
+    {
+      "name": "Sundance Square Fan Block",
+      "location": "Sundance Square, Fort Worth, TX",
+      "status": "local_watch_area",
+      "description": "Fort Worth's vibrant entertainment plaza is expected to host watch parties throughout the tournament. Outdoor screens, restaurants, and bars line the pedestrianised plaza.",
+      "transport_tips": [
+        "TRE commuter rail to Fort Worth Central station, short walk to Sundance Square",
+        "Rideshare from Dallas takes about 35–40 minutes"
+      ]
+    }
+  ],
+  "neighborhoods": [
+    {
+      "name": "Downtown Dallas",
+      "best_for": "Hotels, business district access, DART connections",
+      "safety_transit_notes": "Safe during the day and around Klyde Warren Park area. Use rideshare for late-night travel.",
+      "stadium_access": "Rideshare or shuttle to Arlington — 35–45 min without match-day traffic",
+      "hotel_price_level": "$$–$$$",
+      "description": "Best hotel base for DART access, the expected downtown fan hub, and Klyde Warren Park. Wide range of major hotel brands with good pricing."
+    },
+    {
+      "name": "Uptown Dallas",
+      "best_for": "Nightlife, restaurants, walkable dining scene",
+      "safety_transit_notes": "Safe, upscale, very active at night.",
+      "stadium_access": "Rideshare to Arlington — 40–50 min",
+      "hotel_price_level": "$$–$$$",
+      "description": "The most vibrant neighborhood for evening out in Dallas. McKinney Ave, West Village, and Knox-Henderson all have great bars and restaurants within walking distance."
+    },
+    {
+      "name": "Arlington / Entertainment District",
+      "best_for": "Stadium proximity, sports tourism",
+      "safety_transit_notes": "Safe, suburban. Minimal public transit.",
+      "stadium_access": "Walking distance to AT&T Stadium (depending on hotel)",
+      "hotel_price_level": "$–$$",
+      "description": "Stay here if your priority is being close to the stadium. The Arlington Entertainment District has Globe Life Field (baseball), AT&T Stadium, and several hotels within walking distance. Not a vibrant neighbourhood otherwise."
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Omni Dallas Hotel",
+      "stars": 4,
+      "distance": "35 min to AT&T Stadium",
+      "neighborhood": "Downtown Dallas",
+      "best_for": "Downtown access, convention center, luxury amenities",
+      "affiliate_url": "https://www.booking.com/hotel/us/omni-dallas.html?aid=YOUR_AID",
+      "affiliate_label": "Check availability",
+      "affiliate_provider": "Booking.com"
+    },
+    {
+      "name": "Sheraton Dallas Hotel",
+      "stars": 4,
+      "distance": "35 min to AT&T Stadium",
+      "neighborhood": "Downtown Dallas",
+      "best_for": "Large groups, convention space, central location",
+      "affiliate_url": "https://www.booking.com/hotel/us/sheraton-dallas-hotel.html?aid=YOUR_AID",
+      "affiliate_label": "Check availability",
+      "affiliate_provider": "Booking.com"
+    },
+    {
+      "name": "Aloft Arlington",
+      "stars": 3,
+      "distance": "5 min to AT&T Stadium",
+      "neighborhood": "Arlington",
+      "best_for": "Stadium proximity, budget-conscious, match-day convenience",
+      "affiliate_url": "https://www.booking.com/hotel/us/aloft-arlington.html?aid=YOUR_AID",
+      "affiliate_label": "Check availability",
+      "affiliate_provider": "Booking.com"
+    },
+    {
+      "name": "Hotel Crescent Court",
+      "stars": 4,
+      "distance": "40 min to AT&T Stadium",
+      "neighborhood": "Uptown Dallas",
+      "best_for": "Luxury, Uptown nightlife access, boutique experience",
+      "affiliate_url": "https://www.booking.com/hotel/us/hotel-crescent-court.html?aid=YOUR_AID",
+      "affiliate_label": "Check availability",
+      "affiliate_provider": "Booking.com"
+    }
+  ],
+  "booking_links": [
+    {
+      "provider": "Booking.com",
+      "label": "Browse all Dallas hotels on Booking.com →",
+      "affiliate_url": "https://www.booking.com/city/us/dallas.html?aid=YOUR_AID"
+    }
+  ],
+  "bars": [
+    {
+      "name": "The Flying Saucer",
+      "neighborhood": "Sundance Square, Fort Worth",
+      "vibe": "pub",
+      "address": "111 E 3rd St, Fort Worth, TX",
+      "notes": "Enormous craft beer hall in Fort Worth's Sundance Square. Great soccer atmosphere and incredible beer selection.",
+      "transit": "TRE to Fort Worth Central"
+    },
+    {
+      "name": "House of Blues Dallas",
+      "neighborhood": "Deep Ellum",
+      "vibe": "rowdy",
+      "address": "2200 N Lamar St, Dallas, TX",
+      "notes": "Live music venue that becomes a serious match-day watch party destination. Expect a loud, energetic crowd.",
+      "transit": "DART Green Line to Deep Ellum"
+    },
+    {
+      "name": "The Rustic",
+      "neighborhood": "Uptown Dallas",
+      "vibe": "outdoor",
+      "address": "3656 Howell St, Dallas, TX",
+      "notes": "Large outdoor venue in Uptown. Perfect for afternoon matches with a Texas BBQ and outdoor bar vibe.",
+      "transit": "McKinney Ave Trolley"
+    },
+    {
+      "name": "The Union Dallas",
+      "neighborhood": "Harwood District",
+      "vibe": "outdoor",
+      "address": "2440 Victory Park Ln, Dallas, TX",
+      "notes": "Outdoor food hall with multiple bars and screens. Pre-match gathering spot near the American Airlines Center.",
+      "transit": "DART Green/Orange Line to Victory"
+    },
+    {
+      "name": "Katy Trail Ice House",
+      "neighborhood": "Uptown / Knox-Henderson",
+      "vibe": "outdoor",
+      "address": "3127 Routh St, Dallas, TX",
+      "notes": "Open-air biergarten next to the Katy Trail. One of Dallas's most popular outdoor bars for afternoon events.",
+      "transit": "McKinney Ave Trolley"
+    }
+  ],
+  "transport": {
+    "summary": "Dallas–Fort Worth is car-dependent. The DART light rail serves downtown Dallas and DFW Airport but does not reach AT&T Stadium in Arlington. Rideshare is the most practical match-day option.",
+    "tips": [
+      "Book rideshare in advance — match-day surge from AT&T Stadium hits $60–100+ immediately after full time",
+      "DART Green/Orange Line from DFW Airport to Downtown Dallas and Victory Park area",
+      "TRE (Trinity Railway Express) connects Dallas and Fort Worth — useful for Sundance Square",
+      "Rental car is practical if you plan to visit multiple suburbs or Fort Worth",
+      "Arlington has zero public transit — plan all in/out logistics by car, rideshare, or shuttle"
+    ]
+  },
+  "fan_zones": [
+    {
+      "name": "Dallas Fan Hub — Main Street Garden",
+      "location": "Main Street Garden Park, 1902 Main St, Dallas",
+      "capacity": 25000,
+      "description": "Downtown Dallas fan hub with big screens, food vendors, and live entertainment throughout the tournament."
+    },
+    {
+      "name": "Sundance Square Fan Block",
+      "location": "Sundance Square, Fort Worth",
+      "capacity": 15000,
+      "description": "Fort Worth's pedestrian plaza expected to host watch parties with outdoor screens and a strong local crowd."
+    }
+  ],
+  "soccer_culture": {
+    "community_notes": "Dallas has a passionate soccer community driven by FC Dallas, a deep Hispanic football culture, and strong MLS support. The Cotton Bowl hosted the 1994 World Cup — the region has experience with tournament-scale events.",
+    "local_clubs": ["FC Dallas (MLS)", "FC Dallas II"],
+    "supporter_groups": ["Inferno (FC Dallas)", "El Matador (FC Dallas)"],
+    "historic_venues": ["AT&T Stadium", "Cotton Bowl (1994 World Cup venue)", "Toyota Stadium (FC Dallas home)"]
+  },
+  "things_to_do": {
+    "tourist_hits": [
+      { "name": "Sixth Floor Museum at Dealey Plaza", "notes": "JFK assassination site and museum in Downtown Dallas. Moving and historically significant." },
+      { "name": "Klyde Warren Park", "notes": "Urban park deck over the freeway in Downtown. Great food trucks and outdoor space." },
+      { "name": "Deep Ellum", "notes": "Dallas's arts and music district — murals, live music venues, and great bars." },
+      { "name": "AT&T Discovery District", "notes": "Downtown plaza with interactive art installations and screens. Free entry." }
+    ],
+    "local_favorites": [
+      { "name": "Perot Museum of Nature and Science", "notes": "World-class science museum in Downtown — excellent for families." },
+      { "name": "Bishop Arts District", "notes": "Independent shops, restaurants, and galleries in Oak Cliff. The most creative neighbourhood in Dallas." },
+      { "name": "Dallas Arboretum", "notes": "Stunning lakeside garden — beautiful in early morning before the heat." }
+    ]
+  },
+  "food_nightlife": {
+    "areas": [
+      "Uptown / Knox-Henderson — upscale restaurants and cocktail bars",
+      "Deep Ellum — music, arts, and food with a younger crowd",
+      "Bishop Arts District — independent restaurants and neighborhood bars",
+      "Sundance Square (Fort Worth) — entertainment plaza with restaurants and outdoor spaces"
+    ],
+    "recommendations": [
+      { "name": "Pecan Lodge", "notes": "Legendary Dallas BBQ in Deep Ellum. Long lines but worth every minute." },
+      { "name": "Uchi Dallas", "notes": "World-class Japanese cuisine on Cedar Springs. Book well ahead." },
+      { "name": "Monarch", "notes": "Rooftop restaurant at the Thompson Hotel with panoramic city views." }
+    ]
+  },
+  "local_resources": {
+    "tourism_links": [
+      { "name": "Visit Dallas", "url": "https://www.visitdallas.com" }
+    ],
+    "transit_apps": [
+      { "name": "DART GoPass", "url": "https://www.dart.org/guide/gopass" },
+      { "name": "Transit App", "url": "https://transitapp.com" }
+    ],
+    "emergency_info": "Emergency: 911. Non-emergency Dallas Police: (214) 744-4444. Hospital: UT Southwestern Medical Center, (214) 633-5200."
+  },
+  "walk_bike": {
+    "walkability_summary": "Dallas is car-centric but Downtown, Uptown, and Deep Ellum are walkable within their zones. Klyde Warren Park and McKinney Ave are pleasant pedestrian corridors.",
+    "bikeability_summary": "The Katy Trail is a popular paved trail through the heart of Dallas. Bikeshare exists in limited areas.",
+    "best_walkable_areas": ["Uptown / McKinney Ave", "Deep Ellum", "Klyde Warren Park area", "Bishop Arts District"],
+    "bike_share_notes": "LimeBike and BCycle have limited presence in Dallas. Best used for short hops in Uptown or along the Katy Trail."
+  },
+  "pickup_soccer": [
+    {
+      "name": "Samuell-Grand Soccer Complex",
+      "location": "6200 E Grand Ave, Dallas",
+      "access_notes": "City of Dallas soccer complex with multiple fields and regular pickup activity.",
+      "schedule_notes": "Evenings and weekends most active."
+    },
+    {
+      "name": "Glencoe Park",
+      "location": "Glencoe Park, Oak Cliff, Dallas",
+      "access_notes": "Hispanic neighbourhood park with strong informal soccer culture on weekends.",
+      "schedule_notes": "Saturday and Sunday mornings."
+    }
+  ],
+  "outdoors_day_trips": [
+    {
+      "name": "Lake Texoma",
+      "type": "Lake / recreation",
+      "distance": "About 110 km north of Dallas",
+      "difficulty": "Easy",
+      "notes": "Large reservoir with swimming, fishing, and boat rentals. Popular day trip for cooling off between Texas summer matches."
+    },
+    {
+      "name": "Fort Worth Stockyards",
+      "type": "History / culture",
+      "distance": "About 55 km from Downtown Dallas",
+      "difficulty": "Easy",
+      "notes": "Authentic historic cattle yards with longhorn drives, Western bars, and the best Texas experience close to the city."
+    }
+  ],
+  "safety_tips": [
+    "Dallas and Fort Worth are generally safe in tourist areas — Downtown, Uptown, Deep Ellum, and Sundance Square",
+    "Texas heat is serious in June and July — hydrate constantly and seek shade at outdoor events",
+    "Use rideshare for late-night travel rather than walking in unfamiliar areas",
+    "Arlington outside the entertainment district is suburban — limited walkability, use rideshare",
+    "Thunderstorms can develop rapidly in Texas — check weather before outdoor fan events"
+  ]
+}

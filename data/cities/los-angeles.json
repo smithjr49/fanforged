@@ -1,0 +1,382 @@
+{
+  "hero": {
+    "tagline": "Hollywood Meets the Beautiful Game",
+    "description": "Los Angeles brings star power and deep soccer roots to the 2026 tournament. SoFi Stadium in Inglewood is one of the most advanced venues on the planet, and the LA metro is home to LAFC, LA Galaxy, Angel City FC, and one of the most passionate Latin soccer communities in North America."
+  },
+  "stadium": {
+    "name": "SoFi Stadium",
+    "capacity": 70240,
+    "address": "1001 S Prairie Ave, Inglewood, CA 90301",
+    "transport": "Take the Metro K Line directly to the SoFi Stadium/Hollywood Park stop. The C Line (Green) to Hawthorne/Lennox also connects. Rideshare zones are on Prairie Ave — expect 20–40 min surge after matches."
+  },
+  "quick_facts": {
+    "matches_hosted": "Multiple matches including group stage and advanced rounds",
+    "stadium": "SoFi Stadium",
+    "airport_codes": ["LAX", "BUR", "LGB", "ONT"],
+    "timezone": "Pacific Time",
+    "best_neighborhoods": ["Downtown LA", "Hollywood", "Inglewood", "Culver City", "Santa Monica"],
+    "fan_hub_status": "Public viewing areas expected at LA Live and Venice Beach; confirm local schedules"
+  },
+  "weather": {
+    "june": "Mild and sunny, highs in the low 70s Fahrenheit. Coastal areas can have morning marine layer that burns off by noon.",
+    "july": "Warm and sunny, highs in the mid-70s to low 80s. Drier than most host cities — sunscreen essential.",
+    "packing_tips": [
+      "Layer for coastal and inland temperature swings — evenings cool quickly near the beach",
+      "Sunscreen and sunglasses are non-negotiable in June and July",
+      "Bring a light jacket for evening fan zones or outdoor terraces",
+      "Carry a water bottle — stadium queues in the California heat drain you fast"
+    ]
+  },
+  "airports": [
+    {
+      "name": "Los Angeles International Airport",
+      "code": "LAX",
+      "distance_to_stadium": "About 4 miles from SoFi Stadium in Inglewood",
+      "transfer_options": [
+        "Metro K Line connects LAX Airport Metro Station to SoFi Stadium — the most reliable option on match days",
+        "Rideshare from LAX to SoFi takes 15–30 min depending on traffic",
+        "Rental cars useful for regional travel but not match-day commutes to SoFi"
+      ],
+      "notes": "Primary airport for most international visitors. Closest to SoFi Stadium, which is a major advantage. The K Line extension made stadium access from LAX genuinely convenient."
+    },
+    {
+      "name": "Hollywood Burbank Airport",
+      "code": "BUR",
+      "distance_to_stadium": "About 25 miles from SoFi Stadium",
+      "transfer_options": [
+        "Rideshare or rental car recommended from Burbank",
+        "Metrolink connects Burbank to Union Station; transfer to Metro K Line for SoFi"
+      ],
+      "notes": "Good option if staying in Hollywood, Studio City, or the Valley. Less crowded than LAX."
+    },
+    {
+      "name": "Long Beach Airport",
+      "code": "LGB",
+      "distance_to_stadium": "About 25 miles from SoFi Stadium",
+      "transfer_options": [
+        "Rideshare is the simplest option from Long Beach",
+        "Metro C Line connects Long Beach area to Hawthorne/Lennox for SoFi shuttle connection"
+      ],
+      "notes": "Quieter airport with some domestic routes. Works well for fans staying in the South Bay."
+    }
+  ],
+  "match_schedule": [
+    {
+      "date": "June–July 2026",
+      "round": "Group stage and advanced rounds",
+      "teams_or_placeholder": "SoFi Stadium hosts multiple tournament matches. Official schedule announced after group draw.",
+      "stadium": "SoFi Stadium"
+    }
+  ],
+  "stadium_transport": {
+    "public_transit": [
+      "Metro K Line: direct stop at SoFi Stadium/Hollywood Park — the best option from Downtown, Hollywood, and LAX",
+      "Metro C Line (Green): connect at Hawthorne/Lennox for stadium shuttles on match days",
+      "Buses and shuttles will supplement rail on high-demand match days — check LACMTA for event schedules"
+    ],
+    "rideshare": [
+      "Pre-book scheduled rides via Uber or Lyft to lock in pricing before match-day surge",
+      "Rideshare pickup zones are outside the stadium perimeter — walk past the initial crowd",
+      "Post-match surges can run $60–80+ from SoFi to Downtown — leave early or walk to Inglewood for a quieter pickup"
+    ],
+    "driving_parking": [
+      "Pre-book SoFi or Hollywood Park parking in advance — lots fill fast",
+      "Parking in Inglewood neighborhoods and walking in is a viable option",
+      "Florence Ave and Century Blvd back up heavily post-match — plan a 45-min buffer"
+    ],
+    "walking_biking": [
+      "Short walks through Hollywood Park development are pleasant",
+      "Not walkable from most LA neighborhoods — rideshare or Metro needed for most visitors"
+    ],
+    "match_day_tips": [
+      "Arrive 90 minutes early — SoFi stadium entry queues move slowly on packed days",
+      "Food and drink options outside the stadium in Hollywood Park are good — pre-game there",
+      "Cell service is strained at capacity — pre-download your transit app maps offline"
+    ]
+  },
+  "fan_hubs": [
+    {
+      "name": "LA Live Fan Hub",
+      "location": "LA Live, 800 W Olympic Blvd, Downtown Los Angeles",
+      "status": "expected",
+      "description": "A major public viewing hub expected near the Crypto.com Arena and LA Live complex during the tournament. Giant screens, live performances, food trucks, and sponsor activations. One of the most accessible spots via Metro.",
+      "transport_tips": [
+        "Metro A, B/D, J/E Lines all serve Downtown LA — 7th/Metro Center is the closest major hub",
+        "Walking distance from multiple Downtown hotels",
+        "Arrive early for big matches — outdoor areas fill quickly"
+      ]
+    },
+    {
+      "name": "Venice Beach Fan Zone",
+      "location": "Venice Beach Boardwalk, Venice, CA",
+      "status": "local_watch_area",
+      "description": "Venice Beach is an organic match-day gathering point — bars along the boardwalk, rooftop spots nearby, and the outdoor energy of LA's most iconic beach neighborhood. Not a formal fan zone but a great watch-party area.",
+      "transport_tips": [
+        "Metro E Line to Downtown Santa Monica, then a 2-mile bikeshare or rideshare to Venice",
+        "Street parking is extremely limited — use transit or park in Santa Monica and walk/bike"
+      ]
+    }
+  ],
+  "neighborhoods": [
+    {
+      "name": "Downtown LA / Figueroa Corridor",
+      "best_for": "Metro access, nightlife, corporate hotel points",
+      "safety_transit_notes": "Central DTLA is safe and walkable near Staples/LA Live. Avoid industrial areas south and east of the corridor at night.",
+      "stadium_access": "Metro K Line from 7th/Metro Center to SoFi Stadium — about 25 min",
+      "hotel_price_level": "$$–$$$",
+      "description": "Most convenient neighborhood for both SoFi Stadium (via Metro K) and the expected LA Live fan hub. Strong walkability around Staples Center and Grand Central Market. Best hotel-point redemptions in the city."
+    },
+    {
+      "name": "Hollywood",
+      "best_for": "Nightlife, bars, tourist experience",
+      "safety_transit_notes": "Busy tourist district — safe on main corridors, be aware of pickpockets in very crowded areas.",
+      "stadium_access": "Metro B Line to 7th, then K Line to SoFi — about 40 min",
+      "hotel_price_level": "$$–$$$",
+      "description": "Great base for evening out before or after matches. Strong soccer bar scene, walkable nightlife strip, and good Metro connections."
+    },
+    {
+      "name": "Inglewood / Hollywood Park",
+      "best_for": "Stadium proximity, new development, budget options",
+      "safety_transit_notes": "Hollywood Park area around SoFi is safe and new. The broader Inglewood neighborhood is transitioning — stick to the stadium development zone.",
+      "stadium_access": "Walking distance to SoFi Stadium — under 15 min",
+      "hotel_price_level": "$–$$",
+      "description": "Stay here for the most convenient stadium access. Hollywood Park is a brand-new mixed-use development with restaurants, a hotel, and a park adjacent to SoFi."
+    },
+    {
+      "name": "Santa Monica",
+      "best_for": "Beach experience, outdoor lifestyle, families",
+      "safety_transit_notes": "Safe and walkable beachfront area.",
+      "stadium_access": "Metro E Line to Downtown, transfer to K Line — about 60 min total",
+      "hotel_price_level": "$$$–$$$$",
+      "description": "A premium base for beach lovers. Farther from SoFi but gives you the LA beach experience with great walkability, outdoor dining, and access to Venice Beach."
+    },
+    {
+      "name": "Beverly Hills / West Hollywood",
+      "best_for": "High-end stay, upscale dining, celebrity sightings",
+      "safety_transit_notes": "Safe and well-patrolled neighborhood.",
+      "stadium_access": "Rideshare or Metro K transfer — about 45–60 min",
+      "hotel_price_level": "$$$$",
+      "description": "Best for travellers combining the tournament with luxury LA. Sunset Strip nightlife, great restaurants, and flagship hotel options. Rideshare to SoFi is practical."
+    }
+  ],
+  "hotels": [
+    {
+      "name": "InterContinental Los Angeles Downtown",
+      "stars": 5,
+      "distance": "25 min to SoFi via Metro K Line",
+      "neighborhood": "Downtown LA",
+      "best_for": "Business travelers, large groups, Metro access",
+      "affiliate_url": "https://www.booking.com/hotel/us/intercontinental-los-angeles-downtown.html?aid=YOUR_AID",
+      "affiliate_label": "Check availability",
+      "affiliate_provider": "Booking.com"
+    },
+    {
+      "name": "Loews Hollywood Hotel",
+      "stars": 4,
+      "distance": "40 min to SoFi via Metro",
+      "neighborhood": "Hollywood",
+      "best_for": "Nightlife, bar scene, walkable entertainment",
+      "affiliate_url": "https://www.booking.com/hotel/us/loews-hollywood-hotel.html?aid=YOUR_AID",
+      "affiliate_label": "Check availability",
+      "affiliate_provider": "Booking.com"
+    },
+    {
+      "name": "AC Hotel Beverly Hills",
+      "stars": 4,
+      "distance": "45 min to SoFi",
+      "neighborhood": "Beverly Hills",
+      "best_for": "Couples, luxury access, shopping district",
+      "affiliate_url": "https://www.booking.com/hotel/us/ac-hotel-beverly-hills.html?aid=YOUR_AID",
+      "affiliate_label": "Check availability",
+      "affiliate_provider": "Booking.com"
+    },
+    {
+      "name": "Marriott at Hollywood Park",
+      "stars": 4,
+      "distance": "Walking distance to SoFi Stadium",
+      "neighborhood": "Inglewood / Hollywood Park",
+      "best_for": "Stadium proximity, match-day convenience",
+      "affiliate_url": "https://www.booking.com/hotel/us/marriott-at-hollywood-park.html?aid=YOUR_AID",
+      "affiliate_label": "Check availability",
+      "affiliate_provider": "Booking.com"
+    }
+  ],
+  "booking_links": [
+    {
+      "provider": "Booking.com",
+      "label": "Browse all LA hotels on Booking.com →",
+      "affiliate_url": "https://www.booking.com/city/us/los-angeles.html?aid=YOUR_AID"
+    }
+  ],
+  "bars": [
+    {
+      "name": "Monty Bar",
+      "neighborhood": "Downtown LA",
+      "vibe": "rowdy",
+      "address": "499 S Hope St, Los Angeles, CA",
+      "notes": "High-energy sports bar in the heart of Downtown. Multiple screens, strong drinks, and a crowd that knows soccer.",
+      "transit": "Metro B/D Line to 7th/Metro Center"
+    },
+    {
+      "name": "The Brickyard Pub",
+      "neighborhood": "Culver City",
+      "vibe": "pub",
+      "address": "9373 Culver Blvd, Culver City, CA",
+      "notes": "Classic British-style pub with a soccer-first atmosphere. Strong for Premier League fans.",
+      "transit": "Metro E Line to Culver City"
+    },
+    {
+      "name": "Cock & Bull Pub",
+      "neighborhood": "Santa Monica",
+      "vibe": "pub",
+      "address": "2947 Lincoln Blvd, Santa Monica, CA",
+      "notes": "Long-running soccer bar near the beach. Guaranteed to be packed for World Cup. Arrive early.",
+      "transit": "Metro E Line to Downtown Santa Monica, then short rideshare"
+    },
+    {
+      "name": "Fitz on Cahuenga",
+      "neighborhood": "Hollywood",
+      "vibe": "rooftop",
+      "address": "6360 Hollywood Blvd, Los Angeles, CA",
+      "notes": "Hollywood rooftop venue with a party atmosphere on big match days.",
+      "transit": "Metro B Line to Hollywood/Highland"
+    },
+    {
+      "name": "Corner Door",
+      "neighborhood": "Culver City",
+      "vibe": "pub",
+      "address": "12477 W Washington Blvd, Los Angeles, CA",
+      "notes": "Craft cocktails and an international crowd — popular with LAFC fans on non-match days.",
+      "transit": "Metro E Line to Culver City"
+    },
+    {
+      "name": "The King's Head Pub",
+      "neighborhood": "Santa Monica",
+      "vibe": "pub",
+      "address": "116 Santa Monica Blvd, Santa Monica, CA",
+      "notes": "One of LA's oldest English pubs, with early-morning match showings and a proper soccer culture.",
+      "transit": "Metro E Line to Downtown Santa Monica"
+    }
+  ],
+  "transport": {
+    "summary": "LA is car-first, but Metro expansion around SoFi Stadium makes match-day transit genuinely practical. The K Line's dedicated stadium stop is the biggest transit win LA fans have seen in decades.",
+    "tips": [
+      "Metro K Line has a dedicated SoFi Stadium/Hollywood Park stop — it's the best match-day option",
+      "Park at a Metro station farther out and ride in to avoid $40–60 stadium parking fees",
+      "Rideshare surges after matches regularly exceed $70–80 from SoFi to Downtown — walk to a side street or wait 30 min",
+      "Buy a TAP card for Metro — single rides are $1.75, day passes are $7",
+      "Pre-download Transit or Google Maps offline in case of poor cell signal near the stadium"
+    ]
+  },
+  "fan_zones": [
+    {
+      "name": "LA Live Fan Hub",
+      "location": "LA Live, 800 W Olympic Blvd",
+      "capacity": 40000,
+      "description": "Major public viewing hub expected near the Crypto.com Arena during the tournament, featuring giant screens, live music, and food vendors."
+    },
+    {
+      "name": "Venice Beach Fan Zone",
+      "location": "Venice Beach Boardwalk",
+      "capacity": 20000,
+      "description": "Iconic outdoor watch experience along the boardwalk with beach bars, street performers, and match screenings."
+    }
+  ],
+  "soccer_culture": {
+    "community_notes": "Los Angeles has one of the deepest soccer cultures in the USA, with passionate Latino fandoms, two MLS clubs, and NWSL's Angel City FC. LAFC games at Banc of California Stadium are among the most electric atmospheres in American soccer.",
+    "local_clubs": ["LAFC (MLS)", "LA Galaxy (MLS)", "Angel City FC (NWSL)"],
+    "supporter_groups": ["3252 (LAFC ultras)", "Angel City Brigade", "La Galaxia (Galaxy supporters)"],
+    "historic_venues": ["Banc of California Stadium (LAFC)", "Dignity Health Sports Park (Galaxy)", "Rose Bowl (1994 World Cup Final venue)"]
+  },
+  "things_to_do": {
+    "tourist_hits": [
+      { "name": "Griffith Observatory", "notes": "Hike up for panoramic city views — free admission to grounds." },
+      { "name": "The Getty Center", "notes": "World-class art museum with city views. Free admission, pay for parking." },
+      { "name": "Hollywood Walk of Fame", "notes": "Classic tourist strip — good for an hour, don't let it swallow a full day." },
+      { "name": "Santa Monica Pier", "notes": "Quintessential LA beach experience with rides, food, and Pacific views." },
+      { "name": "Venice Beach Boardwalk", "notes": "LA's most chaotic and wonderful outdoor scene. Morning skate park session is a must-see." }
+    ],
+    "local_favorites": [
+      { "name": "Grand Central Market", "notes": "Downtown food hall with the best breakfast burritos and the freshest crowd mix in LA." },
+      { "name": "Erewhon", "notes": "Pilgrimage-worthy grocery store for the health-conscious traveler. Smoothies are genuinely excellent." },
+      { "name": "Runyon Canyon", "notes": "Easy hike above Hollywood with 360° views. Bring water and go before 9am in July." },
+      { "name": "Smorgasburg LA", "notes": "Sunday outdoor food market at Row DTLA — LA's best street food and a great pre-match ritual." },
+      { "name": "Echo Park Lake", "notes": "Low-key neighborhood vibe, paddle boats, and local coffee shops." }
+    ]
+  },
+  "food_nightlife": {
+    "areas": [
+      "Grand Central Market (Downtown) — diverse food stalls, affordable",
+      "Koreatown — 24-hour restaurants and KBBQ, great post-match scene",
+      "Little Tokyo — ramen and izakaya spots",
+      "Abbot Kinney Blvd (Venice) — boutique dining and cocktail bars",
+      "Sunset Strip (West Hollywood) — upscale clubs and cocktail lounges"
+    ],
+    "recommendations": [
+      { "name": "Langer's Deli", "notes": "Iconic downtown Jewish deli — the pastrami sandwich is legendary." },
+      { "name": "Republique", "notes": "One of LA's best modern French restaurants. Book in advance." },
+      { "name": "Bestia", "notes": "Arts District Italian — one of the most popular restaurants in the city. Book weeks ahead." }
+    ]
+  },
+  "local_resources": {
+    "tourism_links": [
+      { "name": "Discover Los Angeles", "url": "https://www.discoverlosangeles.com" }
+    ],
+    "transit_apps": [
+      { "name": "Transit App", "url": "https://transitapp.com" },
+      { "name": "LA Metro TAP", "url": "https://www.taptogo.net" }
+    ],
+    "emergency_info": "Emergency: 911. Non-emergency LAPD: (877) 275-5273. Hospital: Cedars-Sinai Medical Center, 8700 Beverly Blvd."
+  },
+  "walk_bike": {
+    "walkability_summary": "LA is famously car-dependent, but Hollywood, Downtown LA, Santa Monica, and the Hollywood Park area around SoFi are all reasonably walkable within their zones.",
+    "bikeability_summary": "Santa Monica and Venice have excellent protected bike lanes. Culver City and DTLA are improving. Avoid biking on major arterials.",
+    "best_walkable_areas": ["Downtown LA near LA Live", "Hollywood/Vine area", "Santa Monica 3rd Street Promenade", "Hollywood Park/Inglewood near SoFi"],
+    "bike_share_notes": "Metro Bike Share operates in Downtown and surrounding areas. Venice and Santa Monica have Lime and Bird scooters. Check the transit app for real-time availability."
+  },
+  "pickup_soccer": [
+    {
+      "name": "MacArthur Park",
+      "location": "Wilshire Blvd & Alvarado St, Westlake",
+      "access_notes": "Informal games happen daily, especially on weekends. Mixed skill levels, competitive atmosphere.",
+      "schedule_notes": "Most active Saturday and Sunday mornings."
+    },
+    {
+      "name": "Elysian Park Fields",
+      "location": "Near Dodger Stadium, Elysian Park",
+      "access_notes": "Open grass fields with informal games most weekends. Beautiful setting above Downtown LA.",
+      "schedule_notes": "Weekend mornings are most active."
+    }
+  ],
+  "outdoors_day_trips": [
+    {
+      "name": "Malibu Coast",
+      "type": "Beach",
+      "distance": "35 miles northwest of Downtown",
+      "difficulty": "Easy",
+      "notes": "Drive PCH for stunning coastal views. Zuma Beach and El Matador State Beach are worth the trip."
+    },
+    {
+      "name": "Griffith Park",
+      "type": "Urban park / hiking",
+      "distance": "5 miles from Hollywood",
+      "difficulty": "Easy to moderate",
+      "notes": "4,300-acre city park with trails, the Observatory, pony rides, and great sunrise views over the city."
+    },
+    {
+      "name": "Joshua Tree National Park",
+      "type": "Desert / National Park",
+      "distance": "About 130 miles from LA",
+      "difficulty": "Moderate",
+      "notes": "Surreal desert landscape — ideal for a full day trip between matches. Bring lots of water and sun protection."
+    }
+  ],
+  "safety_tips": [
+    "LA is generally safe in tourist areas — Downtown, Hollywood, Westside, and Inglewood near SoFi",
+    "Keep valuables in a hotel safe and don't leave anything visible in a parked car",
+    "Homeless encampments exist near some transit hubs — be aware of your surroundings",
+    "Rideshare is almost always the safest late-night option over walking in unfamiliar areas",
+    "California sun is intense — heatstroke risk is real at outdoor fan events; hydrate consistently",
+    "Pick up your rideshare away from the main stadium exit crowd to reduce wait times"
+  ]
+}

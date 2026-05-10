@@ -1,0 +1,316 @@
+{
+  "hero": {
+    "tagline": "Europe's Spirit, North America's Address",
+    "description": "Montréal is not a World Cup host city — but as Canada's most European metropolis, it's one of the best cities on the continent to watch football. The city has a genuine football culture built by its enormous Portuguese, Italian, Haitian, Algerian, and Latin American communities. Incredible food, a legendary festival scene, bilingual energy, and easy connections to Toronto make it an outstanding base for fans traveling through Canada."
+  },
+  "stadium": {
+    "name": "Stade Saputo",
+    "capacity": 20801,
+    "address": "4750 Rue Sherbrooke E, Montréal, QC H1V 3S8",
+    "transport": "Stade Saputo (home of CF Montréal) is in Parc Olympique on the east side of the island. Take the Green Line metro to Pie-IX station — short walk to the stadium. This is the home of Montréal's MLS club and may host fan screenings or community events during the tournament."
+  },
+  "quick_facts": {
+    "matches_hosted": "Fan hub city — no World Cup matches hosted in Montréal",
+    "stadium": "Stade Saputo (CF Montréal / fan events only)",
+    "airport_codes": ["YUL"],
+    "timezone": "Eastern Time",
+    "best_neighborhoods": ["Downtown / Ville-Marie", "Plateau-Mont-Royal", "Mile End", "Old Montreal / Vieux-Montréal", "Rosemont"],
+    "fan_hub_status": "Fan events expected at Place des Festivals and Vieux-Port; confirm local schedules"
+  },
+  "weather": {
+    "june": "Warm and pleasant — one of Montréal's best months. Highs 21–26°C (70–79°F). Long evenings, outdoor terrasse culture in full swing.",
+    "july": "Hot and humid, highs 25–30°C (77–86°F). Festival season is in full swing — the Jazz Festival, Just for Laughs, and others all run through July. The city is electric.",
+    "packing_tips": [
+      "A light layer for evenings — Montréal can be cool after dark even in July",
+      "A compact umbrella for occasional summer showers",
+      "Comfortable walking shoes — Montréal is extremely walkable in the main neighbourhoods",
+      "Sunscreen for outdoor terrasse and park time"
+    ]
+  },
+  "airports": [
+    {
+      "name": "Montréal-Trudeau International Airport (Pierre Elliott Trudeau)",
+      "code": "YUL",
+      "distance_to_stadium": "About 20 km west of Downtown Montréal",
+      "transfer_options": [
+        "747 Express bus: direct Airport-to-Downtown service, stops at Berri-UQAM metro station — about 45 min, 11 CAD",
+        "Rideshare (Uber/Lyft) from the airport to Downtown takes 20–30 min depending on traffic",
+        "No direct rail from YUL — the 747 express bus is the transit option"
+      ],
+      "notes": "YUL is well-connected internationally with direct flights to Europe, the USA, and across Canada. The 747 express bus is reliable and inexpensive. Uber is practical if you have luggage or arrive late. A new REM light rail extension to the airport opened in 2024 — check current status as it significantly improves transit access."
+    }
+  ],
+  "fan_hubs": [
+    {
+      "name": "Place des Festivals Fan Area",
+      "location": "175 Rue Sainte-Catherine O, Quartier des Spectacles, Montréal",
+      "status": "expected",
+      "description": "Montréal's world-famous festival square — the purpose-built outdoor venue that hosts the Jazz Festival and other major events. Expected to screen matches and host fan gatherings throughout the tournament. The square has permanent outdoor screens and can accommodate tens of thousands of people. This is the heart of Montréal's entertainment culture.",
+      "transport_tips": [
+        "Metro Green or Orange Line to Place-des-Arts station — one-minute walk",
+        "Walking distance from most Downtown hotels",
+        "Very well-served by the metro network"
+      ]
+    },
+    {
+      "name": "Vieux-Port (Old Port) Fan Terrace",
+      "location": "Quai de l'Horloge / Rue de la Commune, Vieux-Montréal",
+      "status": "expected",
+      "description": "The Old Port waterfront along the St. Lawrence River is one of Montréal's most beautiful outdoor spaces — a kilometre of terrasse restaurants, event venues, and waterfront promenade. Excellent setting for outdoor screenings with the river and Old Montréal backdrop.",
+      "transport_tips": [
+        "Metro Orange Line to Champ-de-Mars or Square-Victoria–OACI station, short walk to the waterfront",
+        "Walking distance from Old Montréal hotels",
+        "BIXI bikeshare docks throughout the Old Port area"
+      ]
+    }
+  ],
+  "neighborhoods": [
+    {
+      "name": "Downtown / Ville-Marie",
+      "best_for": "Hotels, metro hub, fan hub proximity",
+      "safety_transit_notes": "Very safe in the hotel and commercial core. Well-lit and busy at night.",
+      "stadium_access": "Stade Saputo: Green Line metro to Pie-IX — 20 min",
+      "hotel_price_level": "$$–$$$",
+      "description": "Montréal's downtown core — the greatest concentration of hotels, the Place des Festivals fan area, and easy metro access to all neighbourhoods. The underground PATH system (RÉSO) connects hotels and metro stations in winter, but in June–July the outdoor city is magnificent."
+    },
+    {
+      "name": "Plateau-Mont-Royal",
+      "best_for": "Character, restaurants, outdoor terrasses, local atmosphere",
+      "safety_transit_notes": "Very safe, vibrant neighbourhood with active street life.",
+      "stadium_access": "Metro or bus connections to Stade Saputo — about 30 min",
+      "hotel_price_level": "$$",
+      "description": "Montréal's most beloved neighbourhood — colourful Victorian triplex houses, outdoor staircases, independent restaurants, and the densest concentration of terrasse culture in the city. Av. du Mont-Royal and Rue Saint-Denis are the main arteries. Slightly removed from the metro but extremely walkable within."
+    },
+    {
+      "name": "Mile End",
+      "best_for": "Hipster culture, Jewish bakeries, multicultural restaurants",
+      "safety_transit_notes": "Safe, eclectic, well-lit neighbourhood.",
+      "stadium_access": "Bus or metro to Stade Saputo — about 35 min",
+      "hotel_price_level": "$$",
+      "description": "Just north of the Plateau — one of the most interesting neighbourhoods in Canada. St-Viateur Bagel, Schwartz's Deli, and a remarkable mix of Portuguese, Hasidic Jewish, and hipster culture. Bernard Ave is the neighbourhood's social hub."
+    },
+    {
+      "name": "Old Montréal / Vieux-Montréal",
+      "best_for": "History, architecture, Old Port access, tourists",
+      "safety_transit_notes": "Very safe and tourist-friendly. Cobblestone streets and lively waterfront.",
+      "stadium_access": "Metro to Green Line transfer — about 30 min",
+      "hotel_price_level": "$$$",
+      "description": "The historic heart of Montréal along the St. Lawrence — beautiful cobblestone streets, the Basilique Notre-Dame, excellent hotel options in converted heritage buildings, and the Old Port waterfront. A magical place to be based but slightly removed from the fan hub action."
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Le Germain Hôtel Montréal",
+      "stars": 4,
+      "distance": "Walking distance to Place des Festivals fan hub",
+      "neighborhood": "Downtown",
+      "best_for": "Boutique luxury, Prime fan hub location",
+      "affiliate_url": "https://www.booking.com/hotel/ca/le-germain-montreal.html?aid=YOUR_AID",
+      "affiliate_label": "Check availability",
+      "affiliate_provider": "Booking.com"
+    },
+    {
+      "name": "Hotel Nelligan",
+      "stars": 4,
+      "distance": "Old Montréal — 10 min to fan hub by metro",
+      "neighborhood": "Old Montréal",
+      "best_for": "Heritage charm, Vieux-Port access, boutique experience",
+      "affiliate_url": "https://www.booking.com/hotel/ca/nelligan.html?aid=YOUR_AID",
+      "affiliate_label": "Check availability",
+      "affiliate_provider": "Booking.com"
+    },
+    {
+      "name": "Hôtel William Gray",
+      "stars": 4,
+      "distance": "Old Montréal — 10 min to fan hub",
+      "neighborhood": "Old Montréal",
+      "best_for": "Rooftop terrace, boutique, heritage building",
+      "affiliate_url": "https://www.booking.com/hotel/ca/william-gray-montreal.html?aid=YOUR_AID",
+      "affiliate_label": "Check availability",
+      "affiliate_provider": "Booking.com"
+    },
+    {
+      "name": "Delta Hotels Montreal",
+      "stars": 3,
+      "distance": "Walking distance to Place des Festivals",
+      "neighborhood": "Downtown",
+      "best_for": "Budget-smart, central Downtown, large groups",
+      "affiliate_url": "https://www.booking.com/hotel/ca/delta-montreal.html?aid=YOUR_AID",
+      "affiliate_label": "Check availability",
+      "affiliate_provider": "Booking.com"
+    }
+  ],
+  "booking_links": [
+    {
+      "provider": "Booking.com",
+      "label": "Browse all Montréal hotels on Booking.com →",
+      "affiliate_url": "https://www.booking.com/city/ca/montreal.html?aid=YOUR_AID"
+    }
+  ],
+  "bars": [
+    {
+      "name": "Brutopia Brewery & Bar",
+      "neighborhood": "Crescent St / Downtown",
+      "vibe": "rowdy",
+      "address": "1219 Rue Crescent, Montréal, QC",
+      "notes": "Brewpub on Montréal's legendary Crescent St — multiple screens, house-brewed beer, and a mixed international crowd that turns up for early morning and evening matches alike.",
+      "transit": "Metro to Guy-Concordia, short walk"
+    },
+    {
+      "name": "Ye Olde Orchard Pub",
+      "neighborhood": "Downtown",
+      "vibe": "pub",
+      "address": "20 Pl du Parc, Montréal, QC",
+      "notes": "One of Montréal's best English-style pubs — multiple screens, Guinness on draft, and a loyal football-watching crowd that shows up for every major match.",
+      "transit": "Metro to Place-des-Arts — 5-min walk"
+    },
+    {
+      "name": "Pub Saint-Paul",
+      "neighborhood": "Old Montréal",
+      "vibe": "pub",
+      "address": "124 Rue Saint-Paul E, Montréal, QC",
+      "notes": "Lively pub on Old Montréal's main street with a broad beer selection and a great match-day atmosphere. Good early-morning option for European kickoffs.",
+      "transit": "Metro to Champ-de-Mars or walking distance from Old Montréal hotels"
+    },
+    {
+      "name": "Brasserie Harricana",
+      "neighborhood": "Mile End",
+      "vibe": "outdoor",
+      "address": "95 Rue Jean-Talon O, Montréal, QC",
+      "notes": "Excellent Montréal craft brewery with outdoor patio and a young, football-aware crowd. Shows major international matches.",
+      "transit": "Metro Orange Line to De Castelnau or bus on Jean-Talon"
+    },
+    {
+      "name": "Casa de Mateus",
+      "neighborhood": "Plateau-Mont-Royal",
+      "vibe": "pub",
+      "address": "4975 Blvd Saint-Laurent, Montréal, QC",
+      "notes": "Portuguese bar on the Main — one of the best football-watching atmospheres in the city when Portugal plays. Packed, loud, and passionate.",
+      "transit": "Metro to Laurier, short walk; or bus on Saint-Laurent"
+    }
+  ],
+  "transport": {
+    "summary": "Montréal has an excellent metro system (STM) with 4 lines covering the island. The Green Line is the key artery for fans — connecting Downtown to the fan hub areas and Stade Saputo. BIXI bikeshare is excellent in summer. Uber and Lyft operate throughout the city.",
+    "tips": [
+      "Get an Opus card at any metro station — unlimited day passes available for around $10 CAD",
+      "Green Line east connects Downtown to Stade Saputo (Pie-IX station) in about 20 min",
+      "Orange Line covers Mile End, the Plateau, and the airport 747 bus connection",
+      "BIXI bike-share has 800+ stations — perfect for the Plateau, Mile End, and Vieux-Port in summer",
+      "Via Rail trains to Toronto: 5 hours, depart from Gare Centrale — book far in advance during the tournament",
+      "Uber/Lyft available throughout the city for late-night travel"
+    ]
+  },
+  "fan_zones": [
+    {
+      "name": "Place des Festivals Fan Area",
+      "location": "175 Rue Sainte-Catherine O, Quartier des Spectacles",
+      "capacity": 20000,
+      "description": "Purpose-built festival square with permanent outdoor screens — Montréal's premier fan gathering space. Home of the Jazz Festival and a natural match screening venue."
+    },
+    {
+      "name": "Vieux-Port (Old Port) Fan Terrace",
+      "location": "Rue de la Commune, Vieux-Montréal",
+      "capacity": 8000,
+      "description": "Waterfront outdoor space along the St. Lawrence with a beautiful backdrop. Terrasse restaurants and event venues along a kilometre of Old Port promenade."
+    }
+  ],
+  "soccer_culture": {
+    "community_notes": "Montréal is one of the best football cities in North America — not for its home club alone, but for the community football culture built by generations of immigrants from Portugal, Italy, Haiti, Algeria, Morocco, and across Latin America. CF Montréal's Saputo Stadium regularly draws passionate crowds. When national teams play, entire neighbourhoods come alive. The Portuguese community on the Plateau and the North African community in Côte-des-Neiges both have a deep football culture.",
+    "local_clubs": ["CF Montréal (MLS)"],
+    "supporter_groups": ["Ultras Montréal", "Méga Force"],
+    "historic_venues": ["Stade Saputo (CF Montréal home)", "Stade Olympique (1976 Olympics, historic)"]
+  },
+  "things_to_do": {
+    "tourist_hits": [
+      { "name": "Basilique Notre-Dame de Montréal", "notes": "One of the most spectacular church interiors in North America — blue and gold neo-Gothic interior of extraordinary beauty. Book Aura light show tickets in advance." },
+      { "name": "Mount Royal Park (Parc du Mont-Royal)", "notes": "Frederick Law Olmsted's urban mountain park at the heart of the island — hiking trails, lookout platforms with panoramic city views, Beaver Lake. Free." },
+      { "name": "Musée des Beaux-Arts de Montréal (MBAM)", "notes": "One of Canada's great art museums — enormous collection across several connected pavilions. Free permanent collection access." }
+    ],
+    "local_favorites": [
+      { "name": "St-Viateur Bagel (Mile End)", "notes": "The definitive Montréal bagel — wood-fired, denser and sweeter than the New York style. A genuine Montréal institution, open 24 hours." },
+      { "name": "Jean-Talon Market", "notes": "The finest outdoor market in Canada — incredible produce, Québec cheeses, prepared foods, and the energy of a genuine neighbourhood institution." },
+      { "name": "Schwartz's Deli", "notes": "The most famous smoked meat sandwich in the world — always a queue, always worth it." }
+    ]
+  },
+  "food_nightlife": {
+    "areas": [
+      "Rue Crescent — classic Montréal bar strip, international crowd",
+      "Rue Saint-Denis — French bistros and terrasse dining",
+      "Mile End / Bernard Ave — independent restaurants and café culture",
+      "Old Montréal — upscale dining and heritage atmosphere",
+      "Rue Saint-Laurent (The Main) — diverse restaurants across all price points"
+    ],
+    "recommendations": [
+      { "name": "Joe Beef (Little Burgundy)", "notes": "One of Canada's most celebrated restaurants — French-influenced Québécois cuisine that has influenced a generation of chefs. Book months ahead." },
+      { "name": "Poutine from La Banquise", "notes": "Montréal poutine is not something to skip — La Banquise on Roy is open 24/7 and serves dozens of variations. A Montréal rite of passage." },
+      { "name": "Dépanneur food and BYOB culture", "notes": "Montréal has a unique BYOB restaurant culture (apportez votre vin) — buy wine at any dépanneur and bring it to hundreds of licensed restaurants for minimal corkage." }
+    ]
+  },
+  "local_resources": {
+    "tourism_links": [
+      { "name": "Tourisme Montréal", "url": "https://www.mtl.org/en" }
+    ],
+    "transit_apps": [
+      { "name": "STM Transit (Opus Card)", "url": "https://www.stm.info/en" },
+      { "name": "BIXI Bikeshare", "url": "https://www.bixi.com/en" },
+      { "name": "Transit App", "url": "https://transitapp.com" }
+    ],
+    "emergency_info": "Emergency: 911. Montréal Police non-emergency: (514) 280-2222. MUHC (Montréal General Hospital): (514) 934-1934. Currency: Canadian Dollar (CAD). Credit cards accepted almost everywhere. Tipping standard is 15–20%."
+  },
+  "walk_bike": {
+    "walkability_summary": "Montréal is one of the most walkable cities in North America — the Plateau, Mile End, Downtown, and Old Montréal are all superb on foot. The June–July climate is perfect for long walks.",
+    "bikeability_summary": "BIXI bikeshare is outstanding — 800+ docking stations across the island. The city has an extensive protected cycling network. This is one of the best cycling cities in North America.",
+    "best_walkable_areas": ["Plateau-Mont-Royal", "Mile End", "Old Montréal / Vieux-Montréal", "Downtown Quartier des Spectacles", "Rue Sainte-Catherine shopping corridor"],
+    "bike_share_notes": "BIXI has docks throughout Downtown, Plateau, Mile End, and the Old Port. Day and multi-day passes available in the BIXI app or at docking stations."
+  },
+  "pickup_soccer": [
+    {
+      "name": "Jeanne-Mance Park (Parc Jeanne-Mance)",
+      "location": "Avenue du Parc at Mont-Royal, Montréal",
+      "access_notes": "Large park at the base of Mount Royal with informal football fields adjacent to the mountain. One of the most active outdoor spaces in the city.",
+      "schedule_notes": "Weekends and evenings — very active in summer."
+    },
+    {
+      "name": "Parc Laurier",
+      "location": "Rue Laurier E, Plateau-Mont-Royal",
+      "access_notes": "Neighbourhood park with football pitch in the heart of the Plateau — active community pickup culture.",
+      "schedule_notes": "Evening and weekend matches."
+    }
+  ],
+  "outdoors_day_trips": [
+    {
+      "name": "Quebec City",
+      "type": "Historic city",
+      "distance": "About 250 km northeast of Montréal",
+      "difficulty": "Easy",
+      "notes": "Via Rail from Gare Centrale takes about 3 hours. The only fully walled city in North America north of Mexico — the fortified Old City (UNESCO) and Château Frontenac are unmissable. Outstanding day trip or overnight."
+    },
+    {
+      "name": "Mont-Tremblant",
+      "type": "Mountain / resort",
+      "distance": "About 140 km north of Montréal",
+      "difficulty": "Easy to moderate",
+      "notes": "Popular summer resort in the Laurentian Mountains — hiking, cycling, kayaking, and a beautiful pedestrian village at the base of the mountain. Good full-day trip between match days."
+    }
+  ],
+  "safety_tips": [
+    "Montréal is one of the safest major cities in North America — very low crime in the main tourist areas",
+    "The metro runs until about 1am (later on weekends) — plan late nights around last train times or Uber",
+    "The Plateau and Mile End are extremely safe on foot even late at night",
+    "Old Montréal can be quiet late at night — stick to the waterfront and main streets",
+    "French is the working language — most service workers speak English but a brief 'Bonjour!' goes a long way",
+    "Healthcare is excellent but not free for visitors — ensure you have travel health insurance"
+  ],
+  "travel_connections": {
+    "to_toronto": [
+      "Via Rail train from Gare Centrale — about 4–5 hours, scenic, departs frequently. Book weeks ahead during the tournament.",
+      "Air Canada and WestJet flights YUL–YYZ — about 1 hour 20 min, multiple daily departures",
+      "Bus options (Greyhound, FlixBus) take 6–7 hours — less practical for match travel"
+    ],
+    "to_new_york": [
+      "Amtrak Adirondack train from Montréal to NYC Penn Station — about 10 hours, scenic along Lake Champlain. Advance booking recommended.",
+      "Direct flights YUL–JFK/EWR — about 1 hour 30 min"
+    ],
+    "notes": "As a fan hub city, Montréal is an excellent base for fans whose matches are in Toronto. The Via Rail train is comfortable and practical."
+  }
+}

@@ -1,0 +1,363 @@
+{
+  "hero": {
+    "tagline": "Canada's Biggest City, The World Cup's Biggest Party",
+    "description": "Toronto is Canada's cultural capital and one of the most ethnically diverse cities on Earth. BMO Field brings the 2026 tournament to a city where practically every competing nation has a passionate fan base living here. Expect the most multilingual crowd of any venue."
+  },
+  "stadium": {
+    "name": "BMO Field",
+    "capacity": 45736,
+    "address": "170 Princes' Blvd, Toronto, ON M6K 3C3",
+    "transport": "Take the 509 or 511 streetcar from Union Station directly to Exhibition Place — about 15 minutes. GO Transit runs game-day service from the 905 suburbs. The stadium is a 10-minute walk from the Exhibition Place streetcar loop."
+  },
+  "quick_facts": {
+    "matches_hosted": "Multiple matches including group stage",
+    "stadium": "BMO Field",
+    "airport_codes": ["YYZ", "YTZ"],
+    "timezone": "Eastern Time",
+    "best_neighborhoods": ["Downtown Core", "King West", "Distillery District", "Harbourfront", "Kensington Market"],
+    "fan_hub_status": "Major fan hub expected at Nathan Phillips Square; confirm local schedules"
+  },
+  "weather": {
+    "june": "Warm with highs in the mid-20s Celsius (high 70s Fahrenheit). Pleasant evenings, occasional rain.",
+    "july": "Hot and sometimes humid, highs around 27–29°C (80–84°F). Thunderstorms possible, especially in the afternoon.",
+    "packing_tips": [
+      "Pack a light waterproof jacket — Toronto thunderstorms are fast and heavy",
+      "Sunscreen for afternoon fan zone events",
+      "Comfortable walking shoes — Downtown to Exhibition Place involves pavement",
+      "Layers for evening matches, which cool down quickly near the lake"
+    ]
+  },
+  "airports": [
+    {
+      "name": "Toronto Pearson International Airport",
+      "code": "YYZ",
+      "distance_to_stadium": "About 27 km from BMO Field",
+      "transfer_options": [
+        "UP Express train: Pearson to Union Station in 25 minutes, then streetcar to BMO Field",
+        "Rideshare from Pearson to Downtown takes 30–50 minutes depending on traffic",
+        "Taxis available at the terminal — roughly $60–70 to Downtown"
+      ],
+      "notes": "Main international airport. UP Express is the fastest, most reliable option to the city. Buy your Presto card at the airport for seamless transit."
+    },
+    {
+      "name": "Billy Bishop Toronto City Airport",
+      "code": "YTZ",
+      "distance_to_stadium": "About 3 km from BMO Field",
+      "transfer_options": [
+        "Ferry to the mainland takes 2 minutes, then walk or short cab to BMO Field",
+        "Walking from the ferry terminal to BMO is about 20–25 minutes along the waterfront",
+        "Taxi or rideshare from the ferry is under 10 minutes"
+      ],
+      "notes": "Island airport, mostly domestic routes. Extremely close to BMO Field and Harbourfront. Porter Airlines hub — excellent for fans flying from Montreal, Ottawa, or Halifax."
+    }
+  ],
+  "match_schedule": [
+    {
+      "date": "June–July 2026",
+      "round": "Group stage and possible advanced rounds",
+      "teams_or_placeholder": "BMO Field hosts multiple matches. Official schedule released after group draw.",
+      "stadium": "BMO Field"
+    }
+  ],
+  "stadium_transport": {
+    "public_transit": [
+      "509 Harbourfront or 511 Bathurst streetcar from Union Station to Exhibition Place — most direct option",
+      "UP Express from Pearson to Union Station connects airport travellers in 25 minutes",
+      "GO Train extended match-day service from Mississauga, Hamilton, and Oshawa"
+    ],
+    "rideshare": [
+      "Rideshare pickup is on the east side of Exhibition Place — not directly at BMO Field",
+      "Surge pricing post-match is common — walk toward Dufferin St for quicker pickup",
+      "Lake Shore Blvd backs up after major matches — account for an extra 20–30 minutes"
+    ],
+    "driving_parking": [
+      "Exhibition Place has large parking lots — pre-book online",
+      "Traffic on the Gardiner Expressway and Lake Shore Blvd is severe after sold-out matches",
+      "Parking around Liberty Village fills quickly — arrive 90 minutes early if driving"
+    ],
+    "walking_biking": [
+      "Harbourfront path from Union Station to BMO Field takes about 25 minutes on foot",
+      "Bike Share Toronto (Bike Share) docks near the stadium and along the waterfront trail",
+      "The Martin Goodman Trail runs directly along the waterfront to Exhibition Place"
+    ],
+    "match_day_tips": [
+      "Arrive 90 minutes before kickoff — TTC streetcars are capacity-limited",
+      "Pre-pay for parking online to avoid the lineup on match day",
+      "Cell signal is strained inside BMO Field — download mobile tickets in advance"
+    ]
+  },
+  "fan_hubs": [
+    {
+      "name": "Nathan Phillips Square Fan Festival",
+      "location": "100 Queen St W, Toronto City Hall",
+      "status": "expected",
+      "description": "Toronto's iconic civic square — home to New Year's celebrations and major city events — is expected to host a major tournament fan hub with giant screens, live performances, and food representing every competing nation. The diverse crowd here will rival any venue atmosphere.",
+      "transport_tips": [
+        "TTC Line 1 to Queen or Osgoode station — right at the square",
+        "Walking distance from most Downtown hotels",
+        "Large outdoor plaza — arrive early for best viewing position"
+      ]
+    },
+    {
+      "name": "Harbourfront Fan Zone",
+      "location": "235 Queens Quay W, Harbourfront",
+      "status": "local_watch_area",
+      "description": "The Toronto Harbourfront area has outdoor screens, lakeside restaurants, and bars that will become organic fan hubs throughout the tournament. A pleasant spot for afternoon matches with lake views.",
+      "transport_tips": [
+        "509 Harbourfront streetcar from Union Station",
+        "10-minute walk from BMO Field after matches"
+      ]
+    }
+  ],
+  "neighborhoods": [
+    {
+      "name": "Downtown Core / Financial District",
+      "best_for": "Union Station access, major hotel brands, corporate rates",
+      "safety_transit_notes": "Safe, busy, and well-lit 24/7. Major pedestrian corridors.",
+      "stadium_access": "509 or 511 streetcar from Union Station to BMO Field — 15 min",
+      "hotel_price_level": "$$$–$$$$",
+      "description": "Best access to both BMO Field (via streetcar) and Nathan Phillips Square (walking). Union Station connects to GO Train, UP Express, and TTC subway. Top choice for convenience."
+    },
+    {
+      "name": "King West / Entertainment District",
+      "best_for": "Nightlife, restaurants, soccer bar scene",
+      "safety_transit_notes": "Safe and very lively. Heavy pedestrian and bar traffic on match nights.",
+      "stadium_access": "511 Bathurst streetcar or 15-minute walk to BMO Field",
+      "hotel_price_level": "$$–$$$",
+      "description": "Toronto's most vibrant nightlife strip. King West and the Entertainment District have a dense concentration of sports bars and restaurants. Very walkable to BMO Field."
+    },
+    {
+      "name": "Distillery District / St. Lawrence",
+      "best_for": "History, boutique stays, cafe culture",
+      "safety_transit_notes": "Safe neighbourhood with good transit. Cobblestone streets are charming but uneven.",
+      "stadium_access": "Streetcar to Union, then 509 to BMO — about 30 min total",
+      "hotel_price_level": "$$–$$$",
+      "description": "A charming historic area east of Downtown with Victorian industrial architecture. Great for post-match dinners and the St. Lawrence Market. A bit farther from BMO but worth it for the experience."
+    },
+    {
+      "name": "Kensington Market / College Street",
+      "best_for": "Budget travelers, eclectic atmosphere, international food",
+      "safety_transit_notes": "Generally safe, slightly eclectic. Best to keep valuables secure in the densely crowded market area.",
+      "stadium_access": "511 Bathurst streetcar south to BMO — about 20 min",
+      "hotel_price_level": "$–$$",
+      "description": "The most culturally vibrant neighbourhood in the city. Vintage shops, cheap food from everywhere, and a genuinely welcoming World Cup atmosphere."
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Fairmont Royal York",
+      "stars": 5,
+      "distance": "10 min by streetcar to BMO Field",
+      "neighborhood": "Downtown / Union Station",
+      "best_for": "Classic luxury, Union Station access, points redemptions",
+      "affiliate_url": "https://www.booking.com/hotel/ca/fairmont-royal-york-toronto.html?aid=YOUR_AID",
+      "affiliate_label": "Check availability",
+      "affiliate_provider": "Booking.com"
+    },
+    {
+      "name": "Hotel X Toronto",
+      "stars": 4,
+      "distance": "5 min walk to BMO Field",
+      "neighborhood": "Exhibition Place",
+      "best_for": "Stadium proximity, rooftop pool, families",
+      "affiliate_url": "https://www.booking.com/hotel/ca/hotel-x-toronto.html?aid=YOUR_AID",
+      "affiliate_label": "Check availability",
+      "affiliate_provider": "Booking.com"
+    },
+    {
+      "name": "The Anndore House",
+      "stars": 3,
+      "distance": "20 min by transit to BMO Field",
+      "neighborhood": "Yonge & Bloor",
+      "best_for": "Mid-range budget, boutique feel, subway access",
+      "affiliate_url": "https://www.booking.com/hotel/ca/the-anndore-house.html?aid=YOUR_AID",
+      "affiliate_label": "Check availability",
+      "affiliate_provider": "Booking.com"
+    },
+    {
+      "name": "Soho Metropolitan Hotel",
+      "stars": 4,
+      "distance": "15 min walk to BMO Field",
+      "neighborhood": "King West",
+      "best_for": "Nightlife access, boutique luxury, entertainment district",
+      "affiliate_url": "https://www.booking.com/hotel/ca/soho-metropolitan.html?aid=YOUR_AID",
+      "affiliate_label": "Check availability",
+      "affiliate_provider": "Booking.com"
+    }
+  ],
+  "booking_links": [
+    {
+      "provider": "Booking.com",
+      "label": "Browse all Toronto hotels on Booking.com →",
+      "affiliate_url": "https://www.booking.com/city/ca/toronto.html?aid=YOUR_AID"
+    }
+  ],
+  "bars": [
+    {
+      "name": "Real Sports Bar & Grill",
+      "neighborhood": "Downtown",
+      "vibe": "rowdy",
+      "address": "15 York St, Toronto, ON",
+      "notes": "Canada's largest sports bar — massive screens, incredible capacity. Expect long lines for major matches. Worth the wait.",
+      "transit": "TTC Line 1 to Union"
+    },
+    {
+      "name": "The Brazen Head",
+      "neighborhood": "Old Town / King East",
+      "vibe": "pub",
+      "address": "165 Church St, Toronto, ON",
+      "notes": "Toronto's oldest Irish pub. Great soccer atmosphere with a neighbourhood crowd.",
+      "transit": "TTC to King station"
+    },
+    {
+      "name": "Scallywags Sports Bar",
+      "neighborhood": "Kensington / College",
+      "vibe": "family",
+      "address": "292 College St, Toronto, ON",
+      "notes": "Local favourite with a mixed international crowd. Very welcoming for all nationalities.",
+      "transit": "TTC to College station"
+    },
+    {
+      "name": "Soho House Toronto",
+      "neighborhood": "King West",
+      "vibe": "rooftop",
+      "address": "192 Adelaide St W, Toronto, ON",
+      "notes": "Members-only rooftop — if you have access, the match-day experience here is exceptional."
+    },
+    {
+      "name": "The Dog's Bollocks",
+      "neighborhood": "Annex",
+      "vibe": "pub",
+      "address": "620 Bloor St W, Toronto, ON",
+      "notes": "Beloved British pub in the Annex. Packed for every England match, but great for all games.",
+      "transit": "TTC to Bathurst"
+    },
+    {
+      "name": "Amsterdam BrewHouse",
+      "neighborhood": "Harbourfront",
+      "vibe": "outdoor",
+      "address": "245 Queens Quay W, Toronto, ON",
+      "notes": "Lakeside brewery with outdoor patio. Great pre-match and post-match location near BMO Field.",
+      "transit": "509 streetcar from Union Station"
+    }
+  ],
+  "transport": {
+    "summary": "Toronto's TTC streetcar and subway network is practical and reliable for World Cup visitors. Union Station is the central hub connecting GO Train, UP Express from Pearson, and TTC streetcar to BMO Field.",
+    "tips": [
+      "Load a PRESTO card at Pearson or Union for seamless TTC and GO Transit travel",
+      "509 or 511 streetcars from Union Station to Exhibition Place — 15 minutes, most direct route",
+      "Bike Share Toronto docks are near BMO Field and along the waterfront trail",
+      "GO Train extended service from suburbs on major match days — check Metrolinx schedule",
+      "The PATH underground walkway connects Downtown hotels — useful in rain between streetcar stops"
+    ]
+  },
+  "fan_zones": [
+    {
+      "name": "Nathan Phillips Square Fan Festival",
+      "location": "100 Queen St W, Toronto City Hall",
+      "capacity": 30000,
+      "description": "Toronto's most iconic civic square, expected to host a major tournament fan hub with giant screens, live performances, and food representing the nations of the world."
+    },
+    {
+      "name": "Harbourfront Fan Zone",
+      "location": "235 Queens Quay W, Harbourfront",
+      "capacity": 20000,
+      "description": "Waterfront gathering area with outdoor screens and lake views. A 10-minute walk from BMO Field."
+    }
+  ],
+  "soccer_culture": {
+    "community_notes": "Toronto has arguably the deepest soccer culture in Canada. Toronto FC fills BMO Field, the city has massive supporter groups, and the Italian, Portuguese, Caribbean, and Latin American communities all bring deep football passion to the streets during the World Cup.",
+    "local_clubs": ["Toronto FC (MLS)", "Toronto FC II", "North Toronto Soccer Club"],
+    "supporter_groups": ["Red Patch Boys (Toronto FC)", "U-Sector (Toronto FC)", "Inebriati (Toronto FC)"],
+    "historic_venues": ["BMO Field", "Varsity Stadium (historic)", "Lamport Stadium"]
+  },
+  "things_to_do": {
+    "tourist_hits": [
+      { "name": "CN Tower", "notes": "Iconic observation deck with glass floor and EdgeWalk. Book tickets in advance." },
+      { "name": "Royal Ontario Museum", "notes": "World-class natural history and culture collection. Great for a non-match day." },
+      { "name": "Kensington Market", "notes": "Toronto's most eclectic neighbourhood — global street food, vintage shops, open-air market." },
+      { "name": "Distillery Historic District", "notes": "Victorian industrial architecture turned gallery and restaurant district. Beautiful at night." },
+      { "name": "St. Lawrence Market", "notes": "Legendary food market open Tuesday–Sunday. The peameal bacon sandwich is mandatory." }
+    ],
+    "local_favorites": [
+      { "name": "Chinatown / Spadina Ave", "notes": "Authentic Chinese, Vietnamese, and Korean food on one of the most affordable restaurant strips in the city." },
+      { "name": "Little Italy on College St", "notes": "Great outdoor patios and soccer bar culture. College St fills up on match nights." },
+      { "name": "Toronto Islands", "notes": "Take the ferry for a 20-minute escape. Beaches, bike paths, and a quiet contrast to the city." },
+      { "name": "Evergreen Brick Works", "notes": "Former brick factory turned farmers' market and community space. Saturday market is excellent." }
+    ]
+  },
+  "food_nightlife": {
+    "areas": [
+      "King West / Entertainment District — highest density of bars and restaurants",
+      "Kensington Market — cheap, global, and authentic",
+      "Ossington Ave — craft cocktails and hip restaurants",
+      "Little Portugal on Dundas West — expect enormous Portugal fan gatherings",
+      "Little Italy on College — great patios, soccer culture"
+    ],
+    "recommendations": [
+      { "name": "Pai Northern Thai Kitchen", "notes": "One of Toronto's most beloved restaurants. Book ahead." },
+      { "name": "Bar Isabel", "notes": "Spanish tapas and cocktails on Dundas West. Excellent for groups." },
+      { "name": "The Black Hoof", "notes": "Charcuterie and cocktails on Dundas West — a local institution." }
+    ]
+  },
+  "local_resources": {
+    "tourism_links": [
+      { "name": "Tourism Toronto", "url": "https://www.seetorontonow.com" }
+    ],
+    "transit_apps": [
+      { "name": "TTC official app", "url": "https://www.ttc.ca" },
+      { "name": "Transit App", "url": "https://transitapp.com" }
+    ],
+    "emergency_info": "Emergency: 911. Non-emergency Toronto Police: (416) 808-2222. Hospital: Toronto General, 200 Elizabeth St."
+  },
+  "walk_bike": {
+    "walkability_summary": "Toronto's Downtown Core, King West, and the waterfront are highly walkable. The stretch from Union Station to BMO Field along the waterfront is a pleasant 25-minute walk.",
+    "bikeability_summary": "The Martin Goodman Trail along the waterfront is excellent. Bike Share Toronto has docks throughout the city.",
+    "best_walkable_areas": ["Downtown Core / Financial District", "King West Entertainment District", "Distillery District", "Waterfront / Harbourfront"],
+    "bike_share_notes": "Bike Share Toronto docks are near Union Station, Exhibition Place, and throughout Downtown. Single rides or day passes available via the Bike Share Toronto app."
+  },
+  "pickup_soccer": [
+    {
+      "name": "Dufferin Grove Park",
+      "location": "875 Dufferin St, Toronto",
+      "access_notes": "Informal pickup games most evenings and weekend afternoons. Mixed skill and international crowd.",
+      "schedule_notes": "Busiest in late afternoon, 4–7pm."
+    },
+    {
+      "name": "Christie Pits Park",
+      "location": "Christie Pits Park, Bloor & Christie",
+      "access_notes": "Multiple fields with active pickup culture. Historic site — passionate local soccer crowd.",
+      "schedule_notes": "Weekend mornings and weekday evenings."
+    }
+  ],
+  "outdoors_day_trips": [
+    {
+      "name": "Niagara Falls",
+      "type": "Waterfall / tourism",
+      "distance": "About 130 km from Toronto",
+      "difficulty": "Easy",
+      "notes": "Classic day trip. Go train or bus from Union Station. See both Horseshoe Falls and the Canadian side for the best views."
+    },
+    {
+      "name": "Toronto Islands",
+      "type": "Beach / cycling",
+      "distance": "10-minute ferry from the waterfront",
+      "difficulty": "Easy",
+      "notes": "Car-free islands with beaches, bike paths, and a quiet escape from city noise. Ferry tickets are inexpensive — book online."
+    },
+    {
+      "name": "Muskoka Lakes",
+      "type": "Cottage country / lakes",
+      "distance": "About 200 km north of Toronto",
+      "difficulty": "Easy to moderate",
+      "notes": "Classic Ontario cottage experience. Rental cottages available for multi-night stays between matches."
+    }
+  ],
+  "safety_tips": [
+    "Toronto is one of the safest large cities in North America — general tourist areas are low-risk",
+    "Downtown and the Entertainment District get crowded on match nights — keep a hand on your belongings",
+    "Rideshare is safe and reliable for late-night travel",
+    "Be aware of weather changes — Toronto summer storms can arrive with little warning",
+    "Carry your hotel address written down in case your phone dies in unfamiliar areas"
+  ]
+}

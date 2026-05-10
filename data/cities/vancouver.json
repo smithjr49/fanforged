@@ -1,0 +1,356 @@
+{
+  "hero": {
+    "tagline": "Mountains, Ocean & the Beautiful Game",
+    "description": "Vancouver is one of the most scenic cities in North America — and one of the most soccer-passionate. BC Place's retractable roof means rain is never an issue, and the SkyTrain drops fans two minutes from the gate. For natural beauty between matches, no World Cup city comes close."
+  },
+  "stadium": {
+    "name": "BC Place",
+    "capacity": 54500,
+    "address": "777 Pacific Blvd, Vancouver, BC V6B 4Y8",
+    "transport": "BC Place sits in central Downtown Vancouver. The Stadium-Chinatown SkyTrain station (Expo and Millennium Lines) is a 2-minute walk from the main gate. SkyTrain runs extended hours on match nights — the most convenient stadium access in the tournament."
+  },
+  "quick_facts": {
+    "matches_hosted": "Multiple matches including advanced rounds",
+    "stadium": "BC Place",
+    "airport_codes": ["YVR"],
+    "timezone": "Pacific Time",
+    "best_neighborhoods": ["Downtown", "Yaletown", "Gastown", "Kitsilano", "False Creek"],
+    "fan_hub_status": "Major fan hub expected near BC Place and Plaza of Nations; confirm schedules"
+  },
+  "weather": {
+    "june": "Mild with highs around 20–22°C (68–72°F). June can be rainy — Vancouver's 'Junuary' effect. Bring a jacket.",
+    "july": "Best month of the Vancouver summer. Highs 22–26°C (72–79°F), lower humidity, beautiful clear days.",
+    "packing_tips": [
+      "Pack a light waterproof jacket regardless of forecast — Vancouver rain is unpredictable",
+      "Layers for evening matches — temperatures drop noticeably after sunset even in July",
+      "Comfortable walking shoes — Vancouver's hills reward proper footwear",
+      "Sunscreen for beach days and outdoor fan events in July"
+    ]
+  },
+  "airports": [
+    {
+      "name": "Vancouver International Airport",
+      "code": "YVR",
+      "distance_to_stadium": "About 13 km from BC Place",
+      "transfer_options": [
+        "Canada Line SkyTrain: YVR Airport to Waterfront Station in about 26 minutes — best option",
+        "Transfer at Waterfront to Expo/Millennium Line for Stadium-Chinatown stop",
+        "Rideshare from YVR to Downtown takes 20–40 minutes depending on traffic",
+        "Taxi costs roughly $35–45 to Downtown Vancouver"
+      ],
+      "notes": "Exceptional airport transit — the Canada Line SkyTrain goes directly from the airport terminal to Downtown. Buy a Compass Card at the airport for seamless travel throughout your stay."
+    }
+  ],
+  "match_schedule": [
+    {
+      "date": "June–July 2026",
+      "round": "Group stage and advanced rounds",
+      "teams_or_placeholder": "BC Place hosts multiple tournament matches. Official schedule released after group draw.",
+      "stadium": "BC Place"
+    }
+  ],
+  "stadium_transport": {
+    "public_transit": [
+      "Stadium-Chinatown SkyTrain station: Expo and Millennium Lines — 2-minute walk to BC Place main gate",
+      "Canada Line connects YVR Airport to Waterfront, then Expo Line to Stadium-Chinatown",
+      "Multiple bus routes serve Pacific Blvd corridor on match days"
+    ],
+    "rideshare": [
+      "Rideshare pickup is practical but traffic on Pacific Blvd and Georgia backs up post-match",
+      "Walk toward Cambie St or Homer St for faster post-match pickup",
+      "Pre-book scheduled Uber or Lyft for your return to hotel before the match starts"
+    ],
+    "driving_parking": [
+      "BC Place and the Plaza of Nations area has limited game-day parking — pre-book strongly advised",
+      "Parking at Pacific Centre or Robson Square and walking in is a solid option",
+      "Granville Bridge and False Creek routes can grid-lock after full-capacity matches"
+    ],
+    "walking_biking": [
+      "Downtown Vancouver to BC Place is walkable from most central hotels — 10–20 minutes",
+      "Mobi Bike Share has docks throughout Downtown and False Creek",
+      "The Seawall path runs from Coal Harbour to False Creek — beautiful pre-match walk"
+    ],
+    "match_day_tips": [
+      "SkyTrain is genuinely the best option — fast, reliable, and no parking headaches",
+      "BC Place roof will be closed or open depending on forecast — confirm closer to match day",
+      "Food options in BC Place are good but pricey — eat in Yaletown or Gastown before the match"
+    ]
+  },
+  "fan_hubs": [
+    {
+      "name": "Plaza of Nations Fan Festival",
+      "location": "750 Pacific Blvd, Vancouver",
+      "status": "expected",
+      "description": "Right next to BC Place, the Plaza of Nations is the natural hub for tournament fan activity — giant screens, live music, food vendors, and direct waterfront access. One of the best-located fan zones in the tournament.",
+      "transport_tips": [
+        "2-minute walk from Stadium-Chinatown SkyTrain",
+        "Walking distance from Yaletown and False Creek North",
+        "Arrive 2 hours early for big matches — capacity fills quickly"
+      ]
+    },
+    {
+      "name": "Granville Island Fan Hub",
+      "location": "1661 Duranleau St, Granville Island",
+      "status": "local_watch_area",
+      "description": "Granville Island's market and arts complex becomes a natural fan gathering area. International food stalls, outdoor patios with water views, and the relaxed community energy that makes Vancouver unique.",
+      "transport_tips": [
+        "Aquabus ferry from False Creek North to Granville Island — 5 minutes",
+        "False Creek Ferries also serve the island from multiple Downtown docks",
+        "Public transit bus route 50 from Downtown stops at the island"
+      ]
+    }
+  ],
+  "neighborhoods": [
+    {
+      "name": "Downtown / Coal Harbour",
+      "best_for": "Business hotels, walkability, harbour views",
+      "safety_transit_notes": "Very safe. Well-lit and pedestrian-heavy along the waterfront.",
+      "stadium_access": "10–15 min walk or SkyTrain from Burrard/Granville to Stadium-Chinatown",
+      "hotel_price_level": "$$$–$$$$",
+      "description": "The most central location with easy access to BC Place, the Seawall, and Stanley Park. Multiple luxury and business hotel options along the harbour."
+    },
+    {
+      "name": "Yaletown",
+      "best_for": "Boutique dining, nightlife, stadium proximity",
+      "safety_transit_notes": "Safe, upscale, very walkable.",
+      "stadium_access": "10-minute walk to BC Place along False Creek",
+      "hotel_price_level": "$$–$$$",
+      "description": "Former warehouse district turned upscale restaurant and bar zone. Some of Vancouver's best restaurants are here, and it's an easy walk to BC Place along the waterfront."
+    },
+    {
+      "name": "Gastown",
+      "best_for": "Character, nightlife, historic appeal",
+      "safety_transit_notes": "Generally safe in the tourist area. The transition zone east of Gastown toward the DTES requires awareness at night.",
+      "stadium_access": "15–20 min walk or SkyTrain to Stadium-Chinatown",
+      "hotel_price_level": "$$–$$$",
+      "description": "Vancouver's oldest neighbourhood with brick-cobblestone streets, the famous steam clock, and a strong bar and cocktail scene. Excellent for post-match nights."
+    },
+    {
+      "name": "Kitsilano",
+      "best_for": "Beach, outdoor lifestyle, families, longer stays",
+      "safety_transit_notes": "Very safe residential neighbourhood.",
+      "stadium_access": "25–35 min by transit via Granville Bridge",
+      "hotel_price_level": "$$",
+      "description": "A more local neighbourhood feel across False Creek. Kitsilano Beach, great cafés, and a vibrant morning culture. Better for fans staying multiple weeks who want a neighbourhood experience."
+    }
+  ],
+  "hotels": [
+    {
+      "name": "JW Marriott Parq Vancouver",
+      "stars": 5,
+      "distance": "2 min walk to BC Place",
+      "neighborhood": "Downtown / BC Place",
+      "best_for": "Stadium proximity, casino resort, luxury",
+      "affiliate_url": "https://www.booking.com/hotel/ca/jw-marriott-parq-vancouver.html?aid=YOUR_AID",
+      "affiliate_label": "Check availability",
+      "affiliate_provider": "Booking.com"
+    },
+    {
+      "name": "The Douglas, Autograph Collection",
+      "stars": 4,
+      "distance": "3 min walk to BC Place",
+      "neighborhood": "Downtown",
+      "best_for": "Boutique design, stadium convenience, modern rooms",
+      "affiliate_url": "https://www.booking.com/hotel/ca/the-douglas-autograph-collection.html?aid=YOUR_AID",
+      "affiliate_label": "Check availability",
+      "affiliate_provider": "Booking.com"
+    },
+    {
+      "name": "Fairmont Hotel Vancouver",
+      "stars": 5,
+      "distance": "15 min walk to BC Place",
+      "neighborhood": "Downtown Core",
+      "best_for": "Classic luxury, landmark property, Granville St access",
+      "affiliate_url": "https://www.booking.com/hotel/ca/fairmont-hotel-vancouver.html?aid=YOUR_AID",
+      "affiliate_label": "Check availability",
+      "affiliate_provider": "Booking.com"
+    },
+    {
+      "name": "Sandman Hotel Vancouver City Centre",
+      "stars": 3,
+      "distance": "10 min walk to BC Place",
+      "neighborhood": "Downtown",
+      "best_for": "Budget-friendly, central, practical",
+      "affiliate_url": "https://www.booking.com/hotel/ca/sandman-hotel-vancouver-city-centre.html?aid=YOUR_AID",
+      "affiliate_label": "Check availability",
+      "affiliate_provider": "Booking.com"
+    }
+  ],
+  "booking_links": [
+    {
+      "provider": "Booking.com",
+      "label": "Browse all Vancouver hotels on Booking.com →",
+      "affiliate_url": "https://www.booking.com/city/ca/vancouver.html?aid=YOUR_AID"
+    }
+  ],
+  "bars": [
+    {
+      "name": "Craft Beer Market",
+      "neighborhood": "Yaletown",
+      "vibe": "rowdy",
+      "address": "85 W 1st Ave, Vancouver, BC",
+      "notes": "One of Vancouver's best sports bars with a massive tap list and multiple screens. Usually packed for big matches.",
+      "transit": "Walk from BC Place via False Creek"
+    },
+    {
+      "name": "The Blarney Stone",
+      "neighborhood": "Gastown",
+      "vibe": "pub",
+      "address": "216 Carrall St, Vancouver, BC",
+      "notes": "Classic Irish pub in Gastown. Reliable soccer showings and a local crowd.",
+      "transit": "SkyTrain to Waterfront, short walk"
+    },
+    {
+      "name": "Steamworks Brew Pub",
+      "neighborhood": "Gastown",
+      "vibe": "family",
+      "address": "375 Water St, Vancouver, BC",
+      "notes": "Iconic Gastown pub in a converted Victorian building. Screens in multiple areas, good for groups.",
+      "transit": "SkyTrain to Waterfront, 2-minute walk"
+    },
+    {
+      "name": "Twelve West",
+      "neighborhood": "Granville Strip",
+      "vibe": "rooftop",
+      "address": "1219 Granville St, Vancouver, BC",
+      "notes": "Rooftop bar on the Granville entertainment strip. Great for an evening out before or after a match.",
+      "transit": "Bus on Granville, short walk from Downtown"
+    },
+    {
+      "name": "The Irish Heather",
+      "neighborhood": "Gastown",
+      "vibe": "pub",
+      "address": "210 Carrall St, Vancouver, BC",
+      "notes": "Vancouver's most acclaimed pub. Whiskey bar attached. Gastown institution with a proper atmosphere.",
+      "transit": "SkyTrain to Waterfront"
+    },
+    {
+      "name": "The Roxy",
+      "neighborhood": "Downtown / Granville",
+      "vibe": "rowdy",
+      "address": "932 Granville St, Vancouver, BC",
+      "notes": "High-energy live music and bar. Long lineups on big match nights — arrive early.",
+      "transit": "Multiple bus routes on Granville"
+    }
+  ],
+  "transport": {
+    "summary": "Vancouver has world-class public transit. The SkyTrain drops visitors 2 minutes from BC Place — it's the most convenient stadium access in the tournament. Buy a Compass Card at the airport and use it all week.",
+    "tips": [
+      "Compass Card: tap-to-pay SkyTrain, bus, and SeaBus — buy at YVR or any SkyTrain station",
+      "Stadium-Chinatown station on the Expo and Millennium Lines is the BC Place stop",
+      "SkyTrain runs every 3–5 minutes during peak hours and extended on match nights",
+      "Mobi Bike Share has docks throughout Downtown — great for exploring between matches",
+      "Aquabus and False Creek Ferries connect Granville Island and False Creek waterfront to Downtown"
+    ]
+  },
+  "fan_zones": [
+    {
+      "name": "Plaza of Nations Fan Festival",
+      "location": "750 Pacific Blvd, Vancouver",
+      "capacity": 25000,
+      "description": "Right next to BC Place with live music, food vendors, giant screens, and waterfront views. Most accessible fan hub in the tournament."
+    },
+    {
+      "name": "Granville Island Fan Hub",
+      "location": "1661 Duranleau St, Granville Island",
+      "capacity": 10000,
+      "description": "Arts and market district fan area accessible by ferry across False Creek. International food, outdoor screens, unique Vancouver atmosphere."
+    }
+  ],
+  "soccer_culture": {
+    "community_notes": "Vancouver has a genuine soccer culture built around the Whitecaps, the Canadian national teams, and a diverse diaspora from football-mad countries. BC Place hosted 1994 World Cup matches and the fanbase here is knowledgeable and passionate.",
+    "local_clubs": ["Vancouver Whitecaps FC (MLS)", "Vancouver Whitecaps FC 2 (MLS Next Pro)"],
+    "supporter_groups": ["Southsiders (Whitecaps)", "Curva Collective", "Rain City Brigade"],
+    "historic_venues": ["BC Place (1994 World Cup, 2010 Winter Olympics)", "Swangard Stadium (Burnaby)", "Thunderbird Stadium (UBC)"]
+  },
+  "things_to_do": {
+    "tourist_hits": [
+      { "name": "Stanley Park", "notes": "1,000-acre urban rainforest with the Seawall, beaches, and totem poles. An absolute must." },
+      { "name": "Capilano Suspension Bridge", "notes": "Popular tourist attraction in North Vancouver. Book tickets in advance — busy in summer." },
+      { "name": "Granville Island Public Market", "notes": "Best local food market in the city. Arrive hungry and leave with provisions." },
+      { "name": "Gastown Steam Clock", "notes": "Historic neighbourhood walk. Gastown has excellent bars and independent shops." },
+      { "name": "Grouse Mountain", "notes": "Gondola ride up for panoramic city views. Disc golf, hiking, and bear habitat." }
+    ],
+    "local_favorites": [
+      { "name": "Deep Cove Kayak", "notes": "Rent kayaks in this stunning North Vancouver inlet. 45-minute drive but worth every minute." },
+      { "name": "Commercial Drive", "notes": "Multicultural neighbourhood with the best Italian coffee, Ethiopian food, and independent bookshops." },
+      { "name": "Kitsilano Beach", "notes": "Local's beach — outdoor pool, beach volleyball, the Seawall. Pack a picnic." },
+      { "name": "UBC Museum of Anthropology", "notes": "World-class collection of Northwest Coast Indigenous art in a stunning building." }
+    ]
+  },
+  "food_nightlife": {
+    "areas": [
+      "Yaletown — upscale restaurants and cocktail bars, 10 min from BC Place",
+      "Gastown — historic brick buildings, craft cocktails, late-night options",
+      "Robson St — restaurants and shops, tourist-friendly",
+      "Commercial Drive — authentic international food, neighbourhood atmosphere",
+      "Chinatown — late-night dim sum and Asian food options"
+    ],
+    "recommendations": [
+      { "name": "Miku Restaurant", "notes": "Flame-seared aburi sushi in Coal Harbour with harbour views. Book weeks ahead." },
+      { "name": "Vij's Restaurant", "notes": "Legendary Indian cuisine on Cambie St. No reservations — lineup is part of the experience." },
+      { "name": "Hawksworth Restaurant", "notes": "Fine dining at the Rosewood Hotel Georgia. Best for a special match-night dinner." }
+    ]
+  },
+  "local_resources": {
+    "tourism_links": [
+      { "name": "Tourism Vancouver", "url": "https://www.tourismvancouver.com" }
+    ],
+    "transit_apps": [
+      { "name": "TransLink Trip Planner", "url": "https://www.translink.ca" },
+      { "name": "Transit App", "url": "https://transitapp.com" }
+    ],
+    "emergency_info": "Emergency: 911. Non-emergency Vancouver Police: (604) 717-3321. Hospital: Vancouver General, 899 W 12th Ave."
+  },
+  "walk_bike": {
+    "walkability_summary": "Downtown Vancouver, Yaletown, and Gastown are excellent for walking — flat, well-lit, and compact. The Seawall is one of the world's great urban walks.",
+    "bikeability_summary": "Vancouver has an excellent network of protected bike lanes. The Seawall is separated from traffic for its entire length.",
+    "best_walkable_areas": ["Downtown Core", "Yaletown to BC Place", "Gastown", "Seawall from Coal Harbour to Granville Island"],
+    "bike_share_notes": "Mobi Bike Share has docks throughout Downtown, Yaletown, Kitsilano, and the Seawall. Day passes available via the Mobi app or at kiosks."
+  },
+  "pickup_soccer": [
+    {
+      "name": "Trout Lake Park",
+      "location": "3300 Victoria Dr, Vancouver",
+      "access_notes": "Popular pickup soccer location in East Vancouver. Mixed skill levels and international crowd.",
+      "schedule_notes": "Weekend afternoons most active."
+    },
+    {
+      "name": "Callister Park",
+      "location": "1531 Renfrew St, Vancouver",
+      "access_notes": "Community fields used for informal pickup and youth games. East Vancouver neighbourhood feel.",
+      "schedule_notes": "Evenings after 5pm on weekdays."
+    }
+  ],
+  "outdoors_day_trips": [
+    {
+      "name": "Whistler",
+      "type": "Mountain / resort town",
+      "distance": "About 120 km north of Vancouver on Sea-to-Sky Highway",
+      "difficulty": "Easy drive, moderate-to-challenging hiking",
+      "notes": "World-class mountain biking and hiking in summer. The Peak 2 Peak gondola is stunning. The drive itself on Sea-to-Sky Highway is one of the best in North America."
+    },
+    {
+      "name": "Garibaldi Provincial Park",
+      "type": "Hiking / alpine",
+      "distance": "About 60–70 km north of Vancouver",
+      "difficulty": "Moderate to challenging",
+      "notes": "Stunning alpine lakes including Garibaldi Lake and Black Tusk. Day hike or overnight. Very popular in July — start early."
+    },
+    {
+      "name": "Victoria, BC",
+      "type": "City / ferry trip",
+      "distance": "BC Ferries from Tsawwassen, about 1.5 hrs",
+      "difficulty": "Easy",
+      "notes": "Beautiful historic city on Vancouver Island. Butchart Gardens, whale watching, and a charming walkable downtown. Great two-day trip."
+    }
+  ],
+  "safety_tips": [
+    "Vancouver is very safe for tourists in core areas — Downtown, Yaletown, Gastown, and Kitsilano",
+    "The Downtown Eastside (DTES) east of Gastown has visible poverty and drug activity — not a tourist area",
+    "Keep an eye on belongings on transit and in crowded fan zones",
+    "Rideshare is reliable and safe for late-night travel",
+    "June can be cool and rainy — always carry a waterproof layer",
+    "Wildlife in Stanley Park: do not feed or approach racoons or coyotes"
+  ]
+}

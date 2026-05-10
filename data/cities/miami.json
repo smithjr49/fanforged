@@ -1,0 +1,333 @@
+{
+  "hero": {
+    "tagline": "Sun, Soccer & South Beach Vibes",
+    "description": "Miami is the most Latin city in the USA — and during the 2026 World Cup, it will feel like a global party. Hard Rock Stadium is right at home amid one of the most passionate football fan bases in North America."
+  },
+  "stadium": {
+    "name": "Hard Rock Stadium",
+    "capacity": 65326,
+    "address": "347 Don Shula Dr, Miami Gardens, FL 33056",
+    "transport": "No direct rail to Hard Rock Stadium. Shuttle buses run from Downtown Miami and the Metrorail Okeechobee station. Rideshare is the most popular option — plan for 30-40 minutes from South Beach."
+  },
+  "hotels": [
+    {
+      "name": "Faena Hotel Miami Beach",
+      "stars": 5,
+      "distance": "35 min to stadium",
+      "neighborhood": "South Beach",
+      "affiliate_url": "https://www.booking.com/hotel/us/faena-miami-beach.html?aid=YOUR_AID"
+    },
+    {
+      "name": "Brickell City Centre Marriott",
+      "stars": 4,
+      "distance": "20 min to stadium",
+      "neighborhood": "Brickell",
+      "affiliate_url": "https://www.booking.com/hotel/us/miami-marriott-brickell.html?aid=YOUR_AID"
+    },
+    {
+      "name": "Aloft Miami Brickell",
+      "stars": 3,
+      "distance": "22 min to stadium",
+      "neighborhood": "Brickell",
+      "affiliate_url": "https://www.booking.com/hotel/us/aloft-miami-brickell.html?aid=YOUR_AID"
+    }
+  ],
+  "bars": [
+    {
+      "name": "Lagniappe",
+      "neighborhood": "Wynwood",
+      "vibe": "rooftop",
+      "address": "3425 NE 2nd Ave, Miami, FL"
+    },
+    {
+      "name": "Fado Irish Pub Miami",
+      "neighborhood": "Brickell",
+      "vibe": "rowdy",
+      "address": "900 S Miami Ave, Miami, FL"
+    },
+    {
+      "name": "The Wharf Miami",
+      "neighborhood": "Downtown",
+      "vibe": "outdoor",
+      "address": "114 SW North River Dr, Miami, FL"
+    },
+    {
+      "name": "Ball & Chain",
+      "neighborhood": "Little Havana",
+      "vibe": "family",
+      "address": "1513 SW 8th St, Miami, FL"
+    }
+  ],
+  "transport": {
+    "summary": "Miami is spread out and transit is limited outside Downtown. Rideshare and rental cars are king, but game-day shuttles are expected to run on match days.",
+    "tips": [
+      "Book Ubers/Lyfts in advance using scheduled rides — surges after matches are extreme",
+      "Metrorail Okeechobee station connects to game-day stadium shuttles",
+      "Stay in Brickell or Downtown for the best stadium access",
+      "South Beach to stadium is 35-45 minutes — budget extra time on match days"
+    ]
+  },
+  "fan_zones": [
+    {
+      "name": "Bayfront Park Fan Hub",
+      "location": "Bayfront Park, 301 Biscayne Blvd",
+      "capacity": 35000,
+      "description": "A major fan gathering area expected at Bayfront Park during the tournament, featuring the stunning Biscayne Bay waterfront, big screens, live DJ sets, and food trucks. Check local listings for confirmed details."
+    },
+    {
+      "name": "Little Havana Fan Block",
+      "location": "Calle Ocho, SW 8th St",
+      "capacity": 15000,
+      "description": "Miami's vibrant Latin quarter transforms into a street-long watch party for every match. Dominoes, live salsa, and the best Cuban food in the city."
+    }
+  ],
+  "quick_facts": {
+    "matches_hosted": "7 tournament matches",
+    "stadium": "Hard Rock Stadium",
+    "airport_codes": ["MIA", "FLL"],
+    "timezone": "Eastern Time",
+    "best_neighborhoods": ["Brickell", "Downtown", "Miami Beach", "Wynwood"],
+    "fan_hub_status": "Major public viewing areas expected; confirm local schedules before match day"
+  },
+  "weather": {
+    "june": "Hot and humid, with highs around the upper 80s Fahrenheit and frequent afternoon storms.",
+    "july": "Very warm, humid, and storm-prone; evenings stay warm and outdoor plans need weather flexibility.",
+    "packing_tips": [
+      "Pack breathable clothes, sunscreen, sunglasses, and a refillable water bottle",
+      "Bring a light rain shell or compact umbrella for afternoon storms",
+      "Plan indoor breaks between outdoor fan events and evening watch parties"
+    ]
+  },
+  "airports": [
+    {
+      "name": "Miami International Airport",
+      "code": "MIA",
+      "distance_to_stadium": "Roughly 15-20 miles from Hard Rock Stadium depending on route",
+      "transfer_options": [
+        "Rideshare or taxi is usually the simplest airport-to-hotel option",
+        "Metrorail connects the airport area with Downtown and Brickell",
+        "Rental cars make sense if you plan beach, Fort Lauderdale, or day-trip driving"
+      ],
+      "notes": "Best airport for Brickell, Downtown, Coral Gables, Little Havana, and most Miami hotel stays."
+    },
+    {
+      "name": "Fort Lauderdale-Hollywood International Airport",
+      "code": "FLL",
+      "distance_to_stadium": "Often similar or faster to the stadium than Miami Beach, depending on traffic",
+      "transfer_options": [
+        "Rideshare is straightforward but can surge after major arrivals",
+        "Tri-Rail can help connect South Florida, but check final-mile transit before relying on it",
+        "Good alternate airport for fans staying north of Miami"
+      ],
+      "notes": "A useful backup airport for cheaper flights or stays in Aventura, Hollywood, Fort Lauderdale, or north Miami-Dade."
+    }
+  ],
+  "match_schedule": [
+    {
+      "date": "June-July 2026",
+      "round": "Group stage and knockout rounds",
+      "teams_or_placeholder": "Miami is scheduled for multiple tournament matches, including a late-stage placement match.",
+      "stadium": "Hard Rock Stadium"
+    }
+  ],
+  "stadium_transport": {
+    "public_transit": [
+      "No direct rail stop serves Hard Rock Stadium",
+      "Expect match-day shuttle plans from transit hubs such as Okeechobee or Downtown to matter more than normal transit",
+      "Confirm special-event shuttle details before each match day"
+    ],
+    "rideshare": [
+      "Rideshare is practical before matches but expensive immediately after",
+      "Pick a post-match meeting spot away from the stadium traffic pattern",
+      "Budget extra time if staying in South Beach"
+    ],
+    "driving_parking": [
+      "Pre-book parking where possible",
+      "Traffic around Miami Gardens can be heavy before kickoff and slow after full-time",
+      "Rental cars are useful for beach and regional trips, but not always ideal on match day"
+    ],
+    "walking_biking": [
+      "The stadium area is not a strong walk-from-hotel environment",
+      "Walking is mainly useful within your hotel neighborhood, not as the primary stadium plan"
+    ],
+    "match_day_tips": [
+      "Leave earlier than normal Miami traffic estimates suggest",
+      "Hydrate before outdoor tailgates or fan hubs",
+      "Keep a backup indoor plan during afternoon storm windows"
+    ]
+  },
+  "fan_hubs": [
+    {
+      "name": "Bayfront Park Fan Hub",
+      "location": "Downtown Miami waterfront",
+      "status": "expected",
+      "description": "A likely central gathering area for fans staying in Downtown and Brickell, with waterfront access, transit nearby, and easy connections to restaurants and hotels.",
+      "transport_tips": [
+        "Best for fans staying in Brickell, Downtown, or Edgewater",
+        "Use Metromover/Metrorail where possible to avoid downtown parking"
+      ]
+    },
+    {
+      "name": "Little Havana Match-Day Crawl",
+      "location": "Calle Ocho",
+      "status": "local_watch_area",
+      "description": "A strong local option for fans who want food, music, and a Latin American match atmosphere away from the stadium."
+    }
+  ],
+  "neighborhoods": [
+    {
+      "name": "Brickell",
+      "best_for": "first-time visitors, restaurants, transit access",
+      "safety_transit_notes": "Dense, walkable by Miami standards, with Metrorail and Metromover access",
+      "stadium_access": "Usually 25-45 minutes by car depending on traffic",
+      "hotel_price_level": "$$$",
+      "description": "The best all-around base for fans who want restaurants, nightlife, and easier access to Downtown fan events."
+    },
+    {
+      "name": "Downtown Miami",
+      "best_for": "fan hubs, waterfront events, arena-area nightlife",
+      "safety_transit_notes": "Good daytime/event-area access; choose hotels near active corridors",
+      "stadium_access": "Usually 25-45 minutes by car",
+      "hotel_price_level": "$$-$$$",
+      "description": "A practical base for fans prioritizing public viewing areas and short rides to Brickell or Wynwood."
+    },
+    {
+      "name": "Miami Beach",
+      "best_for": "beach trip energy, nightlife, longer stays",
+      "safety_transit_notes": "Very walkable locally, but separated from the stadium by traffic and bridges",
+      "stadium_access": "Often 40-60+ minutes on match days",
+      "hotel_price_level": "$$$",
+      "description": "Best for fans turning the tournament into a beach vacation, not the easiest match-day logistics."
+    },
+    {
+      "name": "Wynwood",
+      "best_for": "bars, murals, breweries, younger groups",
+      "safety_transit_notes": "Good for rideshare and nightlife clusters; less useful for rail transit",
+      "stadium_access": "Usually 25-45 minutes by car",
+      "hotel_price_level": "$$-$$$",
+      "description": "A strong pre/post-match neighborhood with art, breweries, casual food, and late-night options."
+    }
+  ],
+  "booking_links": [
+    {
+      "provider": "Booking.com",
+      "label": "Compare Miami hotels on Booking.com",
+      "affiliate_url": "https://www.booking.com/searchresults.html?ss=Miami%2C%20Florida&aid=YOUR_AID"
+    }
+  ],
+  "soccer_culture": {
+    "local_clubs": ["Inter Miami CF", "Miami FC"],
+    "supporter_groups": ["Inter Miami supporter groups create strong match-day energy across South Florida"],
+    "historic_venues": ["DRV PNK Stadium / Chase Stadium area", "Orange Bowl legacy sites"],
+    "community_notes": "Miami is one of North America's strongest international soccer markets, with deep Latin American, Caribbean, and European fan communities."
+  },
+  "things_to_do": {
+    "tourist_hits": [
+      {
+        "name": "South Beach and Ocean Drive",
+        "notes": "Best for beach time, architecture, and nightlife between match days."
+      },
+      {
+        "name": "Wynwood Walls",
+        "notes": "Easy group outing with murals, breweries, and restaurants."
+      },
+      {
+        "name": "Little Havana",
+        "notes": "Food, music, cigars, dominoes, and a natural match-day atmosphere."
+      }
+    ],
+    "local_favorites": [
+      {
+        "name": "The Underline",
+        "notes": "Linear park and walking/biking corridor under the Metrorail."
+      },
+      {
+        "name": "Coconut Grove",
+        "notes": "Leafy waterfront neighborhood for calmer meals and evening walks."
+      },
+      {
+        "name": "Key Biscayne",
+        "notes": "Beach and park escape if you have a rental car or extra day."
+      }
+    ]
+  },
+  "food_nightlife": {
+    "areas": ["Brickell", "Wynwood", "Little Havana", "South Beach", "Coconut Grove"],
+    "recommendations": [
+      {
+        "name": "Cuban food in Little Havana",
+        "notes": "A natural pre-watch-party stop for visiting fans."
+      },
+      {
+        "name": "Wynwood breweries",
+        "notes": "Good for groups before evening matches."
+      }
+    ]
+  },
+  "local_resources": {
+    "tourism_links": [
+      {
+        "label": "Greater Miami & Miami Beach visitor information",
+        "url": "https://www.miamiandbeaches.com/"
+      }
+    ],
+    "transit_apps": [
+      {
+        "label": "Miami-Dade Transit",
+        "url": "https://www.miamidade.gov/global/transportation/home.page"
+      }
+    ],
+    "local_blogs": [
+      {
+        "label": "Eater Miami",
+        "url": "https://miami.eater.com/"
+      },
+      {
+        "label": "Time Out Miami",
+        "url": "https://www.timeout.com/miami"
+      }
+    ],
+    "emergency_info": "Use 911 for emergencies. For beach days, follow local weather and rip-current warnings."
+  },
+  "walk_bike": {
+    "walkability_summary": "Miami is neighborhood-walkable rather than citywide-walkable. Brickell, Downtown, South Beach, Coconut Grove, and Wynwood are best without a car.",
+    "bikeability_summary": "Biking is useful in beach and park areas, but heat, storms, and traffic make it less reliable for stadium travel.",
+    "best_walkable_areas": ["Brickell", "Downtown waterfront", "South Beach", "Wynwood", "Coconut Grove"],
+    "bike_share_notes": "Use bike/scooter options for short neighborhood trips, not long stadium transfers."
+  },
+  "pickup_soccer": [
+    {
+      "name": "Kendall Soccer Park",
+      "location": "Kendall",
+      "access_notes": "Large soccer complex with leagues and pickup-style activity; best reached by car.",
+      "schedule_notes": "Check local groups and field schedules before going."
+    },
+    {
+      "name": "Flamingo Park",
+      "location": "Miami Beach",
+      "access_notes": "Convenient for fans staying in South Beach; useful for casual play and local recreation."
+    }
+  ],
+  "outdoors_day_trips": [
+    {
+      "name": "Everglades National Park",
+      "type": "day trip",
+      "distance": "About 60-90 minutes by car",
+      "difficulty": "easy to moderate",
+      "notes": "Go early, bring water, and prepare for heat and bugs."
+    },
+    {
+      "name": "Key Biscayne",
+      "type": "beach and parks",
+      "distance": "Short drive from Downtown/Brickell",
+      "difficulty": "easy",
+      "notes": "Good low-stress beach day between matches."
+    }
+  ],
+  "safety_tips": [
+    "Do not underestimate heat and humidity during outdoor events",
+    "Confirm stadium shuttle and fan hub schedules close to match day",
+    "Use rideshare pickup zones and avoid trying to call cars directly at stadium exits",
+    "Keep valuables secure in nightlife and beach areas"
+  ]
+}

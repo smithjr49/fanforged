@@ -1,0 +1,372 @@
+{
+  "hero": {
+    "tagline": "The World's Stage Comes to the World's City",
+    "description": "New York — home to MetLife Stadium — will host the 2026 FIFA World Cup Final. There's no bigger stage on Earth, and NYC delivers an unmatched atmosphere for the beautiful game."
+  },
+  "stadium": {
+    "name": "MetLife Stadium",
+    "capacity": 82500,
+    "address": "1 MetLife Stadium Dr, East Rutherford, NJ 07073",
+    "transport": "Take the NJ Transit train from Penn Station to Meadowlands Station — about 30 minutes. Game-day shuttle buses also operate from the Port Authority Bus Terminal."
+  },
+  "hotels": [
+    {
+      "name": "Marriott Marquis Times Square",
+      "stars": 4,
+      "distance": "20 min to Penn Station",
+      "neighborhood": "Midtown",
+      "affiliate_url": "https://www.booking.com/hotel/us/marriott-marquis-new-york.html?aid=YOUR_AID"
+    },
+    {
+      "name": "The Standard High Line",
+      "stars": 4,
+      "distance": "22 min to Penn Station",
+      "neighborhood": "Meatpacking District",
+      "affiliate_url": "https://www.booking.com/hotel/us/the-standard-high-line.html?aid=YOUR_AID"
+    },
+    {
+      "name": "citizenM New York Bowery",
+      "stars": 3,
+      "distance": "25 min to Penn Station",
+      "neighborhood": "Lower East Side",
+      "affiliate_url": "https://www.booking.com/hotel/us/citizenm-new-york-bowery.html?aid=YOUR_AID"
+    }
+  ],
+  "bars": [
+    {
+      "name": "Legends NYC",
+      "neighborhood": "Midtown",
+      "vibe": "rowdy",
+      "address": "6 W 33rd St, New York, NY"
+    },
+    {
+      "name": "Elbow Room",
+      "neighborhood": "Upper West Side",
+      "vibe": "family",
+      "address": "144 W 72nd St, New York, NY"
+    },
+    {
+      "name": "The Football Factory at Smithfield's",
+      "neighborhood": "Midtown West",
+      "vibe": "rowdy",
+      "address": "355 W 41st St, New York, NY"
+    },
+    {
+      "name": "Ulysses Folk House",
+      "neighborhood": "Financial District",
+      "vibe": "pub",
+      "address": "95 Pearl St, New York, NY"
+    }
+  ],
+  "transport": {
+    "summary": "NYC has the best public transit in North America. The subway runs 24/7 and connects to NJ Transit for MetLife.",
+    "tips": [
+      "Get an OMNY card for contactless subway/bus payments",
+      "NJ Transit game-day trains run from Penn Station — buy tickets in advance",
+      "Avoid Uber/Lyft near the stadium on match days — surge pricing is brutal",
+      "Allow 90 minutes from Midtown Manhattan to your seat"
+    ]
+  },
+  "fan_zones": [
+    {
+      "name": "NYC Fan Hub — Central Park",
+      "location": "Central Park Great Lawn",
+      "capacity": 50000,
+      "description": "A major fan gathering area expected near Central Park during the tournament, with giant screens, food vendors, and live entertainment. Free entry. Check local listings for confirmed details."
+    },
+    {
+      "name": "Times Square Big Screen",
+      "location": "Times Square, Broadway & 7th Ave",
+      "capacity": 30000,
+      "description": "Times Square screens broadcast all World Cup matches. Massive street party atmosphere on game days."
+    }
+  ],
+  "quick_facts": {
+    "matches_hosted": "8 tournament matches in New Jersey",
+    "stadium": "MetLife Stadium",
+    "airport_codes": ["EWR", "JFK", "LGA"],
+    "timezone": "Eastern Time",
+    "best_neighborhoods": ["Midtown Manhattan", "Chelsea", "Jersey City", "Hoboken", "Meadowlands"],
+    "fan_hub_status": "Major fan events expected across New York and New Jersey"
+  },
+  "weather": {
+    "june": "Warm and humid, with highs often in the upper 70s to mid 80s Fahrenheit.",
+    "july": "Hotter and humid, with afternoon storms possible and warm nights across the metro area.",
+    "packing_tips": [
+      "Pack comfortable walking shoes for subway, train, and city walking days",
+      "Bring a light rain shell for summer storms",
+      "Use breathable clothing and plan shade or indoor breaks on long sightseeing days"
+    ]
+  },
+  "airports": [
+    {
+      "name": "Newark Liberty International Airport",
+      "code": "EWR",
+      "distance_to_stadium": "Closest major airport to MetLife Stadium",
+      "transfer_options": [
+        "Best airport for Jersey City, Hoboken, Newark, and Meadowlands hotel stays",
+        "Taxi/rideshare is the simplest route to many New Jersey hotels",
+        "Rail links connect into New York Penn Station for Manhattan stays"
+      ],
+      "notes": "Usually the most convenient airport for match-first travelers focused on the stadium."
+    },
+    {
+      "name": "LaGuardia Airport",
+      "code": "LGA",
+      "distance_to_stadium": "Convenient for many domestic flights but across the river from the stadium",
+      "transfer_options": [
+        "Best for Queens, Midtown East, and some Manhattan itineraries",
+        "Expect bridge/tunnel traffic when crossing toward New Jersey"
+      ],
+      "notes": "Good domestic option, less direct for match-day stadium logistics."
+    },
+    {
+      "name": "John F. Kennedy International Airport",
+      "code": "JFK",
+      "distance_to_stadium": "Farthest of the three major airports from MetLife Stadium",
+      "transfer_options": [
+        "Strong international flight coverage",
+        "AirTrain and rail connections can reach Manhattan, but stadium access still requires New Jersey transit planning"
+      ],
+      "notes": "Best for international fares and flight choice, not for shortest stadium transfer."
+    }
+  ],
+  "match_schedule": [
+    {
+      "date": "June-July 2026",
+      "round": "Group stage and knockout rounds",
+      "teams_or_placeholder": "New York / New Jersey is scheduled for multiple tournament matches, including the final.",
+      "stadium": "MetLife Stadium"
+    }
+  ],
+  "stadium_transport": {
+    "public_transit": [
+      "Use NJ Transit service to Meadowlands Station when event trains are operating",
+      "Most Manhattan-based fans should plan around New York Penn Station and NJ Transit",
+      "Buy rail tickets early and expect crowded post-match platforms"
+    ],
+    "rideshare": [
+      "Rideshare can work before matches but becomes slow and expensive after full-time",
+      "If using rideshare after the match, walk to a designated pickup area and expect delays"
+    ],
+    "driving_parking": [
+      "Pre-book parking where possible",
+      "Expect heavy traffic around the Meadowlands before and after matches",
+      "Driving is easier for New Jersey hotel stays than Manhattan hotel stays"
+    ],
+    "walking_biking": [
+      "MetLife is not walkable from Manhattan",
+      "Jersey City and Hoboken are walkable neighborhoods for hotel stays, but still require transit or car service to the stadium"
+    ],
+    "match_day_tips": [
+      "Leave at least 90 minutes from Midtown Manhattan to your seat",
+      "Stay near Penn Station, Hoboken, Jersey City, or Meadowlands if stadium access is the top priority",
+      "Keep your return route flexible because post-match transit will be crowded"
+    ]
+  },
+  "fan_hubs": [
+    {
+      "name": "Manhattan Fan Hub",
+      "location": "Central Manhattan",
+      "status": "expected",
+      "description": "Large public viewing and sponsor-style fan activity is expected in central New York areas. Treat exact locations and schedules as pending until local organizers publish details.",
+      "transport_tips": [
+        "Best for fans staying in Manhattan, Queens, Brooklyn, or Jersey City",
+        "Use subway and walking rather than driving into Manhattan"
+      ]
+    },
+    {
+      "name": "New Jersey Match-Day Base",
+      "location": "Jersey City, Hoboken, Newark, and Meadowlands",
+      "status": "local_watch_area",
+      "description": "New Jersey is the practical stadium side of the market. Fans prioritizing match-day logistics should consider staying or gathering west of the Hudson."
+    }
+  ],
+  "neighborhoods": [
+    {
+      "name": "Midtown Manhattan",
+      "best_for": "first-time visitors, Penn Station access, classic sightseeing",
+      "safety_transit_notes": "Excellent subway and rail access; busy but convenient",
+      "stadium_access": "Best Manhattan base for NJ Transit via Penn Station",
+      "hotel_price_level": "$$$",
+      "description": "The simplest New York base if you want iconic city energy and a direct path toward stadium trains."
+    },
+    {
+      "name": "Chelsea / Flatiron",
+      "best_for": "restaurants, nightlife, walkable Manhattan stay",
+      "safety_transit_notes": "Strong subway access and easy rides to Penn Station",
+      "stadium_access": "Short subway/taxi ride to Penn Station before NJ Transit",
+      "hotel_price_level": "$$$",
+      "description": "A polished Manhattan option with better food and nightlife access than staying only around Times Square."
+    },
+    {
+      "name": "Jersey City",
+      "best_for": "skyline views, New Jersey access, slightly calmer hotel base",
+      "safety_transit_notes": "PATH access to Manhattan; choose hotels near waterfront or PATH stations",
+      "stadium_access": "Often easier by car/rideshare than Manhattan, depending on event traffic",
+      "hotel_price_level": "$$-$$$",
+      "description": "A smart compromise for fans who want New York views and New Jersey-side stadium logistics."
+    },
+    {
+      "name": "Hoboken",
+      "best_for": "bars, walkable nightlife, younger fan groups",
+      "safety_transit_notes": "Very walkable with PATH and ferry options",
+      "stadium_access": "Better than most Manhattan neighborhoods for New Jersey-side travel",
+      "hotel_price_level": "$$-$$$",
+      "description": "A strong fan base for bars and group trips, especially if you want nightlife without staying in Manhattan."
+    },
+    {
+      "name": "Meadowlands / Secaucus",
+      "best_for": "stadium-first trips, lower-friction match days",
+      "safety_transit_notes": "Less walkable and less scenic, but practical for the stadium",
+      "stadium_access": "Closest hotel cluster to MetLife",
+      "hotel_price_level": "$$",
+      "description": "Choose this if the match is the main event and you care less about classic New York sightseeing."
+    }
+  ],
+  "booking_links": [
+    {
+      "provider": "Booking.com",
+      "label": "Compare New York / New Jersey hotels on Booking.com",
+      "affiliate_url": "https://www.booking.com/searchresults.html?ss=New%20York%20New%20Jersey&aid=YOUR_AID"
+    }
+  ],
+  "soccer_culture": {
+    "local_clubs": ["New York City FC", "New York Red Bulls", "NJ/NY Gotham FC"],
+    "supporter_groups": ["Supporter culture spans both New York City and New Jersey, with strong bar scenes around Manhattan, Brooklyn, Queens, Hoboken, and Jersey City"],
+    "historic_venues": ["Red Bull Arena", "Yankee Stadium soccer setups", "MetLife Stadium"],
+    "community_notes": "The market is really New York / New Jersey, not just New York City. International fan communities, club bars, and immigrant neighborhoods make it one of the strongest soccer regions in North America."
+  },
+  "things_to_do": {
+    "tourist_hits": [
+      {
+        "name": "Central Park",
+        "notes": "Best low-cost reset between matches, especially for groups staying in Manhattan."
+      },
+      {
+        "name": "Times Square",
+        "notes": "Chaotic, crowded, and iconic; good for first-time visitors but not where everyone should stay."
+      },
+      {
+        "name": "Statue of Liberty and Ellis Island",
+        "notes": "Book timed tickets early if visiting around peak tournament dates."
+      }
+    ],
+    "local_favorites": [
+      {
+        "name": "Hoboken waterfront",
+        "notes": "Skyline views, bars, and easier New Jersey-side logistics."
+      },
+      {
+        "name": "Queens food neighborhoods",
+        "notes": "Excellent for international food and fan communities."
+      },
+      {
+        "name": "Brooklyn soccer bars",
+        "notes": "Better local atmosphere than many Midtown tourist bars."
+      }
+    ]
+  },
+  "food_nightlife": {
+    "areas": ["Midtown", "Chelsea", "Lower East Side", "Williamsburg", "Astoria", "Hoboken", "Jersey City"],
+    "recommendations": [
+      {
+        "name": "Koreatown and Midtown sports bars",
+        "notes": "Convenient before or after Penn Station stadium travel."
+      },
+      {
+        "name": "Hoboken bar crawl",
+        "notes": "Good New Jersey-side option for groups after non-stadium watch parties."
+      }
+    ]
+  },
+  "local_resources": {
+    "tourism_links": [
+      {
+        "label": "NYC Tourism",
+        "url": "https://www.nyctourism.com/"
+      },
+      {
+        "label": "Visit New Jersey",
+        "url": "https://visitnj.org/"
+      }
+    ],
+    "transit_apps": [
+      {
+        "label": "MTA",
+        "url": "https://new.mta.info/"
+      },
+      {
+        "label": "NJ Transit",
+        "url": "https://www.njtransit.com/"
+      },
+      {
+        "label": "PATH",
+        "url": "https://www.panynj.gov/path/en/index.html"
+      }
+    ],
+    "local_blogs": [
+      {
+        "label": "Eater NY",
+        "url": "https://ny.eater.com/"
+      },
+      {
+        "label": "Time Out New York",
+        "url": "https://www.timeout.com/newyork"
+      }
+    ],
+    "emergency_info": "Use 911 for emergencies. Check MTA and NJ Transit alerts before stadium travel."
+  },
+  "walk_bike": {
+    "walkability_summary": "Manhattan, Hoboken, Jersey City waterfront, Brooklyn, and Queens neighborhoods are highly walkable, but stadium travel still requires rail, bus, or car service.",
+    "bikeability_summary": "Citi Bike is useful for short city trips, not for getting to MetLife Stadium.",
+    "best_walkable_areas": ["Midtown", "Chelsea", "West Village", "Williamsburg", "Hoboken", "Jersey City waterfront"],
+    "bike_share_notes": "Use Citi Bike for short neighborhood hops and waterfront rides; avoid relying on bikes for match-day stadium logistics."
+  },
+  "pickup_soccer": [
+    {
+      "name": "Pier 40",
+      "location": "Hudson River Park, Manhattan",
+      "access_notes": "Popular soccer facility with leagues and pickup-style activity; check permits and schedules."
+    },
+    {
+      "name": "McCarren Park",
+      "location": "Williamsburg / Greenpoint, Brooklyn",
+      "access_notes": "Good casual soccer and park atmosphere for fans staying in Brooklyn."
+    },
+    {
+      "name": "Liberty State Park",
+      "location": "Jersey City",
+      "access_notes": "Open park space with skyline views; better for casual kicking around than formal pickup."
+    }
+  ],
+  "outdoors_day_trips": [
+    {
+      "name": "Hudson River Greenway",
+      "type": "walk/bike route",
+      "distance": "Manhattan west side",
+      "difficulty": "easy",
+      "notes": "One of the best low-stress outdoor routes for visitors."
+    },
+    {
+      "name": "Liberty State Park",
+      "type": "park",
+      "distance": "Jersey City",
+      "difficulty": "easy",
+      "notes": "Great skyline and harbor views from the New Jersey side."
+    },
+    {
+      "name": "The High Line",
+      "type": "urban walk",
+      "distance": "Chelsea / Meatpacking",
+      "difficulty": "easy",
+      "notes": "Best early or late to avoid peak crowds."
+    }
+  ],
+  "safety_tips": [
+    "Plan stadium travel around NJ Transit and event-specific service, not just normal map estimates",
+    "Avoid assuming MetLife Stadium is in New York City; it is in East Rutherford, New Jersey",
+    "Keep bags light and check stadium bag rules before leaving your hotel",
+    "Expect very crowded trains and platforms after marquee matches"
+  ]
+}

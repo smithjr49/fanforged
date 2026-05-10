@@ -1,0 +1,298 @@
+{
+  "hero": {
+    "tagline": "America's Heartland, Soccer's New Frontier",
+    "description": "Kansas City brings the 2026 tournament to Arrowhead Stadium — consistently rated the loudest stadium in the world. The City of Fountains surprises every visitor with world-class barbecue, a jazz heritage, and a soccer culture that quietly punches well above its weight. Don't sleep on KC."
+  },
+  "stadium": {
+    "name": "Arrowhead Stadium",
+    "capacity": 73000,
+    "address": "1 Arrowhead Dr, Kansas City, MO 64129",
+    "transport": "Arrowhead Stadium is about 13 km southeast of downtown Kansas City in the Truman Sports Complex. No direct public transit — the KC Streetcar does not reach the stadium. Game-day shuttles, rideshare, and driving are the primary options. Allow 30–45 min from Downtown on match days."
+  },
+  "quick_facts": {
+    "matches_hosted": "Multiple matches including group stage",
+    "stadium": "Arrowhead Stadium",
+    "airport_codes": ["MCI"],
+    "timezone": "Central Time",
+    "best_neighborhoods": ["Downtown / River Market", "Power & Light District", "Crossroads Arts District", "Westport"],
+    "fan_hub_status": "Fan hub expected at Power & Light District; confirm local schedules"
+  },
+  "weather": {
+    "june": "Warm and sometimes stormy, highs 27–31°C (81–88°F). Thunderstorms are common in June.",
+    "july": "Hot and humid, highs 30–34°C (86–93°F). Can be intense outdoors.",
+    "packing_tips": [
+      "A light rain jacket or compact umbrella — Great Plains thunderstorms are fast and heavy",
+      "Sunscreen for outdoor fan zones and pre-match areas",
+      "Layers for cooler evenings — temperatures can drop 10°C after a storm passes",
+      "Comfortable shoes — Downtown KC is walkable within zones"
+    ]
+  },
+  "airports": [
+    {
+      "name": "Kansas City International Airport",
+      "code": "MCI",
+      "distance_to_stadium": "About 35 km northwest of Arrowhead Stadium",
+      "transfer_options": [
+        "KC Streetcar doesn't reach the airport — rideshare from MCI to Downtown takes 25–35 min",
+        "Rental car practical for staying in the KC area if you plan multiple day trips"
+      ],
+      "notes": "The newly rebuilt MCI terminal opened in 2023 — modern and efficient. Rideshare is the easiest option. No rail connection currently exists between the airport and downtown."
+    }
+  ],
+  "match_schedule": [
+    {
+      "date": "June–July 2026",
+      "round": "Group stage",
+      "teams_or_placeholder": "Arrowhead Stadium hosts group stage matches. Full schedule after group draw.",
+      "stadium": "Arrowhead Stadium"
+    }
+  ],
+  "stadium_transport": {
+    "public_transit": [
+      "No direct rail to Arrowhead — the Kansas City area has limited transit",
+      "Game-day shuttles expected from downtown collection points — confirm details before each match",
+      "KC Streetcar runs through downtown but does not extend to the sports complex"
+    ],
+    "rideshare": [
+      "Rideshare is the most practical option from Downtown to Arrowhead — 30–40 min",
+      "Post-match surge is significant — walk away from the main gates before requesting a pickup",
+      "Pre-book scheduled Uber or Lyft before kickoff for better pricing"
+    ],
+    "driving_parking": [
+      "Arrowhead has extensive parking — tailgate culture is huge here and lots fill early",
+      "Pre-book preferred lots online to secure a spot near the main gates",
+      "I-70 and Blue Ridge Cutoff back up significantly after matches — plan 60+ minutes for departure"
+    ],
+    "walking_biking": [
+      "Not walkable from Downtown Kansas City",
+      "Local shuttle options from parking lots to stadium gates are available"
+    ],
+    "match_day_tips": [
+      "Arrowhead is legitimately one of the loudest stadiums in the world — the atmosphere will be extraordinary",
+      "Tailgating in the lots is a Kansas City tradition — arrive 2–3 hours early for the full experience",
+      "The Truman Sports Complex has Kauffman Stadium (baseball) next door — check for same-day conflicts",
+      "KC BBQ joints are everywhere near the stadium — Arrowhead's tailgate BBQ scene is world-class"
+    ]
+  },
+  "fan_hubs": [
+    {
+      "name": "KC Fan Hub — Power & Light District",
+      "location": "Power & Light District, 1327 Grand Blvd, Kansas City",
+      "status": "expected",
+      "description": "Kansas City's premier entertainment district is expected to be the center of World Cup fan activity — open-air blocks with bars, restaurants, and big screens within easy walking distance of Downtown hotels. This is where KC locals go for every major sports celebration.",
+      "transport_tips": [
+        "KC Streetcar to Main & 13th stop, short walk to Power & Light",
+        "Walking distance from most Downtown hotels",
+        "Rideshare easily available throughout the entertainment district"
+      ]
+    }
+  ],
+  "neighborhoods": [
+    {
+      "name": "Downtown / Power & Light",
+      "best_for": "Fan hub, hotels, walkable entertainment",
+      "safety_transit_notes": "Safe in the entertainment district and Power & Light area. Downtown core is well-patrolled.",
+      "stadium_access": "Rideshare or shuttle to Arrowhead — 30–40 min",
+      "hotel_price_level": "$$–$$$",
+      "description": "Best base for fan hub access and Downtown nightlife. Several major hotels in or near the Power & Light entertainment district. KC Streetcar connects to Union Station and River Market."
+    },
+    {
+      "name": "Crossroads Arts District",
+      "best_for": "Independent restaurants, galleries, creative scene",
+      "safety_transit_notes": "Safe gentrifying area — active and well-lit in the restaurant zone.",
+      "stadium_access": "Rideshare to Arrowhead — 30–35 min",
+      "hotel_price_level": "$$",
+      "description": "Kansas City's most dynamic neighbourhood with the First Fridays art walk, independent restaurants, and the best cocktail bars in the city. Walking distance from Downtown."
+    },
+    {
+      "name": "Westport",
+      "best_for": "Nightlife, Irish pubs, local bar scene",
+      "safety_transit_notes": "Active nightlife area — safe on main corridors.",
+      "stadium_access": "Rideshare to Arrowhead — 25–30 min",
+      "hotel_price_level": "$$",
+      "description": "KC's longtime bar and nightlife district with Irish pubs, outdoor spaces, and a lively match-day scene. One of the best places in the city for an international football crowd."
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Loews Kansas City Hotel",
+      "stars": 4,
+      "distance": "30 min to Arrowhead via rideshare",
+      "neighborhood": "Downtown",
+      "best_for": "Luxury, convention center, Power & Light access",
+      "affiliate_url": "https://www.booking.com/hotel/us/loews-kansas-city.html?aid=YOUR_AID",
+      "affiliate_label": "Check availability",
+      "affiliate_provider": "Booking.com"
+    },
+    {
+      "name": "The Westin Kansas City at Crown Center",
+      "stars": 4,
+      "distance": "25 min to Arrowhead",
+      "neighborhood": "Crown Center",
+      "best_for": "Crown Center shopping, families, Hallmark museum",
+      "affiliate_url": "https://www.booking.com/hotel/us/westin-kansas-city.html?aid=YOUR_AID",
+      "affiliate_label": "Check availability",
+      "affiliate_provider": "Booking.com"
+    },
+    {
+      "name": "Hotel Indigo Kansas City Downtown",
+      "stars": 3,
+      "distance": "30 min to stadium",
+      "neighborhood": "Downtown",
+      "best_for": "Boutique, budget-smart, Crossroads access",
+      "affiliate_url": "https://www.booking.com/hotel/us/hotel-indigo-kansas-city.html?aid=YOUR_AID",
+      "affiliate_label": "Check availability",
+      "affiliate_provider": "Booking.com"
+    }
+  ],
+  "booking_links": [
+    {
+      "provider": "Booking.com",
+      "label": "Browse all Kansas City hotels on Booking.com →",
+      "affiliate_url": "https://www.booking.com/city/us/kansas-city.html?aid=YOUR_AID"
+    }
+  ],
+  "bars": [
+    {
+      "name": "The Dubliner",
+      "neighborhood": "Westport",
+      "vibe": "pub",
+      "address": "4130 Pennsylvania Ave, Kansas City, MO",
+      "notes": "Kansas City's best Irish pub with a soccer-watching tradition. Packed and loud for major matches.",
+      "transit": "Rideshare from Downtown or Crossroads"
+    },
+    {
+      "name": "Power & Light District (multiple venues)",
+      "neighborhood": "Downtown",
+      "vibe": "rowdy",
+      "address": "1327 Grand Blvd, Kansas City, MO",
+      "notes": "The entire Power & Light District becomes a fan zone on match days — multiple bars, outdoor screens, and thousands of people.",
+      "transit": "KC Streetcar to Main & 13th, walking distance"
+    },
+    {
+      "name": "Westport Social",
+      "neighborhood": "Westport",
+      "vibe": "outdoor",
+      "address": "4112 Pennsylvania Ave, Kansas City, MO",
+      "notes": "Large outdoor bar and activities complex in Westport. Great afternoon atmosphere for wide broadcast matches.",
+      "transit": "Rideshare from Downtown"
+    },
+    {
+      "name": "Grünauer",
+      "neighborhood": "Crossroads",
+      "vibe": "pub",
+      "address": "101 W 22nd St, Kansas City, MO",
+      "notes": "Austrian-style bar in the Crossroads Arts District. Excellent beer selection and a European football atmosphere.",
+      "transit": "Short walk from Downtown hotels"
+    },
+    {
+      "name": "O'Neill's Irish Pub",
+      "neighborhood": "River Market",
+      "vibe": "pub",
+      "address": "425 Grand Blvd, Kansas City, MO",
+      "notes": "River Market Irish pub with early morning soccer showings and a passionate international crowd.",
+      "transit": "KC Streetcar to River Market"
+    }
+  ],
+  "transport": {
+    "summary": "Kansas City is a car-centric city. The KC Streetcar connects Downtown, Crossroads, and Crown Center — but does not reach Arrowhead. Rideshare or game-day shuttles are the only options for the stadium.",
+    "tips": [
+      "KC Streetcar is free to ride and covers the main Downtown corridor from River Market to Crown Center",
+      "Book rideshare in advance for post-match — demand at Arrowhead is intense after sold-out events",
+      "MCI Airport has no rail connection — rideshare from the airport is about 30 min to Downtown",
+      "Parking at Arrowhead is extensive but fills fast — arrive 90 min early if driving"
+    ]
+  },
+  "fan_zones": [
+    {
+      "name": "KC Fan Hub — Power & Light District",
+      "location": "Power & Light District, 1327 Grand Blvd, Kansas City",
+      "capacity": 20000,
+      "description": "KC's entertainment hub with outdoor bars, restaurants, and giant screens. The natural gathering point for Downtown-based fans throughout the tournament."
+    }
+  ],
+  "soccer_culture": {
+    "community_notes": "Kansas City punches above its weight in American soccer. Sporting KC has one of the most passionate MLS fanbases in the league, and the region's Mexican and Central American communities bring genuine football culture. The Children's Mercy Park atmosphere is one of the best in MLS.",
+    "local_clubs": ["Sporting Kansas City (MLS)", "KC Current (NWSL)"],
+    "supporter_groups": ["Cauldron (Sporting KC)", "Mass St. Ultras"],
+    "historic_venues": ["Arrowhead Stadium", "Children's Mercy Park (Sporting KC home)", "Memorial Stadium (historic)"]
+  },
+  "things_to_do": {
+    "tourist_hits": [
+      { "name": "National WWI Museum and Memorial", "notes": "America's only official World War I museum — exceptional and moving. One of the best museums in the Midwest." },
+      { "name": "Nelson-Atkins Museum of Art", "notes": "World-class free art museum with a remarkable collection. Don't miss the shuttlecock sculptures outside." },
+      { "name": "Country Club Plaza", "notes": "Outdoor shopping and dining district with Spanish architecture. Beautiful in the evening." }
+    ],
+    "local_favorites": [
+      { "name": "Crossroads First Fridays", "notes": "Monthly arts walk in the Crossroads district — galleries open late, food vendors, and live music. Check if it coincides with your stay." },
+      { "name": "River Market Farmers Market", "notes": "Excellent Saturday market with local produce and the most diverse street food in KC." },
+      { "name": "Swope Park", "notes": "Large urban park with trails, a golf course, and the Kansas City Zoo." }
+    ]
+  },
+  "food_nightlife": {
+    "areas": [
+      "Power & Light District — most concentrated bar and restaurant zone",
+      "Crossroads Arts District — craft cocktails and independent restaurants",
+      "Westport — nightlife and Irish pubs",
+      "Country Club Plaza — upscale dining and outdoor shopping"
+    ],
+    "recommendations": [
+      { "name": "Joe's Kansas City Bar-B-Que", "notes": "Widely considered the best BBQ in Kansas City, which makes it among the best in the world. Long lines at lunch — arrive early." },
+      { "name": "Q39", "notes": "Competition-quality BBQ in a restaurant setting. More accessible than Joe's for dinner service." },
+      { "name": "Corvino Supper Club", "notes": "One of KC's best fine-dining experiences in the Crossroads. Book ahead." }
+    ]
+  },
+  "local_resources": {
+    "tourism_links": [
+      { "name": "Visit KC", "url": "https://www.visitkc.com" }
+    ],
+    "transit_apps": [
+      { "name": "KC Streetcar app", "url": "https://www.kcstreetcar.org" },
+      { "name": "Transit App", "url": "https://transitapp.com" }
+    ],
+    "emergency_info": "Emergency: 911. Kansas City Police non-emergency: (816) 234-5111. Hospital: University of Kansas Hospital, (913) 588-5000."
+  },
+  "walk_bike": {
+    "walkability_summary": "Downtown, Crossroads, Power & Light, and Westport are walkable within their zones. The City of Fountains has pleasant streetscapes, and the Streetcar corridor is pedestrian-friendly.",
+    "bikeability_summary": "BCycle Kansas City bikeshare operates in Downtown and surrounding neighbourhoods. The Streetcar corridor has bike lanes.",
+    "best_walkable_areas": ["Power & Light District", "Crossroads Arts District", "River Market", "Country Club Plaza"],
+    "bike_share_notes": "BCycle KC has docks throughout Downtown, Crossroads, and Country Club Plaza. Day passes in the BCycle app."
+  },
+  "pickup_soccer": [
+    {
+      "name": "Swope Soccer Village",
+      "location": "5800 Swope Memorial Dr, Kansas City, MO",
+      "access_notes": "KC's premier soccer facility with open fields. Active youth and adult pickup culture.",
+      "schedule_notes": "Evenings and weekends."
+    },
+    {
+      "name": "Penguin Park",
+      "location": "2900 NE Vivion Rd, Kansas City, MO",
+      "access_notes": "Northside park with informal soccer and a community atmosphere.",
+      "schedule_notes": "Weekend afternoons most active."
+    }
+  ],
+  "outdoors_day_trips": [
+    {
+      "name": "Ozark National Scenic Riverways",
+      "type": "Canoeing / river",
+      "distance": "About 230 km southeast of Kansas City in Missouri",
+      "difficulty": "Easy to moderate",
+      "notes": "Float the Current or Jacks Fork rivers in crystal-clear spring water. Canoe rentals available at multiple outfitters — a classic Midwest summer experience."
+    },
+    {
+      "name": "Tallgrass Prairie National Preserve",
+      "type": "Prairie / hiking",
+      "distance": "About 200 km southwest of Kansas City in Kansas",
+      "difficulty": "Easy",
+      "notes": "One of the last remaining tallgrass prairie ecosystems in North America. Hike among wild bison and experience the original Great Plains landscape."
+    }
+  ],
+  "safety_tips": [
+    "Kansas City is safe in the main tourist areas — Power & Light, Crossroads, Westport, and Crown Center",
+    "Use rideshare or the KC Streetcar for late-night travel — avoid walking in unfamiliar areas",
+    "KC thunderstorms can be severe — always check the forecast before outdoor fan events",
+    "The Truman Sports Complex area is well-managed on match days",
+    "Keep valuables secure in fan zones — pickpocketing in dense crowds is possible"
+  ]
+}

@@ -1,0 +1,344 @@
+{
+  "hero": {
+    "tagline": "The Emerald City Has Always Loved the Beautiful Game",
+    "description": "Seattle is one of North America's premier soccer cities — home to Sounders FC, whose supporters culture sets the standard for MLS atmosphere. Lumen Field is a fortress of sound, and Seattle's Pacific Northwest culture, world-famous coffee, and stunning natural setting create a World Cup experience unlike any other host city."
+  },
+  "stadium": {
+    "name": "Lumen Field",
+    "capacity": 69000,
+    "address": "800 Occidental Ave S, Seattle, WA 98134",
+    "transport": "Lumen Field is in downtown Seattle with excellent LINK light rail access. Take the 1 Line from anywhere in the city or directly from Sea-Tac Airport (40-minute ride) to International District/Chinatown Station — a 5-minute walk to the stadium. Also walkable from Pioneer Square and the waterfront."
+  },
+  "quick_facts": {
+    "matches_hosted": "Multiple matches including group stage and advanced rounds",
+    "stadium": "Lumen Field",
+    "airport_codes": ["SEA"],
+    "timezone": "Pacific Time",
+    "best_neighborhoods": ["Downtown", "Pioneer Square", "Capitol Hill", "South Lake Union", "Belltown"],
+    "fan_hub_status": "Fan hub expected at Seattle Center under the Space Needle; confirm schedules"
+  },
+  "weather": {
+    "june": "One of the best climates in the tournament — mild and often sunny, highs 18–22°C (64–72°F). Some overcast mornings but rarely rains in June.",
+    "july": "Seattle's best month. Warm, dry, and clear — highs 22–27°C (72–81°F). The city comes alive outdoors.",
+    "packing_tips": [
+      "A light jacket for evenings — temperatures drop after sunset even in July",
+      "Sunscreen for outdoor events in July — Pacific Northwest sun is deceptive",
+      "Comfortable walking shoes — Seattle's hills are real",
+      "Rain layer just in case — June can have surprise showers"
+    ]
+  },
+  "airports": [
+    {
+      "name": "Seattle-Tacoma International Airport",
+      "code": "SEA",
+      "distance_to_stadium": "About 22 km from Lumen Field",
+      "transfer_options": [
+        "LINK 1 Line light rail: Sea-Tac Airport to International District/Chinatown in 40 minutes — the best option",
+        "Walk 5 minutes from International District/Chinatown station to Lumen Field",
+        "Rideshare from Sea-Tac to Downtown takes 25–40 minutes depending on traffic",
+        "Taxi kiosks are at the ground transportation level"
+      ],
+      "notes": "Excellent LINK rail connection — buy an ORCA card at the airport for immediate use on rail and buses. The light rail ride is by far the most reliable transit option regardless of traffic."
+    }
+  ],
+  "match_schedule": [
+    {
+      "date": "June–July 2026",
+      "round": "Group stage and advanced rounds",
+      "teams_or_placeholder": "Lumen Field hosts multiple matches. Full schedule after group draw.",
+      "stadium": "Lumen Field"
+    }
+  ],
+  "stadium_transport": {
+    "public_transit": [
+      "LINK 1 Line: International District/Chinatown station — 5-minute walk to Lumen Field",
+      "LINK runs from Sea-Tac Airport to the stadium stop in about 40 minutes",
+      "Multiple bus lines serve the SODO/Pioneer Square area on match days"
+    ],
+    "rideshare": [
+      "Rideshare pickup zones are on 1st Ave S south of the stadium",
+      "Post-match surge is significant — walk toward the waterfront for faster pickup",
+      "LINK is nearly always faster than rideshare from the stadium"
+    ],
+    "driving_parking": [
+      "SODO District lots are available — pre-book strongly advised",
+      "Traffic on I-5 and I-90 backs up significantly after full-capacity Lumen Field events",
+      "Stadium lots closest to the venue fill within 90 minutes of kickoff"
+    ],
+    "walking_biking": [
+      "Pioneer Square, the waterfront, and Downtown are all walking distance from the stadium",
+      "Lime and JUMP e-bikes/scooters operate throughout the city",
+      "The waterfront path north toward the Pike Place Market is a beautiful post-match walk"
+    ],
+    "match_day_tips": [
+      "LINK is genuinely the best option — fast, frequent, and avoids all parking and traffic headaches",
+      "Lumen Field gets loud — the Sounders supporter section culture will make match atmospheres electric",
+      "Pioneer Square bars are a 5-minute walk from the stadium — arrive early for the pre-match scene",
+      "Cell service is strained inside the stadium — download mobile tickets in advance"
+    ]
+  },
+  "fan_hubs": [
+    {
+      "name": "Seattle Fan Hub — Seattle Center",
+      "location": "Seattle Center, 305 Harrison St, Seattle",
+      "status": "expected",
+      "description": "Seattle Center — home to the Space Needle and the MoPOP museum — is expected to host a major fan hub with giant screens, Pacific Northwest food and craft beer, and live entertainment. One of the most photogenic outdoor event spaces in the country.",
+      "transport_tips": [
+        "Seattle Center Monorail from Westlake Center Downtown — 2 minutes",
+        "LINK to Westlake, then Monorail to Seattle Center",
+        "Multiple bus routes serve the Seattle Center / Lower Queen Anne area"
+      ]
+    },
+    {
+      "name": "Occidental Square Fan Block",
+      "location": "Occidental Square, Pioneer Square, Seattle",
+      "status": "local_watch_area",
+      "description": "Pioneer Square's cobblestone plaza — steps from Lumen Field — is the natural pre-match gathering spot for Sounders fans and soccer supporters. Bars and restaurants surround the square. Expect it to fill hours before kickoff.",
+      "transport_tips": [
+        "5-minute walk from Lumen Field",
+        "LINK to International District/Chinatown, walk through Pioneer Square"
+      ]
+    }
+  ],
+  "neighborhoods": [
+    {
+      "name": "Downtown / Pike Place",
+      "best_for": "Hotels, walkability, proximity to stadium",
+      "safety_transit_notes": "Safe and active through the day. Use common sense at night near 3rd Ave transit stops.",
+      "stadium_access": "10–15 min walk or one LINK stop to stadium",
+      "hotel_price_level": "$$–$$$",
+      "description": "Best central location with walking access to the stadium, Pike Place Market, and the Seattle waterfront. Strong hotel selection and easy LINK access."
+    },
+    {
+      "name": "Pioneer Square",
+      "best_for": "Stadium proximity, arts, soccer bar scene",
+      "safety_transit_notes": "Generally safe in the restaurant and bar zone. Some homelessness visible near certain blocks — normal Seattle context.",
+      "stadium_access": "5-minute walk to Lumen Field",
+      "hotel_price_level": "$$",
+      "description": "Seattle's historic neighbourhood, directly adjacent to Lumen Field. cobblestone streets, galleries, and the densest concentration of match-day bars in the city. CitizenM hotel is excellent value."
+    },
+    {
+      "name": "Capitol Hill",
+      "best_for": "Nightlife, restaurants, LGBTQ+ friendly, Seattle culture",
+      "safety_transit_notes": "Safe and vibrant. Very active late-night scene.",
+      "stadium_access": "LINK to International District or walk via 1st Ave — about 20–25 min",
+      "hotel_price_level": "$$",
+      "description": "Seattle's most culturally vibrant neighbourhood. The best bar and restaurant density in the city. A bit farther from the stadium but the right home for fans who want the full Seattle night-life experience."
+    },
+    {
+      "name": "South Lake Union",
+      "best_for": "Tech crowd, modern hotels, waterfront access",
+      "safety_transit_notes": "Safe and modern. Lots of corporate hotels.",
+      "stadium_access": "LINK or bus to Pioneer Square — about 20 min",
+      "hotel_price_level": "$$$",
+      "description": "Amazon's headquarters neighbourhood with newer hotels, good restaurants, and Lake Union access. More corporate feel but practical for business travelers who also want World Cup access."
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Hyatt Regency Seattle",
+      "stars": 5,
+      "distance": "10 min walk to Lumen Field",
+      "neighborhood": "Downtown",
+      "best_for": "Luxury, large groups, central location",
+      "affiliate_url": "https://www.booking.com/hotel/us/hyatt-regency-seattle.html?aid=YOUR_AID",
+      "affiliate_label": "Check availability",
+      "affiliate_provider": "Booking.com"
+    },
+    {
+      "name": "Thompson Seattle",
+      "stars": 4,
+      "distance": "12 min walk to stadium",
+      "neighborhood": "Pike Place / Downtown",
+      "best_for": "Boutique luxury, rooftop views, Pike Place access",
+      "affiliate_url": "https://www.booking.com/hotel/us/thompson-seattle.html?aid=YOUR_AID",
+      "affiliate_label": "Check availability",
+      "affiliate_provider": "Booking.com"
+    },
+    {
+      "name": "CitizenM Seattle Pioneer Square",
+      "stars": 3,
+      "distance": "5 min walk to Lumen Field",
+      "neighborhood": "Pioneer Square",
+      "best_for": "Stadium proximity, budget-smart, pre-match convenience",
+      "affiliate_url": "https://www.booking.com/hotel/us/citizenm-seattle.html?aid=YOUR_AID",
+      "affiliate_label": "Check availability",
+      "affiliate_provider": "Booking.com"
+    },
+    {
+      "name": "Hotel Sorrento",
+      "stars": 4,
+      "distance": "20 min to stadium",
+      "neighborhood": "First Hill",
+      "best_for": "Historic Seattle, independent hotel, character",
+      "affiliate_url": "https://www.booking.com/hotel/us/hotel-sorrento-seattle.html?aid=YOUR_AID",
+      "affiliate_label": "Check availability",
+      "affiliate_provider": "Booking.com"
+    }
+  ],
+  "booking_links": [
+    {
+      "provider": "Booking.com",
+      "label": "Browse all Seattle hotels on Booking.com →",
+      "affiliate_url": "https://www.booking.com/city/us/seattle.html?aid=YOUR_AID"
+    }
+  ],
+  "bars": [
+    {
+      "name": "The George & Dragon",
+      "neighborhood": "Fremont",
+      "vibe": "pub",
+      "address": "206 N 36th St, Seattle, WA",
+      "notes": "Seattle's most beloved English pub. Packed for every major international match. Arrive 45+ min early.",
+      "transit": "Bus 26 or 28 from Downtown"
+    },
+    {
+      "name": "Pike Brewing Co.",
+      "neighborhood": "Pike Place Market",
+      "vibe": "pub",
+      "address": "1415 1st Ave, Seattle, WA",
+      "notes": "Classic Seattle brewpub at Pike Place. Multiple screens and a fun crowd on match days.",
+      "transit": "LINK to Westlake, short walk"
+    },
+    {
+      "name": "The Innkeeper",
+      "neighborhood": "Capitol Hill",
+      "vibe": "pub",
+      "address": "605 E Pike St, Seattle, WA",
+      "notes": "Capitol Hill's dedicated soccer bar. Sounders fans know this place well.",
+      "transit": "Bus 10 or 11 from Downtown"
+    },
+    {
+      "name": "Central Saloon",
+      "neighborhood": "Pioneer Square",
+      "vibe": "rowdy",
+      "address": "207 1st Ave S, Seattle, WA",
+      "notes": "Seattle's oldest bar — steps from Lumen Field. Expect it to fill fast on match days.",
+      "transit": "5-minute walk from stadium"
+    },
+    {
+      "name": "Optimism Brewing Co.",
+      "neighborhood": "Capitol Hill",
+      "vibe": "outdoor",
+      "address": "1158 Broadway, Seattle, WA",
+      "notes": "Large Capitol Hill brewery with an outdoor beer garden. Popular for afternoon watch parties.",
+      "transit": "Bus from Downtown"
+    }
+  ],
+  "transport": {
+    "summary": "Seattle's LINK light rail is fast, reliable, and connects Sea-Tac Airport directly to downtown and the stadium. It's the clear best option for match days. Buy an ORCA card at the airport.",
+    "tips": [
+      "ORCA card works on LINK light rail, Metro buses, and ferries — buy at Sea-Tac Station on arrival",
+      "LINK 1 Line: Sea-Tac to International District/Chinatown — 40 min, then 5-min walk to Lumen Field",
+      "Pioneer Square is walkable from the stadium — packed with pre-match bars and restaurants",
+      "Seattle weather in June–July is among the best in the tournament — walking is genuinely pleasant"
+    ]
+  },
+  "fan_zones": [
+    {
+      "name": "Seattle Fan Hub — Seattle Center",
+      "location": "Seattle Center, 305 Harrison St",
+      "capacity": 30000,
+      "description": "Beneath the Space Needle — giant screens, Pacific Northwest food vendors, and live entertainment throughout the tournament."
+    },
+    {
+      "name": "Occidental Square Fan Block",
+      "location": "Occidental Square, Pioneer Square",
+      "capacity": 8000,
+      "description": "Cobblestone plaza steps from Lumen Field. The natural pre-match gathering point for Sounders fans and all international supporters."
+    }
+  ],
+  "soccer_culture": {
+    "community_notes": "Seattle Sounders FC has set the standard for supporter culture in MLS since 2009. The ECS (Emerald City Supporters) and Gorilla FC are some of the most organised and passionate groups in American soccer. This stadium gets loud.",
+    "local_clubs": ["Seattle Sounders FC (MLS)", "OL Reign (NWSL)"],
+    "supporter_groups": ["Emerald City Supporters (ECS)", "Gorilla FC", "Alliance of New Ultras (ANU)"],
+    "historic_venues": ["Lumen Field", "Memorial Stadium (LINK light rail expansion site)"]
+  },
+  "things_to_do": {
+    "tourist_hits": [
+      { "name": "Pike Place Market", "notes": "The classic Seattle experience — fish throwing, flower vendors, the original Starbucks. Go early morning." },
+      { "name": "Space Needle", "notes": "Iconic observation tower at Seattle Center. Book tickets in advance for the best views." },
+      { "name": "Chihuly Garden and Glass", "notes": "Extraordinary glass art museum at Seattle Center — one of the best art experiences in the Pacific Northwest." },
+      { "name": "MoPOP Museum", "notes": "Museum of Pop Culture — Jimi Hendrix, Nirvana, Star Wars, and Pacific Northwest music history." }
+    ],
+    "local_favorites": [
+      { "name": "Gas Works Park", "notes": "Former industrial gasification plant turned park on Lake Union — great city views and local crowd." },
+      { "name": "Fremont Sunday Market", "notes": "Arts, food, and vintage goods at Seattle's most eclectic neighbourhood market." },
+      { "name": "Kerry Park", "notes": "The definitive Seattle skyline viewpoint — best at sunset or on clear days." },
+      { "name": "Columbia City Farmers Market", "notes": "Genuine neighbourhood market in South Seattle — excellent Southeast Asian food stalls." }
+    ]
+  },
+  "food_nightlife": {
+    "areas": [
+      "Capitol Hill — best restaurant and bar density in the city",
+      "Pioneer Square — pre/post match bars right next to the stadium",
+      "Fremont — breweries and neighbourhood restaurants",
+      "Pike Place / Belltown — tourist-friendly with genuinely good food"
+    ],
+    "recommendations": [
+      { "name": "Canlis", "notes": "Seattle's most celebrated fine-dining restaurant with stunning views. Book months ahead." },
+      { "name": "Nue", "notes": "Global street food done beautifully in Capitol Hill. Perfect for a pre-match dinner." },
+      { "name": "Serious Biscuit", "notes": "Tom Douglas's legendary breakfast spot — go for the biscuit sandwiches." }
+    ]
+  },
+  "local_resources": {
+    "tourism_links": [
+      { "name": "Visit Seattle", "url": "https://www.visitseattle.org" }
+    ],
+    "transit_apps": [
+      { "name": "One Bus Away", "url": "https://www.onebusaway.org" },
+      { "name": "ORCA Card", "url": "https://www.orcacard.com" }
+    ],
+    "emergency_info": "Emergency: 911. Non-emergency Seattle Police: (206) 625-5011. Hospital: Harborview Medical Center, (206) 744-3000."
+  },
+  "walk_bike": {
+    "walkability_summary": "Downtown Seattle, Pioneer Square, Capitol Hill, and Queen Anne are excellent for walking. The waterfront path and BellConnect trail are improving North-South walkability.",
+    "bikeability_summary": "Lime and JUMP e-bikes operate throughout. The Burke-Gilman Trail is a classic cycling route.",
+    "best_walkable_areas": ["Pioneer Square to stadium", "Pike Place Market to Downtown", "Capitol Hill / Broadway", "Waterfront Promenade"],
+    "bike_share_notes": "Lime bikeshare and e-scooters operate throughout Seattle. Burke-Gilman Trail connects Fremont, U-District, and the waterfront."
+  },
+  "pickup_soccer": [
+    {
+      "name": "Judkins Park",
+      "location": "Judkins Park, Central District, Seattle",
+      "access_notes": "Regular pickup soccer with diverse community crowd. Fields are open to public.",
+      "schedule_notes": "Weekend afternoons most active."
+    },
+    {
+      "name": "Georgetown Playfield",
+      "location": "750 S Homer St, Georgetown",
+      "access_notes": "South Seattle pickup scene with strong Latino football culture.",
+      "schedule_notes": "Sunday mornings and late afternoon."
+    }
+  ],
+  "outdoors_day_trips": [
+    {
+      "name": "Mount Rainier National Park",
+      "type": "National Park / hiking",
+      "distance": "About 100 km from Seattle",
+      "difficulty": "Easy to challenging depending on trail",
+      "notes": "The iconic Pacific Northwest volcano. Multiple day-hike options from Paradise Visitor Center. Go on a clear day — Rainier is frequently cloud-covered."
+    },
+    {
+      "name": "Olympic National Park",
+      "type": "National Park / rainforest / coast",
+      "distance": "About 90 km + ferry from Seattle",
+      "difficulty": "Easy to moderate",
+      "notes": "One of the most diverse national parks in the USA — temperate rainforest, alpine meadows, and Pacific Coast beaches all in one visit."
+    },
+    {
+      "name": "San Juan Islands",
+      "type": "Island / ferry trip",
+      "distance": "About 140 km north by ferry",
+      "difficulty": "Easy",
+      "notes": "Orca whale watching, cycling, and kayaking on beautiful Pacific Northwest islands. Washington State Ferry from Anacortes."
+    }
+  ],
+  "safety_tips": [
+    "Seattle is very safe in tourist areas — Downtown, Pioneer Square, Capitol Hill, Queen Anne, and near the stadium",
+    "Use LINK light rail late at night rather than walking unfamiliar areas",
+    "Some visible homelessness near certain transit hubs — common in major Pacific Northwest cities, not a danger",
+    "Keep valuables in your hotel safe and be aware in crowded Pike Place Market areas",
+    "Seattle in June can still bring overcast mornings and light rain — always carry a layer"
+  ]
+}

@@ -1,0 +1,335 @@
+{
+  "hero": {
+    "tagline": "Boston's Ready for the World",
+    "description": "Boston hosts the 2026 tournament at Gillette Stadium in Foxborough — the legendary home of the New England Patriots and Revolution. Boston's fierce sports culture, massive immigrant soccer community, world-class universities, and historic heart guarantee an atmosphere built for the occasion. This is a city that takes sports seriously."
+  },
+  "stadium": {
+    "name": "Gillette Stadium",
+    "capacity": 65878,
+    "address": "1 Patriot Pl, Foxborough, MA 02035",
+    "transport": "Gillette Stadium is in Foxborough, about 40 km south of Boston. On match days, MBTA Commuter Rail runs special game-day trains from South Station (about 55 min) — this is far and away the best option. Trains sell out for major events, so book in advance. Rideshare and driving are alternatives but traffic after matches is severe."
+  },
+  "quick_facts": {
+    "matches_hosted": "Multiple matches including group stage and advanced rounds",
+    "stadium": "Gillette Stadium (Foxborough, MA)",
+    "airport_codes": ["BOS"],
+    "timezone": "Eastern Time",
+    "best_neighborhoods": ["Seaport / Waterfront", "Back Bay", "Fenway", "Downtown Crossing / Financial District"],
+    "fan_hub_status": "Fan hubs expected at City Hall Plaza and Faneuil Hall; confirm schedules"
+  },
+  "weather": {
+    "june": "Warm and pleasant, highs 22–26°C (72–79°F). Boston's best month for outdoor events — mild and occasionally rainy.",
+    "july": "Warm and sometimes humid, highs 26–30°C (79–86°F). Generally excellent conditions for fans.",
+    "packing_tips": [
+      "A light rain layer — Boston weather can shift quickly",
+      "Sunscreen for outdoor fan zones and Faneuil Hall events",
+      "Layers for evening matches — temperatures cool after sunset",
+      "Comfortable shoes — Boston is a very walkable city"
+    ]
+  },
+  "airports": [
+    {
+      "name": "Logan International Airport",
+      "code": "BOS",
+      "distance_to_stadium": "About 55 km from Gillette Stadium; 5 km from Downtown Boston",
+      "transfer_options": [
+        "Silver Line SL1 bus (free): Logan to South Station in 15–20 minutes",
+        "MBTA Blue Line: Airport station to downtown; transfer at Government Center for other lines",
+        "Rideshare from Logan to Downtown Boston takes 15–30 minutes depending on traffic",
+        "Water taxi from Logan to Long Wharf operates seasonally — a unique arrival experience"
+      ],
+      "notes": "One of the most convenient US airports for a downtown hotel transfer. Silver Line is free from Logan to South Station. For Gillette Stadium, take the Silver Line or MBTA to South Station, then the match-day Commuter Rail to Foxborough."
+    }
+  ],
+  "match_schedule": [
+    {
+      "date": "June–July 2026",
+      "round": "Group stage and advanced rounds",
+      "teams_or_placeholder": "Gillette Stadium hosts multiple matches. Full schedule after group draw.",
+      "stadium": "Gillette Stadium"
+    }
+  ],
+  "stadium_transport": {
+    "public_transit": [
+      "MBTA Commuter Rail match-day service: South Station to Foxborough/Patriot Place — about 55 minutes",
+      "Trains run before and after major events — book early as capacity is limited",
+      "Check mbta.com/events for game-day schedules close to each match date"
+    ],
+    "rideshare": [
+      "Rideshare from Downtown Boston to Gillette takes 45–60 min without traffic",
+      "Post-match rideshare surge from Foxborough is extreme — wait 45+ minutes or take the train back",
+      "Designated rideshare zones at Patriot Place adjacent to the stadium"
+    ],
+    "driving_parking": [
+      "Gillette Stadium has extensive parking — pre-book through the official lots online",
+      "Route 1 and I-95 back up severely after matches — plan a 90-minute buffer for departure",
+      "Patriot Place adjacent to the stadium has restaurants and shops to occupy time post-match while traffic clears"
+    ],
+    "walking_biking": [
+      "Not walkable from Boston — Foxborough is a suburban location",
+      "Patriot Place around the stadium is walkable for restaurants and pre-match activities"
+    ],
+    "match_day_tips": [
+      "Book Commuter Rail tickets before match day — they sell out for major events",
+      "Patriot Place restaurants and bars are great for post-match dining while waiting for traffic to clear",
+      "The stadium can be cold in the evening — bring a layer regardless of the forecast"
+    ]
+  },
+  "fan_hubs": [
+    {
+      "name": "Boston Fan Hub — City Hall Plaza",
+      "location": "City Hall Plaza, 1 City Hall Square, Boston",
+      "status": "expected",
+      "description": "Boston's main civic plaza in Government Center is expected to host a major fan hub with giant screens, live entertainment, and food from the city's diverse communities. Central MBTA access from multiple lines.",
+      "transport_tips": [
+        "MBTA Blue or Green Line to Government Center station",
+        "Walking distance from Faneuil Hall and the Financial District",
+        "MBTA Orange Line to Haymarket, short walk"
+      ]
+    },
+    {
+      "name": "Faneuil Hall Fan Block",
+      "location": "Faneuil Hall Marketplace, 4 S Market St, Boston",
+      "status": "local_watch_area",
+      "description": "Boston's iconic marketplace district transforms into a fan hub on match days. Bars, restaurants, and outdoor space make Faneuil Hall one of the best pre-match atmospheres in the city. The Quincy Market Colonnade is spectacular on summer evenings.",
+      "transport_tips": [
+        "MBTA Blue Line to Government Center or Aquarium",
+        "Walking distance from most downtown hotels",
+        "North Station (MBTA Green/Orange Lines) is a short walk away"
+      ]
+    }
+  ],
+  "neighborhoods": [
+    {
+      "name": "Seaport / South Boston Waterfront",
+      "best_for": "Modern hotels, South Station proximity, waterfront",
+      "safety_transit_notes": "Safe, modern district. Well-lit and active throughout.",
+      "stadium_access": "South Station is walking distance — match-day Commuter Rail to Foxborough from there",
+      "hotel_price_level": "$$$–$$$$",
+      "description": "Boston's newest neighbourhood with modern hotels, the ICA, and excellent restaurants. Walking distance to South Station for the Gillette Commuter Rail. Omni Boston Seaport and Renaissance Waterfront are both excellent."
+    },
+    {
+      "name": "Back Bay",
+      "best_for": "Classic Boston, Newbury St, walkable luxury",
+      "safety_transit_notes": "Very safe and well-maintained. Boston's most upscale residential area.",
+      "stadium_access": "MBTA Orange Line to Back Bay, then to South Station for match-day train",
+      "hotel_price_level": "$$$–$$$$",
+      "description": "The classic Boston hotel district with Copley Square, Newbury Street boutiques, and Trinity Church. Excellent restaurants and walkable to most of Boston's best attractions."
+    },
+    {
+      "name": "Downtown / Financial District",
+      "best_for": "Business hotels, South Station walk, fan hub proximity",
+      "safety_transit_notes": "Safe and busy during the day. Quieter at night but well-lit.",
+      "stadium_access": "Walk to South Station, then match-day Commuter Rail",
+      "hotel_price_level": "$$–$$$",
+      "description": "Convenient and central. Walking distance to South Station (Commuter Rail hub), Faneuil Hall, and multiple T lines. Good value compared to Back Bay."
+    },
+    {
+      "name": "Cambridge",
+      "best_for": "University atmosphere, intellectual culture, Harvard and MIT",
+      "safety_transit_notes": "Very safe. Active student and academic neighbourhood.",
+      "stadium_access": "MBTA Red Line to South Station, then match-day Commuter Rail — about 30–40 min",
+      "hotel_price_level": "$$–$$$",
+      "description": "Just across the river from Boston — Harvard Square, MIT, and a vibrant café scene. A unique base with a different energy from Downtown Boston."
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Omni Boston Hotel at the Seaport",
+      "stars": 5,
+      "distance": "South Station (Commuter Rail hub) is walkable",
+      "neighborhood": "Seaport",
+      "best_for": "Luxury, waterfront views, South Station proximity",
+      "affiliate_url": "https://www.booking.com/hotel/us/omni-boston-hotel-at-the-seaport.html?aid=YOUR_AID",
+      "affiliate_label": "Check availability",
+      "affiliate_provider": "Booking.com"
+    },
+    {
+      "name": "Renaissance Boston Waterfront Hotel",
+      "stars": 4,
+      "distance": "10 min walk to South Station",
+      "neighborhood": "Seaport / Waterfront",
+      "best_for": "Waterfront, business amenities, Commuter Rail access",
+      "affiliate_url": "https://www.booking.com/hotel/us/renaissance-boston-waterfront.html?aid=YOUR_AID",
+      "affiliate_label": "Check availability",
+      "affiliate_provider": "Booking.com"
+    },
+    {
+      "name": "Courtyard Foxborough Patriot Place",
+      "stars": 3,
+      "distance": "5 min walk to Gillette Stadium",
+      "neighborhood": "Foxborough (Patriot Place)",
+      "best_for": "Stadium proximity, families, avoiding the commute",
+      "affiliate_url": "https://www.booking.com/hotel/us/courtyard-foxborough-patriot-place.html?aid=YOUR_AID",
+      "affiliate_label": "Check availability",
+      "affiliate_provider": "Booking.com"
+    },
+    {
+      "name": "Fairmont Copley Plaza",
+      "stars": 5,
+      "distance": "25 min to South Station by walk/T",
+      "neighborhood": "Back Bay",
+      "best_for": "Classic Boston luxury, Copley Square, Newbury St",
+      "affiliate_url": "https://www.booking.com/hotel/us/fairmont-copley-plaza-boston.html?aid=YOUR_AID",
+      "affiliate_label": "Check availability",
+      "affiliate_provider": "Booking.com"
+    }
+  ],
+  "booking_links": [
+    {
+      "provider": "Booking.com",
+      "label": "Browse all Boston hotels on Booking.com →",
+      "affiliate_url": "https://www.booking.com/city/us/boston.html?aid=YOUR_AID"
+    }
+  ],
+  "bars": [
+    {
+      "name": "The Banshee",
+      "neighborhood": "Dorchester",
+      "vibe": "pub",
+      "address": "934 Dorchester Ave, Boston, MA",
+      "notes": "Boston's best Irish pub for soccer — passionate, knowledgeable crowd and a packed atmosphere for major matches.",
+      "transit": "MBTA Red Line to Andrew, short walk"
+    },
+    {
+      "name": "Hennessy's",
+      "neighborhood": "Downtown / Faneuil Hall",
+      "vibe": "pub",
+      "address": "25 Union St, Boston, MA",
+      "notes": "Traditional Irish bar right by Faneuil Hall — great match atmosphere and easy access from multiple T lines.",
+      "transit": "MBTA Blue Line to Aquarium or Government Center"
+    },
+    {
+      "name": "Who's On First",
+      "neighborhood": "Fenway",
+      "vibe": "rowdy",
+      "address": "19 Yawkey Way, Boston, MA",
+      "notes": "Fenway neighbourhood sports bar — draws a passionate sports crowd on major match days.",
+      "transit": "MBTA Green Line to Kenmore"
+    },
+    {
+      "name": "The Harp",
+      "neighborhood": "Causeway Street / North Station",
+      "vibe": "pub",
+      "address": "85 Causeway St, Boston, MA",
+      "notes": "Long-running Irish sports bar near North Station. Reliable atmosphere for all major international matches.",
+      "transit": "MBTA Green/Orange Line to North Station"
+    },
+    {
+      "name": "Jerry Remy's Sports Bar",
+      "neighborhood": "Fenway / Kenmore",
+      "vibe": "rowdy",
+      "address": "1265 Boylston St, Boston, MA",
+      "notes": "Popular Fenway-adjacent sports bar with multiple screens and an active crowd for World Cup.",
+      "transit": "MBTA Green Line to Fenway"
+    }
+  ],
+  "transport": {
+    "summary": "Boston has the MBTA (\"the T\") — the oldest US transit system. For Gillette Stadium, match-day Commuter Rail from South Station is the essential option. For Boston itself, the T covers the city efficiently.",
+    "tips": [
+      "MBTA Commuter Rail match-day service from South Station to Foxborough: book early, trains sell out",
+      "CharlieCard is the contactless payment for the T — buy at any MBTA station",
+      "Logan Airport connects to Downtown via free Silver Line SL1 to South Station",
+      "Amtrak from South Station connects to New York (3.5 hrs) and Washington DC (7 hrs) via high-speed Acela"
+    ]
+  },
+  "fan_zones": [
+    {
+      "name": "Boston Fan Hub — City Hall Plaza",
+      "location": "City Hall Plaza, 1 City Hall Square, Boston",
+      "capacity": 25000,
+      "description": "Boston's main civic plaza expected to host a tournament fan hub with giant screens and live entertainment."
+    },
+    {
+      "name": "Faneuil Hall Fan Block",
+      "location": "Faneuil Hall Marketplace, 4 S Market St",
+      "capacity": 15000,
+      "description": "Iconic marketplace district that becomes a natural fan zone with outdoor bars, screens, and summer evening energy."
+    }
+  ],
+  "soccer_culture": {
+    "community_notes": "Boston has deep soccer roots through its large Irish, Portuguese, Brazilian, Haitian, and Latin American communities. New England Revolution has passionate supporters, and the region's universities add a young international fan base. This is not a casual soccer city.",
+    "local_clubs": ["New England Revolution (MLS)", "New England Revolution II"],
+    "supporter_groups": ["Midnight Riders (Revolution)", "Fort Revolution"],
+    "historic_venues": ["Gillette Stadium", "Harvard Stadium (historic soccer)", "White Stadium (recently renovated)"]
+  },
+  "things_to_do": {
+    "tourist_hits": [
+      { "name": "Freedom Trail", "notes": "3-km walk through 16 Revolutionary War sites — from Boston Common to Bunker Hill. Free to walk independently." },
+      { "name": "Fenway Park", "notes": "America's oldest baseball park — tour it even if the Red Sox aren't playing." },
+      { "name": "Harvard University", "notes": "Beautiful historic campus — walk through Harvard Yard and visit the natural history museums." },
+      { "name": "Museum of Fine Arts", "notes": "One of the USA's great art museums. Wednesday evenings are free after 4pm." }
+    ],
+    "local_favorites": [
+      { "name": "North End", "notes": "Boston's Italian neighbourhood — the best cannoli in the USA at Mike's Pastry or Modern Pastry. Heated debate. Try both." },
+      { "name": "Institute of Contemporary Art", "notes": "Stunning harbour-facing building with excellent rotating exhibitions." },
+      { "name": "Arnold Arboretum", "notes": "247-acre Harvard-affiliated garden — perfect for a morning run or quiet afternoon between matches." }
+    ]
+  },
+  "food_nightlife": {
+    "areas": [
+      "North End (Hanover St) — Italian restaurants and pastry shops",
+      "Back Bay / Newbury St — upscale dining and cocktail bars",
+      "Seaport — modern restaurants and waterfront dining",
+      "Cambridge — Harvard Square restaurants and independent bars"
+    ],
+    "recommendations": [
+      { "name": "Legal Sea Foods", "notes": "The iconic Boston seafood chain — clam chowder is mandatory. Multiple locations." },
+      { "name": "Menton", "notes": "Barbara Lynch's fine dining flagship in Fort Point. Book well ahead." },
+      { "name": "Toro", "notes": "Spanish-inspired tapas in the South End — one of Boston's most celebrated restaurants." }
+    ]
+  },
+  "local_resources": {
+    "tourism_links": [
+      { "name": "Boston USA Tourism", "url": "https://www.bostonusa.com" }
+    ],
+    "transit_apps": [
+      { "name": "MBTA app", "url": "https://www.mbta.com" },
+      { "name": "Transit App", "url": "https://transitapp.com" }
+    ],
+    "emergency_info": "Emergency: 911. Non-emergency Boston Police: (617) 343-4633. Hospital: Massachusetts General Hospital, (617) 726-2000."
+  },
+  "walk_bike": {
+    "walkability_summary": "Downtown Boston, Back Bay, the North End, and Beacon Hill are exceptionally walkable — compact and mostly flat. The Harborwalk and Charles River Esplanade are scenic walking routes.",
+    "bikeability_summary": "Bluebikes (bikeshare) operates throughout Boston and Cambridge. The Charles River path is ideal for cycling.",
+    "best_walkable_areas": ["Freedom Trail corridor", "Faneuil Hall / Waterfront", "Back Bay / Newbury St", "Seaport District"],
+    "bike_share_notes": "Bluebikes has docks throughout Boston, Cambridge, and Somerville. Day passes available at any dock station or in the Bluebikes app."
+  },
+  "pickup_soccer": [
+    {
+      "name": "Fens (Back Bay Fens)",
+      "location": "Park Drive, Fenway area, Boston",
+      "access_notes": "Informal pickup games on weekends near the community garden area of the Fens park.",
+      "schedule_notes": "Weekend afternoons, April–October."
+    },
+    {
+      "name": "Magazine Beach, Cambridge",
+      "location": "Magazine Beach, Riverside, Cambridge",
+      "access_notes": "Fields along the Charles River with active community soccer, especially from the Brazilian community.",
+      "schedule_notes": "Sunday mornings most active."
+    }
+  ],
+  "outdoors_day_trips": [
+    {
+      "name": "Cape Cod",
+      "type": "Beach / coastal",
+      "distance": "About 110 km from Boston",
+      "difficulty": "Easy",
+      "notes": "Classic New England summer escape. Sandy beaches, seafood shacks, and a relaxed pace. Good between matches — take the bus from South Station."
+    },
+    {
+      "name": "Acadia National Park",
+      "type": "National Park / hiking",
+      "distance": "About 400 km from Boston",
+      "difficulty": "Moderate to challenging",
+      "notes": "Stunning Maine coastline and granite peaks. Best as a weekend trip between Boston matches — drive or take bus to Bar Harbor."
+    }
+  ],
+  "safety_tips": [
+    "Boston is a very safe city for tourists — Downtown, Back Bay, Seaport, and Cambridge are all low-risk",
+    "Use the MBTA for late-night travel rather than walking in unfamiliar areas after midnight",
+    "Gillette Stadium crowds on match days are large — keep close to your group near exits",
+    "Book Commuter Rail tickets for Foxborough in advance — capacity is limited for popular matches",
+    "Boston drivers can be aggressive — cross streets carefully and follow pedestrian signals"
+  ]
+}
