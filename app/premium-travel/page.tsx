@@ -33,11 +33,23 @@ export default function PremiumTravelPage() {
   async function handleSubmit(e: React.FormEvent) {
     e.preventDefault()
     setLoading(true)
-    // TODO: wire to a backend endpoint (Supabase insert or email via Resend/SendGrid)
-    // For now, simulate a short delay and show success
-    await new Promise((r) => setTimeout(r, 800))
-    setLoading(false)
-    setSubmitted(true)
+    try {
+      const res = await fetch('/api/premium-lead', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(form),
+      })
+      if (!res.ok) {
+        const data = await res.json()
+        alert(data.error ?? 'Something went wrong. Please try again.')
+        return
+      }
+      setSubmitted(true)
+    } catch {
+      alert('Network error. Please try again.')
+    } finally {
+      setLoading(false)
+    }
   }
 
   return (

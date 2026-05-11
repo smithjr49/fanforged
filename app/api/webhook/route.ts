@@ -1,5 +1,6 @@
 import { stripe } from '@/lib/stripe'
 import { supabaseAdmin } from '@/lib/supabase'
+import { sendVenueListingNotification } from '@/lib/email'
 import { NextRequest, NextResponse } from 'next/server'
 import Stripe from 'stripe'
 
@@ -89,5 +90,23 @@ export async function POST(req: NextRequest) {
   }
 
   console.log(`✅ Venue ${venue_id} moved to pending_review after successful payment`)
+
+  // Fetch full venue details for the notification email
+  const { data: fullVenue } = await admin
+    .from('venues')
+    .select('name, city_slug, contact_email, address')
+    .eq('id', venue_id)
+    .single()
+
+  // Non-blocking: fire and forget — don't fail the webhook if email fails
+  sendVenueListingNotification({
+    venueId: venue_id,
+    venueName: fullVenue?.name ?? 'Unknown',
+    citySlug: fullVenue?.city_slug ?? session.metadata?.city ?? 'Unknown',
+    contactEmail: fullVenue?.contact_email ?? session.customer_email ?? 'Unknown',
+    address: fullVenue?.address ?? 'Unknown',
+    stripeSessionId: session.id,
+  }).catch((err) => console.error('Failed to send venue notification email:', err))
+
   return NextResponse.json({ received: true })
 }
