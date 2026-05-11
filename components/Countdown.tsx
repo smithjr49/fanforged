@@ -40,15 +40,15 @@ export default function Countdown() {
   ]
 
   return (
-    <div className="flex items-center justify-center gap-3 sm:gap-5">
+    <div className="flex items-center justify-center gap-2 sm:gap-4">
       {units.map(({ label, value }) => (
         <div key={label} className="text-center">
-          <div className="bg-white/10 border border-white/20 rounded-xl px-3 sm:px-4 py-2 sm:py-3 min-w-[52px] sm:min-w-[64px]">
-            <span className="text-2xl sm:text-3xl font-bold text-white tabular-nums">
+          <div className="bg-white/10 border border-white/20 rounded-lg px-2.5 py-1.5 sm:px-4 sm:py-3 min-w-[44px] sm:min-w-[64px]">
+            <span className="text-xl sm:text-3xl font-bold text-white tabular-nums">
               {String(value).padStart(2, '0')}
             </span>
           </div>
-          <p className="text-white/50 text-xs mt-1.5 font-medium">{label}</p>
+          <p className="text-white/50 text-[10px] sm:text-xs mt-1 font-medium">{label}</p>
         </div>
       ))}
     </div>

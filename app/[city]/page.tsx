@@ -2,6 +2,7 @@ import { notFound } from 'next/navigation'
 import Link from 'next/link'
 import { getCityBySlug, HOST_CITIES } from '@/lib/cities'
 import NewsletterSignup from '@/components/NewsletterSignup'
+import CityAlertSignup from '@/components/CityAlertSignup'
 import type { Metadata } from 'next'
 import fs from 'fs'
 import path from 'path'
@@ -344,9 +345,9 @@ export default async function CityPage({ params }: { params: Promise<{ city: str
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
-    <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10">
+    <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4 sm:py-10">
       {/* Breadcrumb */}
-      <nav className="text-xs text-gray-500 mb-6 flex items-center gap-1.5" aria-label="Breadcrumb">
+      <nav className="text-xs text-gray-500 mb-3 sm:mb-6 flex items-center gap-1.5" aria-label="Breadcrumb">
         <Link href="/" className="hover:text-gray-300 transition-colors">Home</Link>
         <span>›</span>
         <Link href="/#cities" className="hover:text-gray-300 transition-colors">City Guides</Link>
@@ -355,26 +356,27 @@ export default async function CityPage({ params }: { params: Promise<{ city: str
       </nav>
 
       {/* Hero */}
-      <div className={`bg-gradient-to-br ${city.heroColor} rounded-3xl p-8 sm:p-12 mb-6 relative overflow-hidden`}>
-        <div className="absolute -right-8 -bottom-8 text-[180px] opacity-10 select-none pointer-events-none">⚽</div>
+      <div className={`bg-gradient-to-br ${city.heroColor} rounded-2xl p-4 sm:p-10 mb-4 sm:mb-6 relative overflow-hidden`}>
+        <div className="absolute -right-6 -bottom-6 sm:-right-8 sm:-bottom-8 text-[120px] sm:text-[180px] opacity-10 select-none pointer-events-none">⚽</div>
         <div className="relative z-10">
-          <div className="flex items-center gap-3 mb-4">
-            <span className="text-4xl">{city.flag}</span>
-            <span className="text-white/60 text-xs uppercase tracking-widest font-semibold">{city.country} · World Cup 2026</span>
+          <div className="flex items-center gap-2 sm:gap-3 mb-2 sm:mb-4">
+            <span className="text-2xl sm:text-4xl">{city.flag}</span>
+            <span className="text-white/60 text-[10px] sm:text-xs uppercase tracking-widest font-semibold">{city.country} · World Cup 2026</span>
           </div>
-          <h1 className="text-4xl sm:text-5xl font-bold text-white mb-2">{city.name}</h1>
-          <p className="text-white/80 text-lg sm:text-xl mb-4 font-medium">{guide.hero.tagline}</p>
-          <p className="text-white/60 max-w-2xl text-sm sm:text-base leading-relaxed">{guide.hero.description}</p>
-          <div className="flex flex-wrap gap-3 mt-7">
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-bold text-white mb-1 sm:mb-2">{city.name}</h1>
+          <p className="text-white/80 text-sm sm:text-lg font-medium mb-1 sm:mb-3">{guide.hero.tagline}</p>
+          {/* Description: visible on desktop, hidden on mobile to reduce scroll */}
+          <p className="hidden sm:block text-white/60 max-w-2xl text-sm sm:text-base leading-relaxed">{guide.hero.description}</p>
+          <div className="flex flex-wrap gap-2 sm:gap-3 mt-3 sm:mt-7">
             <Link
               href={`/${slug}/watch-parties`}
-              className="bg-white/20 hover:bg-white/30 text-white font-semibold px-5 py-2.5 rounded-xl transition-colors text-sm border border-white/20"
+              className="bg-white/20 hover:bg-white/30 text-white font-semibold px-4 py-2 sm:px-5 sm:py-2.5 rounded-xl transition-colors text-xs sm:text-sm border border-white/20"
             >
               Watch Parties →
             </Link>
             <Link
-              href={`#stadium`}
-              className="bg-white/10 hover:bg-white/20 text-white/80 font-medium px-5 py-2.5 rounded-xl transition-colors text-sm border border-white/10"
+              href="#stadium"
+              className="bg-white/10 hover:bg-white/20 text-white/80 font-medium px-4 py-2 sm:px-5 sm:py-2.5 rounded-xl transition-colors text-xs sm:text-sm border border-white/10"
             >
               Stadium Info
             </Link>
@@ -382,31 +384,34 @@ export default async function CityPage({ params }: { params: Promise<{ city: str
         </div>
       </div>
 
-      {/* Quick stats bar */}
+      {/* Quick stats — compact chips row */}
       {quickStats.length > 0 && (
-        <div className="grid grid-cols-2 sm:grid-cols-4 gap-3 mb-8">
+        <div className="flex flex-wrap gap-2 mb-3 sm:mb-5">
           {quickStats.map((stat) => (
-            <div key={stat.label} className="bg-gray-900 rounded-xl border border-gray-800 px-4 py-3">
-              <p className="text-xs uppercase tracking-wider text-gray-500">{stat.label}</p>
-              <p className="text-sm font-semibold text-white mt-0.5 truncate">{stat.value}</p>
+            <div key={stat.label} className="bg-gray-900 rounded-lg border border-gray-800 px-3 py-1.5 flex items-center gap-1.5">
+              <span className="text-[10px] uppercase tracking-wider text-gray-500">{stat.label}:</span>
+              <span className="text-xs font-semibold text-white truncate max-w-[140px]">{stat.value}</span>
             </div>
           ))}
         </div>
       )}
 
-      <nav className="mb-10 rounded-2xl border border-gray-800 bg-gray-900/70 p-3">
-        <div className="flex gap-2 overflow-x-auto scrollbar-hide">
-          {navItems.map(([id, label]) => (
-            <a
-              key={id}
-              href={`#${id}`}
-              className="shrink-0 rounded-lg bg-gray-800 px-3 py-2 text-sm font-medium text-gray-300 hover:bg-gray-700 hover:text-white transition-colors"
-            >
-              {label}
-            </a>
-          ))}
-        </div>
-      </nav>
+      {/* Sticky section nav */}
+      <div className="sticky top-0 z-20 -mx-4 sm:mx-0 mb-5 sm:mb-8 bg-gray-950/95 backdrop-blur sm:bg-transparent sm:backdrop-blur-none sm:static sm:z-auto border-b border-gray-800 sm:border-0">
+        <nav className="sm:rounded-2xl sm:border sm:border-gray-800 sm:bg-gray-900/70 sm:p-2.5 px-4 sm:px-0">
+          <div className="flex gap-1 sm:gap-2 overflow-x-auto scrollbar-hide py-2.5 sm:py-0">
+            {navItems.map(([id, label]) => (
+              <a
+                key={id}
+                href={`#${id}`}
+                className="shrink-0 rounded-lg bg-gray-800/80 sm:bg-gray-800 px-3 py-1.5 sm:py-2 text-xs sm:text-sm font-medium text-gray-300 hover:bg-gray-700 hover:text-white transition-colors"
+              >
+                {label}
+              </a>
+            ))}
+          </div>
+        </nav>
+      </div>
 
       <div className="grid grid-cols-1 lg:grid-cols-3 gap-8">
         <div className="lg:col-span-2 space-y-10">
@@ -833,20 +838,22 @@ export default async function CityPage({ params }: { params: Promise<{ city: str
             </section>
           )}
 
-          {/* Watch Party CTA */}
+          {/* City alert email capture */}
+          <CityAlertSignup defaultCity={slug} />
+
+          {/* Venue CTA */}
           <div className="bg-gradient-to-br from-yellow-500 to-orange-500 rounded-2xl p-5">
-            <h3 className="text-gray-950 font-bold text-lg">Own a bar here?</h3>
+            <h3 className="text-gray-950 font-bold text-base">Own or manage a venue here?</h3>
             <p className="text-gray-900/70 text-sm mt-1 mb-4">
-              List your {city.name} watch party for $39 and get in front of fans.
+              List your {city.name} watch party for $39 and get in front of fans planning their trip.
             </p>
             <Link
               href="/list-your-venue"
               className="block text-center bg-gray-950 text-white font-semibold py-2.5 rounded-xl text-sm hover:bg-gray-800 transition-colors"
             >
-              List Your Venue
+              List Your Venue — $39
             </Link>
           </div>
-          <NewsletterSignup compact />
         </div>
       </div>
     </div>
