@@ -31,8 +31,8 @@
  *   Skyscanner              : 1315
  */
 
-// ─── TODO: Replace with your AWIN Publisher ID ───────────────────────────────
-const AWIN_ID = 'YOUR_AWIN_ID'
+// AWIN Publisher ID — Fan Forged (ID: 2891535)
+const AWIN_ID = '2891535'
 
 // ─── AWIN Merchant IDs — verify in AWIN dashboard ────────────────────────────
 const MERCHANT = {
