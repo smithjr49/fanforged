@@ -128,11 +128,19 @@ export default async function HotelCityPage({
               rel="noopener noreferrer nofollow"
               className="bg-yellow-400 hover:bg-yellow-300 text-gray-950 font-bold px-5 py-2.5 rounded-xl text-sm transition-colors"
             >
-              🏨 Search {city.name} Hotels
+              🏨 Search on Booking.com
+            </a>
+            <a
+              href={links.expediaUrl}
+              target="_blank"
+              rel="noopener noreferrer nofollow"
+              className="bg-white/20 hover:bg-white/30 text-white font-semibold px-5 py-2.5 rounded-xl text-sm transition-colors border border-white/20"
+            >
+              Search on Expedia
             </a>
             <Link
               href={`/${slug}`}
-              className="bg-white/15 hover:bg-white/25 text-white font-semibold px-5 py-2.5 rounded-xl text-sm transition-colors border border-white/20"
+              className="bg-white/10 hover:bg-white/20 text-white/80 font-medium px-5 py-2.5 rounded-xl text-sm transition-colors border border-white/10"
             >
               City Guide →
             </Link>
@@ -161,14 +169,24 @@ export default async function HotelCityPage({
           <p className="text-white font-semibold text-sm">Ready to book?</p>
           <p className="text-gray-500 text-xs mt-0.5">Compare prices across hundreds of hotels in {city.name}.</p>
         </div>
-        <a
-          href={links.hotelSearchUrl}
-          target="_blank"
-          rel="noopener noreferrer nofollow"
-          className="shrink-0 bg-yellow-400 hover:bg-yellow-300 text-gray-950 font-bold px-5 py-2.5 rounded-xl text-sm transition-colors"
-        >
-          Compare {city.name} Hotels →
-        </a>
+        <div className="flex gap-2 shrink-0">
+          <a
+            href={links.hotelSearchUrl}
+            target="_blank"
+            rel="noopener noreferrer nofollow"
+            className="bg-yellow-400 hover:bg-yellow-300 text-gray-950 font-bold px-4 py-2.5 rounded-xl text-sm transition-colors"
+          >
+            Booking.com →
+          </a>
+          <a
+            href={links.expediaUrl}
+            target="_blank"
+            rel="noopener noreferrer nofollow"
+            className="bg-gray-800 hover:bg-gray-700 text-white font-semibold px-4 py-2.5 rounded-xl text-sm transition-colors"
+          >
+            Expedia →
+          </a>
+        </div>
       </div>
 
       {/* Neighborhoods grid */}
@@ -356,7 +374,7 @@ export default async function HotelCityPage({
           >
             <div className="text-2xl mb-2">🎟️</div>
             <p className="text-white font-semibold text-sm group-hover:text-yellow-400 transition-colors">Experiences</p>
-            <p className="text-gray-500 text-xs mt-0.5">Tours and activities in {city.name}</p>
+            <p className="text-gray-500 text-xs mt-0.5">Tours & activities via Viator</p>
           </a>
           <Link
             href={`/${slug}/watch-parties`}

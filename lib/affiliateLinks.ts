@@ -1,29 +1,23 @@
 /**
  * Affiliate Links — FanForged Travel Platform
  *
- * PRIMARY NETWORK: AWIN (ui.awin.com)
- * All major travel merchants (Booking.com, Hotels.com, GetYourGuide,
- * Rentalcars.com, etc.) are on AWIN. One Publisher ID covers all of them.
+ * Active affiliate programs:
  *
- * ─── HOW TO ACTIVATE ──────────────────────────────────────────────────────
- * 1. Find your Publisher ID:
- *    ui.awin.com → Account name (top-right) → Account details → Publisher ID
+ * AWIN (ui.awin.com) — Publisher ID: 2891535
+ *   Covers: Booking.com, Hotels.com, GetYourGuide, Rentalcars.com, Skyscanner
+ *   TODO: Join each advertiser program in AWIN dashboard → Advertiser Search
  *
- * 2. Set it below: replace YOUR_AWIN_ID with the 6-7 digit number
+ * VIATOR (partners.viator.com) — Partner ID: P00300735
+ *   Covers: Tours & experiences (300k+ globally, 8% commission)
+ *   TODO: Complete account verification at partners.viator.com → "Get verified"
  *
- * 3. Join these advertiser programs on AWIN (Publisher → Advertiser Search):
- *    - Booking.com       (search "Booking.com" — apply, usually auto-approved)
- *    - Hotels.com        (search "Hotels.com")
- *    - GetYourGuide      (search "GetYourGuide")
- *    - Rentalcars.com    (search "Rentalcars.com" or "KAYAK")
- *    - eSky / Skyscanner (search "Skyscanner")
+ * EXPEDIA GROUP (creator.expediagroup.com) — Travel Creator Program
+ *   Covers: Expedia.com, Hotels.com, Vrbo hotels
+ *   TODO: Add bank details at creator.expediagroup.com → "Add bank details"
+ *         Then get your tracking code from Creator Toolbox → Link Builder
+ *         Set EXPEDIA_TRACKING_CODE below once you have it
  *
- * 4. Once approved, links are live immediately — no other code change needed.
- *
- * AWIN deep link format:
- *   https://www.awin1.com/cread.php?awinmid=MERCHANT_ID&awinaffid=PUBLISHER_ID&ued=DESTINATION_URL
- *
- * Key merchant IDs (verify in AWIN dashboard under Advertiser Search):
+ * AWIN merchant IDs (verify in AWIN dashboard):
  *   Booking.com (US/Global) : 596
  *   Hotels.com              : 14758
  *   GetYourGuide            : 25146
@@ -31,10 +25,21 @@
  *   Skyscanner              : 1315
  */
 
-// AWIN Publisher ID — Fan Forged (ID: 2891535)
+// ─── Affiliate IDs ────────────────────────────────────────────────────────────
+
+// AWIN Publisher ID — Fan Forged
 const AWIN_ID = '2891535'
 
-// ─── AWIN Merchant IDs — verify in AWIN dashboard ────────────────────────────
+// Viator Partner ID — Fan Forged
+const VIATOR_ID = 'P00300735'
+// Viator channel ID (42383 = affiliate standard, don't change)
+const VIATOR_MCID = '42383'
+
+// TODO: Add bank details at creator.expediagroup.com, then get your tracking
+// code from Creator Toolbox → Link Builder and set it here.
+const EXPEDIA_TRACKING = 'YOUR_EXPEDIA_CODE'
+
+// ─── AWIN Merchant IDs ────────────────────────────────────────────────────────
 const MERCHANT = {
   BOOKING:      '596',
   HOTELS_COM:   '14758',
@@ -43,75 +48,87 @@ const MERCHANT = {
   SKYSCANNER:   '1315',
 }
 
-/**
- * Build an AWIN deep link.
- * @param merchantId - AWIN merchant ID
- * @param destinationUrl - The final URL the user lands on (will be encoded)
- */
+// ─── Link builders ────────────────────────────────────────────────────────────
+
+/** AWIN deep link — wraps any destination URL with publisher tracking */
 function awin(merchantId: string, destinationUrl: string): string {
-  const encoded = encodeURIComponent(destinationUrl)
-  return `https://www.awin1.com/cread.php?awinmid=${merchantId}&awinaffid=${AWIN_ID}&ued=${encoded}`
+  return `https://www.awin1.com/cread.php?awinmid=${merchantId}&awinaffid=${AWIN_ID}&ued=${encodeURIComponent(destinationUrl)}`
 }
 
-// ─── Types ───────────────────────────────────────────────────────────────────
+/**
+ * Viator city search link.
+ * Uses Viator's direct partner program (better rates than AWIN for experiences).
+ * mcid=42383 is the standard affiliate channel ID.
+ */
+function viator(cityName: string): string {
+  const query = encodeURIComponent(`${cityName} tours`)
+  return `https://www.viator.com/search/${encodeURIComponent(cityName)}/?pid=${VIATOR_ID}&mcid=${VIATOR_MCID}&medium=link&campaign=worldcup2026`
+}
+
+/**
+ * Expedia hotel search link.
+ * TODO: Replace YOUR_EXPEDIA_CODE once Expedia bank details are set up.
+ * Falls back to AWIN Booking.com link until then.
+ */
+function expedia(cityName: string, bookingFallback: string): string {
+  if (EXPEDIA_TRACKING === 'YOUR_EXPEDIA_CODE') {
+    // Fallback to Booking.com via AWIN until Expedia is set up
+    return awin(MERCHANT.BOOKING, bookingFallback)
+  }
+  return `https://www.expedia.com/${encodeURIComponent(cityName.replace(/ /g, '-'))}/Hotels?affcid=${EXPEDIA_TRACKING}&kw=worldcup2026`
+}
+
+// ─── Types ────────────────────────────────────────────────────────────────────
 
 export type AffiliateLinks = {
-  /** Booking.com hotel search URL for this city */
   hotelSearchUrl: string
-  /** Skyscanner flight search URL */
+  expediaUrl: string
   flightSearchUrl: string
-  /** Airport transfer search */
   transferUrl: string
-  /** Car rental comparison (Rentalcars.com) */
   carRentalUrl: string
-  /** Experiences and tours (GetYourGuide) */
-  experiencesUrl: string
-  /** Travel insurance */
+  experiencesUrl: string  // Viator
   insuranceUrl: string
-  /** eSIM for North America travel */
   esimUrl: string
-  /** Premium/concierge lead form */
   premiumTravelLeadUrl: string
 }
 
 // ─── Shared non-AWIN links ────────────────────────────────────────────────────
 
 const sharedLinks = {
-  // SafetyWing has its own affiliate program: safetywing.com/affiliate
-  // TODO: Replace YOUR_REF once signed up
-  insuranceUrl: 'https://safetywing.com/?referenceID=YOUR_REF',
-  // Airalo has its own program: airalo.com/affiliate
-  // TODO: Replace YOUR_REF once signed up
-  esimUrl: 'https://ref.airalo.com/YOUR_REF?aff=fanforged&package=usa-north-america',
+  insuranceUrl: 'https://safetywing.com/?referenceID=YOUR_REF', // TODO: safetywing.com/affiliate
+  esimUrl:      'https://ref.airalo.com/YOUR_REF?aff=fanforged&package=usa-north-america', // TODO: airalo.com/affiliate
   premiumTravelLeadUrl: '/premium-travel',
 }
 
-// ─── City-specific affiliate links ───────────────────────────────────────────
+// ─── City link factory ────────────────────────────────────────────────────────
 
-type CityLinks = Omit<AffiliateLinks, 'insuranceUrl' | 'esimUrl' | 'premiumTravelLeadUrl'>
+type CityDef = {
+  displayName: string       // e.g. "New York City" for Viator/Expedia searches
+  bookingSearch: string     // Booking.com search results page
+  skyscanner: string
+  rentalcars: string
+  transfer: string
+}
 
-function buildCityLinks(city: {
-  bookingSearch: string  // Booking.com search results URL (no tracking params)
-  skyscanner: string     // Skyscanner destination page URL
-  gyg: string            // GetYourGuide city page URL
-  rentalcars: string     // Rentalcars.com city URL
-  transfer: string       // Transfer/taxi search URL
-}): CityLinks {
+function buildCityLinks(c: CityDef): Omit<AffiliateLinks, 'insuranceUrl' | 'esimUrl' | 'premiumTravelLeadUrl'> {
   return {
-    hotelSearchUrl:  awin(MERCHANT.BOOKING,      city.bookingSearch),
-    flightSearchUrl: awin(MERCHANT.SKYSCANNER,   city.skyscanner),
-    experiencesUrl:  awin(MERCHANT.GETYOURGUIDE, city.gyg),
-    carRentalUrl:    awin(MERCHANT.RENTALCARS,   city.rentalcars),
-    transferUrl:     city.transfer, // GetTransfer has its own program — placeholder for now
+    hotelSearchUrl:  awin(MERCHANT.BOOKING,    c.bookingSearch),
+    expediaUrl:      expedia(c.displayName,    c.bookingSearch),
+    flightSearchUrl: awin(MERCHANT.SKYSCANNER, c.skyscanner),
+    carRentalUrl:    awin(MERCHANT.RENTALCARS, c.rentalcars),
+    experiencesUrl:  viator(c.displayName),
+    transferUrl:     c.transfer,
   }
 }
+
+// ─── Per-city data ────────────────────────────────────────────────────────────
 
 const cityAffiliateLinks: Record<string, AffiliateLinks> = {
   'new-york': {
     ...buildCityLinks({
+      displayName:   'New York City',
       bookingSearch: 'https://www.booking.com/searchresults.html?ss=New+York+City&checkin=2026-06-11&checkout=2026-07-20',
       skyscanner:    'https://www.skyscanner.com/flights-to/nyca/cheap-flights-to-new-york.html',
-      gyg:           'https://www.getyourguide.com/new-york-city-l59/',
       rentalcars:    'https://www.rentalcars.com/en/city/us/new-york/',
       transfer:      'https://www.gettransfer.com/en/city/new-york?ref=fanforged',
     }),
@@ -119,9 +136,9 @@ const cityAffiliateLinks: Record<string, AffiliateLinks> = {
   },
   'los-angeles': {
     ...buildCityLinks({
+      displayName:   'Los Angeles',
       bookingSearch: 'https://www.booking.com/searchresults.html?ss=Los+Angeles&checkin=2026-06-11&checkout=2026-07-20',
       skyscanner:    'https://www.skyscanner.com/flights-to/lax/cheap-flights-to-los-angeles.html',
-      gyg:           'https://www.getyourguide.com/los-angeles-l32/',
       rentalcars:    'https://www.rentalcars.com/en/city/us/los-angeles/',
       transfer:      'https://www.gettransfer.com/en/city/los-angeles?ref=fanforged',
     }),
@@ -129,9 +146,9 @@ const cityAffiliateLinks: Record<string, AffiliateLinks> = {
   },
   'miami': {
     ...buildCityLinks({
+      displayName:   'Miami',
       bookingSearch: 'https://www.booking.com/searchresults.html?ss=Miami%2C+Florida&checkin=2026-06-11&checkout=2026-07-20',
       skyscanner:    'https://www.skyscanner.com/flights-to/mia/cheap-flights-to-miami.html',
-      gyg:           'https://www.getyourguide.com/miami-l91/',
       rentalcars:    'https://www.rentalcars.com/en/city/us/miami/',
       transfer:      'https://www.gettransfer.com/en/city/miami?ref=fanforged',
     }),
@@ -139,9 +156,9 @@ const cityAffiliateLinks: Record<string, AffiliateLinks> = {
   },
   'dallas': {
     ...buildCityLinks({
+      displayName:   'Dallas',
       bookingSearch: 'https://www.booking.com/searchresults.html?ss=Dallas%2C+Texas&checkin=2026-06-11&checkout=2026-07-20',
       skyscanner:    'https://www.skyscanner.com/flights-to/dfw/cheap-flights-to-dallas.html',
-      gyg:           'https://www.getyourguide.com/dallas-l97/',
       rentalcars:    'https://www.rentalcars.com/en/city/us/dallas/',
       transfer:      'https://www.gettransfer.com/en/city/dallas?ref=fanforged',
     }),
@@ -149,9 +166,9 @@ const cityAffiliateLinks: Record<string, AffiliateLinks> = {
   },
   'houston': {
     ...buildCityLinks({
+      displayName:   'Houston',
       bookingSearch: 'https://www.booking.com/searchresults.html?ss=Houston%2C+Texas&checkin=2026-06-11&checkout=2026-07-20',
       skyscanner:    'https://www.skyscanner.com/flights-to/hou/cheap-flights-to-houston.html',
-      gyg:           'https://www.getyourguide.com/houston-l96/',
       rentalcars:    'https://www.rentalcars.com/en/city/us/houston/',
       transfer:      'https://www.gettransfer.com/en/city/houston?ref=fanforged',
     }),
@@ -159,9 +176,9 @@ const cityAffiliateLinks: Record<string, AffiliateLinks> = {
   },
   'atlanta': {
     ...buildCityLinks({
+      displayName:   'Atlanta',
       bookingSearch: 'https://www.booking.com/searchresults.html?ss=Atlanta%2C+Georgia&checkin=2026-06-11&checkout=2026-07-20',
       skyscanner:    'https://www.skyscanner.com/flights-to/atl/cheap-flights-to-atlanta.html',
-      gyg:           'https://www.getyourguide.com/atlanta-l99/',
       rentalcars:    'https://www.rentalcars.com/en/city/us/atlanta/',
       transfer:      'https://www.gettransfer.com/en/city/atlanta?ref=fanforged',
     }),
@@ -169,9 +186,9 @@ const cityAffiliateLinks: Record<string, AffiliateLinks> = {
   },
   'kansas-city': {
     ...buildCityLinks({
+      displayName:   'Kansas City',
       bookingSearch: 'https://www.booking.com/searchresults.html?ss=Kansas+City%2C+Missouri&checkin=2026-06-11&checkout=2026-07-20',
       skyscanner:    'https://www.skyscanner.com/flights-to/mci/cheap-flights-to-kansas-city.html',
-      gyg:           'https://www.getyourguide.com/kansas-city-l100/',
       rentalcars:    'https://www.rentalcars.com/en/city/us/kansas-city/',
       transfer:      'https://www.gettransfer.com/en/city/kansas-city?ref=fanforged',
     }),
@@ -179,9 +196,9 @@ const cityAffiliateLinks: Record<string, AffiliateLinks> = {
   },
   'philadelphia': {
     ...buildCityLinks({
+      displayName:   'Philadelphia',
       bookingSearch: 'https://www.booking.com/searchresults.html?ss=Philadelphia%2C+Pennsylvania&checkin=2026-06-11&checkout=2026-07-20',
       skyscanner:    'https://www.skyscanner.com/flights-to/phl/cheap-flights-to-philadelphia.html',
-      gyg:           'https://www.getyourguide.com/philadelphia-l130/',
       rentalcars:    'https://www.rentalcars.com/en/city/us/philadelphia/',
       transfer:      'https://www.gettransfer.com/en/city/philadelphia?ref=fanforged',
     }),
@@ -189,9 +206,9 @@ const cityAffiliateLinks: Record<string, AffiliateLinks> = {
   },
   'seattle': {
     ...buildCityLinks({
+      displayName:   'Seattle',
       bookingSearch: 'https://www.booking.com/searchresults.html?ss=Seattle%2C+Washington&checkin=2026-06-11&checkout=2026-07-20',
       skyscanner:    'https://www.skyscanner.com/flights-to/sea/cheap-flights-to-seattle.html',
-      gyg:           'https://www.getyourguide.com/seattle-l137/',
       rentalcars:    'https://www.rentalcars.com/en/city/us/seattle/',
       transfer:      'https://www.gettransfer.com/en/city/seattle?ref=fanforged',
     }),
@@ -199,9 +216,9 @@ const cityAffiliateLinks: Record<string, AffiliateLinks> = {
   },
   'san-francisco': {
     ...buildCityLinks({
+      displayName:   'San Francisco',
       bookingSearch: 'https://www.booking.com/searchresults.html?ss=San+Francisco%2C+California&checkin=2026-06-11&checkout=2026-07-20',
       skyscanner:    'https://www.skyscanner.com/flights-to/sfo/cheap-flights-to-san-francisco.html',
-      gyg:           'https://www.getyourguide.com/san-francisco-l61/',
       rentalcars:    'https://www.rentalcars.com/en/city/us/san-francisco/',
       transfer:      'https://www.gettransfer.com/en/city/san-francisco?ref=fanforged',
     }),
@@ -209,9 +226,9 @@ const cityAffiliateLinks: Record<string, AffiliateLinks> = {
   },
   'boston': {
     ...buildCityLinks({
+      displayName:   'Boston',
       bookingSearch: 'https://www.booking.com/searchresults.html?ss=Boston%2C+Massachusetts&checkin=2026-06-11&checkout=2026-07-20',
       skyscanner:    'https://www.skyscanner.com/flights-to/bos/cheap-flights-to-boston.html',
-      gyg:           'https://www.getyourguide.com/boston-l63/',
       rentalcars:    'https://www.rentalcars.com/en/city/us/boston/',
       transfer:      'https://www.gettransfer.com/en/city/boston?ref=fanforged',
     }),
@@ -219,9 +236,9 @@ const cityAffiliateLinks: Record<string, AffiliateLinks> = {
   },
   'toronto': {
     ...buildCityLinks({
+      displayName:   'Toronto',
       bookingSearch: 'https://www.booking.com/searchresults.html?ss=Toronto%2C+Ontario&checkin=2026-06-11&checkout=2026-07-20',
       skyscanner:    'https://www.skyscanner.com/flights-to/yyz/cheap-flights-to-toronto.html',
-      gyg:           'https://www.getyourguide.com/toronto-l96/',
       rentalcars:    'https://www.rentalcars.com/en/city/ca/toronto/',
       transfer:      'https://www.gettransfer.com/en/city/toronto?ref=fanforged',
     }),
@@ -229,9 +246,9 @@ const cityAffiliateLinks: Record<string, AffiliateLinks> = {
   },
   'vancouver': {
     ...buildCityLinks({
+      displayName:   'Vancouver',
       bookingSearch: 'https://www.booking.com/searchresults.html?ss=Vancouver%2C+British+Columbia&checkin=2026-06-11&checkout=2026-07-20',
       skyscanner:    'https://www.skyscanner.com/flights-to/yvr/cheap-flights-to-vancouver.html',
-      gyg:           'https://www.getyourguide.com/vancouver-l97/',
       rentalcars:    'https://www.rentalcars.com/en/city/ca/vancouver/',
       transfer:      'https://www.gettransfer.com/en/city/vancouver?ref=fanforged',
     }),
@@ -239,9 +256,9 @@ const cityAffiliateLinks: Record<string, AffiliateLinks> = {
   },
   'montreal': {
     ...buildCityLinks({
+      displayName:   'Montreal',
       bookingSearch: 'https://www.booking.com/searchresults.html?ss=Montreal%2C+Quebec&checkin=2026-06-11&checkout=2026-07-20',
       skyscanner:    'https://www.skyscanner.com/flights-to/yul/cheap-flights-to-montreal.html',
-      gyg:           'https://www.getyourguide.com/montreal-l58/',
       rentalcars:    'https://www.rentalcars.com/en/city/ca/montreal/',
       transfer:      'https://www.gettransfer.com/en/city/montreal?ref=fanforged',
     }),
@@ -249,9 +266,9 @@ const cityAffiliateLinks: Record<string, AffiliateLinks> = {
   },
   'mexico-city': {
     ...buildCityLinks({
+      displayName:   'Mexico City',
       bookingSearch: 'https://www.booking.com/searchresults.html?ss=Mexico+City&checkin=2026-06-11&checkout=2026-07-20',
       skyscanner:    'https://www.skyscanner.com/flights-to/mex/cheap-flights-to-mexico-city.html',
-      gyg:           'https://www.getyourguide.com/mexico-city-l96/',
       rentalcars:    'https://www.rentalcars.com/en/city/mx/mexico-city/',
       transfer:      'https://www.gettransfer.com/en/city/mexico-city?ref=fanforged',
     }),
@@ -259,9 +276,9 @@ const cityAffiliateLinks: Record<string, AffiliateLinks> = {
   },
   'guadalajara': {
     ...buildCityLinks({
+      displayName:   'Guadalajara',
       bookingSearch: 'https://www.booking.com/searchresults.html?ss=Guadalajara%2C+Mexico&checkin=2026-06-11&checkout=2026-07-20',
       skyscanner:    'https://www.skyscanner.com/flights-to/gdl/cheap-flights-to-guadalajara.html',
-      gyg:           'https://www.getyourguide.com/guadalajara-l97/',
       rentalcars:    'https://www.rentalcars.com/en/city/mx/guadalajara/',
       transfer:      'https://www.gettransfer.com/en/city/guadalajara?ref=fanforged',
     }),
@@ -269,9 +286,9 @@ const cityAffiliateLinks: Record<string, AffiliateLinks> = {
   },
   'monterrey': {
     ...buildCityLinks({
+      displayName:   'Monterrey',
       bookingSearch: 'https://www.booking.com/searchresults.html?ss=Monterrey%2C+Mexico&checkin=2026-06-11&checkout=2026-07-20',
       skyscanner:    'https://www.skyscanner.com/flights-to/mty/cheap-flights-to-monterrey.html',
-      gyg:           'https://www.getyourguide.com/monterrey-l98/',
       rentalcars:    'https://www.rentalcars.com/en/city/mx/monterrey/',
       transfer:      'https://www.gettransfer.com/en/city/monterrey?ref=fanforged',
     }),
@@ -283,10 +300,11 @@ const cityAffiliateLinks: Record<string, AffiliateLinks> = {
 export function getAffiliateLinks(citySlug: string): AffiliateLinks {
   return (
     cityAffiliateLinks[citySlug] ?? {
-      hotelSearchUrl:  awin(MERCHANT.BOOKING,      `https://www.booking.com/searchresults.html?ss=${encodeURIComponent(citySlug)}`),
-      flightSearchUrl: awin(MERCHANT.SKYSCANNER,   'https://www.skyscanner.com'),
-      experiencesUrl:  awin(MERCHANT.GETYOURGUIDE, 'https://www.getyourguide.com'),
-      carRentalUrl:    awin(MERCHANT.RENTALCARS,   'https://www.rentalcars.com'),
+      hotelSearchUrl:  awin(MERCHANT.BOOKING,    `https://www.booking.com/searchresults.html?ss=${encodeURIComponent(citySlug)}`),
+      expediaUrl:      expedia(citySlug,          `https://www.booking.com/searchresults.html?ss=${encodeURIComponent(citySlug)}`),
+      flightSearchUrl: awin(MERCHANT.SKYSCANNER, 'https://www.skyscanner.com'),
+      carRentalUrl:    awin(MERCHANT.RENTALCARS, 'https://www.rentalcars.com'),
+      experiencesUrl:  viator(citySlug),
       transferUrl:     'https://www.gettransfer.com?ref=fanforged',
       ...sharedLinks,
     }
