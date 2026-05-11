@@ -93,6 +93,13 @@ export default function Footer() {
                 </Link>
               </li>
             </ul>
+            <h3 className="text-white font-semibold text-sm mb-2 mt-6">Contact</h3>
+            <a
+              href="mailto:hello@fanforged.fans"
+              className="text-gray-400 hover:text-white text-sm transition-colors"
+            >
+              hello@fanforged.fans
+            </a>
           </div>
         </div>
 
