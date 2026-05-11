@@ -28,14 +28,17 @@ export default function Header() {
 
           {/* Desktop Nav */}
           <nav className="hidden md:flex items-center gap-6">
-            <Link href="/matches" className="text-gray-300 hover:text-white text-sm font-medium transition-colors">
-              Matches
+            <Link href="/cities" className="text-gray-300 hover:text-white text-sm font-medium transition-colors">
+              Cities
             </Link>
             <Link href="/watch-parties" className="text-gray-300 hover:text-white text-sm font-medium transition-colors">
               Watch Parties
             </Link>
-            <Link href="/cities" className="text-gray-300 hover:text-white text-sm font-medium transition-colors">
-              City Guides
+            <Link href="/hotels" className="text-gray-300 hover:text-white text-sm font-medium transition-colors">
+              Hotels
+            </Link>
+            <Link href="/matches" className="text-gray-300 hover:text-white text-sm font-medium transition-colors">
+              Matches
             </Link>
             <Link href="/blog" className="text-gray-300 hover:text-white text-sm font-medium transition-colors">
               Blog
@@ -67,14 +70,17 @@ export default function Header() {
         {/* Mobile Menu */}
         {menuOpen && (
           <div className="md:hidden border-t border-gray-800 py-4 space-y-3">
-            <Link href="/matches" className="block text-gray-300 hover:text-white text-sm font-medium py-2">
-              Matches
+            <Link href="/cities" className="block text-gray-300 hover:text-white text-sm font-medium py-2">
+              Cities
             </Link>
             <Link href="/watch-parties" className="block text-gray-300 hover:text-white text-sm font-medium py-2">
               Watch Parties
             </Link>
-            <Link href="/cities" className="block text-gray-300 hover:text-white text-sm font-medium py-2">
-              City Guides
+            <Link href="/hotels" className="block text-gray-300 hover:text-white text-sm font-medium py-2">
+              Hotels
+            </Link>
+            <Link href="/matches" className="block text-gray-300 hover:text-white text-sm font-medium py-2">
+              Matches
             </Link>
             <Link href="/blog" className="block text-gray-300 hover:text-white text-sm font-medium py-2">
               Blog

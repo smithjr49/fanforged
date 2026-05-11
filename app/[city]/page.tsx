@@ -838,6 +838,46 @@ export default async function CityPage({ params }: { params: Promise<{ city: str
             </section>
           )}
 
+          {/* ── Plan Your Trip module ── */}
+          <div className="rounded-2xl border border-gray-800 bg-gray-900/50 p-5 sm:p-6">
+            <h3 className="text-white font-bold text-base sm:text-lg mb-1">🗺️ Plan Your Trip to {city.name}</h3>
+            <p className="text-gray-500 text-xs sm:text-sm mb-4">Hotels, flights, transfers, and experiences — all in one place.</p>
+            <div className="grid grid-cols-2 sm:grid-cols-4 gap-2 sm:gap-3">
+              <Link
+                href={`/hotels/${slug}`}
+                className="group bg-gray-900 border border-gray-800 hover:border-yellow-400/50 rounded-xl p-3 text-center transition-all"
+              >
+                <div className="text-xl mb-1">🏨</div>
+                <p className="text-white text-xs font-semibold group-hover:text-yellow-400 transition-colors">Hotels</p>
+                <p className="text-gray-600 text-[10px] mt-0.5">Best areas to stay</p>
+              </Link>
+              <Link
+                href="/premium-travel"
+                className="group bg-gray-900 border border-gray-800 hover:border-yellow-400/50 rounded-xl p-3 text-center transition-all"
+              >
+                <div className="text-xl mb-1">🎟️</div>
+                <p className="text-white text-xs font-semibold group-hover:text-yellow-400 transition-colors">Experiences</p>
+                <p className="text-gray-600 text-[10px] mt-0.5">Tours & activities</p>
+              </Link>
+              <Link
+                href="/premium-travel"
+                className="group bg-gray-900 border border-gray-800 hover:border-yellow-400/50 rounded-xl p-3 text-center transition-all"
+              >
+                <div className="text-xl mb-1">🚖</div>
+                <p className="text-white text-xs font-semibold group-hover:text-yellow-400 transition-colors">Transfers</p>
+                <p className="text-gray-600 text-[10px] mt-0.5">Airport & stadium</p>
+              </Link>
+              <Link
+                href={`/${slug}/watch-parties`}
+                className="group bg-gray-900 border border-gray-800 hover:border-yellow-400/50 rounded-xl p-3 text-center transition-all"
+              >
+                <div className="text-xl mb-1">🍺</div>
+                <p className="text-white text-xs font-semibold group-hover:text-yellow-400 transition-colors">Watch Parties</p>
+                <p className="text-gray-600 text-[10px] mt-0.5">Where fans watch</p>
+              </Link>
+            </div>
+          </div>
+
           {/* City alert email capture */}
           <CityAlertSignup defaultCity={slug} />
 
