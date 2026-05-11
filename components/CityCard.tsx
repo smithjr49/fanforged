@@ -7,8 +7,9 @@ type Props = {
 }
 
 export default function CityCard({ city, partyCount }: Props) {
+  const href = city.kind === 'fan_hub' ? `/cities/${city.slug}` : `/${city.slug}`
   return (
-    <Link href={`/${city.slug}`} className="group block">
+    <Link href={href} className="group block">
       {/* Mobile: compact list-style row. Desktop: taller card. */}
       <div className={`relative bg-gradient-to-br ${city.heroColor} rounded-xl overflow-hidden transition-all duration-200 group-hover:shadow-lg group-hover:shadow-black/30
         h-[88px] sm:h-44
