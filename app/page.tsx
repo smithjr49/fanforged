@@ -92,7 +92,7 @@ export default function HomePage() {
               Find Watch Parties
             </Link>
             <Link
-              href="#cities"
+              href="/cities"
               className="bg-white/10 hover:bg-white/20 text-white font-semibold px-6 py-3 rounded-xl text-base transition-colors border border-white/20"
             >
               Browse City Guides

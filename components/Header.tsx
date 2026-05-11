@@ -34,7 +34,7 @@ export default function Header() {
             <Link href="/watch-parties" className="text-gray-300 hover:text-white text-sm font-medium transition-colors">
               Watch Parties
             </Link>
-            <Link href="/#cities" className="text-gray-300 hover:text-white text-sm font-medium transition-colors">
+            <Link href="/cities" className="text-gray-300 hover:text-white text-sm font-medium transition-colors">
               City Guides
             </Link>
             <Link href="/blog" className="text-gray-300 hover:text-white text-sm font-medium transition-colors">
@@ -73,7 +73,7 @@ export default function Header() {
             <Link href="/watch-parties" className="block text-gray-300 hover:text-white text-sm font-medium py-2">
               Watch Parties
             </Link>
-            <Link href="/#cities" className="block text-gray-300 hover:text-white text-sm font-medium py-2">
+            <Link href="/cities" className="block text-gray-300 hover:text-white text-sm font-medium py-2">
               City Guides
             </Link>
             <Link href="/blog" className="block text-gray-300 hover:text-white text-sm font-medium py-2">
